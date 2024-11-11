@@ -1,0 +1,1440 @@
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Diagonalization Solvers for Electronic Collective Phenomena in Nanoscience
+Dr. Gonzalo Alvarez‐Campot, Research and Development Staff Scientist
+Center for Nanophase Materials Sciences
+Computer Science and Mathematics Division
+Oak Ridge National Laboratory
+Oak Ridge, TN 37831
+This project aims to advance theoretical modeling capabilities to understand collective
+phenomena at the nanoscale in strongly correlated electronic materials, including Mott insulators and
+high temperature superconductors, through the use of the density matrix renormalization group
+(DMRG). Studies will focus on (1) the time‐dependent electron transport in Mott insulators (e.g., copper
+oxides), particularly on nano‐patterned structures; (2) the temperature dependence of the collective
+orders, including charge, spin and orbital orders, of superconductors and correlation with critical
+temperature; and (3) combining dynamical mean‐field theory with DMRG to study emergent
+phenomena at the nanoscale and nanoscale inhomogeneities in high‐temperature superconductors.
+Fundamental understanding of both the correlated behavior of conduction electrons and the interaction
+between electrons and lattices in these materials, in which the "standard one‐electron model" of metals
+breaks down, can provide insights for the development of new materials and structures with enhanced
+functionality for solar cells, solid‐state lighting, and superconductor power transmission. Computer
+codes will be made accessible to the scientific community as part of the user‐driven program at the
+Center for Nanophase Materials Sciences.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+1
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Templated Bottom‐Up Synthesis of Semiconducting and Nanostructured Graphene Materials
+Dr. Michael Arnold, Assistant Professor
+Department of Materials Science and Engineering
+University of Wisconsin
+Madison, WI 53706
+The objective of this project is to develop a fundamental understanding of how nanostructured
+graphene materials can be rationally synthesized from the bottom up with atomic precision and
+exceptional properties. The research will focus on studying the nucleation and kinetics of graphene
+growth in confined patterns and channels, controlling the crystallinity of the graphene materials, and
+learning the mechanisms that determine the atomic ordering at their edges. The understanding that is
+gained will result in novel high‐performance materials that could impact a number of energy
+technologies of national importance including low‐energy semiconductor electronics, the efficient
+generation of electricity from solar and infrared light, and the high‐density storage of energy in
+batteries.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+2
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Spatially Resolved Ionic Diffusion and Electrochemical Reactions in Solids: A Biased View at Lithium
+Ion Batteries
+Dr. Nina Balke, Associate Research Staff Member
+Imaging Functionality Group
+Center for Nanophase Materials Sciences
+Physical Sciences Directorate
+Oak Ridge National Laboratory
+Oak Ridge, TN 37831
+The overarching goal of this project is to understand the ionic diffusion and electrochemical
+reactions in Lithium‐ion batteries from the length scale of single microstructural elements to the
+macroscopic device level. A novel Electrochemical Strain Microscopy (ESM) probe with 100 fold better
+resolution than other probes will be used along with electrical and structural battery characterization
+techniques for macroscopic devices in combination with advanced theoretical modeling. The research
+will shine light on the complex interplay of ionic and electronic transport in battery materials and their
+correlation with the structural material properties. This will result in new tools to characterize energy
+storage materials and enhance the fundamental understanding of the nanoscale processes that define a
+battery.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+3
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+In situ Measurements of Heterogeneous Reactions on Ambient Aerosol Particles: Impacts on
+Atmospheric Chemistry and Climate
+Dr. Timothy Bertram, Assistant Professor
+Department of Chemistry and Biochemistry
+University of California, San Diego
+La Jolla, CA 92093
+Heterogeneous reactions, occurring between gases and aerosol particles, alter the climate‐
+relevant properties of aerosols and catalyze reaction processes that are energetically unfavorable in the
+gas phase. The objective of this project is to identify the mechanistic drivers that control the variability
+in heterogeneous aerosol processes through direct in situ measurement of reaction kinetics on ambient
+aerosol particles. The heterogeneous reactivity of complex, ambient aerosol particles will be
+investigated to determine: (1) how laboratory investigations of heterogeneous processes conducted on
+model, simple systems represent the real atmosphere, (2) the impact of heterogeneous processes on
+ambient particle hygroscopicity and optical properties, and (3) the uptake kinetics for a host of
+atmospheric trace gases as a function of particle composition and phase. The results of these
+investigations will be used to directly improve the representation of heterogeneous processes in global
+climate models.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+4
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Towards Predictive Simulations of Soot Formation: From Surrogate to Turbulence
+Dr. Guillaume Blanquart, Assistant Professor
+Mechanical Engineering Department
+California Institute of Technology
+Pasadena, CA 91125
+The aim of this project is to fill the gap in the present understanding and modeling of soot
+formation both in laminar and turbulent flames. The project focuses on the combustion of surrogate
+fuels comprised of several chemical species in contrast to current single‐species models. A current state‐
+of‐the‐art chemical model will be extended with additional components often found in surrogates. The
+inner structure of soot particles will be investigated as a means to gain insight into soot inception,
+growth, and oxidation via the development of a nested hierarchy approach combining Quantum
+Chemistry, Molecular Dynamics, and Monte Carlo simulations. The newly improved chemical and soot
+models will be incorporated in Direct Numerical Simulations of turbulent sooting flames and validated in
+turbulent jet diffusion flames. The outcome is expected to be a major leap in the development of
+predictive models for the combustion of transportation fuels, the formation/oxidation of soot, and Large
+Eddy Simulations. The impact of the research goes far beyond soot formation. It is relevant to the
+formation of all other nanoparticles (SiO , TiO , and AlO ) as well as other slowly evolving processes in
+2 2 3
+turbulent flows (CO, NO ).
+x
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+5
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Energetics of Radiation Tolerant Nanoceramics
+Dr. Ricardo Castro, Assistant Professor
+Department of Chemical Engineering and Materials Science
+University of California, Davis
+Davis, CA 95616
+Nanostructured materials are likely to play a large role in future nuclear reactors and radioactive
+waste storage due to their strength and potential resistance to structural damage from radiation.
+However, this potential is hindered by significant gaps in the understanding of interfaces’ properties and
+their role in the overall performance of the nanocrystalline structures. The lack of reliable
+thermodynamical data of nanomaterials makes it extremely difficult to predict and fully exploit
+nanomaterials’ properties in high‐radiation environments, which is one reason the stability of the
+nanomaterials is still a big unresolved question. The goal of this project is to investigate two nano‐scale
+materials [the aluminate based spinels (MAl O , M = Mg, Ni, or Zn), and zirconia based materials (ZrO
+2 4 2
+doped with Mg, Y, or Ca)], and establish the link between composition, interface thermodynamics, and
+radiation resistance to enable a better understanding of the nature of enhanced performance in
+nanocrystalline ceramics. Thereafter, we will exploit the achieved knowledge as a foundation to design a
+new nanocomposite ceramic capable of withstanding high radiation exposition by using elements of
+interface engineering on a thermodynamic basis.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+6
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Rigid Biopolymer Nanocrystal Systems for Controlling Multicomponent Nanoparticle Assembly and
+Orientation in Thin Film Solar Cells
+Dr. Jennifer Cha, Assistant Professor
+Department of NanoEngineering
+University of California, San Diego
+La Jolla, CA 92093
+This project seeks to direct the assembly of nanoparticles into three‐dimensional crystals of any
+desired configuration and crystallographic orientation using tunable DNA interactions. Despite the
+wealth of nanoscale materials that may benefit many current and future solid state technologies,
+difficulties in controlling and directing their placement and orientation into desired architectures has led
+to significant impediments in their applicability. Biological systems can form such structures using their
+inherent molecular information as guides to assemble organic and inorganic materials into highly
+organized structures ordered at multiple length scales. Using bio‐inspired strategies, the research will
+control the two‐ and three‐dimensional arrangement of semiconductor nanocrystals into a seed layer
+that can nucleate successive layers of single nanocrystals with long‐range order and tunable
+crystallographic orientations. This work will elucidate how particle‐DNA interactions influence
+nanoparticle crystallographic orientation, how nanoparticles on patterned arrays of biomolecules can
+nucleate long‐range order, and how to synthesize 2‐ and 3‐D superlattice arrays of DNA conjugated
+semiconductor nanocrystals.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+7
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Prediction of Thermal Transport Properties of Materials with Microstructural Complexity
+Dr. Youping Chen, Assistant Professor
+Department of Mechanical and Aerospace Engineering
+University of Florida
+Gainesville, FL 32611
+This project will focus on overcoming the major obstacle standing in the way of progress in
+dynamic multiscale simulation, the lack of a concurrent multiscale method that allows elastic waves,
+heat and defects to pass through the atomistic‐continuum interface. This project aims to (1) establish a
+concurrently coupled atomistic‐continuum methodology that can overcome this obstacle and that can
+be used to design and optimize materials with microstructural complexity for desired properties and (2)
+demonstrate the methodology through predicting the mechanical and thermal transport properties of
+thermoelectric materials and comparing the predictions with experimental measurements.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+8
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Search for Holographic Noise from the Planck Scale
+Dr. Aaron Chou, Associate Scientist and Wilson Fellow
+Experimental Particle Physics
+Particle Physics Division
+Fermi National Accelerator Laboratory
+Batavia, IL 60510
+This grant will enable the construction and operation of the Fermilab Holometer, the world’s
+most sensitive microscope for detecting tiny spatial position jitter, correlated between neighboring
+objects. The holometer is a new, modest‐scale double Michelson interferometer device, optimized to
+isolate and measure a recently predicted position noise spectrum arising from a Planck scale information
+bound implied by the holographic principle in black hole thermodynamics. Very few probes of quantum
+effects at the Planck scale are known, and the present search for holographic noise represents one of
+the most cost effective ways to probe this extremely high energy scale. Should the holometer
+successfully detect the predicted noise spectrum, this detection will represent a first glimpse of the
+microphysics controlling the fundamental structure of space and time. The nature of this new physics
+can be elucidated with reconfigurations of the holometer and eventually with more elaborate future
+devices. If no exotic noise is detected, even at levels well below the predicted magnitude, a set of
+theoretical ideas of Planck scale information encoding will have been put to rest. In either case, the
+holometer represents a rare and valuable probe of Planck scale microphysics and may answer some
+profound questions about our possibly holographic reality.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+9
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Natural and Primary Catalysts for Molten Cellulose Pyrolysis to Targeted Bio‐oils
+Dr. Paul Dauenhauer, Assistant Professor
+Department of Chemical Engineering
+University of Massachusetts Amherst
+Amherst, MA 01003
+The use of lignocellulosic biomass as an alternative reduced‐carbon feedstock processed within
+high temperature thermo‐chemical catalytic reactors is hindered by a limited fundamental
+understanding of the role of catalysts that naturally exist within biomass. The natural catalysts of
+biomass including the inorganic ions necessary for biological function as well as the oxides obtained
+from soils have been shown to exhibit significant influence during pyrolysis. The objective of this
+research is to study the catalytic chemistry of naturally occurring inorganic materials within high‐
+temperature molten carbohydrates to understand their effect on the selection of volatile organics and
+gases produced during pyrolysis. The role of inorganic catalysts on biopolymer decomposition within
+the high temperature (> 400 °C), intermediate condensed phase will be interpreted through a targeted
+study of specific molten carbohydrate reactions including ether hydrolysis, retro‐aldol condensation,
+and dehydration, which select for the competing catalytic pathways of product formation. The reaction
+intermediates and oxidation state of natural catalysts within the molten liquid will be characterized with
+the use of a new experimental liquid sampling technique capable of extracting and quenching molten
+carbohydrate/catalyst mixtures.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+10
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Taus and the Trigger for Discovery at ATLAS
+Dr. Sarah Demers, Assistant Professor
+Department of Physics
+Yale University
+New Haven, CT 06520
+The Large Hadron Collider (LHC) at CERN brings a new energy frontier to collider physics with
+exciting opportunities for discovery. This work focuses on the search for the Higgs boson in the ATLAS
+(A Toroidal LHC ApparatuS) experiment and takes advantage of the channels with an enhanced coupling
+of Higgs to tau leptons. Tau leptons, as members of the least‐explored 3rd generation and as the most
+massive leptons, play an important role in many new physics searches. The discovery of the Standard
+Model (SM) Higgs boson, the supersymmetric charged and neutral Higgs bosons, a theorized Z’ boson,
+or a heavy 4th generation neutrino can depend primarily on decays involving tau leptons in many
+possible scenarios where the coupling of the new physics to tau leptons is enhanced over couplings to
+electrons and muons. This work will optimize the reach of the ATLAS experiment toward discovering
+new physics by taking full advantage of event signatures with hadronically decaying tau leptons and
+maximizing the efficiency of the tau lepton trigger.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+11
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+In‐Situ TEM Observations of Degradation Mechanisms in Next‐Generation High‐Energy Density
+Lithium‐Ion Battery Systems
+Dr. Shen Dillon, Assistant Professor
+Department of Materials Science and Engineering
+University of Illinois at Urbana‐Champaign
+Champaign, IL 61820
+This project seeks to characterize nanoscale processes associated with the degradation of next‐
+generation high energy density lithium‐ion battery electrodes via in‐situ transmission electron
+microscopy. Dynamic processes active in the electrodes, electrolyte, and intervening interfaces, which
+are chemical, electrical, and mechanical in nature, have been correlated with capacity fade in lithium ion
+batteries. However, without direct in‐situ observation of these degradation mechanisms with high
+spatial and temporal resolution, it remains difficult to understand and predict how these processes
+initiate, propagate, and interact. This research will develop the experimental techniques necessary for
+investigating electrochemical systems by in‐situ transmission electron microscopy and will provide a
+framework for distinguishing and limiting electron‐beam effects that could potentially influence
+experimental results. This project aims to develop a fundamental understanding of degradation
+mechanisms in representative environmental conditions using commercial electrolytes and electrode
+designs that mimic commercial electrodes and in idealized solid‐state batteries that will enable in‐situ
+atomic‐resolution imaging.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+12
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Electronic and Ionic Conductors from Ordered Microporous Materials
+Dr. Mircea Dinca, Assistant Professor
+Department of Chemistry
+Massachusetts Institute of Technology
+Cambridge, MA 02139
+This project aims to develop rational pathways towards the synthesis of ordered microporous
+materials with tunable electron and ion transport properties. Two convergent approaches will be used.
+In one, research will be carried out to modulate the electronic structure of nonconductive but highly
+porous metal‐organic frameworks (MOFs). By combining the synthesis of electronically active bridging
+ligands with rigorous topological design principles, a cluster‐directed approach towards porous and
+conductive MOFs will be developed. In the same context, new topochemical ion metathesis reactions
+are proposed for the synthesis of MOF‐based lithium and sodium ion conductors. The new MOF‐derived
+materials will display unique, tunable multifunctional properties with potential impact in electrical
+energy storage, electrocatalysis, and ionic conductors, among others.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+13
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+An Enabling Computational Framework for Uncertainty Assimilation and Propagation in Complex PDE
+Systems: Sparse and Low‐Rank Techniques
+Dr. Alireza Doostan, Assistant Professor
+Department of Aerospace Engineering Sciences
+University of Colorado
+Boulder, CO 80309
+This project aims to develop a set of new theories, algorithms, and computational tools that
+enable ultra‐scalable representation and propagation of high‐dimensional uncertainties to circumvent
+the issue of curse‐of‐dimensionality. The research components are motivated by the fact that highly
+scalable algorithms are needed to achieve exascale performance for uncertainty quantification and
+predictive simulation at extreme scales. Although these developments are generic and applicable to a
+wide range of high‐dimensional, complex, stochastic, partial‐differential‐equation (PDE) systems, this
+research effort will focus on predictive simulation of high‐energy‐density lithium batteries. To create
+knowledge about the precise failure mechanisms of these batteries and ultimately predict their
+performance and reliability, a truly data‐driven, multi‐scale, multi‐physics framework is needed that
+allows studying (i) dominant sources of uncertainty in the governing physical models at all scales of
+relevance and (ii) the interface between the interchanging physics and scales. The impact of the planned
+mathematical and numerical advancements in prediction of high‐dimensional uncertain systems will be
+broad across areas of engineering and science such as climate modeling, fusion energy, combustion, and
+nanoscience, among others.
+This research was selected for funding by the Office of Advanced Scientific Computing Research (ASCR).
+14
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Meson Spectroscopy from Quantum Chromodynamics
+Dr. Jozef Dudek, Assistant Professor
+Department of Physics
+Old Dominion University
+Norfolk, VA 23529
+The basic building blocks of the atomic nucleus, protons and neutrons, are constructed from
+quarks, bound together by gluons in such a way that they are never seen in isolation. Quarks and their
+anti‐particles can also pair up in short‐lived states called mesons; the goal of this project is to predict the
+theoretical properties of these mesons. Although we know the fundamental theory of quark and gluon
+dynamics to be solved, “Quantum Chromodynamics” (QCD), exact mathematical solution of the theory
+eludes us. Our best available tool for studying QCD is “Lattice QCD” (LQCD), a numerical solution of the
+theory with controllable approximations. This research project will use novel LQCD techniques to predict
+the masses and quantum numbers of mesons, their internal quark‐gluon structure, their decays into
+other mesons, and their couplings to photons. A major emphasis will be the predicted properties of
+“hybrid mesons,” hypothetical exotic particles in which the usual quark‐antiquark pair is accompanied
+by an excitation of the gluon field that binds them. This project will complement a planned search for
+hybrid mesons by the Gluonic Excitation Experiment (GlueX) at the Thomas Jefferson National
+Accelerator Facility.
+This research was selected for funding by the Office of Nuclear Physics (NP).
+15
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Engineering Robust Hosts for Microbial Biofuel Production
+Dr. Mary Dunlop, Assistant Professor
+School of Engineering
+University of Vermont
+Burlington, VT 05405
+Microbes contain a vast diversity of metabolic pathways that can be subtly tweaked and
+redesigned for the conversion of biomass to biofuels compounds. Next‐generation biofuels such as
+short‐chain hydrocarbons are particularly attractive target molecules since they would be compatible
+with existing engines and infrastructure. However, high levels of these compounds are often toxic to
+the microbes synthesizing them, limiting the potential rate and yield of industrial biofuel production.
+The objective of this research is to understand hydrocarbon tolerance mechanisms used by microbes
+inhabiting natural hydrocarbon seeps or oil‐contaminated sites, searching genome sequences of these
+organisms for efflux pumps and other molecular machines that microbes use to separate toxic
+hydrocarbons from their delicate biological systems. Promising candidates will be introduced into
+biofuel synthesizing strains of E. coli and tuned for optimal gene expression to determine if it is possible
+to engineer strains with enhanced tolerance to hydrocarbons and improved efficiency of overall
+synthesis.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+16
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Quantum Control of Spins in Diamond for Nanoscale Magnetic Sensing and Imaging
+Dr. Gurudev Dutt, Assistant Professor
+Department of Physics and Astronomy
+University of Pittsburgh
+Pittsburgh, PA 15260
+The goal of this research is to develop a magnetic field imaging technique with nanoscale
+resolution that would allow for non‐invasive, non‐destructive probing of a variety of important physical
+phenomena such as quantum tunneling in single molecule magnets and quantum bits encoded into
+spins in quantum dots. Diamond single spin magnetic sensors are a highly promising material platform
+featuring high magnetic field sensitivity, nanometer spatial resolution and the important ability to
+operate under ambient or harsh environmental conditions required to study many material systems.
+The proposed work will take a multi‐faceted approach toward improving the accuracy, sensitivity and
+robustness of this platform through a unique combination of fundamental investigations into quantum
+control and precision quantum metrology coupled tightly to innovative design, sophisticated nano‐
+fabrication and advanced measurement techniques.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+17
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Large Dynamic Range Beam Diagnostics and Beam Dynamics Studies for HIgh Current Electron LINACs
+Dr. Pavel Evtushenko, Accelerator Physicist
+Free Electron Laser (FEL) Division
+Thomas Jefferson National Accelerator Facility
+Newport News, VA 23606
+The goal of this project is to advance the development of large‐scale LINAC (linear particle
+accelerator) based fourth‐generation light sources with high average current by gaining an
+understanding of electron beam halo formation processes and developing methods to control the halo.
+The project aims to develop beam diagnostic techniques for characterization of the electron beam
+parameters with dynamic range much higher than used now. One goal is the measurement of the
+longitudinal and transverse phase space distribution with a dynamic range of about 106. Such
+measurements will be used for experimental investigation of halo formation and its evolution through
+the accelerator. Another goal is to develop beam optics solutions to control and manage the beam halo
+such that it would not be a limiting factor for the next‐generation LINAC based light sources. The
+program also aims to benchmark machine design codes in terms of their ability to describe the beam
+halo evolution. It is envisioned that better understanding of halo formation and evolution will contribute
+significantly to the performance of future light sources.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+18
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Many‐body effects in transport and energy transfer
+Dr. Michael Galperin, Assistant Professor
+Department of Chemistry and Biochemistry
+University of California, San Diego
+La Jolla, CA 92093
+The goal of this project is development of theoretical approaches capable of treating open
+molecular systems that are far from equilibrium. These include radiatively driven molecular electronic
+devices, nanoscale motors, and molecular‐scale systems for control of chemical reactivity and energy
+transfer. Many‐body effects, induced by electron‐electron, electron‐vibron, and excitonic interactions,
+are essential in predicting the response of these systems to external stimuli (bias, gate voltage, light
+sources). Although quantum chemistry has developed methods for dealing with correlated many‐
+electron effects within the context of isolated molecules, ab initio calculations on open molecular
+systems mostly employ methods formulated within an effective single‐electron picture. Approaches
+developed within the project will introduce established methods of quantum chemistry into the realm of
+molecular‐scale electron transfer. This will provide a solid background to treat molecular correlation
+with high rigor (inaccessible by standard techniques in use today), incorporate molecular spectroscopy
+and non‐adiabatic dynamics into the consideration, and develop practical schemes to account for
+system‐bath correlations (e.g. Kondo effect). Developed schemes will be validated on simple models
+and then developed into practical computational approaches for realistic simulations.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+19
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Precision Physics and Searches with Top and Bottom Quarks
+Dr. Aran Garcia‐Bellido, Assistant Professor
+Department of Physics and Astronomy
+University of Rochester
+Rochester, NY 14627
+The aims of this project are (1) to measure with high precision how top quarks interact with
+bottom quarks in the Standard Model of particle physics and (2) to search for new heavy particles that
+decay into top and bottom quarks. We propose to use the large available data from Fermilab's Tevatron
+proton‐antiproton collider and the high‐statistics data from CERN's Large Hadron Collider (LHC) proton‐
+proton collider to comprehensively exploit the different production mechanisms and conditions in the
+two colliders. Final states with top and bottom quarks provide a promising avenue to look for physics
+beyond the Standard Model because top quarks can couple easily with new heavier particles or exhibit
+anomalous couplings. Additionally, this project aims to develop new electronics to read out the light
+signals from the hadronic calorimeter detector in the Compact Muon Solenoid (CMS) experiment.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+20
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Optical Manipulation and Detection of Emergent Phenomena in Topological Insulators
+Dr. Nuh Gedik, Assistant Professor
+Department of Physics
+Massachusetts Institute of Technology
+Cambridge, MA 02139
+The goal of this project is to develop short‐pulse laser‐based experimental tools to probe the
+ultra‐fast electron dynamics of topological insulators. Topological insulators exhibit a newly discovered
+property of matter where surface electrons have exceptional conducting properties distinct from the
+non‐conductive nature of the bulk insulator material. This project will develop advanced optical
+spectroscopy along with electron spectroscopy and diffraction, all based on ultrafast laser pulses as the
+initial excitation source. The techniques will be developed with the goal to observe the time‐resolved
+signature of quantum interactions and order in topological insulator materials.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+21
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Extended MHD Modeling of Nonlinear Instabilities in Fusion Plasmas
+Dr. Kai Germaschewski, Assistant Professor
+Department of Physics
+University of New Hampshire
+Durham, NH 03824
+The principal objective of this project is to computationally model global dynamics in fusion
+plasmas. Tokamaks are the most promising devices for achieving sustained magnetic confinement of
+fusion plasmas. Such plasmas are typically modeled using magnetohydrodynamics (MHD), which treats a
+plasma as an electrically conducting fluid interacting with a self‐consistently generated magnetic field.
+The interesting and relevant plasma regimes in these devices are weakly collisional, so it is important to
+extend the resistive MHD model to take into account additional physics such as the effects of the Hall
+current and electron pressure tensor, including anisotropic and off‐diagonal terms. This research will
+apply extended MHD computational models to complex three‐dimensional geometries such as tokamak
+and reversed‐field pinch (RFP) configurations. The goal is to investigate the nonlinear dynamics of
+plasma instabilities in tokamaks and RFPs. Examples are the impact of toroidal coupling on the nonlinear
+evolution of the m=1 Hall‐resistive kink instability in a tokamak, with potential secondary ballooning
+instabilities, and the dynamo effects caused by Hall currents and vortical flows generated at multiple
+unstable rational surfaces in an RFP. This work also has potential applications to space plasma physics
+phenomena like, e.g., magnetospheric substorms. The project contains a substantial effort to verify and
+validate extended fluid models by benchmarking with analytic theory and other computational codes, as
+well as comparison to observations from fusion and magnetic reconnection plasma experiments.
+This research was selected for funding by the Office of Fusion Energy Sciences (FES).
+22
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Interfacial Electrocatalytic Processes from First Principles
+Dr. Jeffrey Greeley, Assistant Scientist
+Theory and Modeling Group
+Center for Nanoscale Materials
+Argonne National Laboratory
+Argonne, IL 60439
+The objective of this research is to develop computational models for enhanced understanding
+of chemical and physical processes at electrode/fluid interfaces. Many present and future energy and
+environmental technologies, including electrocatalytic production of electricity, electrocatalytic
+synthesis of fuels, pollution abatement, and energy storage and corrosion in metal air batteries, are
+sensitively dependent on chemical and physical processes that occur at the boundary between solid
+electrodes and liquid electrolytes. To understand these processes at an atomic level and to improve the
+performance of the associated technologies, quantum chemical computational models are of
+tremendous value. To develop such models for the formidably complex environments near solid‐
+electrolyte interfaces, this project exploits the significant insights that may be gained from first‐
+principles studies on analogous catalytic and physical processes at solid/gas interfaces. By combining
+these models and insights with new descriptions of uniquely electrochemical effects, such as the
+interaction of solvated charges with adsorbed catalytic species, the work will advance fundamental
+understanding of chemical and physical processes at electrode surfaces. This understanding will
+ultimately contribute to the continued development of technologies, ranging from fuel cells to batteries,
+that depend on such fundamental knowledge.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+23
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Investigation of radiation damage tolerance in interface‐containing metallic nano structures
+Dr. Julia Greer, Assistant Professor
+Department of Materials Science
+California Institute of Technology
+Pasadena, CA 91125
+The objective of this research is to obtain a fundamental understanding of interfaces in their
+role as helium sinks in irradiated metallic microstructures. Radiation damage and the associated
+production of helium in metals lead to degradation of a material's strength during the lifetime of nuclear
+reactor components. The research will use a suite of nanoscale characterization and testing techniques,
+as well as computational tools, to isolate and understand the effects of specific tailored interfaces and
+deformation mechanisms on the degradation of material properties. The elucidation of these
+mechanisms will give insight into the requirements for advanced materials for current and next‐
+generation nuclear reactors.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+24
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Understanding Photochemistry using Extreme Ultraviolet and Soft X‐Ray Time Resolved Spectroscopy
+Dr. Markus Guehr, Senior Staff Scientist
+PULSE Institute
+Chemical Science Division
+Photon Science Directorate
+SLAC National Acceleratory Laboratory
+Menlo Park, CA 94025
+Chemical reactions can be described as changes in the electron distribution of a molecule
+leading to bond formation and cleavage. A complete understanding of a chemical reaction requires
+monitoring the time‐evolving distribution of valence electrons and the complex interplay of the
+electrons with the nuclei on their natural time and length scales. The experimental method planned for
+this work will use ultrashort light pulses in the extreme ultraviolet and soft x‐ray spectral range. These
+light probes deliver sub‐nanometer spatial resolution, femtosecond temporal resolution, and element
+sensitivity. The experiments will be performed on organic molecules containing transition metals at
+laboratory‐based laser high harmonic sources and at the Linac Coherent Light Source (LCLS). The results
+of this research program will enable a better understanding of, and possibly control of, photocatalytic
+reactions such as light‐harvesting at the level of electrons.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+25
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Search for Weakly Interacting Dark Matter with Liquid Xenon
+Dr. Carter Hall, Assistant Professor
+Department of Physics
+University of Maryland
+College Park, MD 20742
+The nature of the mysterious dark matter is one of the most fascinating questions in
+fundamental physics today. Although its existence is convincingly demonstrated by a host of
+cosmological and astrophysical studies, there is no known fundamental particle that can account for the
+properties of dark matter. Many new physics models, however, include stable, weakly interacting
+massive particles (WIMPs), which are promising dark matter candidates. If the dark matter is indeed
+composed of WIMPs, then it follows that the Milky Way's dark matter halo could be directly observed by
+searching for its extremely rare interactions with the atomic nuclei in a terrestrial detector. We will
+search for these interactions using liquid xenon as our target material. Our search will initially take place
+within the context of the Large Underground Xenon (LUX) experiment, which is currently being
+commissioned at the Sanford Laboratory in Lead, South Dakota. The LUX experiment is expected to be
+the most sensitive WIMP search ever performed and will improve upon current experiments by more
+than an order of magnitude. We will also develop new experimental techniques to reduce backgrounds
+and improve the reliability of liquid xenon technology in anticipation of the ambitious dark matter
+experiments which will supersede LUX in the next three to five years.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+26
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Molecular and Material Approaches to Overcome Kinetic and Energetic Constraints in Dye‐Sensitized
+Solar Cells
+Dr. Thomas Hamann, Assistant Professor
+Department of Chemistry
+Michigan State University
+East Lansing, MI 48824
+The aim of this project is to use a fundamental understanding of the kinetic processes within a
+dye‐sensitized solar cell to move the design of this cell into newer and better regimes for assembly and
+performance. The efficiencies of present forms of this cell reached a plateau twenty years ago. This
+research intends to remove the limitations that have impeded progress since that time. In this project,
+concerted changes will be made in the active chemical elements of the cell through the study and
+control of the electron transfer kinetics of the reactant dyes and regenerating agents and through a
+reconstruction of the mesoscopic architecture of the substrate metal oxide electrode. Through a
+fundamental understanding of both homogeneous and heterogeneous electron transfer theory, new
+chromophores, solvents, and current carrying regenerating molecules will be selected and studied to
+define the limiting kinetic steps and processes within this complex system. As a perturbation upon
+these kinetics, novel designs for the nanometer‐sized architectures of the metal oxide anode will be
+developed and synthesized, and their efficacy as a component in a dye sensitized system will be
+established and analyzed.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+27
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Crystallization‐driven assembly of conjugated‐polymer‐based nanostructures
+Dr. Ryan Hayward, Assistant Professor
+Department of Polymer Science and Engineering
+University of Massachusetts Amherst
+Amherst, MA 01003
+The goal of this project is to use crystallization of electronically conducting (conjugated)
+polymers to fabricate well‐defined crystalline building blocks of nanometer‐scale dimensions. These
+materials will then be assembled into photovoltaic devices with optimized structures, and therefore
+improved efficiencies, in a cost‐effective manner. It is well known that conjugated polymers often
+crystallize into nanowires or fibrils, i.e., one‐dimensionally extended crystals with micrometer‐scale
+lengths and nanometer‐scale widths and thicknesses. The project will employ crystallization of a model
+conducting polymer, poly(3‐hexyl thiophene), as a driving force for the organization of several types of
+materials including inorganic semiconductor nanoparticles, diblock copolymers, and segmented polymer
+nanowires. Research will examine how these nanoscale structures organize themselves into
+superstructures on larger length scales and how organization of material on each length scale influences
+the photophysical properties of the resulting devices. The proposed work will open new routes to
+simultaneously controlling the organization and electronic properties of matter on three different length
+scales, the molecular scale, the nanoscale, and the colloidal scale. It will also contribute to the critically
+important mission of improving efficiencies of low‐cost, polymer‐based photovoltaic devices.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+28
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Plant‐Microbe Genomic Systems Optimization for Energy
+Dr. Samuel Hazen, Assistant Professor
+Biology Department
+University of Massachussetts Amherst
+Amherst, MA 01003
+To evolve from promise to practice, essential optimization of each step of an advanced biofuel
+industry based on cellulosic biomass is already underway. For the present research, the bioassay will be
+used to measure rates of ethanol production in various accessions of the energy crop model Bd and then
+assess genetic diversity for this trait in this species. In doing so, the research will seek to resolve the
+mechanisms underlying plant feedstock quality through genetic analysis with a focus on energy crop
+improvement. As a second phase, to determine the plausibility of specific positive interactions between
+plant and microbial genotypes, pairwise comparisons will be made, varying both plant and microbial
+genotypes. Similar to adapting crop varieties to different environments, these experiments will link the
+need for specific feedstock properties to biomass conversion processes. Importantly, the development
+and optimization of unified plant‐microbe genomic systems will advance the concept of “plant‐microbe
+co‐development” within the industry, thus improving the efficiency of cellulosic biofuels production
+from ecologically and economically sustainable resources without affecting food supply.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+29
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Cosmological Probes of Fundamental Physics
+Dr. Chris Hirata, Assistant Professor
+Department of Physics
+California Institute of Technology
+Pasadena, CA 91125
+This project will investigate the theoretical aspects of cosmological probes of dark energy, dark
+matter, and inflation. The specific objectives are (1) to investigate nonlinear structure formation effects
+at high redshift, including the suppression of power due to the relative velocity of baryons and dark
+matter that has recently been identified; to explore its consequences for tests of dark matter and
+inflation (via the small scale power spectrum) and dark energy (via the effect on baryon‐acoustic
+oscillations); and to search for other such nonlinear processes; (2) to explore the use of higher‐order
+correlation functions of the cosmic microwave background polarization and galaxy surveys to measure
+primordial gravitational waves and constrain inflationary physics; and to critically examine the
+systematic uncertainties that may arise; and (3) to continue the search for new physical effects in the
+standard Lambda cold dark matter (CDM) cosmology that could contaminate the currently used
+cosmological probes, or be useful to reduce statistical or systematic errors.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+30
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Nanoscale Mercury Sulfide‐Organic Matter Interactions and Implications for Solubility and
+Biomethylation
+Dr. Heileen Hsu‐Kim, Assistant Professor
+Civil and Environmental Engineering Department
+Duke University
+Durham, NC 27708
+Effective solutions for remediation of mercury contamination remain elusive because of our
+poor understanding of biogeochemical processes that control mobilization of mercury and
+biomethylation in sediments. This research seeks to characterize the geochemical forms of mercury that
+persist in polluted sediments and link this knowledge to their bioavailability toward microbes. The fate
+of mercury in these settings involves a complex series of transformations including HgS mineral
+dissolution, colloid formation and transport, oxidation/reduction, and methylation by anaerobic
+sediment bacteria. In all of these steps, natural organic matter (NOM) plays a critical role for reaction
+rates. This research aims to elucidate the nanoscale interactions between mercury, sulfide, and NOM
+that are critical drivers of mercury geochemistry. This information will ultimately be used to establish a
+new geochemical framework for predicting mercury methylation potential in contaminated sediments.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+31
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Quantum Transport in Topological Insulator Nanoelectronic Devices
+Dr. Pablo Jarillo‐Herrero, Assistant Professor
+Department of Physics
+Massachusetts Institute of Technology
+Cambridge, MA 02139
+The goal of this research project is to investigate novel quantum electronic transport
+phenomena in a recently discovered class of materials known as topological insulators. Topological
+insulators (TIs) are materials with a bulk band gap but which have a conducting surface state. The
+unique geometry, band structure and topological characteristics of the TI surface states have generated
+extraordinary interest in the physics community and have led, together with graphene, to the
+emergence of a new paradigm of “relativistic” condensed matter physics. Ultimately, these studies in TIs
+may lead to new types of quantum devices based on the electron spin (rather than its charge) and, more
+fundamentally, to new information processing based on topological quantum computation.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+32
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Systems Level Investigation of Uranium Resistance and Regulation by Caulobacter Crescentus
+Dr. Yongqin Jiao, Staff Scientist
+Biosciences and Biotechnology Division
+Physical and Life Scientist Directorate
+Lawrence Livermore National Laboratory
+Livermore, CA 94550
+Microbes are known to play a major role in influencing the movement of uranium and other
+environmental contaminants. In addition to simply surviving exposure to radionuclides, some microbes
+are capable of using these compounds to promote their growth, altering their chemical state to restrict
+their movement in the environment. However, understanding of the basic mechanisms that microbes
+use to perform these metabolic reactions is limited, especially in environments exposed to oxygen. In
+this research project, the biological systems of the bacterium Caulobacter crescentus that allow it to
+detect uranium in the environment, accumulate the metal at the cell's surface, and use it to generate
+energy via respiratory metabolism (essentially "breathing" uranium) will be examined. The long term
+goal of the project is to develop a conceptual model of uranium cycling that could be used to
+understand processes occurring at contaminated sites and inform potential bioremediation strategies.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+33
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Efficient Graph Kernels for Extreme Scale Analysis of Environmental Community Data
+Dr. Anantharaman Kalyanaraman, Assistant Professor
+School of Electrical Engineering and Computer Science
+Washington State University
+Pullman, WA 99164
+The goal of this research is to develop novel parallel algorithms for graph‐theoretic analysis of
+biological data on next‐generation supercomputing platforms. Graph methods have an immense
+potential to transform the information space in bioinformatics and computational biology. The growing
+sizes of data repositories have ensured that such potential cannot be realized without a comprehensive
+embrace of high performance computing. The methods developed in this project will allow scientists to
+discover community structures hidden within very large graphs built out of high‐throughput biological
+data. The specific aims of the project are to (1) develop scalable graph‐theoretic parallel algorithms for
+clustering biological data; (2) build new inter‐database analytical capabilities using novel multi‐graph
+representations of biological data; and (3) apply graph‐theoretic algorithms on the clustering
+components of three large‐scale applications in metaproteomics and phylogenetics.
+This research was selected for funding by the Office of Advanced Scientific Computing Research (ASCR).
+34
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+The Neutrino: A Better Understanding Through Astrophysics
+Dr. James Kneller, Assistant Professor
+Department of Physics
+North Carolina State University
+Raleigh, NC 27695
+Over the past decade the evidence for neutrino flavor mixing has passed from tentative to
+compelling. This remarkable phenomenon has widely recognized implications for astrophysics because
+neutrinos are so very important in the hot and dense environments, such as core‐collapse supernovae,
+that one only finds in the cosmos. The hints of successful explosions seen in the latest supernova
+simulations mean we need to confront them with the observations that neutrinos can provide but,
+unfortunately, our current understanding of the neutrino is incomplete and the signal from the next
+Galactic supernova is uncertain. But by studying the behavior of neutrinos in core‐collapse supernovae
+and in similar hot/dense environments, determining the sensitivity of supernova neutrino flavor
+transformation to the unknown neutrino mixing parameters, and learning how these properties affect
+Galactic supernova neutrino burst signals, we are presented with a situation where the missing neutrino
+properties will be imprinted into the signal itself. The goal of this project is accordingly to prepare for
+the detection of neutrinos from the next Galactic supernova, and to anticipate how these future
+observations can be used to improve our understanding of neutrinos.
+This research was selected for funding by the Office of Nuclear Physics (NP).
+35
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Direct Production of 99MTC Using a Small Medical Cyclotron
+Dr. Suzanne Lapi, Assistant Professor of Radiology
+School of Medicine
+Washington University
+Saint Louis, MO 63110
+Over 80% of nuclear medicine procedures require the use of the radioisotope 99mTc.
+Compounds that make use of this isotope are used in many studies, from cancer diagnosis to
+assessment of heart function. Recently, there have been many reports of the “isotope crisis” related to
+a shortage of 99mTc. Currently, 99mTc is produced via nuclear fission using highly enriched uranium
+(HEU), which is a concern because of nuclear proliferation risks. In addition to this, the United States is
+dependent solely on currently unreliable foreign sources of this important medical isotope. Clearly, a
+need exists to probe alternative domestic production routes of 99mTc. This application describes an
+investigation toward the non‐HEU production of 99mTc with a small medical cyclotron, of which there
+are many located through the United States. The overarching goal of this project is for Washington
+University to develop the in house capability to routinely produce 99mTc for nuclear medicine patient
+procedures and to translate this capability to other nuclear medicine departments. Our facility is
+uniquely situated to explore the scope of this project as we have the expertise in cyclotron targetry and
+a very close relationship with the medical community because of our location within the department of
+radiology at one of the best medical schools in the country. Overall, the project introduces a
+straightforward domestic solution to the current crisis while also addressing the proliferation issues
+associated with the current method of production.
+This research was selected for funding by the Office of Nuclear Physics (NP).
+36
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Transport Studies of Quantum Magnetism: Physics and Methods
+Dr. Minhyea Lee, Assistant Professor
+Department of Physics
+University of Colorado
+Boulder, CO 80309
+The goal of this project is to uncover and identify new states of matter resulting from the strong
+correlation in various quantum spin systems. The work will be focused on understanding the properties
+of the new ground states by studying elementary excitations via thermal and electrical transport
+properties. It will also involve the development of a new experimental method for thermometry that is
+tailored for thermal transport measurement and is also expected to have a more general impact on
+ultra‐low‐temperature thermometry.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+37
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Combating the Data Movement Bottleneck
+Dr. Peter Lindstrom, Computer Scientist
+Data Analysis Group
+Center for Applied Scientific Computing
+Computation Directorate
+Lawrence Livermore National Laboratory
+Livermore, CA 94550
+On next‐generation supercomputers, the power cost of moving data is the critical metric for
+software while limited bandwidth further constrains the amount of data that can be moved. The
+objective of this project is to alleviate the data‐movement bottleneck in extreme‐scale computing to
+accelerate numerical simulation and data analysis. The research will focus on software solutions to
+reduce the amount of data transferred between memory banks, across distributed compute nodes, and
+between main memory and secondary storage. This project will take a three‐pronged approach based
+on maximizing data locality by optimally reordering data elements, improving compute locality using
+parallel stream processing, and integrating high‐speed data compression. These complementary
+techniques will limit the total size of data moved, minimize data accesses, and make effective use of
+multilevel caches to keep data as close to the processor as possible. This effort will lead to new tools for
+greatly reducing data movement with commensurate increases in performance and reductions in power
+consumption on next‐generation massively multi‐core computer architectures.
+This research was selected for funding by the Office of Advanced Scientific Computing Research (ASCR).
+38
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Bio‐Inspired Electro‐Photonic Structure for Dye‐Sensitized Solar Cells
+Dr. Rene Lopez, Assistant Professor
+Department of Physics and Astronomy
+University of North Carolina
+Chapel Hill, NC 27599
+The objective of this research project is to redesign and enhance the optical and electronic
+properties of dye‐sensitized solar cells in a comprehensive manner through bio‐inspired optical designs
+for light absorption and concomitant multi‐scale reconstructions of the metal‐oxide electrode structure
+for electron transport. The project will seek to utilize a “butterfly‐wing” photonic crystal design for the
+anode of the solar cell to provide simultaneously a needed optical enhancement in the red wavelengths
+of the spectrum and a shortened, more efficient electron transport pathway for charge collection. The
+investigator will coordinate an array of experiments (1) to explore the synthesis of novel photonic
+structures for the solids based on examples taken from nature and (2) to determine their electronic
+properties. These results will be integrated into a comprehensive three‐dimensional mathematical
+model and will allow the optimum parameters to be defined for the design of a high‐efficiency, dye‐
+sensitized solar cell.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+39
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Multi‐System Analysis of Microbial Biofilms
+Dr. Matthew Marshall, Senior Research Scientist
+Environmental Microbiology Group
+Biological Sciences Division
+Fundamental Computational and Science Directorate
+Pacific Northwest National Laboratory
+Richland, WA 99352
+Microbial biofilms impact many biogeochemical processes including the fate and transport of
+contaminants in the subsurface. The present research will employ state‐of‐the‐art technologies to
+determine the chemical composition of biofilms in relation to their highly hydrated native‐state
+structure/architecture. The research will extend the mechanistic understanding of extracellular
+polymeric substance (EPS)‐metal ion interactions using high‐resolution cryogenic imaging and analysis
+techniques at the Environmental Molecular Sciences Laboratory (EMSL) and will develop new
+spectroscopy methods for obtaining spatially resolved chemical information. Synchrotron X‐ray‐based
+analyses will be used to obtain high‐sensitivity, element‐specific chemical distributions within biofilms
+that have been imaged using EMSL microscopies and spectroscopies. These integrated technologies will
+characterize the chemical and physical interactions of hydrated biofilms and catalytic components of
+EPS as they interact with redox‐transformable metal ions and influence biogeochemical reactions.
+Determining the chemical composition and spatial coordination of biofilm‐associated EPS will
+significantly advance understanding of how molecular‐scale biogeochemical reactions can influence
+subsurface contaminant fate and transport at larger scales.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+40
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Fundamental Electroweak Interaction Studies Using Trapped Atoms and Ions
+Dr. Daniel Melconian, Assistant Professor
+Department of Physics and Astronomy
+Texas A&M University
+College Station, TX 77843
+Ion and atom traps at radioactive ion beam facilities have opened up a new vista in precision
+low‐ energy nuclear physics experiments. They provide ideal sources for studying the decays of rare
+isotopes: The trapped samples are extremely cold (< 1 mK) and localized (< 1 mm2), and the trap forces
+are weak enough that the daughter particles escape with negligible distortions to their momenta. This
+project will construct a large‐diameter, open Penning trap and couple it to T‐REX (Texas A&M University
+Reaccelerated Exotics), which is the upgraded radioactive ion beam facility at the Cyclotron Institute at
+Texas A&M University. The flagship experimental program will test our understanding of the
+fundamental symmetries underlying our current theory of electroweak interactions by measuring the b
+− n correlation parameters and ft values from isospin T = 2 superallowed ˉ‐delayed proton decays.
+Comparison of these precision measurements to theoretical predictions will either confirm the Standard
+Model to a higher degree or point to new physics and help guide theorists toward developing the New
+Standard Model. In addition, the versatility of this system will also make it a general purpose decay
+station where any number of other low‐energy experiments will be possible (mass measurements, laser
+spectroscopy, electron‐capture studies, etc.).
+This research was selected for funding by the Office of Nuclear Physics (NP).
+41
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Weak Interaction Study Using Laser Trapped 6He Atoms
+Dr. Peter Mueller, Assistant Physicst
+Low Energy Nuclear Physics Group
+Physics Division
+Physical Sciences and Engineering
+Argonne National Laboratory
+Argonne, IL 60439
+High‐precision measurements of how radioactive nuclei decay have played an essential role in
+today’s understanding of the fundamental laws of nature, which are summed up in what is known as the
+Standard Model of particle physics. However, modern cosmological observations, such as the presence
+of Dark Matter and the lack of antimatter in the universe cannot be explained by the Standard Model.
+Thus, the quest for direct experimental evidence of “New Physics” is an exciting endeavor currently
+being pursued on many fronts in fundamental research. Here, the decay of 6He, a radioactive isotope of
+helium, will be studied in exquisite detail to test the “Weak Interaction” component of the Standard
+Model. Atoms of 6He suspended in vacuum by laser light represent an ideal laboratory in which to
+detect the decay products and measure their properties with high precision. Combined with the detailed
+theoretical understanding of this rather simple nucleus, telltale signs of new interactions would reveal
+themselves as small deviations from the Standard Model predictions. Techniques developed for this
+experiment will also enable studies of other noble gas isotopes in a quest for additional hints of “New
+Physics.”
+This research was selected for funding by the Office of Nuclear Physics (NP).
+42
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Quantum Field Theories for Cosmology
+Dr. Alberto Nicolis, Assistant Professor
+Department of Physics
+Columbia University
+New York, NY 10027
+This research spans a wide range of subjects in theoretical cosmology and in field theory. In the
+first part, effective field theory techniques will be applied to the study of fluids and of cosmological
+perturbations. Such an approach—now standard in particle physics—is quite unconventional for
+theoretical cosmology. The research addresses several concrete questions where this formalism will
+prove valuable, both within and outside the cosmological context, concerning, for instance, the
+quantum mechanical properties of fluids and of superfluids, the post‐inflationary reheating phase of
+early cosmology, and the effects of large matter inhomogeneities at short scales on the dynamics of
+cosmological perturbations and of the universe as a whole at much larger scales. In the second part,
+more fundamental questions and ideas will be investigated for the present universe as well as for the
+very early one, using quantum field theory as a guide. The questions to be addressed include the
+following: Is the present cosmic acceleration caused by a new, ‘dark’ form of energy or are we instead
+observing a breakdown of Einstein’s general relativity at cosmological distances? Is the cosmic
+acceleration accelerating? Is the Big Bang unavoidable? Related to this, is early inflation the only
+sensible cure for the shortcomings of the standard Big Bang model and the only possible source for the
+observed scale‐invariant cosmological perturbations?
+This research was selected for funding by the Office of High Energy Physics (HEP).
+43
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+High‐Average Power Laser Experiments at the Large Plasma Device
+Dr. Christoph Niemann, Assistant Professor
+Department of Physics and Astronomy
+University of California, Los Angeles
+Los Angeles, CA 90095
+The goal of this project is to obtain highly detailed measurements of laser‐driven collisionless
+shocks and highly nonlinear plasma waves in a large magnetized plasma (i.e., the Large Plasma Device at
+the University of California, Los Angeles ) using a new, high‐average‐power slab‐laser system (25 J at
+4 Hz). Magnetized collisionless shocks are launched by rapidly exploding laser plasmas and a
+large (≤50 cm) diamagnetic laser‐plasma cavity, which acts as a fast moving magnetic piston upon the
+highly magnetized ambient plasma (17 m x 0.7 m at 1012‐1013 cm‐3). In comparison with earlier work on
+pinches, these experiments can be performed with arbitrary shock propagation angles (from quasi‐
+perpendicular to quasi‐parallel) and can thus access weakly supercritical shocks in both the dispersive
+and dissipative regime. The 1 Hz repetition rate of these experiments allows us to create shocks
+reproducibly for tens of thousands of times, leading to highly detailed measurements of (1) the
+magnetohydrodynamic (MHD) response of the ambient plasma, (2) the dissipation of the shock, and (3)
+the effect on the particle velocity distribution. Particle acceleration in the shocks will also be studied
+using preformed non‐thermal particles.
+This research was selected for funding by the Office of Fusion Energy Sciences (FES).
+44
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Measuring the Importance of Valence to Chemistry of Nanocrystal Surfaces
+Dr. Jonathan Owen, Assistant Professor
+Department of Chemistry
+Columbia University
+New York, NY 10027
+Surface structure is central to the properties of colloidal semiconductor nanocrystals. Yet the
+valence of atoms on nanocrystal surfaces and its influence on the binding and exchange of their ligands
+remain an essentially unexplored avenue of research. Current descriptions of semiconductor nanocrystal
+surfaces do not adequately distinguish between dative ligand interactions (L‐type binding) and ligands
+that balance their charge with nonstoichiometric crystals (X‐type binding). To address this problem, this
+project will investigate the relationship between nanocrystal stoichiometry and the exchange of both X‐
+and L‐type surface ligands. Nuclear magnetic resonance spectroscopy will be used to measure the
+thermodynamic binding constants and the mechanisms and kinetics of ligand exchange. The project will
+develop methods (1) to exchange surfactant ligands allowing the fabrication of thin films composed of
+nonstoichiometric nanocrystals with an intact metal‐ligand surface layer and (2) to controllably deposit
+films of nanocrystals using layer‐by‐layer dip coating and electrodeposition where the X‐type organic
+surfactant ligands have been replaced with a halide ligand shell. These techniques will furnish
+nanocrystal thin films with a small inter‐nanocrystal separation and enhanced electronic coupling.
+Fabrication of field effect transistor devices using these methods will allow the details of atomic surface
+structure to be correlated with electrical transport characteristics. To date, nanocrystal researchers have
+heavily relied on an L‐type ligand model when describing nanocrystal surfaces. Clarifying the
+importance of X‐type ligands to nanocrystal surface chemistry and its relationship to stoichiometry can
+have a dramatic influence on nanocrystal research and will lead to powerful methods for precisely
+tailoring nanocrystal surfaces. In particular, these methods may offer major improvements in
+nanocrystal‐based thin film optoelectronic devices.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+45
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long‐Baseline
+Neutrino Experiment
+Dr. Ryan Patterson, Assistant Professor
+Department of Physics
+California Institute of Technology
+Pasadena, CA 91125
+The long‐baseline neutrino experiment known as NOνA (NuMI or Neutrinos at the Main Injector
+Off‐Axis νe Appearance Experiment ) uses a fine‐grained, low‐Z, fully active detector that offers
+unprecedented electron neutrino identification capabilities for a detector of its scale. This research
+involves the development and implementation of novel techniques for channel readout, detector
+calibration, and event reconstruction that make full use of the strengths of the NOνA detector
+technology. In particular, custom event reconstruction algorithms that use the rich information
+available in the substructure of hadronic and electromagnetic showers will be designed. Exploiting this
+information provides not only substantial improvement in background rejection for the electron
+neutrino search but also better shower energy resolution (improving the precision on measured
+oscillation parameters) and a high‐energy electromagnetic calibration source (through neutral pion
+events). Further, a new electronics readout scheme compatible with the existing hardware that can
+reduce near detector event pile‐up and offer powerful timing information to the reconstruction wil be
+developed and deployed, allowing for cosmic ray muon tagging via track direction determination, among
+other things. In conjunction with the above, the project involves leading the calibration of the NOvA
+detectors, including characterizing individual electronics channels, correcting for spatial variations across
+the detector, and establishing absolute event energy scales.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+46
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Atomic Layer Deposition of Superconductors, an Innovative Approach to Improve the Performance of
+High Energy Physic Accelerators
+Dr. Thomas Prolier, Assistant Physicist
+Surface Chemistry Group
+Material Sciences and High Energy Physics Divisions
+Argonne National Laboratory
+Argonne, IL 60439
+After 40 years of research and development, niobium superconducting radio frequency (SRF)
+cavity performance may be reaching fundamental intrinsic materials limits. Presently, the state of the
+art for Nb cavities involves using reproducible operating field gradients of 35 MV/m, for which the peak
+equatorial RF field of 140 mT has almost reached the depairing limit set by the thermodynamic critical
+field of about 200 mT. Based on theoretical models by Alex Gurevich of Florida State University, the
+research seeks to build cavities with cost effective deposition methods that will reduce significantly the
+operating and capital accelerator cost. The goals require a close‐coupled effort that (1) develops an
+atomic layer deposition (ALD) synthesis process of high temperature superconductors on coupons or
+dummy cavities, (2) provides complementary production deposition techniques that can produce high‐
+quality, thick (~µm) Nb films on coupons and cavities, (3) allows for the rapid surface science
+characterization required to optimize synthetic/deposition methods on coupons, (4) provides the best
+cavity base material to use, (5) develops methods to scale PEALD (plasma‐enhanced atomic layer
+deposition) to real cavities, (6) provides for fast turn‐around vertical cavity tests, and (7) allows for reuse
+of the base cavities.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+47
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Real‐Time Studies of Nucleation, Growth and Development of Ferromagnetism in Individual Protein‐
+Templated Magnetic Nanocrystal
+Dr. Tatiana Prozorov, Assistant Scientist III
+Division of Materials Sciences and Engineering
+Ames Laboratory
+Ames, IA 50011
+The aim of this project is to determine the nature of protein‐templated nanoparticle formation.
+Using advanced electron microscopy techniques, the research intends to uncover the mechanism of
+particle nucleation and growth, the emergence of crystal structure, and the development of
+ferromagnetism in individual bio‐templated magnetic nanocrystals. Magnetic nanoparticles with narrow
+size distribution, large magnetic moment, and controlled magnetic anisotropy have important
+technological applications. Bio‐inspired synthetic routes offer room‐temperature pathways to a variety
+of magnetic nanostructures having shapes and sizes not realizable via conventional inorganic chemical
+techniques. However, despite significant research effort in this area, fundamental understanding is
+lacking on how the supramolecular assembly of biomolecules dictates nanoparticle formation and
+functional properties. The work will make possible in‐situ nanoparticle synthesis and dynamic studies of
+the emergence of crystallinity and evolution of magnetic response in individual protein‐templated
+magnetite nanoparticles free of artifacts associated with the conventional sample preparation and
+characterization.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+48
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Solving the Long‐Standing Problem of Low‐Energy Nuclear Reactions at the Highest Microscopic Level
+Dr. Sofia Quaglioni, Science and Engineering Member of Technical Staff 3
+Computational Nuclear Physics Group
+Physics Division
+Physical and Life Sciences Directorate
+Lawrence Livermore National Laboratory
+Livermore, CA 94551
+This project aims to develop a comprehensive framework that will lead to a fundamental
+description of both structural properties and reactions of light nuclei in terms of constituent protons and
+neutrons interacting through nucleon‐nucleon and three‐nucleon forces. This is a long‐sought goal of
+nuclear theory that is now within reach as new promising techniques and the required computational
+power to implement them are becoming available. This project will provide the research community
+with the theoretical and computational tools that will enable (1) an accurate prediction for the fusion
+reactions that power stars and Earth‐based fusion facilities; (2) an improved description of the
+spectroscopy of exotic nuclei, including light borromean systems; and (3) a fundamental understanding
+of the three‐nucleon force in nuclear reactions and nuclei at the drip line.
+This research was selected for funding by the Office of Nuclear Physics (NP).
+49
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Physics of Lattice Defects and Defect‐Impurity Complexes in Materials Used for Superconducting RF
+Cavities
+Dr. Alexander Romanenko, Associate Scientist and Peoples Fellow
+Superconducting Materials
+Technical Division
+Fermi National Accelerator Laboratory
+Batavia, IL 60510
+The proposed research seeks to understand the role of lattice defects such as dislocations,
+vacancies, and vacancy‐hydrogen complexes in the performance of superconducting radio frequency
+(RF) cavities. Based on the results of the preliminary studies, the work aims to fill the gap in knowledge
+and allow further progress in gradients and quality factors. It is intended to perform systematic studies
+on samples by utilizing state‐of‐the‐art surface analytical techniques such as electron backscattered
+diffraction (EBSD), focused ion beam (FIB), transmission electron microscopy (TEM), positron
+annihilation spectroscopy, and elastic recoil detection (ERD). The effect of lattice defects on RF
+superconductivity will be directly studied by introducing localized irradiation damage into niobium
+cavities and characterizing the RF performance with advanced thermometry. The expected outcome is
+the capability to tailor a superconducting RF cavity surface to sustain the highest surface magnetic fields
+based on a detailed understanding of near‐surface lattice defect structure and its effect on RF
+performance.
+This research was selected for funding by the Office of Nuclear Physics (NP).
+50
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Engineering self‐assembled bioreactors from protein microcompartments
+Dr. David Savage, Assistant Professor
+Department of Molecular and Cell Biology
+University of California, Berkeley
+Berkeley, CA 94720
+The goals of this research are to understand how organisms such as bacteria segregate certain
+metabolic processes inside of specific structures, or “microcompartments,” in the cell and apply this
+knowledge to develop novel engineered microcompartments for potential use in nanotechnology and
+metabolic engineering. For example, in some bacteria, self‐assembling protein microcompartments
+called carboxysomes encapsulate the enzymes involved in carbon fixation, enabling the cell to utilize
+carbon dioxide more effectively than if the enzymes were free in the cell. This research will determine
+how structures such as carboxysomes assemble and function in bacteria and develop a means for
+creating novel, synthetic microcompartments for optimizing production of specific energy‐rich
+compounds.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+51
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+A Physicochemical Method for Separating Rare Earths: Addressing an Impending Shortfall
+Dr. Eric Schelter, Assistant Professor
+Department of Chemistry
+University of Pennsylvania
+Philadelphia, PA 19104
+The objective of this project is to develop new approaches to chemically extract cerium (Ce),
+praseodymium (Pr), neodymium (Nd) and terbium (Tb) ions from mixtures of rare earth ions. Nitroxyl
+radicals will be synthesized and evaluated for selective binding of high value rare earths through
+oxidative intermediate valence effects. This research will develop new fundamental knowledge in f‐
+element chemistry and the potential for new element‐specific extractants. The extractants are expected
+to reduce the costs of strategically important materials made from the elements Ce, Pr, Nd and Tb.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+52
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Data Locality Enhancement of Dynamic Simulations for Exascale Computing
+Dr. Xipeng Shen, Assistant Professor
+Department of Computer Science
+College of William and Mary
+Williamsburg, VA 23187
+Computer simulation is important for scientific research in many disciplines. Many such
+programs are complex, and transfer a large amount of data in a dynamically changing pattern. Memory
+performance is key to maximizing computing efficiency in the era of Chip Multiprocessors (CMP) due to
+the growing disparity between the slowly expanded memory bandwidth and the rapidly increased
+demands for data by processors. The importance is underlined by the trend toward exascale computing,
+in which the processors are expected to each contain hundreds or thousands of (heterogeneous) cores.
+Unfortunately, today’s computer systems lack support for a high degree of memory transfer. This
+project proposes to improve memory performance of dynamic applications by developing two new
+techniques that are tailored especially for the emerging features of CMP. The first technique is
+asynchronous streamlining, which analyzes the memory reference patterns of an application during
+runtime and regulates both control flows and memory references on the fly. The second technique is
+neighborhood‐aware locality optimization, which concentrates on the non‐uniform relations among
+computing elements. This research will produce a robust tool for scientific users to enhance program
+locality on multi‐ and many‐core systems that is not possible to achieve with existing tools. Further, it
+will contribute to the advancement of computational sciences and promote academic research and
+education in the challenging field of scientific computing.
+This research was selected for funding by the Office of Advanced Scientific Computing Research (ASCR).
+53
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Fundamental Instability Measurements in Magnetically Driven Z‐Pinch Liner Implosions
+Dr. Daniel Sinars, High Energy Density Experiments Team Manager
+High Energy Density Science Group
+Pulsed Power Sciences Center
+Science and Technology and Research Foundations Division
+Sandia National Laboratories
+Albuquerque, NM 87185
+The magnetic pressure generated by large, pulsed currents can be used to directly compress
+initially solid metal tubes (liners) to extreme conditions. The Sandia Z facility can generate 100 megabars
+of magnetic pressure (25 MA at a radius of 1 mm), similar to the radiation‐driven ablation pressure on
+fusion capsules designed for the National Ignition Facility. Achieving extreme conditions in the
+laboratory for fusion or dynamic materials studies requires the compression of matter and current to
+small radii. The most important factor limiting the controlled compression of dense matter to small radii
+using magnetic pressure is the magneto‐Rayleigh‐Taylor (MRT) instability. In liner implosions the MRT
+instability arises at the outer plasma‐vacuum interface, where the driving magnetic pressure plays a role
+analogous to a light fluid pushing on a heavy fluid (the plasma liner) as in the classical fluid Rayleigh‐
+Taylor instability. The MRT instabilities in fast z‐pinch systems are complex, and we rely heavily on
+advanced simulation tools to model them. Surprisingly, there are few data that can be used to validate
+these simulation tools, particularly in the ~100 ns regime where plasma effects and strong shocks can be
+important. The principal investigator recently led the first well‐characterized MRT growth
+measurements on ~100 ns time scales using initially solid Al liners. This research will enable several
+additional experimental campaigns on the Sandia Z facility to study both fundamental and applied
+aspects of the MRT instability. Data collected in these experiments are expected to ultimately improve
+our physics understanding and help us validate critical simulation tools, thereby benefiting fusion and
+dynamic materials applications based on magnetic pressure drive.
+This research was selected for funding by the Office of Fusion Energy Sciences (FES).
+54
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Cosmology with the Lyman‐Alpha Forest
+Dr. Anze Slosar, Assistant Scientist
+Cosmology and Astrophysics Group
+Physics Department
+High Energy and Nuclear Physics Directorate
+Brookhaven National Laboratory
+Upton, NY 11973
+This project will investigate the nature of dark energy, the mysterious component of the
+universe responsible for its accelerated expansion, using quasars, which are the brightest objects in the
+universe. Using data from the Baryon Oscillation Spectroscopic Survey (BOSS) experiment, the three‐
+dimensional structures in the early universe will be determined by measuring the shadows that
+intervening neutral hydrogen in space casts on the spectra of quasars, known as the Lyman‐alpha forest.
+Such data offer a unique probe of the distant universe and will also provide constraints on dark matter,
+neutrinos and cosmic inflation. A comprehensive framework will be built based on novel and robust
+techniques to analyze the Lyman‐alpha forest spectra, with strong emphasis on understanding the
+systematic errors arising from astrophysical and instrumental effects. This will result in new constraints
+on cosmological parameters and pave the way for the future experiments studying the nature of dark
+energy.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+55
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+New Dimension Reduction Methods for Multi‐scale Nonlinear Phenomena
+Dr. Alexandre Tartakovsky, Senior Research Scientist
+Computational Mathematics Group
+Computational Sciences and Mathematics Division
+Fundamental and Computational Sciences Directorate
+Pacific Northwest National Laboratory
+Richland, WA 99352
+This project will develop a new dimension‐reduction method for complex, multiscale, non‐linear
+problems and design scalable, communication‐minimizing algorithms for the implementation of this
+method on leadership‐class computers. Many mathematical models of natural and/or engineered
+systems are multiscale and nonlinear and have a common feature: Their discrete approximations are
+systems of ordinary differential equations (ODEs), which can contain an enormous number of
+unknowns. Direct simulation of these models can be extremely expensive. The dimension reduction
+methods will provide a rigorous mathematical foundation for approximating large systems of ODEs with
+models containing a much smaller number of unknowns. By doing this, the new method will address
+computational challenges posed by large‐size ODE models. These outcomes would constitute a
+breakthrough in multiscale modeling with a strong potential for significant advances in various
+engineering and science applications.
+This research was selected for funding by the Office of Advanced Scientific Computing Research (ASCR).
+56
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Defining Fe and H Speciation During Olivine Carbonation Under Highly Reducing Conditions
+Dr. Alexis Templeton, Assistant Professor
+Department of Geological Sciences
+University of Colorado
+Boulder, CO 80309
+Rock weathering significantly affects atmospheric and groundwater chemistry, particularly the
+exchange of carbon dioxide between air, water and rock components. However, it is difficult to unravel
+chemical reactions between fluids and rocks in the subsurface, including microbially mediated
+biogeochemical processes. The goal of this project is to examine the connection(s) among the
+geochemical behavior of iron and the extent of hydrogen, methane or carbonate mineral formation
+during the aqueous alteration of olivine at near‐surface temperatures and pressures. An integrated
+suite of surface sensitive x‐ray scattering and spectroscopic techniques will be used to interrogate the
+dynamic structure and reactivity of the mineral‐water and mineral‐microbe interfaces. Stable isotope
+measurements of hydrogen, water, and methane will also reveal whether similar microbial dynamics
+might be successfully detected and interpreted in in‐situ systems. These investigations will provide first‐
+order insights into geochemical and microbial processes in the shallow earth during the exchange of
+atmospheric carbon dioxide with the geosphere.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+57
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Interpreting New Data from the High Energy Frontier
+Dr. Jesse Thaler, Assistant Professor
+Department of Physics
+Massachusetts Institute of Technology
+Cambridge, MA 02139
+This research aims to maximize the discovery potential of the Large Hadron Collider (LHC) by
+using theoretical insights in high energy physics to galvanize the search for new physics. The LHC will
+push the frontiers of fundamental physics through high energy particle collisions. However, gleaning
+evidence for new physics from the overwhelming standard model background is a challenging task, and
+innovative methods in data analysis and interpretation are needed to convert raw experimental
+measurements into evidence for new physics. In this research, three aspects of LHC physics in which
+theoretical insights can play a crucial role will be addressed. First, to propose new LHC searches, novel
+LHC signals for new physics scenarios involving supersymmetry and dark matter will be identified.
+Second, to increase experimental sensitivities in existing LHC searches, the PI will propose new data
+analysis techniques to better measure and identify jets produced in high energy collisions. Third, to
+make signal extraction more robust, the PI will improve Standard Model background predictions.
+Through this research on new physics searches at the high energy frontier, this project will help achieve
+the ultimate goal of the LHC: to discover what new phenomena lie beyond the standard model.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+58
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Microbial Communities in Biological Carbon Sequestration
+Dr. Susannah Tringe, Career Scientist
+Microbial Systems Group
+Genomics Division/Joint Genome Institute
+Biosciences Directorate
+Lawrence Berkeley National Laboratory
+Berkeley, CA 94720
+Wetland ecosystems are known to cycle and potentially store massive amounts of carbon on an
+annual basis. Carbon dioxide captured from the atmosphere by plants moves below the water or soil
+surface through the action of roots or the death of biomass, where it is subject to the processing by
+complex communities of microorganisms. This can result in the degradation of organic carbon back to
+carbon dioxide or methane or to more stable forms that may be stored for long periods of time.
+Relatively little is known about the organisms performing these processes or what conditions influence
+the storage or release of carbon. The current research will use cutting‐edge genomic techniques to
+examine microbial community structure and functional properties in a restored wetland habitat in San
+Francisco bay, with an emphasis on characterizing processes that result in increased biosequestration of
+organic carbon over time. The study will leverage resources at the Department of Energy Joint Genome
+Institute to link activities of dominant environmental microbes to major carbon cycle processes to
+enhance our understanding of critical biogeochemical cycles and ecosystem sustainability.
+This research was selected for funding by the Office of Biological and Environmental Research (BER).
+59
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Innovative Techniques for Improved Diagnosis and Control of Edge Localized Modes in 3‐D Toroidal
+Plasmas
+Dr. Ezekial Unterberg, Research and Development Associate
+Experimental Plasma Physics Group
+Fusion Energy Division
+Nuclear Science and Engineering Directorate
+Oak Ridge National Laboratory
+Oak Ridge, TN 37831
+The next step toward a magnetic fusion reactor is the large international experiment currently
+being built in France called ITER. A major challenge for ITER and future fusion reactors is controlling the
+intense flux of heat deposited on the confinement chamber wall by high‐energy, long‐pulse plasmas.
+Furthermore, local concentrations of heat flux can seriously damage the wall surface. Thus, interactions
+of the plasma with the material wall must be monitored and controlled in three dimensions (3‐D). Of
+special concern are sudden large impulses of heat resulting from plasma instabilities such as the Edge
+Localized Mode (ELM). These impulses create peaked values of heat flux that are many times the
+steady‐state wall flux levels and thus can augment the erosion of wall surface. This research aims to
+build tools to improve the understanding of ELM excitation, mitigation, and suppression mechanisms
+toward the design of more effective control methods. The design principles and mathematical tools
+developed and validated in this work can, in principle, help diagnose a wide range of 3‐D edge physics
+phenomena closely related to those examined here. The implementation of two diagnostics for
+measurement of these 3‐D edge perturbations will be pursued: The first diagnostic aims to measure the
+plasma edge magnetic field structure during the mitigation and/or suppression of ELMs by applying
+external 3‐D fields know as resonant magnetic perturbations. The other diagnostic will be used for
+precise tracking of high‐speed, cryogenic pellets used for triggering ELMs. Both of these diagnostics rely
+on the processing of 2‐D data to determine 3‐D plasma characteristics. Therefore, a unifying analysis
+method to extract this 3‐D information will be developed using common mathematical techniques. The
+new information given by this analysis can aid in the fundamental understanding of ELMs by providing
+novel, high‐fidelity 3‐D information during ELM control experiments in present‐day experiments.
+This research was selected for funding by the Office of Fusion Energy Sciences (FES).
+60
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Miracles in Scattering Amplitudes: from QCD to Gravity
+Dr. Anastasia Volovich, Richard and Edna Salomon Assistant Professor
+Department of Physics
+Brown University
+Providence, RI 02912
+The present research in the area of theoretical high energy physics will be centered around both
+theory and phenomenology of scattering amplitudes in quantum field theories and gravity. Recently,
+remarkable advances have been made in this area, with a broad spectrum of results ranging from new
+precision predictions in Quantum Chromodynamics (QCD) that will be very important for understanding
+Large Hadron Collider (LHC) data to the miraculous structures in N=4 Yang‐Mills and N=8 supergravity.
+This research involves deepening our understanding of gauge and gravity theories by exploring hidden
+structures of scattering amplitudes (ranging from integrability to twistors to the theory of motives) and
+using these rich structures as much as possible to aid practical calculations relevant to collider physics.
+These hidden structures not only help researchers calculate and make predictions for experimentally
+relevant processes but also lead to deeper understanding of fundamental properties of field and gravity
+theories. The research will contain three major areas, (1) QCD and Collider Physics; (2) N=4 Yang‐Mills
+and AdS/CFT (Anti DeSitter Space/Conformal Field Theory); and (3) Quantum Gravity. The funds will be
+used to train graduate students and postdocs.
+This research was selected for funding by the Office of High Energy Physics (HEP) and the DOE
+Experimental Program to Stimulate Competitive Research (DOE EPSCoR).
+61
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Physics and Control of Locked Modes in the DIII‐D Tokamak
+Dr. Francesco Volpe, Assistant Professor
+Department of Engineering Physics
+University of Wisconsin
+Madison, WI 53706
+The objectives of this project are (1) to control instabilities in tokamak plasmas by means of
+externally applied magnetic field perturbations and microwave‐generated electric currents and (2) to
+improve our understanding of the instability dynamics both by analyzing the unstable magnetic
+fluctuations that they generate and by comparing the experimental results with computer model
+predictions. Tokamaks are devices that confine toroidal (doughnut‐shaped) fusion plasmas by means of
+an equilibrium magnetic field configuration. Coherent helical modifications to the equilibrium magnetic
+field called locked modes can form in high‐performance tokamak plasmas, degrading confinement and
+resulting, in some cases, in an abrupt termination of the plasma. Such an event, called a disruption, can
+be detrimental to the tokamak device. This experimental study will deepen theoretical understanding of
+these locked‐mode‐related instabilities, improve the precision and scope of our predictions, and test
+and validate specific techniques for avoidance and control. Magnetic field perturbation measurements,
+advanced analysis, and comparison between experiment and computer models will be employed to
+study the dynamics and growth of locked‐mode‐related instabilities. To be evaluated is the ability to
+control locked modes by a combination of (a) externally applied magnetic field perturbations to modify
+their location and (b) a microwave‐generated current to modify their size. Of particular utility to the
+international ITER tokamak under construction in France is the development of a capability, made
+possible by the sensitivity of these locked‐mode‐related instabilities to desired and undesired magnetic
+field perturbations and imperfections, to diagnose and correct imperfections (“error fields”) inherently
+present upon the construction of a perfectly designed tokamak equilibrium magnetic field.
+This research was selected for funding by the Office of Fusion Energy Sciences (FES).
+62
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+RF Breakdown Dependence on Electric and Magnetic Fields and Pulsed Heating
+Dr. Faya Wang, Associate Scientist
+Accelerator Design Department
+Accelerator Research Division
+Accelerator Directorate
+SLAC National Acceleratory Laboratory
+Menlo Park, CA 94025
+The objective of this project is to understand breakdown of high gradient phenomena in an
+accelerator structure. Electric field, magnetic field and pulsed heating are thought to affect breakdown
+based on innumerous experiments. However, it is not clear how the combination of the fields and
+heating is governing breakdown since they are coupled in an accelerator cavity. This research aims at
+delineating these different effects by designing a special radio‐frequency (RF) cavity that permits the
+coupling of two different RF modes and the use of a laser for selected pulsed heating. A good
+understanding of these effects is important for designing structures capable of supporting high
+accelerating gradients, beyond current state of the art, for devices such as klystrons and magnetrons
+used for generating reliable RF power for driving accelerators. Better understanding of the associated
+physics and generation of breakdown can lead to significant cost saving for future high gradient
+accelerator applications such as linear colliders; compact linear accelerators for light sources, medicine,
+and industry; satellite communication systems; and fusion reactors.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+63
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Electron Temperature Fluctuation Measurements and Transport Model Validation at Alcator C‐Mod
+Dr. Anne White, Assistant Professor
+Department of Nuclear Science and Engineering
+Massachusetts Institute of Technology
+Cambridge, MA 02139
+The objective of this project is to merge experiment and theory by using advanced turbulence
+simulations to aid in the design of a new turbulence diagnostic system that will be used to test the
+fundamental physics of turbulent transport in tokamak plasmas. The research project will develop a
+novel correlation electron cyclotron emission (CECE) diagnostic system for measuring turbulence in the
+core plasma of the Alcator C‐Mod tokamak at the Massachusetts Institute of Technology (MIT).
+Gyrokinetic theory describes how small‐scale turbulent fluctuations are responsible for the observed
+transport of particles, heat, and momentum in tokamak plasmas. The new and unique data obtained
+with the CECE diagnostic system will be used in detailed validation studies to probe the limits of
+gyrokinetic theory and to assess the accuracy of models for turbulent‐driven transport in tokamaks. This
+diagnostic approach will measure electron temperature fluctuations, which provide direct information
+about the underlying physics of heat transport. When combined with advanced models and simulations,
+these data can be used to indirectly probe the turbulent transport of particles, momentum, and energy
+as well. This research project aims to transform the traditional approach to testing advanced gyrokinetic
+turbulence simulations by introducing an innovative method for merging diagnostic development with
+code validation. This includes using for the first time quantitative predictions of turbulence
+characteristics to guide the design of a new fluctuation diagnostic system.
+This research was selected for funding by the Office of Fusion Energy Sciences (FES).
+64
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Quantum Mechanical Simulations of Complex Nanostructures for Photovoltaic Applications
+Dr. Zhigang Wu, Assistant Professor
+Department of Physics
+Colorado School of Mines
+Golden, CO 80401
+This research project involves theoretical studies of complex semiconducting nanomaterials and
+their interfaces with other materials for next‐generation photovoltaic cells. The central challenge in
+materials simulation is to address complexities in real materials rather than considering the properties
+of idealized materials or structures. For photovoltaic devices, it is of paramount importance to be able to
+accurately predict excited‐state properties of complex nanostructures that are the result of optical
+absorption. However, current quantum mechanical simulation methods are either computationally too
+demanding or not sufficiently accurate. The primary objectives of this project are (1) developing a new
+theoretical approach for electronic excitation calculations that is both accurate and applicable to large
+and complex systems and (2) applying the new methodology to investigate complex nanostructures that
+have great potential of opening new routes toward designing a material’s transport, electronic, and
+optical properties for photovoltaic and other optoelectronic applications.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+65
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Functional Domain Walls as Active Elements for Energy Technology
+Dr. Junqiao Wu, Assistant Professor
+Department of Materials Science and Engineering
+University of California, Berkeley
+Berkeley, CA 94720
+This project aims to understand and exploit novel physics and functionalities of domain walls in
+transition metal oxides for their use as active elements to direct matter and energy. Heterophase and
+homophase domain walls are mobile, nanoscale elements existing in a wide range of materials; they can
+host remarkable, emergent functionalities that are absent in the bulk. This may lead to a variety of new
+energy technologies that are superior to existing ones. This research seeks to understand the
+fundamental mechanism governing diffusion and recombination of point defects facilitated by domain
+walls, demonstrate ultra‐sensitive transduction of external disturbances on domain wall motion, explore
+and exploit effects of domain walls in electrothermal transport for nanoscale thermal management, and
+finally probe the physical behavior of correlated electrons confined within domain walls as a quasi‐two‐
+dimensional electron liquid.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+66
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Enhancement of the Trigger Capaiblity for New Physics at the Large Hadron Collider
+Dr. Jinlong Zhang, Assistant Physicist
+High Energy Physics Division
+Argonne National Laboratory
+Argonne, IL 60439
+The Large Hadron Collider (LHC) is designed to address some of the most fundamental questions
+of physics by producing rare events of new physics in the tremendous background. To increase the
+sensitivity to new physics, the availability of more sophisticated event characteristics at early trigger
+stages will be crucial to ensure high background rejection with high signal efficiency. The track
+information of the event is reconstructed typically with reiterative software on CPUs (central processing
+units) and is very time consuming in the LHC environment. The research will involve the designing and
+building of a hardware system with massively parallel processing that will reconstruct global tracks with
+near‐offline resolution. Subsequently, sophisticated algorithms will combine the precisely reconstructed
+tracks with other trigger information to perform early background rejection and signature identification.
+This will substantially improve the potential for new physics discoveries.
+This research was selected for funding by the Office of High Energy Physics (HEP).
+67
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Utilizing Molecular Self‐Assembly to Tailor Electrical Properties of Si Nanomembranes
+Dr. Pengpeng Zhang, Assistant Professor
+Department of Physics and Astronomy
+Michigan State University
+East Lansing, MI 48824
+The objective of this project is to use silicon (Si) nanomembrane, a well controlled two‐
+dimensional single crystalline semiconductor, as a prototype system to explore the mechanistic basis of
+electronic interactions at the hetero‐interface and to develop strategies to tailor the nanomembrane's
+transport properties by surface functionalization and self‐assembly. Understanding and control of
+hetero‐interfaces between organic and inorganic materials is crucially important for the development of
+organic electronics, molecular electronics, molecular/biological sensors, and energy converting devices.
+However, an atomic‐ and molecular‐ level understanding of charge transfer behaviors at the interface
+and how they influence the properties of inorganic materials remains elusive. This work exploits the
+precision of molecular assembly on Si nanomembranes and combines the scanning probe microscopy
+characterization of local interfacial electronic structures with the electrical transport measurements of
+nanomembranes to elucidate the interfacial phenomena. The fundamental insights provided by this
+research may lead to the rational design of nanomaterials with controlled properties via regulation of
+surfaces and interfaces.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+68
+DOE Office of Science Early Career Research Program Awardee Abstracts Fiscal Year 2011
+Real Time TEM Imaging of Materials Transformations in Liquid and Gas Environments
+Dr. Haimei Zheng, Staff Scientist
+Materials Sciences Division
+Lawrence Berkeley National Laboratory
+Berkeley, CA 94720
+The objective of this project is to study the physical and chemical processes in materials with
+high spatial resolution using in situ liquid or gas environmental transmission electron microscopy (TEM).
+Understanding how materials grow and function at the nanometer or atomic scale in their working
+environments is essential to developing efficient and inexpensive energy conversion and storage
+materials and devices. With real‐time imaging in liquids or gases, this project will develop environmental
+cell TEM and result in better understandings of growth and chemical reactions of nanocrystals and mass
+transport induced structural changes in electrochemical processes important for energy applications.
+This research was selected for funding by the Office of Basic Energy Sciences (BES).
+69

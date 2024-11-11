@@ -1,0 +1,69 @@
+# ============================
+# Step 4: Look up h-index on Google Scholar
+# ============================
+
+def get_h_index(name):
+    """
+    Look up the h-index of a recipient using Google Scholar.
+    Uses the scholarly library to search for the recipient and return their h-index.
+    """
+    try:
+        search_query = scholarly.search_author(name)  # Correctly use the search_author method
+        author = next(search_query, None)  # Get the first matching result
+        
+        if author:
+            author_profile = scholarly.fill(author)  # Fetch full profile information
+            h_index = author_profile.get('hindex', None)  # Get the h-index, or None if not found
+            if h_index is not None:
+                return h_index
+            else:
+                print(f"No h-index found for {name}.")
+                return 'N/A'
+        else:
+            print(f"No Google Scholar profile found for {name}.")
+            return 'N/A'
+    except Exception as e:
+        logging.error(f"Error looking up h-index for {name}: {e}")
+        return 'N/A'
+
+def extract_and_classify_data_with_h_index(txt_dir):
+    """
+    Extracts names and institutions from all text files, classifies them, and looks up their h-index.
+    """
+    all_entries = []
+    txt_files = [os.path.join(txt_dir, f) for f in os.listdir(txt_dir) if f.lower().endswith('.txt')]
+
+    for txt_file in tqdm(txt_files, desc='Extracting Data from Texts'):
+        try:
+            with open(txt_file, 'r', encoding='utf-8') as file:
+                text = file.read()
+            
+            entries = extract_entries_from_text(text)
+            
+            if not entries:
+                logging.warning(f"No entries found in {os.path.basename(txt_file)}")
+                continue
+
+            for name, institution in entries:
+                gender_class = classify_gender(name)
+                category, subcategory = categorize_institution(institution)
+                
+                # Look up h-index on Google Scholar
+                h_index = get_h_index(name)
+                
+                all_entries.append({
+                    'Name': name,
+                    'Gender': gender_class,
+                    'Institution': institution,
+                    'Category': category,
+                    'Subcategory': subcategory,
+                    'h-index': h_index  # Add h-index to the entry
+                })
+                time.sleep(5)  # Sleep to avoid too many requests too quickly
+        
+        except Exception as e:
+            logging.error(f"Error processing {txt_file}: {e}")
+
+    # Create DataFrame
+    df = pd.DataFrame(all_entries)
+    return df

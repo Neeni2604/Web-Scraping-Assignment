@@ -1,0 +1,2299 @@
+Advanced Materials to Enable Next-Generation High-Power Accelerators
+Dr. Kavin Ammigan, Senior Engineer
+Accelerator Division
+Fermi National Accelerator Laboratory
+Batavia, IL 60510
+This research will develop advanced materials for beam-intercepting devices such as beam windows and
+particle-production targets to improve the performance, reliability, and operation lifetimes of next-
+generation accelerator target facilities. The microstructure and thermomechanical properties of novel
+high-entropy alloys and nanofiber materials will be specifically tailored to enable high-power secondary
+particle beam production in future facilities like the 2.4-megawatt Long-Baseline Neutrino Facility. This
+research project will combine in-beam experiments with complementary simulations to develop radiation
+damage and thermal shock tolerant materials, two of the leading cross-cutting material challenges that
+disrupt the performance and lifetime of beam-intercepting devices. Iterative simulations to optimize the
+material composition, physics performance and beam-induced thermomechanical response will guide the
+material design and fabrication processes based on established figures of merit. Ensuing material
+irradiation experiments using low-energy ions and prototypic high-energy protons, followed by extensive
+post-irradiation material characterization, will assess and qualify the materials for use in future high-
+power target facilities. These novel beam-intercepting materials, continuously bombarded by particle
+beams, will have to withstand an order-of-magnitude increase in beam intensities. With conventional
+materials already limiting the scope of experiments, the development of robust materials beyond the
+current state-of-the-art is crucial. The novel materials will enable the reliable operation of future world-
+leading accelerator facilities essential to support new high energy physics scientific discoveries.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+1
+Advanced methods for hybrid meson searches
+Dr. Alexander Austregesilo, Staff Scientist
+Experimental Nuclear Physics
+Thomas Jefferson National Accelerator Facility
+Newport News, VA 23606
+The strong nuclear force binds the fundamental quarks into composite hadrons, such as protons and
+neutrons, and is effectively responsible for 99% of the mass of the visible universe. Even though it is
+described by the theory of quantum chromodynamics (QCD) within the Standard Model of particle
+physics, it bears many unsolved mysteries. Confinement and the large interaction strength at low energies
+prevent the deduction of the hadron spectrum from first principles. Simplified models successfully
+describe the observed ground-state mesons and baryons as quark-antiquark or three-quark bound states,
+respectively, but no known mechanism in the theory forbids combinations of four or five quarks into so-
+called tetra- and pentaquark states. Furthermore, the carriers of the strong interaction, the gluons, can
+potentially contribute to the spectrum of hadrons. They can manifest themselves in the form of pure
+gluonic bound states, known as glueballs, or the excited gluonic field may contribute to the quantum
+numbers of so-called hybrid mesons. States with quantum numbers that cannot be realized by
+conventional quark-antiquark combinations are known as exotic mesons, which serve as unmistakable
+signs for hadrons beyond the simple quark models. The existence of glueballs, multi-quark states and
+other exotic excitations in the hadron spectrum is one of the most important predictions of the Standard
+Model that has not yet been confirmed experimentally. The primary objective of this research is the
+experimental study of these novel forms of nuclear matter within the spectrum of hadrons to further the
+understanding of the dynamics of the strong interaction. The Gluonic Excitation Experiment (GlueX) at the
+Thomas Jefferson National Accelerator Facility (Jefferson Lab) was specifically designed to study the light-
+quark meson spectrum and to confirm or refute the contribution of hybrid mesons. To unveil the full
+potential of its high-precision data and ultimately to achieve its scientific mission, novel approaches must
+be developed and applied, using advanced analysis methods and high-performance computing. This
+research project will advance Jefferson Lab as a world-wide center of expertise in the field of hadron
+spectroscopy. The award will invest in a state-of-the-art computing infrastructure, which will be reserved
+to carry out this research. Advanced methods such as machine learning and artificial intelligence will be
+used and studied systematically. The project also includes the development and implementation of novel
+real-time data processing and analysis schemes for the next generation of nuclear physics experiments.
+This research was selected for funding by the Office of Nuclear Physics.
+_____________________________________________________________________________________
+2
+Vera C. Rubin Observatory: from Commissioning to Cosmology
+Dr. Keith Bechtol, Assistant Professor
+Physics Department
+University of Wisconsin-Madison
+Madison, WI 53706
+Our observed universe is one statistical realization of the fundamental laws of nature enacted on the
+grandest scale. As observational cosmologists, we survey increasingly large volumes of the universe to
+help ascertain those laws with improved accuracy and precision. Experiments at the cosmic frontier
+have demonstrated that measurements of the cosmic expansion history and growth of structure are
+sensitive to physics beyond the Standard Model, including the nature of dark energy, massive neutrinos,
+the initial conditions of the Universe (e.g., inflation), and the particle properties of dark matter.
+Continuing this enterprise, the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) will
+catalog more galaxies and collect precision lightcurves for more supernovae during its first year of
+operation in 2024-2025 than all previous cosmic surveys combined. This research is dedicated to
+realizing the potential of LSST to explore the dark universe by performing value-added science validation
+studies during Rubin Observatory commissioning to enhance operational readiness, developing,
+validating, and characterizing cosmology-ready data products that will be the foundation of Dark Energy
+Science Collaboration (DESC) cosmology analyses using the first LSST Data Releases, and leveraging
+expertise in pixel-level to catalog-level analyses to advance two dark energy probes, namely, galaxy
+clustering and cosmography with strong gravitational lensing.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+3
+Mechanisms of Hydrogen Interaction with Earth Materials in Subsurface Storage Formations
+Dr. Lauren E. Beckingham, Assistant Professor
+Department of Civil & Environmental Engineering
+Auburn University
+Auburn, AL 36849
+Hydrogen storage in subsurface porous formations is a promising means of large-scale, long-term
+energy storage. Saline aquifers are particularly appealing storage reservoirs because of their geographic
+prevalence, low cost, and large potential storage capacity. However, hydrogen storage has not yet been
+carried out in such formations. In part, this is because interactions between injected hydrogen, formation
+fluids, and reservoir minerals are not well understood. These reactions will control the fate of injected
+hydrogen and ultimately operational feasibility, efficiency, and risk. Through advanced laboratory
+experiments, this project aims to enhance understanding of hydrogen-brine-mineral interactions under
+conditions pertinent for hydrogen storage in subsurface saline formations. This work will enhance
+fundamental understanding of reaction rates and mechanisms as well as impacts on formation properties.
+The knowledge gained on hydrogen interactions with earth materials will be critical to design and
+implementation of hydrogen storage systems.
+This research was selected for funding by the Office of Basic Energy Sciences and
+the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+4
+Ab Initio Vibrational Dynamics of Strongly Anharmonic Materials
+Dr. Timothy Berkelbach, Associate Professor
+Department of Chemistry
+Columbia University
+New York, NY 10027
+The atoms that compose molecules and crystalline materials are always vibrating. The quantum
+mechanical manifestations of these vibrations are called phonons. The properties of phonons, especially
+how they interact with one another or with electrons in the material, determine a number of
+technologically important properties, including those of solar cell materials that efficiently absorb light,
+thermoelectric materials that can turn waste heat into usable electricity, or superconducting materials
+that can transport electricity without resistance. Unfortunately, predicting these promising behaviors by
+computer simulation is very difficult when these vibrational interactions are strong. This work will develop
+a new computational method that will be able to simulate the vibrational properties of crystalline
+materials accurately and efficiently, called vibrational dynamical mean-field theory. This method is the
+analog of an existing state-of-the-art method for the quantum mechanical description of strongly
+interacting electrons, indicating a promising future in the simulation of strongly interacting phonons. This
+computational method will be implemented in an efficient, open-source software package and, upon
+completion, will be used to study halide perovskites for solar energy, thermoelectric materials for the
+recovery of waste heat, and hydrogen-containing materials for high-Tc superconductivity.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+5
+High performance adaptive multiscale simulation with data-driven scale selective subgrid
+parameterizations
+Dr. Peter A. Bosler, Principal Member of the Technical Staff
+Computational Science Department
+Sandia National Laboratories
+Albuquerque, NM 87125
+In many complex multiscale simulations, a fundamental mismatch exists between computational
+resolution, which is governed by the availability of computing resources, and the physical scales of the
+dynamics that must be simulated for a particular application. To maintain physical fidelity and realism,
+when the scales of a dynamically significant physical process cannot be resolved by a simulation, that
+process’s effects must still be accounted for in some way. Frequently, such processes are parameterized
+by subgrid-scale (SGS) models derived from observational data or theoretical scaling arguments that are
+associated with specific assumptions about the scale of the process relative to computational resolution.
+As computing resources continue to grow and to permit increasing resolution, physical processes can
+transition from unresolved, to semi-resolved, to resolved, and the use of SGS models can become a source
+of error and uncertainty. Adaptive algorithms dynamically adjust the computational resolution to the
+evolving scales in a multiscale simulation at reduced cost relative to uniformly high resolution simulations,
+but face two challenges. First, some applications simply contain too large a range of scales to resolve;
+second, adaptive strategies are difficult to generalize across application areas. We address both
+challenges with new approaches to adaptive multiscale simulation and SGS models. We will develop new
+theoretical connections between adaptive algorithms and a recently developed ``equation free’’ data-
+driven approach to SGS modeling. Ultimately, our goal is to provide application-independent adaptive
+strategies capable resolving a broad range of scales in many different applications such as coupled climate
+simulations and fusion reactor design, and of choosing an appropriate SGS model based on the availability
+of computing resources as a simulation evolves to enable the highest possible simulation fidelity.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+6
+Synthetic Membrane Biology in Microbial Cell Factories
+Dr. Itay Budin, Assistant Professor
+Department of Chemistry & Biochemistry
+University of California San Diego
+La Jolla, California 92093
+Yeasts and bacteria can be engineered to function as cell factories for the production of next-
+generation biofuels and biochemicals. Like all organisms, microbial cell factories are compartmentalized
+by cell membranes composed of lipids and proteins. These structures are only a few nanometers thick yet
+play critical functions during bioproduction. Membranes serve as the molecular microenvironment for the
+Electron Transport Chain (ETC), which is composed of a number of protein complexes and other molecules
+that carry out cellular respiration to provide energy to the cell. Therefore, membranes play a key role in
+controlling the rate of energy-producing reactions in central metabolism. They also act as the primary
+chemical interfaces with the extracellular environment, regulating the transport and efflux of internally
+produced molecules. The overall goal of this project is to engineer the structure and properties of cell
+membranes to improve the performance of industrially relevant microbes. The project’s first objective is
+to enhance the rate and efficiency of the respiratory metabolism by engineering the organization of the
+ETC. Engineering efforts will define the limits of respiratory metabolism and seek to increase the
+production of energy-intensive next generation biofuels. The second objective is to apply the emerging
+biochemistry of intracellular lipid trafficking pathways to develop new transporters for the capture of
+valuable biochemicals produced by the engineered yeasts. Soluble transporters will be developed for
+terpene-based substrates and be applied to develop new efflux pathways for this class of bioproducts.
+The planned research activities will thus harness fundamental membrane biology to develop novel
+biotechnologies to advance towards the development of renewable energy production systems.
+This research was selected for funding by the Office of Biological and Environmental Research.
+_____________________________________________________________________________________
+7
+Innovative Core-Edge Solutions for Tokamaks
+Dr. Livia Casali, Assistant Professor and Zinkle Faculty Fellow
+Department of Nuclear Engineering
+University of Tennessee-Knoxville
+Knoxville, Tennessee 37996
+Developing a core-edge solution for power handling while maintaining high core performance in
+tokamak-based fusion energy is a critical path toward this limitless source of energy. Because the core
+and the edge are governed by different physics, understanding how these regions interact and can be
+integrated represents an extraordinary challenge encompassing a wide range of spatial scales and a
+broad energy and temperature range. The limitation in reproducing reactor conditions in present
+experiments implies that most of current predictions of a reactor behavior have to rely on modelling.
+Radiative operation is considered essential for the operation of future fusion devices, and the
+achievement of core edge integration. As such, a deep physics understanding governing impurity
+transport and the development of tools to facilitate the achievement of a sustained regime with high
+radiation fraction has become a pressing issue in fusion research. The objective of this research is to
+tackle this challenge with a novel strategy which combines experimental activities, physical
+interpretation, and the development of a new tool for an integrated high fidelity modeling approach
+that will enable self-consistent impurity transport studies from the edge to the core. This will be applied
+to existing experiments for validation, and to inform and plan new experiments which will test the
+improved core-edge solutions identified through the validated modelling, thus ensuring the reliability of
+the integrated modelling also for predictions. Experiments designed to test modeling-driven, innovative
+solutions will open up important new directions for extrapolation and future predictions. This work will
+provide the scientific community with new modelling possibilities in the field of the integration between
+plasma core and edge and completely new and comprehensive possibilities in physics understanding of
+the complex physics processes which strongly impact the entire plasma behavior and the viability of
+present scenarios to reactor conditions.
+This research was selected for funding by the Office of Science, Fusion Energy Sciences program
+_____________________________________________________________________________________
+8
+Unraveling transmutation effects in tungsten-based plasma-facing materials: a computational
+approach that integrates nuclear transmutation, first-principles calculations, and Machine Learning
+Dr. David Cereceda, Assistant Professor
+Department of Mechanical Engineering
+Villanova University
+Villanova, PA 19085
+Establishing power sources that do not emit carbon dioxide into the atmosphere is one of the
+key challenges of the 21st century. Fusion, the reaction that powers the sun, is an energy source with
+one of the highest energy densities, thus holding great potential to help solve such a global puzzle.
+Despite the recent advances in plasma physics and materials science aimed at making fusion a feasible
+energy source, critical challenges still remain. One such challenges is the development of plasma-facing
+materials (PFMs), which provide the physical boundary between the plasma and vessel and are subject
+to bombardment by energetic neutrons which change the nuclide composition over time via
+transmutation reactions. The aim of this research is to establish an innovative computational paradigm
+for unraveling these transmutation effects in tungsten-based PFMs. The strategy for pursuing this goal is
+to integrate radiation-induced transmutation, first-principles Density-functional theory electronic
+structure calculations, and machine learning into a coherent materials design framework. The outcome
+of this project will be a suite of modeling tools able to predict transmutation effects and allow for
+inversely designed, high-performance PFMs. Furthermore, the modular nature of the tools will enable
+future extensions and integration with other modelling efforts, thus allowing for increased physics
+fidelity and the subsequent investigation, on a broader scale, of the evolving surface morphology and
+composition of tungsten-based PFMs in a realistic fusion environment.
+This research was selected for funding by the Office of Fusion Energy Sciences.
+_____________________________________________________________________________________
+9
+Studying the properties of supranuclear matter with neutron stars
+Dr. Katerina Chatziioannou, Assistant Professor
+Department of Physics
+California Institute of Technology
+Pasadena, CA 91125
+Neutron stars are nuclear matter’s last stand in the battle against total collapse under the overwhelming
+force of gravity. With masses comparable to that of our Sun yet smaller in size than the island of
+Manhattan, neutron star interiors drive matter to extreme conditions with densities exceeding those
+found in everyday nuclei. Under these conditions, the properties and even the composition of matter in
+neutron stars is uncertain. A wealth of observational and experimental data will become available in the
+next years. Collisions of neutron stars traveling at a fraction of the speed of light will be detected with
+gravitational and electromagnetic radiation; thermal emission from hot regions on the surface of
+isolated neutron stars will be observed with X-ray radiation; radio surveys will continue tracking neutron
+stars in binaries with white dwarfs and measure their masses; terrestrial experiments will constrain the
+properties of finite nuclei. At the same time theoretical nuclear calculations are reaching new levels of
+maturity. This project aims to develop the data analysis infrastructure and algorithms necessary in order
+to analyze and combine the incoming data. The objective is to determine the properties and
+composition of neutron star matter as well as the astronomical properties of neutron stars. Some of the
+key questions this research targets are how large is the pressure inside neutron stars; do deconfined
+quarks exist in their cores; and what is the heaviest neutron star that exists in our Universe. This project
+aims to use data to robustly address some of the open questions with the widest interdisciplinary
+interest in nuclear astrophysics: the internal structure of neutron stars, the properties of matter at the
+highest densities, and the astrophysical conditions of the production site of heavy elements.
+This research was selected for funding by the Office of Nuclear Physics.
+_____________________________________________________________________________________
+10
+Probing Quark Matter and Hadronization Using Energy Flow Substructure
+Dr. Yang-Ting Chien, Assistant professor
+Physics and Astronomy Department
+Georgia State University
+Atlanta, GA 30303
+A hot and dense medium created in high energy nuclear collisions, referred to as the Quark-Gluon
+Plasma (QGP), exhibits novel properties of a perfect fluid. Its inner working is an open question, which
+holds the key to a better understanding of the strong interaction. Since the QGP only lasts about
+10−23 second with a size of a nucleus, jets produced during hard scattering as sprays of energetic and
+collinear particles can be used to probe such medium. Modifications of such energy flow substructure
+due to jet-medium interaction therefore encode detailed information about QGP properties. This
+project uses modern machine learning algorithms to search for QGP signatures in jets, which will be
+guided by theoretical calculations of jet substructure using Quantum Chromodynamics. Nuclear
+structure and hadronization, which is the transition from quarks and gluons to final state particles, can
+also be identified through their imprints in energy flow substructure. The project will contribute to
+establishing timely and firm basis for understanding the data from the Relativistic Heavy Ion Collider, the
+Large Hadron Collider, and the future Electron Ion Collider.
+This research was selected for funding by the Office of Nuclear Physics.
+_____________________________________________________________________________________
+11
+Modulating Actinide Redox Chemistry with Functionalized Metal Oxide Electrodes
+Dr. Christopher J. Dares, Assistant Professor
+Department of Chemistry and Biochemistry
+Florida International University
+Miami, FL 33199
+Controlling actinide oxidation states is critical to the management of used nuclear material. The
+properties of actinides in unusual oxidation states, and the factors that affect oxidation state stability, are
+not well understood. During nuclear energy production, actinides heavier than uranium, including
+neptunium, plutonium, americium, and curium, are produced through neutron-capture processes.
+Compared to lanthanide fission products (which nearly exclusively exist in the +3-oxidation state), these
+transuranic elements can exist in oxidation states as low as +3, to as high as +6, with redox transformations
+that can occur with varying degrees of difficulty. This variety in possible oxidation states and oxidation
+state stability has created challenges for nuclear waste management.
+The stability of specific oxidation states will be adjusted by attaching molecules to the actinide of
+interest. This will be exploited by creating electrode surfaces functionalized with molecules that bind and
+adjust the redox potentials of actinides to create a platform to study actinides in unusual oxidation states.
+The material scaffold we will use is a transparent conductive metal oxide like titania, while the attached
+ligands include discrete organic or inorganic molecules. We will adjust actinide oxidation states using
+electrochemical input (voltage), which may be combined with light input. The additional use of light
+excites the metal oxide electrode and can lower the voltage required to alter actinide oxidation states and
+improve efficiency. Initial work will focus on uranium and the factors that affect the reductive destruction
+of the uranyl structure to form a tetravalent uranium species. Ensuing studies will use actinides formed
+from nuclear power including neptunium, americium, and curium.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+12
+Molecular and Network Design of Liquid Crystal Elastomer Elastocalorics
+Dr. Emily C. Davidson, Assistant Professor
+Department of Chemical and Biological Engineering
+Princeton University
+Princeton, NJ 08540
+The elastocaloric effect occurs when stress is applied to or removed from a material inducing a
+phase transformation, causing the material to heat up or cool down. Thus, by coupling a change in entropy
+between two phases to an applied stress, elastocalorics provide a potential solid-state solution to
+replacing the vapor compression cycle of today’s refrigeration. Notably, elastomeric elastocalorics are
+capable of achieving tremendous performance for orders of magnitude smaller applied stress than other
+leading elastocaloric candidates such as shape metal alloys. Relative to conventional elastomeric
+elastocalorics, liquid crystal elastomers (LCEs) exhibit a distinct mechanotropic phase transition, enabling
+excellent elastocaloric performance at small strains and stresses. However, LCE elastocaloric performance
+remains limited by the magnitude and sharpness of the mechanotropic phase transition. While liquid
+crystal small molecules and polymers undergo sharp first order phase transitions, these transitions are
+substantially broadened in liquid crystal elastomers. Non-homogenous internal stress fields are a primary
+driver of the observed continuous phase transition in liquid crystal elastomers and limit the magnitude
+and sharpness of the elastocaloric response. Improving the elastocaloric response requires driving the
+phase change towards classical first order behavior throughout the bulk of the material.
+The objective of the proposed work is to experimentally develop a fundamental understanding of
+how structure and heterogeneity across scales control phase behavior in liquid crystal elastomers.
+Specifically, we will investigate the effects of structure on the thermotropic and mechanotropic phase
+transitions by probing (1) local network inhomogeneities arising from entanglements, dispersity between
+crosslink sites and uncontrolled junction functionality, (2) network ‘memory’ of stress inhomogeneities
+associated with liquid crystalline domain boundaries and the templated phase of the LCE, and (3)
+sequence-level molecular tuning to decouple the latent heat of the mechanotropic phase transition from
+the transition temperature. To achieve this, we will leverage a new LCE synthetic approach that will enable
+the synthesis of monodisperse sequence-controlled main chain liquid crystalline polymer precursors to
+create complementary tetrafunctional elastomer precursors. We will also use advanced morphological
+characterization techniques to identify changes in elastomer structure, phase, and heterogeneity, and to
+quantify the phase behavior and elastocaloric response. The understanding developed here is anticipated
+to provide design rules that will enable the rational design and synthesis of next-generation high
+performance elastomeric elastocalorics suitable for energy-efficient, solid-state refrigeration.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+13
+Measurement of Neutron-Induced Cross Sections of Nuclides Produced at the Facility for Rare Isotope
+Beams (FRIB) using the National Ignition Facility (NIF)
+Dr. John D. Despotopulos, Staff Scientist
+Nuclear and Chemical Sciences Division
+Lawrence Livermore National Laboratory
+Livermore, CA 94550
+This research leverages unique capabilities at two of the nation’s premier research facilities, the
+National Ignition Facility (NIF) at Lawrence Livermore National Laboratory and the Facility for Rare
+Isotope Beams (FRIB) at Michigan State University. FRIB is the only accelerator in the world capable of
+generating many of the nuclear isotopes that are created inside stars, whereas NIF is the world’s only
+facility capable of recreating the conditions inside stars, which it achieves by aiming 192 laser beams
+onto a tiny capsule to induce nuclear fusion. When nuclear fusion occurs, material added into the target
+will undergo neutron-induced reactions, and nuclear cross sections can be determined by collecting
+samples for analysis. This project will harvest radioactive isotopes from FRIB, radiochemically purify
+those isotopes and add them to the inside of a NIF target capsule in order to study these same isotopes
+in a neutron-rich environment similar to that in stellar interiors. The measured cross sections will
+improve our understanding of stellar nucleosynthesis and benefit national security, both key goals of the
+Office of Nuclear Physics. These measurements will be among the first ever made in a true high energy
+density plasma and for radioactive species with short half-lives.
+This research was selected for funding by the Office of Nuclear Physics.
+_____________________________________________________________________________________
+14
+HPC-OMP-CAR: HPC OpenMP Compiler and Runtimes
+Dr. Johannes Doerfert, Assistant Computer Scientist
+Mathematics and Computer Science Division
+Argonne National Laboratory
+Lemont, IL 60439
+Developing and debugging scientific software are both hard for a variety of reasons. Some are intrinsic
+to the science involved, others, however, are simply regrettable side effects of the environments with
+which scientific-software developers are provided. It is unfortunate, but common in the high-
+performance-computing (HPC) community, that we require domain scientists to learn about low-level
+performance engineering, hardware stacks, and subtleties of compilers and runtimes—all on top of their
+actual field of study. Furthermore, this process is repeated for every new machine, every new parallel-
+programming model, every new scientist, and every major update of the software or hardware stack.
+In this project, we will advance scientific-software development beyond the classical approach by
+providing an adaptive, interactive, and smart development environment tailored to non-expert users.
+We will evolve the novel compiler and runtime technology we put into the LLVM/OpenMP ecosystem to
+refocus scientific-application development on the science, not the programming, regardless of the
+parallel-programming models employed by an application. The overall goal is to automate costly aspects
+of traditional software development, while also providing the means for applications written in other
+parallel-programming models to utilize the modern OpenMP ecosystem, and thereby all our existing and
+upcoming extensions. In addition to fully interoperable and portable parallel-programming languages,
+we will create a first-of-its-kind knowledge base that helps software developers interact with the
+compiler in novel and productive ways. If we succeed, domain scientists will no longer have to become
+expert programmers and performance engineers with knowledge of every HPC hardware and software
+stack.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+15
+Nanoscale Quantum Sensing and Imaging of Topological Magnets
+Dr. Chunhui Du, Assistant Professor
+Department of Physics
+University of California, San Diego
+La Jolla, CA 92093
+Magnetic topological materials with spontaneously broken time-reversal symmetry, nontrivial
+band topology, and unconventional spin transport properties have received substantial research interest
+over the past decade due to their rich physics and enormous promise in technological applications. A
+central focus in this emerging field is the exploration of the relationship between microscopic magnetic
+structures and exotic material properties dictated by quantum mechanics. We propose to take advantage
+of the unprecedented field sensitivity and spatial resolution of nitrogen-vacancy (NV) centers, optically
+active spin defects in diamond, to perform nanoscale quantum sensing and imaging of emergent
+topological magnets. This will reveal the fundamental physics underlying the interplay between band
+topology, electron correlations, and magnetism. Specifically, we will image the peculiar noncollinear spin
+textures of antiferromagnetic Weyl semimetals and probe the Kibble-Zurek type magnetic phase
+transition in topologically protected condensed matter systems. We are also interested in using scanning
+NV microscopy to achieve concurrent imaging of local magnetic structures and electric current flow
+patterns in intrinsic magnetic topological insulators, to reveal the underlying mechanism behind the
+recently observed “high-temperature” quantum anomalous Hall effect. Our “stretch” goal is to integrate
+functional quantum magnets with NV spin qubits to establish quantum entanglement between distant NV
+spin qubits via energy dissipationless chiral edge states.
+The proposed research will make important contributions to the burgeoning field of quantum
+materials and will significantly promote the role of magnetic topological materials in the development of
+transformative, next-generation quantum information technologies. By developing cutting-edge quantum
+sensing techniques and demonstrating their operation at broad experimental conditions, we also propose
+to provide a versatile NV-based quantum microscopy platform, which will extend naturally to a large
+family of untapped material systems and benefit the material science community in the long run by
+expediting progress towards future quantum technologies.
+This research was selected for funding by the Office of Basic Energy Sciences.
+____________________________________________________________________________________
+16
+Integrated Physics Modeling and Online Machine Learning
+for Characterization and Tuning of Particle Accelerator Systems
+Dr. Auralee Edelen, Associate Staff Scientist
+Accelerator Research Division
+SLAC National Accelerator Laboratory
+Menlo Park, CA 94025
+Particle accelerators are some of the most complex scientific instruments in existence. They serve
+a wide array of medical, industrial, and scientific applications, ranging from cancer treatment to
+understanding fundamental laws of physics. At highly-flexible accelerator-based scientific user facilities,
+such as the Linac Coherent Light Source (LCLS) and the Facility for Advanced Accelerator Experimental
+Tests (FACET-II) at SLAC National Accelerator Laboratory, requests for custom particle beam
+characteristics must be met within appropriate tolerances to ensure the success of each experiment. This
+can be challenging due to the large number of adjustable variables, nonlinear responses, and time-varying
+behavior of these systems. Increasingly, experiments also require fine dynamic control over the position-
+momentum phase space distribution of the particle beam, as opposed to tuning on approximate scalar
+metrics (e.g., bunch length, energy spread), or stable maintenance of a single optimal configuration.
+Proof-of-concept studies have demonstrated the efficacy of various techniques from Artificial Intelligence
+(AI) and Machine Learning (ML) in beam modeling and tuning, ranging from black-box optimization of
+accelerator setups with little previous data to the production of fast-executing approximations of
+computationally expensive physics-based simulations. A major next step is to integrate and build on these
+approaches to enable more comprehensive, model-informed tuning. Comprehensive ML-based
+approaches may be able to discover and leverage nuanced system-wide interactions, potentially leading
+to unprecedented ability to produce custom beam distributions and finely tune them dynamically during
+experiments. To see this to fruition, this research aims to advance the state-of-the-art in ML-based
+modeling and control of accelerators, with a heavy focus on customization of beam phase space
+distributions and the production of highly-transferrable learned model representations. This will involve
+developments in several areas, including techniques for making ML models more re-usable between
+accelerator systems and components, techniques for adaptation of ML models to new conditions
+(including, for example, physics-guided approaches), techniques for dynamic phase space control that
+leverage ML models, and the integration of these facets to tackle challenging phase space characterization
+and tuning problems for scientific users.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+17
+CommAwareNet: Towards Communication-Aware Smart Facilities:
+Designing an Energy-efficient High-data-rate and Reliable Hybrid THz/VLC Communication
+Architecture Reinforced with Intelligent Surfaces for Future Networks
+Dr. Sabit Ekin, Assistant Professor
+School of Electrical and Computer Engineering
+Oklahoma State University
+Stillwater, OK 74078
+This Career Project will develop foundations for energy-efficient, high-data-rate, and reliable
+communication links for next-generation advanced wireless technologies. The Internet of Everything is
+emerging as a major technology that can establish a massively connected network among both human-
+type users and machine-type devices. Particularly, massive machine-type communication is becoming the
+dominant communication paradigm for numerous emerging areas, including data center networking and
+wireless backhaul, healthcare (e-health), manufacturing (industry 4.0), utilities, transportation (connected
+cars and public safety), and virtual or augmented reality for human-machine interaction applications. The
+rising demand for high data rates, especially in indoor scenarios and densely populated outdoor
+environments, will eventually overload conventional RF-based technologies. Consequently, terahertz
+(THz) and visible light communications (VLC) have been envisioned as promising key enablers to achieve
+high-speed information transmission for future 6G+ (6G and Beyond) and WiFi+ wireless systems. In
+particular, THz is a critical part of the overall solution thanks to its huge bandwidth to support optical-
+fiber-like speeds wirelessly. To achieve energy efficiency and high reliability in wireless systems, future
+communication networks will depend on seamless integration and operation of RF and optical systems.
+The best of both RF and optical worlds is needed simultaneously. Thus, there is a critical need to develop
+a new hybrid architecture for smart facilities (infrastructure) and environments to support the increasing
+throughput needs. Without such a network architecture, our ability to support the growing data demand
+of machine-type and human-type users will be limited, thus diminishing our productivity. Motivated by
+the PI’s promising preliminary results, this project follows a hybrid approach that combines THz and VLC
+technologies reinforced with intelligent reflective surfaces (IRS) to overcome the challenges of new
+generation hybrid communication links. This project aims to conduct fundamental research to design,
+optimize, and validate a communication-aware, energy-efficient, and reliable network (CommAwareNet)
+architecture for future smart facilities and environments that require unprecedented high throughput
+needs for massive numbers of the machine- and human-type users. The scientific and technical merit of
+this work lies in the research required to bring the proposed transformative CommAwareNet solution into
+fully functional and practical architecture.
+This project strongly aligns with DOE’s advanced wireless networking objectives and the ASCR
+Advisory Committee’s recommendations to broaden the research base and extend its national leadership
+in advanced computing. This research is expected to have outcomes that have far-reaching impacts
+ranging from a communication network, development of the computer science workforce, societal needs,
+and to DOE ASCR’s priorities.
+This research was selected for funding by the Office of Advanced Scientific Computing Research and
+the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+18
+Grain boundary structure engineering of resilient tungsten alloys for fusion applications
+Dr. Timofey Frolov, Staff Scientist
+Physical and Life Sciences Directorate
+Lawrence Livermore National Laboratory
+Livermore, CA 94550
+In magnetic fusion energy systems, the temperature, strong fields and radiation from the
+burning plasma pose extreme demands for containment. Even though magnetic fields do much of the
+job of containing the charged particles of the plasma, ultimately it is engineering materials that provide
+the interface to the world. To face the harsh fusion conditions, tungsten has been proposed as a plasma-
+facing armor material to meet the needs for high thermal conductivity, high melting temperature, low
+sputtering rates and superior resistance to neutron damage. Despite these advantageous properties,
+tungsten is very brittle, which poses a major challenge for both performance and additive manufacturing
+of tungsten parts, with cycles of melting and rapid solidification creating high residual stresses that lead
+to cracking along grain boundaries. Solutes, impurities, and transmutation elements from neutron
+bombardment are also known to strongly affect grain boundary strength and fracture behavior. The aim
+of this research is to understand how different impurities change the structure and mechanical
+properties of grain boundaries and how these changes in turn affect the ductility of polycrystalline
+tungsten alloys. The project will use the state-of-the-art modeling tools to predict grain boundary
+phases at different concentrations of solutes, and massively parallel computing to model tensile
+deformation of tungsten grain boundaries to predict associated mechanical properties and failure
+mechanisms. This research will advance the fundamental understanding of how polycrystalline alloys
+deform and suggest new strategies for crack mitigation in additively manufactured refractory alloys,
+thus enabling the design of resilient tungsten alloys for fusion energy applications.
+This research was selected for funding by the Office of Fusion Energy Sciences
+_____________________________________________________________________________________
+19
+Solutions for a more efficient and economical fusion fuel cycle
+Dr. Trey E. Gebhart, R&D Staff
+Fusion Energy Division
+Oak Ridge National Laboratory
+Oak Ridge, Tennessee 37830
+The success of nuclear fusion as a future power source highly depends on power plant economics,
+ability to reach a significant energy gain factor, reliability, and overall safety. One of the major economic
+implications of a deuterium-tritium fueled power plant, whether it is based on magnetic or inertial
+confinement, is the efficiency of the fuel cycle infrastructure dedicated to capturing and reusing the
+unburned tritium from the reactor exhaust. The need for technology to reduce power plant tritium
+inventory has been apparent for decades, but its development was never funded at any appreciable level
+in the US. Several high-level reports on fusion have stressed this need with the most recent being the
+National Academy of Sciences (NAS) report, which was informed by the US fusion Community Planning
+Process. The NAS report outlines the need for a plant tritium inventory of <1 kg for public safety, licensing,
+and economic viability. One of the most effective methods of reducing overall tritium inventory is through
+the implementation of a continuous plasma exhaust separation loop, which results in a large fraction of
+the exhausted DT fuel bypassing the tritium exhaust reprocessing plant and being supplied directly back
+to the fueling systems. This concept of directly recirculating the machine exhaust gas to the fueling system
+to make fuel pellets has been termed Direct Internal Recycling (DIR). In this approach, the fusion fuel in
+the plasma exhaust stream is separated from impurities locally on a fast time scale and diverted directly
+back to the fueling systems, bypassing the slower acting tritium plant isotope separation and other
+processing equipment, and therefore significantly reducing its size and overall power plant tritium
+inventory. The objective of this research is to develop scientific understanding through modeling and
+experiments to design and demonstrate proof-of-principal cryogenic pump-based technology that will
+efficiently recirculate the DT fuel from the plasma exhaust to the fueling injectors using the expertise and
+infrastructure available at Oak Ridge National Laboratory.
+This research was selected for funding by the Office of Fusion Energy Sciences
+_____________________________________________________________________________________
+20
+Urban Resilience across the Terrestrial-Aquatic Continuum: Mechanisms to Mass Balance
+Dr. Emily B. Graham, Research Scientist
+Earth and Biological Sciences Directorate
+Pacific Northwest National Laboratory
+Richland, WA 99352
+Over 70% of the world’s population is predicted to live in urban areas by the end of the century,
+yet the impacts of urbanization on coastal ecosystems are poorly understood. These systems
+disproportionately impact the global carbon (C) cycle, and in turn, are key to understanding climate
+change. My vision is to develop a process-based understanding of urban C cycling and its response to
+disturbances from land to sea.
+Across the urban terrestrial-aquatic continuum, a plethora of land uses and associated
+anthropogenic activities contribute excess C and nutrients (nitrogen [N] and phosphorous [P]) to soils and
+waterways, which in turn generate distinct biogeochemical processes. Extreme precipitation events
+heighten these impacts by flushing materials into aquatic ecosystems and ultimately into the coastal
+ocean. However, despite the common selective pressures imposed by these factors, each urban system is
+uniquely designed and managed, so deriving generalized knowledge remains challenging. Here, I focus on
+unraveling the interplay of molecular controls, nutrient supply, and hydrologic factors that drive microbial
+metabolism of organic matter (OM), the primary constituent of organic C in most ecosystems, in urban
+coastal systems. I hypothesize that commonalities in urban microbial community function create
+generalizable mechanisms regulating OM decomposition in the context of anthropogenic activities.
+I specifically seek to (1) identify specific locations (control points) most critical to C flux into urban
+coastal zones; (2) determine the impact of anthropogenic activities on microbial organic matter (OM)
+decomposition under ambient conditions and extreme precipitation; and (3) uncover generalizable
+processes across urban centers. To do so, I am teaming with 16 collaborators that routinely collect
+hydrologic and biogeochemical measurements in three coastal urban centers with different population
+densities, land uses, and climates. This team includes a mixture of federally funded, university, and
+nonprofit groups to create a one-of-a-kind network while also supporting place-based learning and
+inclusivity of underrepresented groups in science. We will use field surveys and a model-experiment
+workflow to discover hydrologic and biogeochemical processes that regulate C cycling from source to sink
+across urban ecosystems.
+Collectively, this research will generate a mechanistic framework of coastal urban C cycles that
+incorporates molecular-scale responses to precipitation. It provides a basis for alleviating key
+uncertainties in the Office of Science, Biological and Environmental Research’s existing multiscale models
+that will enable enhanced predictions of the global climate system.
+This research was selected for funding by the Office of Biological and Environmental Research.
+_____________________________________________________________________________________
+21
+Multidimensional Parameter-Space Feature Tracking, Analysis, and Visualization
+Dr. Hanqi Guo, Computer Scientist
+Mathematics and Computer Science Division
+Argonne National Laboratory
+Lemont, IL 60439
+Computational science, machine learning, and data analysis constantly advance and accelerate scientific
+discovery. Scientific simulations, models, and analyses for such advances usually depend on parameters
+whose exact values require tuning. A key challenge in such tuning is understanding how the outcome of
+a model changes with varying parameters and the sensitivity of each parameter. This research aims to
+establish a novel paradigm to help visualize and understand the outcomes of parameter changes by
+multidimensional parameter-space feature tracking. A generalization of traditional spacetime feature
+tracking, parameter-space feature tracking associates essential features such as extrema, vortex core
+lines, and boundary surfaces across multiple data instances induced by different input parameters.
+Specifically, we will research the tracking, analysis, and visualization of features across multidimensional
+parameter spaces. First, we will research mesh- and density-based methods for feature tracking in
+continuous and discrete parameter spaces. Second, we will research analysis algorithms to derive
+insights directly from multidimensional features. Third, we will investigate visualization methods to help
+enable parameter space exploration and understand multidimensional features. The proposed
+methodology will be applied to help understand ensemble simulations and machine learning models in
+Earth systems, fusion energy, and X-ray tomography applications.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+22
+Connecting Molecular Electronic Structure and Electron Spin Decoherence Mechanisms
+for Quantum Information Science
+Dr. Ryan G. Hadt, Assistant Professor
+Division of Chemistry and Chemical Engineering
+California Institute of Technology
+Pasadena, CA 91125
+The next generation of information processing devices will rely upon detailed understanding of
+quantum phenomena at the single atom and molecule level. While the electron spin relaxation processes
+inherently important for applications in quantum information science have been rationalized on the basis
+of the Debye model, the assumptions behind this model are incompatible with the structure of molecular
+materials and, thus, this approach does not yield meaningful insights or predictions for slowly relaxing,
+highly coherent molecules. A new approach rooted in molecular structure is therefore required to fully
+understand high temperature decoherence mechanisms. Our lack of current understanding further stems
+from a dearth of experimental studies and approaches aimed at probing the key spin-phonon coupling
+and chemical bonding contributions to decoherence mechanisms. To address these issues, this research
+employs and develops new lines of spectroscopic inquiry to quantitatively evaluate the critical spin-
+phonon coupling processes that control high temperature quantum coherence/decoherence in molecular
+systems, thus integrating advances in spectroscopy with an impactful scientific research directive. The
+research aims to provide firm experimental grounding for theoretical models of spin relaxation, enabling
+a rational path to high temperature, highly coherent molecular quantum technologies. More generally,
+this research ties together new experimental and theoretical approaches to study the structural and
+dynamic electronic properties of molecular systems, as the models developed here can be translated
+directly to other critical molecular processes such as intersystem crossing and single-ion magnetism. As in
+high temperature decoherence mechanisms, these dynamical processes are governed by the coupling
+between electronic spin states and ultrafast atomic motions.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+23
+Density Profile Control for Improved Performance in Wendelstein 7-X
+Dr. K. C. Hammond, Staff Research Physicist
+Advanced Projects
+Princeton Plasma Physics Laboratory
+Princeton, NJ 08540
+This project seeks to improve the attainable performance parameters of plasmas in the Wendelstein 7-X
+(W7-X) stellarator and sustain these improved parameters for extended periods of time (up to 30
+minutes). One of the main factors limiting plasma performance is thought to be turbulent transport,
+which can prevent the plasma from retaining enough input energy to attain the conditions for fusion
+burn. Since the density profile can heavily influence turbulent transport, the project will develop the
+capability to control the density profile in real time to minimize turbulence. This will be accomplished
+through three main project objectives. First, a system will be deployed for real-time evaluation of
+electron temperature and density profiles from Thomson scattering signals, which will serve as key
+inputs to profile control algorithms. Second, feedback algorithms will be developed for controlling the
+density profile that employ the W7-X Continuous Pellet Fueling System (CFPS), foreseen to be installed
+later this year, as an actuator. Third, these profile control schemes will be used to design experiments
+that improve plasma performance through turbulence reduction and discharge length extension. The
+choice of target profile parameters will be informed by gyrokinetic simulations to determine stability to
+turbulent fluctuations. If successful, the methods developed in this project to establish profile control
+and sustained turbulence reduction could serve as a model for attaining similar outcomes on next-step
+stellarator devices and stellarator-based fusion reactors.
+This research was selected for funding by the Office of Fusion Energy Sciences
+_____________________________________________________________________________
+24
+Main Ion Transport and Fueling in the DIII-D Pedestal: From Formation to Sustainment
+Dr. Shaun R. Haskey, Research Physicist
+ITER & Tokamaks Department
+Princeton Plasma Physics Laboratory
+Princeton, NJ 08540
+Plasmas on ITER and in future fusion power plants (FPPs) are expected to rely on an edge transport
+barrier, known as the H-mode pedestal, to reach the core parameters required to achieve significant
+fusion gain. Improved understanding of the mechanisms behind the formation and sustainment of the
+H-mode pedestal is a critical gap for developing accurate predictive models required to optimize future
+magnetic fusion devices. The structure of the H-mode pedestal is determined by the complex interplay
+of several processes including atomic physics interactions that couple the confined plasma to the edge
+neutral population. These effects are poorly characterized with existing measurements and the
+understanding of their impact on plasma fueling and pedestal structure remain inadequate for robust
+predictive capabilities. The objectives of this research are to address key outstanding physics issues
+related to plasma fueling and how the density and temperature profiles can affect plasma turbulence
+and achievable pedestal parameters. The research will be carried out at the DIII-D National Fusion
+Facility and will be enabled through major upgrades to the main-ion CER (MICER) diagnostic system to
+provide measurements of the density and energy of the neutrals from inside the pedestal top to the
+scrape off layer of fusion grade tokamak plasmas. These new measurements will be used to uncover the
+extent that higher energy ‘thermal’ neutrals, which are born through charge exchange with confined
+ions, may be capable of fueling the plasma in the conditions expected at reactor scale. The combination
+of these new measurements and the extensive capabilities of the DIII-D tokamak will allow this research
+to test state of the art theoretical models of pedestal transport and provide insight into the complex
+interplay of physical processes that govern the pedestal structure in current and future fusion devices.
+This research was selected for funding by the Office of Fusion Energy Sciences
+____________________________________________________________________________
+25
+Reusable Molecular Platforms for On-Demand Photochemical Dihydrogen Production
+Dr. Dugan Hayes, Assistant Professor
+Department of Chemistry
+University of Rhode Island
+Kingston, RI 02881
+Hydrogen has the potential to revolutionize the world’s energy production, storage, and
+distribution infrastructures. But while hydrogen stores more energy by mass than any other chemical fuel,
+it stores very little energy by volume, even as a cryogenic liquid. Thus, reusable solid or liquid materials
+that store hydrogen indefinitely at ambient temperature and pressure and release it on demand are
+critical to facilitate the expansion of the renewable hydrogen economy. The overall aims of this research
+are 1) to investigate the mechanisms of a newly discovered photochemical reaction in which
+hydroxymethyl groups appended to dye molecules undergo photooxidative dihydrogen elimination to
+give their corresponding aldehydes and 2) to develop molecular materials that take advantage of this
+reaction to store and release hydrogen on demand using visible light as a trigger. Hydroxymethyl
+derivatives of three common organic dyes – anthracene, acridine, and proflavine – have been found to
+undergo this transformation following illumination with light-emitting diodes and even sunlight, and
+regeneration of the hydrogen-storing materials may then be accomplished through catalytic
+hydrogenation. The trajectory of the hydrogen elimination reaction will be investigated at the atomic level
+using a combination of isotope labeling experiments, ultrafast transient absorption spectroscopy, and
+quantum chemistry calculations. Insights from these studies will then be used to design new molecular
+species with increased hydrogen storage capacity, higher quantum yields, and stronger absorption of the
+terrestrial solar spectrum. In addition to application in hydrogen storage, this work will provide
+fundamental insights into the excited state dynamics in a new class of photochemical reactions with
+important implications for molecular solar energy conversion processes.
+This research was selected for funding by the Office of Basic Energy Sciences and
+the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+26
+AI-ACCELERATED DISCOVERY OF DARK ENERGY PHYSICS WITH LSST, DESI, AND CMB-S4
+CROSS-CORRELATIONS
+Dr. Andrew Hearin, Assistant Physicist
+Cosmological Physics & Advanced Computing group
+Argonne National Laboratory
+Lemont, IL 60439
+The expansion of the universe is accelerating. This phenomenon defies expectations based on ordinary
+gravitating matter and indicates that contemporary theories of cosmology are either incomplete or
+fundamentally incorrect. Many of the premier DOE cosmology experiments of the 2020s have been
+specially designed to measure the cosmic acceleration with unprecedented precision, such as the Rubin
+Observatory Legacy Survey of Space and Time (LSST), the Dark Energy Spectroscopic Instrument (DESI),
+and Cosmic Microwave Background Stage 4 (CMB-S4). This proposal provides a critical tool in the quest
+to understand the physics of the "dark energy" driving the cosmic acceleration. Historically, studies of
+dark energy are carried out using a single galaxy sample observed by an individual survey, but the
+character of our data is changing: multi-survey information from thousands of square degrees of
+overlapping sky will soon become available for the first time, which opens up the exciting prospect of a
+new era of multi-wavelength cosmological analyses that use multiple datasets simultaneously. This
+proposal focuses on developing a new generation of models that have the capability to make multi-
+wavelength predictions with an accuracy that matches the quality of cosmological survey data in the
+2020s. The linchpin of this program is a ground-up reformulation of present-day techniques that
+leverages the computational gains of Artificial Intelligence (AI) algorithms. Our program will lay the
+foundation for a novel approach to cosmological inference that unlocks the predictive power of the
+world’s largest simulations through targeted application of AI and will help propel the field of cosmology
+into the era of exascale computing.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+27
+Biogeochemical Controls on Phosphorus in Urban-influenced Coastal Ecosystems
+Dr. Elizabeth Herndon, Senior Staff Scientist
+Environmental Sciences Division
+Oak Ridge National Laboratory
+Oak Ridge, TN 37831
+Coastal river deltas are home to hundreds of millions of people worldwide and provide trillions of
+dollars of economic and ecosystem services each year. However, deltas are being degraded by human
+activities that cutoff their supply of sediments and remove protective ecosystems. As a consequence, low-
+lying coastal areas are vulnerable to flooding and landward migration of ocean water. Coastal degradation
+driven in part by urban flood control measures has resulted in substantial land loss along the Louisiana
+Gulf Coast. A 50-year effort is underway to preserve existing land through projects that include water and
+sediment diversions and marsh creation. Efforts to maintain or even rebuild the coast are expected to
+preserve habitats, support coastal industries, and buffer urban areas against hurricane damage and
+flooding; however, ecosystems that receive diverted river water may be impaired by excess nutrients from
+urban and agricultural runoff. To predict the future evolution of the Gulf Coast and its resilience to
+disturbance, it is critical to evaluate how nutrients are stored and processed across flooding and salinity
+gradients that represent current and future coastal ecosystems.
+Phosphorus is a critical nutrient that influences plant growth and decomposition of organic matter
+by microorganisms; however, phosphorus binds strongly to soil minerals and can become limiting to
+ecosystem growth and function. Phosphorus binding to soil minerals and its release into solution are
+regulated by oxygen levels and salinity within soils, which are particularly dynamic in coastal ecosystems
+subject to tides and flooding. This project will evaluate phosphorus storage and mobilization in contrasting
+deltas on the Louisiana Gulf Coast where water management strategies have resulted in either growing
+or shrinking deltas. This work will explore the conceptual framework that urban flood control measures
+influence oxygen and salinity levels in coastal wetlands by altering sediment and freshwater inputs. These
+shifting regimes, which vary seasonally and are sensitive to sea level rise and storm surges, in turn regulate
+phosphorus binding to soil minerals. Findings from this research will inform Earth system models being
+developed to simulate coastal systems and will be particularly beneficial to efforts to improve model
+representation of phosphorus cycling.
+This research was selected for funding by the Office of Biological and Environmental Research.
+_____________________________________________________________________________________
+28
+Expanding Sensitivity to New Physics at the Large Hadron Collider
+Through Unconventional Track Signatures
+Dr. Tova Holmes, Assistant Professor of Physics
+Department of Physics and Astronomy
+University of Tennessee
+Knoxville, TN 37996
+The Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN) was
+built with two primary goals. The first was to complete the exploration of all known particles of the
+Standard Model (SM) of particle physics, which was accomplished in 2012 with the discovery of the Higgs
+Boson. The second was to break it: to find direct evidence that the SM disagreed with experimental
+observations; to find signs of something new. The measurement of a low-mass Higgs boson provided a
+theoretical indication that additional new particles should exist at the energy scales accessed at the LHC,
+but so far, nothing definitive has been observed. The overarching goal of this research program is to
+identify well-motivated new phenomena that could have been produced at the LHC but were missed due
+to their unconventional particle decay signatures. Thus far, the effort has been fundamentally limited by
+the trigger filtering systems developed for the LHC experimental detectors, which are responsible for
+discarding more than 99.99% of collision data before they can be recorded while capturing only those
+processes that match a pre-defined set of selection criteria. Unconventional signatures, such as diffuse
+decays and long-lived particles, rarely pass current filtering requirements. Using the large datasets
+collected by the CMS (Compact Muon Solenoid) experiment at the LHC, this project will leverage expertise
+in Field Programmable Gate Array (FPGA)-based fast tracking technologies and long-lived particle searches
+to expand the trigger menu, with a particular focus on recording the extremely challenging but well-
+motivated signature of a displaced tau lepton in the CMS detector. With the new data acquired during
+LHC’s next running period, the research group will design and execute new search strategies that rely on
+advanced machine learning techniques to disentangle signs of new physics from the significant
+background processes expected from LHC collisions. Complementing these searches, a real-time FPGA-
+based tracker will be developed to advance CMS's High-Luminosity LHC detector upgrade and thereby
+further expand the sensitivity to unconventional signatures during the initial stages of the real-time trigger
+process. Ultimately, the research will allow for the exploration of new territory at the LHC thereby creating
+new opportunities for scientific discoveries.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+29
+INTELYTICS: An Efficient Data-Driven Decision-Making Engine for Performance in the Era
+of Heterogeneity
+Dr. Tanzima Z. Islam, Assistant Professor
+Department of Computer Science
+Texas State University
+San Marcos, TX 78666
+Simulations leverage High Performance Computing (HPC) systems to evaluate numerous what-if scenarios
+of otherwise experimentally intractable phenomena quickly. However, HPC ecosystems consist of diverse
+components, e.g., architectures, programming models, and system software. Failure to consider how
+parameters at the user-, software-, and facility-level interact when running these simulations can delay
+the scientific return or leave these billion-dollar systems underutilized. Worse yet, the best parameter
+combination changes as resource availability evolves in these heterogeneous environments, making it
+difficult for users to respond to the dynamism in real-time. Machine-learning-based (ML) performance
+modeling and tuning can automate this decision-making process. However, off-the-shelf ML techniques
+assume that parameters are independent, thus failing to exploit their correlations during performance
+prediction. Consequently, the current approaches need to retrain models as the environment changes,
+requiring substantial training data and a long time to adjust their predictions.
+This project will overcome the gaps mentioned above by transforming performance data into a graph
+structure to capture the parameter relationships and leverage the recent advancements in graph-based
+learning methods to accelerate real-time decision-making in HPC. Specifically, this project will build
+generalizable and interpretable ML techniques for recommending parameter settings to users, software,
+and facilities so that simulations can finish faster by efficiently utilizing the computing resources. The
+resulting engine, INTELYTICS, will fill gaps identified by ASCR experts toward an automated workflow
+management system in heterogeneous computing environments.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+30
+Understanding the Spatiotemporal Spectra of Transport-Inducing Instabilities in Low Temperature
+Plasmas
+Dr. Benjamin Jorns, Assistant Professor
+Department of Aerospace Engineering
+University of Michigan
+Ann Arbor, MI 48109
+The goal of this research effort is to develop a new experimental method to investigate instabilities that
+induce particle and energy transport in low temperature plasma (LTP) ion sources. LTP ion sources are
+among the most widely used types of man-made plasmas. Notable applications include water treatment,
+plasma medicine, materials processing, and in-space propulsion. In all these sources, understanding
+instability-driven particle and energy flux, known as anomalous transport, is important because these
+processes often dominate the fundamental plasma state, leading to undesirable effects such as poor
+confinement, efficiency loss, and reduced ion beam quality. However, there is currently a capability gap
+in experimental techniques to measure the key length scale and growth processes that govern transport-
+inducing instabilities in LTPs. This is the result of several factors including limited probe accessibility,
+limited spectral bandwidth, and the influence of random noise. The objective of this research is to address
+this capability gap by developing a novel probing technique based on bispectral analysis combined with
+Bayesian inference. This experimental method will be applied to assess instabilities in a range of LTP ion
+sources including a crossed-field discharge, an arc discharge, and a radiofrequency ion source. The project
+will address several key questions: what length scale do instabilities extract energy from the plasma and
+at what rate? how is the energy re-distributed across the instability spectra and can it lead to self-
+organization? what are the mechanisms that lead to the shape and saturation of the instability spectra?
+and how much ultimately do the instabilities contribute to anomalous transport?
+This research was selected for funding by the Office of Fusion Energy Sciences
+_____________________________________________________________________________________
+31
+Understanding Enhanced Isotope Sieving Through Defects in 2D Membranes
+Dr. Piran R. Kidambi, Assistant Professor
+Department of Chemical and Biomolecular Engineering
+Vanderbilt University
+Nashville, Tennessee, 37212
+Atomically thin two-dimensional (2D) materials present new opportunities for advancing separation of
+isotopes and light elements with minor atomic number (Z) differences. The pristine lattice of graphene
+and h-BN is impermeable to Helium atoms but allows for permeation of sub-atomic species i.e. electrons,
+protons and its isotopes. The introduction of precise sub-nanometer defects/pores into the 2D lattice can
+significantly enhance transport of sub-atomic species and enable practical separations of interest to
+national security, energy generation and conversion, as well as environmental remediation/de-
+contamination efforts. A detailed fundamental understanding of the transport characteristics of isotopes
+and light elements with minor Z differences through sub-nanometer defects/pores in 2D materials is
+hence imperative but remains elusive. The proposed research aims to develop new experimental
+approaches to study and elucidate transport characteristics of isotopes and light elements with minor Z
+differences through sub-nanometer pores in the 2D lattice. Outcomes of the proposed research are
+anticipated to include i) fundamental insights into transport characteristics of isotopes and light elements
+with minor Z differences, ii) novel approaches to increase isotope selectivity of 2D membranes, and iii)
+new knowledge on the development of atomically thin membranes for isotope separations, furthering the
+Department of Energy Isotope Program mission to “conduct R&D on new and improved isotope production
+and processing technologies that can make available isotopes for essential research and applications.”
+This research was selected for funding by the Office of Isotope R&D and Production, DOE Isotope
+Program.
+_____________________________________________________________________________________
+32
+Designing Chemical Disorder in Solid-State Superionic Conductors
+Dr. Jae Chul Kim, Assistant Professor
+Department of Chemical Engineering and Materials Science
+Stevens Institute of Technology
+Hoboken, NJ 07030
+Phenomenological coupling between physical properties arises in crystalline solids, as dictated by
+symmetry and the chemistry of materials. This coupling however often hinders materials innovation by
+limiting materials design degree, for example, the well-known tradeoff between lithium (Li) conductivity
+and voltage stability in crystalline Li superionic conductors. Chemical disorder present in non-crystalline
+solids can offer new functionalities to materials properties that are restricted in crystalline solids. Non-
+crystalline solids, through flexibility in composition, have the potential to shift the paradigm of functional
+materials design. However, how non-crystalline solids form, transform, and function remains unclarified
+due to the lack of long-range structural descriptors, making it extremely challenging to rationalize
+materials development. In light of this clear motivation, the goal of this project is to establish unified
+materials design principles and synthesis guidelines for non-crystalline solids. Specifically, we will
+investigate non-crystalline Li superionic conductors for electrochemical solid-state energy storage by 1)
+elucidating how short-range structures and chemistry govern macroscopic Li transport and
+electrochemical stability and 2) monitoring how chemical disorder evolves under mechano-chemical
+activation. To achieve this goal, we will combine solid-state chemistry, synchrotron experiments, and
+electrochemistry to synthesize, characterize, and assess non-crystalline Li superionic conductors.
+Successful outcomes of this project will allow a transformational step forward in designing complex non-
+crystalline materials, providing pivotal solutions to discover non-crystalline Li superionic conductors and
+expand the frontiers of materials chemistry.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+33
+Heavy Flavor at RHIC
+Dr. Anders Knospe, Assistant Professor
+Department of Physics
+Lehigh University
+Bethlehem, PA 18015
+In the first few microseconds after the Big Bang, the universe consisted of a hot and dense state of
+matter called the quark-gluon plasma (QGP). This state of matter is essentially a "soup" of quarks and
+gluons, the subatomic particles which make up protons and neutrons, which in turn are the building
+blocks of atomic nuclei. Scientists at modern collider facilities accelerate nuclei to very high energies and
+smash them into each other, which “melts” them into their constituent quarks and gluons and recreates
+the QGP. The plasma expands and cools during its short lifetime (~10-23 seconds) before making the
+transition back to regular matter. Physicists use a wide variety of probes to characterize the properties
+of the QGP in detail. This work will use heavy quarkonia, which are bound charm-anticharm or bottom-
+antibottom mesons, as probes of the quark-gluon plasma. The presence of a QGP will inhibit the
+formation of heavy quarkonia in a way that depends on both the temperature of the plasma and how
+tightly bound the quarkonium state is. Measurements of the abundances of different types of quarkonia
+in heavy-ion collisions, compared to a proton-proton collision baseline, will allow us to probe the
+properties of the QGP, including its temperature evolution. In this work, we will measure the yields of
+charm-anticharm and bottom-antibottom quarkonia in small (proton-proton) and large (heavy-ion)
+collision systems to shed light on how the suppression of these bound states evolves with system size.
+Furthermore, the quark-gluon plasma has been observed to behave as a liquid with a very low viscosity.
+We will conduct measurements of the flow parameters of bottom-antibottom quarkonia to characterize
+the extent to which bottom quarks participate in the collective motion of the system. This work will
+make use of the excellent particle identification and tracking capabilities of the STAR detector and the
+newly upgraded sPHENIX detector, both at the Relativistic Heavy Ion Collider at Brookhaven National
+Laboratory. Our use of heavy, rare particles to probe the quark-gluon plasma will shed light on the
+behavior of this unique state of matter and help us better understand the strong nuclear force, one of
+the fundamental forces of nature.
+This research was selected for funding by the Office of Nuclear Physics
+_____________________________________________________________________________________
+34
+Fundamental Mechanisms of Newtonian Diffusional Creep in Structural Alloys
+Dr. Boopathy Kombaiah, Staff Scientist
+Characterization and Advanced Post-Irradiation Examination
+Idaho National Laboratory
+Idaho Falls, ID 83415
+Heat engines generate more than 70% of the world’s electricity. To meet growing energy
+demands, advanced generation concepts will require significantly higher operating temperatures while
+addressing the need to limit CO emissions and enable energy-intensive processes like hydrogen
+2
+production. In these extreme environments, creep deformation (a type of deformation seen at high
+temperatures and relatively low stress) becomes a critical performance degradation process in structural
+alloys. Knowledge of fundamental mechanisms governing the creep deformation rate in materials under
+a broad spectrum of stresses and temperatures is crucial for creep-resistant materials design and service
+life prediction. There are several theories of the creep deformation mechanisms. In the Newtonian
+diffusional creep process, it is premised that vacancies flow between grain boundaries subjected to
+different stress conditions, giving rise to plastic deformation. Theories of diffusional creep provide a
+compelling picture for materials scientists to design microstructures that improve creep resistance.
+However, these theories remain vigorously debated due to a lack of experimental evidence and poor
+prediction of creep rates.
+To isolate the fundamental mechanisms controlling Newtonian diffusional creep, it is
+hypothesized that stress-assisted flow of vacancies to specific interfaces in multicomponent materials will
+cause elemental segregation. This hypothesis will be investigated by studying the influence of composition
+and soluble hydrogen on diffusional creep mechanisms in structural alloys. Advanced research tools
+available at Idaho National Laboratory and U.S. Department of Energy user facilities, including advanced
+testing and multiscale characterization techniques (i.e., in situ /ex-situ - secondary ion mass spectrometry,
+transmission electron microscopy, and atom probe tomography) and mesoscale phase-field modeling
+tools will be brought to bear to test this hypothesis. The mechanistic understanding of the diffusional
+creep mechanisms will enable new pathways for designing advanced creep-resistant materials for
+extreme temperature, stress, and corrosion environments.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+35
+Superconducting Qubit-Based Sensors for meV-Scale Particle Detection
+Dr. Noah Kurinsky, Staff Scientist
+Fundamental Physics Division
+SLAC National Laboratory
+Menlo Park, CA 94025
+Many of the most pressing topics facing particle physics over the next decade will require detectors
+sensitive to much smaller energies than we have been able to probe in the past. Searches for dark
+matter below the electron mass, new physics with neutrinos, and deeper cosmological probes, all
+require innovations in sensor technology to see energy deposits one thousand times smaller than the
+current state of the art in detector technology. Quantum bits, or qubits, developed for quantum
+computers, are macroscopic devices which behave as quantum objects, and have already demonstrated
+sensitivity to events on these energy scales – to the point that interactions with radiation is the limiting
+factor for one class of qubits comprised of superconducting thin films. For these qubits, the amount of
+time they can remain in their quantum state, also called coherence time, is severely limited by the
+interaction of the superconducting qubits with their environment. Recent work has shown that qubits
+are sensitive to many of the same types of signatures we typically search for using scientific cameras and
+dark matter detectors. This project will work to broaden our understanding of how different types of
+radiation affect the qubit state, and work to improve coherence times to enable more complex quantum
+computations, a major priority of DOE science and industry partners. It will simultaneously design novel
+devices, based on the opposite optimization, to enable light-, heat-, and charge-sensitive detectors
+needed to address a wide range of scientific priorities in high energy physics. This research will thus help
+bring together the quantum information science and high energy physics communities in a highly
+synergistic area and improve our understanding of superconducting devices and their interaction with
+their environment, enabling major advances in both fields.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+36
+The Role of Strain Localization at Interfaces on Fatigue Crack Initiation
+in Highly Textured Magnesium Alloys
+Dr. Aeriel D.M. Leonard, Assistant Professor
+Department of Materials Science and Engineering
+The Ohio State University
+Columbus, OH 43210
+New and novel materials with extraordinary properties, from superior fatigue resistance to
+excellent high temperature performance, enable a shift from energy-expensive materials to sustainable
+materials with a positive impact on communities and the environment. Though these material systems
+provide many advantages, the underlying meso- and micro-scale structures are complex and as a result,
+the mechanical behavior is very different than that of traditional metallic alloys. Of the properties, fatigue
+– the repeated cycling of stress on a material – is the most critical form of damage in load bearing
+structures. In fact, fatigue accounts for 80 to 90% of failures in structural components and is still a major
+problem in many industries. Though fatigue has been studied for over 180 years there are still gaps in our
+understanding of the processes controlling fatigue crack initiation and growth. This project will directly
+address these challenges using a specifically designed and multimodal systematic study that combines
+electron microscopy, digital image correlation, and high energy X-ray based techniques to understand the
+mechanisms of damage accumulation at interfaces in complex microstructures leading to crack initiation
+and growth. A fundamental understanding of the complex interactions at the meso- and micro scale that
+influence fatigue behavior and crack initiation will provide the underpinning knowledge needed to: 1).
+inform physically based models that accurately predict fatigue lifetime in complex systems and 2). develop
+fatigue resistant, microstructurally, and compositionally complex alloy systems.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+37
+Revealing Sensitive Battery Liquid-Solid Interfaces via Cryogenic-Electron Microscopy
+Dr. Yuzhang Li, Assistant Professor
+Department of Chemical and Biomolecular Engineering
+University of California, Los Angeles
+Los Angeles, CA 90095
+One of the most important global challenges of our time is the development of clean energy
+technologies. Batteries that can store more energy without compromising stability play a critical role in
+this transition. Although a metallic lithium anode enables batteries with more than double the energy
+densities of the current state-of-the-art, large-scale deployment remains absent due to poor cycling
+efficiency, short lifetime, and significant safety concerns. These drawbacks are fundamentally linked to
+the nanoscale liquid-solid interfaces that govern electronic and ionic pathways during battery operation.
+This research project will develop innovative cryogenic electron microscopy (cryo-EM) techniques to
+reveal and understand the liquid-solid interfaces in lithium metal batteries. Specifically, the goal is to
+investigate how swelling, reactions, and wetting proceed at the liquid-solid interface and correlate their
+nanoscale features with macroscale battery performance. New insights from this research will fill an
+important unmet need for identifying guiding principles to engineer longer lasting and safer batteries.
+More broadly, the technical innovations in cryo-EM developed in this project have broad implications for
+diverse research fields beyond energy storage, where liquid-solid interfaces play a critical role in governing
+the nanoscale processes in systems spanning biology and chemistry.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+38
+Probing the Coordination in Confinement for Electrochemical Separation among Rare Earth Elements
+Dr. Chong Liu, Neubauer Family Assistant Professor
+Pritzker School of Molecular Engineering
+The University of Chicago
+Chicago, IL 60637
+Rare earth elements are a group of seventeen elements of enormous importance to clean energy
+production and storage. Their separation relies on the construction of optimal coordination environments
+to differentiate the slight differences in their ionic radii and Lewis acidity. This research aims to understand
+and control rare earth separations by modulating their coordination in confinement using
+electrochemistry. Electrochemical separation has the potential to reduce environmental pollution,
+promote electrification of chemical production, and reduce the carbon footprint. The electrode crystal
+structure determines the termination atom position, atom-atom distance, lattice spacing, and crystal
+water amount. These parameters determine each rare earth ion's equilibrium coordination configuration
+and strength. In competition, the rigid framework induces a significant energy penalty to unfavorable
+coordination configurations and kinetic pathways to promote the separation among rare earth elements.
+Coordination in confinement represents a similar strategy to the use of size and binding but in an inorganic
+framework for selective separation. Additional physical and chemical processes (such as solid transport
+and material morphology) are explored to enhance selectivity. Synthetic methods are developed to
+modulate the compositional and structural factors of the host materials and correlative characterization
+tools are used to resolve their effects on rare earth coordination and separation, thus probing the
+fundamental limit in separating individual rare earth elements.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+39
+Physics-informed neural operators for fast prediction of multiscale systems
+Dr. Lu Lu, Assistant Professor
+Department of Chemical and Biomolecular Engineering
+University of Pennsylvania
+Philadelphia, PA 19104
+High-fidelity simulations like direct numerical simulation (DNS) of turbulence and molecular dynamics
+(MD) of atomistic systems are computationally very expensive and data-intensive, and most of the
+outputs produced are permanently lost. Furthermore, for multiscale problems, the microscale
+component is so expensive that it has stalled progress in simulating time-dependent atomistic-
+continuum systems. These open issues, in turn, have delayed progress in the forecasting of real-time
+dynamics in critical applications such as astronomy, extreme weather patterns, and designing efficiently
+new functional materials. Scientific machine learning (SciML) has the potential to totally reverse this
+rather inefficient paradigm and significantly accelerate scientific discovery with direct impact on
+technology in the next few decades, if it can be used creatively.
+We propose to develop a new generation of neural operators, universal approximators for operators, by
+extending the deep operator network (DeepONet) and Fourier neural operator (FNO) that can learn
+explicit and implicit operators from data only. While preliminary results are promising in diverse
+settings, we need to extend the predictability of neural operators for unseen out-of-distribution inputs
+and to speed-up the training process via high performance and multi-GPU computing. To this end, we
+will endow neural operators with physics, multifidelity data, and equivariant principles (e.g., geometric
+equivariance and conservation laws) for continuum systems and with seamless coupling for hybrid
+continuum-molecular systems, where neural operators will replace the expensive molecular component.
+We have formulated a research program in three research areas, and we have designed a set of large-
+scale simulations (active control of turbulence, learning constitutive laws, and crack propagation) in
+order to demonstrate the effectiveness of the proposed developments.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+40
+Searching for New Physics with
+Advanced Liquid Argon Detector Capabilities at Neutrino Experiments
+Dr. Xiao Luo, Assistant Professor
+Physics Department
+University of California, Santa Barbara
+Santa Barbara, CA 93106
+The Liquid Argon Time Projection Chamber (LArTPC) has been chosen as the main detector technology for
+both short and long baseline neutrino oscillation projects in the US. In addition to delivering the precision
+measurements of neutrino oscillation parameters, the large-scale detectors combined with intense
+neutrino beams from the Fermilab accelerator complex also provide a unique platform to search for
+physics Beyond the Standard Model (BSM). These neutrino experiments are particularly advantageous in
+searching for new long-lived particles with MeV - GeV masses, covering a parameter space
+complementary to collider or low energy experiments. Significant advancement in detection technology
+is however needed to transform these LArTPCs from measuring neutrino interactions to catching sub-GeV
+new particles. Specifically, neutrino background suppression is the primary challenge for any rare new
+physics search. Leveraging the fine time structure of the pulsed neutrino beam, this research program
+addresses background rejection first through nanosecond timing measurement of a particle’s time of
+flight. One nanosecond resolution can effectively separate the early arrival neutrinos from heavier BSM
+particles, presenting a new method to dramatically boost sensitivity to new physics. Another focus of this
+program is the development of a low threshold, low background, scintillation-light based trigger system
+dedicated for new physics searches. This work is centered around photon detector R&D to increase signal
+light yield and the investigation of puzzling high rates of single photoelectron backgrounds. The software
+component of this research lies in the development of novel reconstruction and analysis techniques
+targeting electron-positron pairs -- a common final state signature predicted by numerous BSM models.
+Machine-learning based techniques will be developed to suppress photon background induced from
+standard neutrino interactions without compromising the signal efficiency. Although aimed for new
+physics searches, the advances in liquid argon technology that this research program envisions will also
+enhance the precision of neutrino oscillation measurements, strengthening these experiments’ designed
+goals.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+41
+Practical Tensor Hypercontraction Coupled Cluster Methods for Excited State Dynamics
+Dr. Devin Matthews, Assistant Professor
+Department of Chemistry
+Southern Methodist University
+Dallas, TX 75275
+The interaction of light with matter is a critical process which must be understood in order to
+explain and control microscopic phenomena encountered in many different DOE BES program areas. For
+example, a detailed microscopic understanding of energy and charge transport between molecules is
+important for designing inorganic and organic semiconductor materials, coherent control of
+photocatalytic reactions, and obtaining a detailed understanding of photosynthetic energy transfer
+mechanisms. The combination of experimental measurements and computational modeling is necessary
+to fully elucidate these complex problems, but one major obstacle is the rapid increase of computational
+cost (computer time) with the size of the molecule or system studied. The goal of this research is to break
+this barrier by developing the tensor hypercontraction coupled cluster (THC-CC) approximation into an
+accurate, efficient, and practical tool for simulating the structure and dynamics of molecular excited
+states. As a reduced-scaling method, the decrease in computer time for THC-CC compared to traditional
+approaches improves rapidly with molecular size and will enable entirely new application areas. This
+research will combine a number of approaches and techniques including orbital localization, reduced-
+scaling tensor factorization, data compression via H-matrices, and analytic gradient theory to produce a
+practical THC-CC implementation which can calculate energetic, geometric, and electrical properties of
+both ultra-violet/visible and x-ray excited states. In particular, the dynamics of excited states will be
+addressed by developing exact analytic gradients for both ground and excited states. Additionally, this
+research will include pilot applications to the photostability properties of both natural and
+artificial/modified nucleobases and environmental effects thereon, and to the study of singlet and triplet
+dynamics in organic photovoltaic materials, including microscopic singlet fission/triplet fusion dynamics.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+42
+Ultrafast Control of Spin Fluctuations in Light-Driven Quantum Materials
+Dr. Matteo Mitrano, Assistant Professor
+Department of Physics
+Harvard University
+Cambridge, MA 02138
+Quantum materials feature subtly interacting lattice, orbital, charge, and spin degrees of freedom.
+The delicate balance among these interactions makes quantum solids extremely susceptible to external
+stimuli and is key to the appearance of emergent collective phases such as superconductivity, magnetism,
+and charge order. Manipulating spins via ultrafast light-matter interaction is a promising route to
+dynamically control quantum materials’ properties and induce novel light-matter hybrid states. However,
+understanding how lasers modify the microscopic spin dynamics in quantum materials is still a challenge,
+mainly due to the lack of momentum sensitivity of ultrafast optical probes. This project will address this
+fundamental problem by tightly integrating advanced ultrafast optical spectroscopy and time-resolved
+Resonant Inelastic X-ray Scattering methods. The main goal is to provide a comprehensive understanding
+of the microscopic physics of light-driven spin fluctuations in quantum materials. We will map these
+phenomena in paradigmatic examples of quasi-one-dimensional, quasi-two-dimensional, and frustrated
+interacting spin systems. This research will make use of transformative new spectroscopic capabilities at
+x-ray free electron laser facilities and is poised to advance our understanding of light-matter interaction
+processes in interacting electron systems. The results of these studies will define a strategy to synthesize
+light-driven states of matter without equilibrium analogues and to establish protocols for the realization
+of next-generation quantum technologies based on ultrafast light-matter interactions.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+43
+The three-dimensional structure of the proton
+Dr. Christopher Monahan, Assistant Professor
+Department of Physics
+William & Mary
+Williamsburg, VA 23187
+Protons and neutrons are the basic building blocks of almost all visible matter, and account for 95% of the
+mass of the visible universe. Protons and neutrons are composed of smaller particles, quarks, bound
+together by the strong nuclear force, which is carried by gluons and is responsible for all nuclear matter,
+from hydrogen ions to neutron stars. The exact arrangement of quarks and gluons inside protons and
+neutrons is not well known. This project helps understand the three-dimensional arrangement of quarks
+and gluons within protons and neutrons, using large-scale supercomputing facilities to calculate the
+properties of protons and neutrons directly from the strong nuclear force. These calculations complement
+data on proton and neutron structure obtained from experiments performed at Thomas Jefferson
+National Accelerator Facility and the planned electron-ion collider at Brookhaven National Laboratory and
+provide a basis for combining experimental and theoretical data in a consistent framework.
+This research was selected for funding by the Office of Nuclear Physics.
+_____________________________________________________________________________________
+44
+Isotropic Microstructure and Defect Tolerance in Additive Manufacturing
+by Leveraging Metastability in Alloy Design
+Dr. Atieh Moridi, Assistant Professor
+Mechanical and Aerospace Engineering Department
+Cornell University
+Ithaca, NY 14853
+Anisotropic properties and scatter in mechanical performance of printed parts are major
+challenges impeding greater adoption of additive manufacturing (AM) technology. The former is due to
+formation of columnar grains along build direction and the latter is due to the stochastic nature of process-
+induced defects. It is hypothesized that a single alloy design criterion - metastability alloy design - could
+address the above-mentioned challenges concurrently. In particular, metastable alloys could undergo
+multiple phase transformations during layer-wise AM process and develop fine-grained microstructures
+with reduced anisotropy. Such metastable alloys could also be defect-tolerant as they can trigger phase
+transformations or other deformation mechanisms in the vicinity of defects upon loading and retard their
+growth. While metastable alloys have been successfully processed using AM, there is currently no
+fundamental knowledge about the effect of various degrees of metastability on 1) solidification pathways,
+2) grain morphology and 3) defect tolerance in AM parts. This gap will be addressed by systematic studies
+of metastable alloys under AM processing conditions and their microstructure and deformation
+mechanisms. To conduct these studies, advanced characterization techniques including operando
+synchrotron X-ray diffraction and in-situ mechanical testing will be adopted. This research is in line with
+the Priority Research Direction 5: Co-Design Materials, Processes, and Products to Revolutionize
+Manufacturing highlighted in the “Basic Research Needs for Transformative Manufacturing” report. While
+the initial focus will be on a FeMnCoCr complex concentrated alloy system, the findings will be extended
+to other phase-changing materials like titanium and ferrous alloys, broadening the use of this alloy design
+concept to a wider range of applications.
+This research was selected for funding by the Office of Basic Energy Sciences
+_____________________________________________________________________________________
+45
+Topological Phases Unraveled by Spin Noise Magnetometry with a Single Spin Qubit
+Dr. Andrew Mounce, R&D Senior Member of the Technical Staff
+Nanostructure Physics Department, Center for Integrated Nanotechnologies
+Sandia National Laboratories
+Albuquerque, NM 87111
+Insulating magnetic van der Waals materials (MvdW) are an emergent class of low-dimensional
+materials that can be mechanically exfoliated down to the monolayer limit, providing a unique
+opportunity to access magnetic topological phases. These topological phases are insensitive to disorder
+and are therefore promising candidates for next-generation energy relevant applications such as
+spintronic microelectronic devices and fault tolerant quantum computation. Topological phases are
+challenging to probe because they do not spontaneously break lattice symmetries and, since there is no
+static order, the spectrum of magnetic fluctuations (i.e., the spin noise) is often detected to characterize
+topological phases. However, traditional, bulk probes of spin noise are insufficiently sensitive to
+characterize emergent topological phases in few- to single-layer MvdW and new approaches for detecting
+topological phases in low-dimensional materials are required. Nitrogen-vacancies (NV) in diamond are an
+emergent single spin qubit probe with the sufficient sensitivity to detect magnetism in these nano-scale
+quantum materials. This project will utilize NVs to unravel the magnetic properties of topological phases
+in MvdW down to the monolayer limit using NV spin noise magnetometry. This investigation will, for the
+first time, characterize archetypes of the dynamic characteristics of topological phases in 2D magnetic
+materials. In addition to discovering new insights into topological phases, this project will also advance
+the NV quantum sensing user program at the Center for Integrated Nanotechnologies by developing new
+capabilities to further access topological phases in quantum materials.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+46
+Allowing Collider Data to Tell Their Own Story with Deep Learning
+Dr. Benjamin Nachman, Staff Scientist
+Physics Division
+Lawrence Berkeley National Laboratory
+Berkeley, CA 94720
+High Energy Physics at the energy frontier has transitioned back from a theory-driven to a data-
+driven era. For decades, there has been clear theoretical guidance driving the field, culminating about ten
+years ago with the discovery of the Higgs boson at the Large Hadron Collider (LHC) at the European
+Organization for Nuclear Research (CERN). While all particles of the Standard Model of particle physics have
+now been detected, there are key experimental observations such as the astrophysical evidence for dark
+matter that compel the field to expand search efforts for new particles. Theory has traditionally played a
+central role in these searches at the LHC, but it is essential that a new data-driven paradigm complement
+the existing one given that present models cannot explain dark matter and other phenomena. To truly
+explore the unknown, we must allow the data to speak for themselves through model-agnostic methods
+using features that are as close to individual particle properties as possible. Due to the data complexity,
+artificial intelligence (AI) and machine learning (ML) are the most promising media for the data to tell their
+story. The research will extend the physics program of the LHC into uncharted regions of new particle
+parameter space by designing and deploying novel AI and ML methods that automatically identify
+anomalies in collider data. In order to be reproducible and reusable, the anomaly detection must be
+automated, accessible, and deployable at scale. This in turn will rely critically on studies at Berkeley Lab’s
+Perlmutter supercomputer facility and use the large datasets from the ATLAS (A Toroidal LHC ApparatuS)
+experiment at the LHC, which is designed to capture nearly every particle produced from LHC collisions. AI
+and ML techniques will be applied to address deficits in the reconstruction of high energy particles so that
+the anomaly detection can be as effective as possible. In particular, deep learning methods will be used to
+combine inputs from multiple detector components to disentangle regions with high particle densities.
+Computing challenges have become as critical as detector challenges and thus motivate enhancing the
+existing computational infrastructure to ensure such computing-heavy approaches are ready in time for
+the future high-luminosity running era of the LHC. Therefore, advances in AI/ML under this project will not
+only have broader implications for employing data-driven techniques for the longer-term LHC program but
+will also enable scientific discoveries across all areas of fundamental physics and beyond.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+47
+Network-based simulations of coupled multi-physics systems
+Dr. Aditya G. Nair, Assistant Professor
+Mechanical Engineering, College of Engineering
+University of Nevada, Reno
+Reno, Nevada 89557
+Numerical simulations of complex real-world phenomena involve the interactions among multiple
+different physical systems. The knowledge of these interactions is crucial to enable accuracy,
+robustness, and scalability in high-performance simulation environments associated with critical DOE
+mission areas. This project will establish a network-based framework that models the coupling between
+interacting physical systems as a graph dynamical system of nodes connected to each other by weighted
+edges. The edge weights will inform the numerical implementation of discretization at the interfaces of
+the individual physics to improve the accuracy and robustness of the simulations. The network-based
+interactions will adaptively tune the spatial resolution of the meshes and the coupling tightness of the
+time integration schemes, leading to significant scalability in high-performance computing technology.
+Although our framework will be generally applicable to various multi-physics systems, we will focus our
+efforts on coupled fluid-structure-thermal interaction systems. The research insights from this project
+will facilitate an accurate characterization of the cross-physics sensitivities, automate the algorithmic
+selection process for high-performance computing, and enable energy-efficient functioning of multi-
+physics systems.
+This research was selected for funding by the Office of Advanced Scientific Computing Research and the
+DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+48
+Photo-Induced Conformational Gating for Long-Lived Charge Separation
+Dr. Lisa Olshansky, Assistant Professor of Chemistry
+Department of Chemistry
+University of Illinois, Urbana-Champaign
+Urbana, IL 61801
+The conversion of solar energy into chemical fuel represents a capstone goal of the 21st century
+and has the potential to supply terawatts of power in a globally distributed manner. However, the
+disparate time scales of photodriven charge separation (~fs) and steps in chemical reactions (~μs)
+represent an inherent bottleneck in solar-to-fuels technology. To solve this problem, copper complexes
+that undergo light-induced conformational changes are being employed to speed up charge separation,
+and slow down the reverse process, charge recombination. These dynamics create a charge separated
+state that lives long enough to facilitate chemical catalysis. This design approach is inspired by nature
+where conformational control underpins nearly all bioenergy conversion processes. Indeed, bioenergy
+conversion processes that rely on metalloproteins use triggered conformational changes to reversibly
+control the timing and direction of electron transfer reactions. The planned research mimics this
+mechanistic paradigm. Ultimately, this work will establish a new strategy for gating photochemical
+processes and providing molecular-level control over energetic excited states. These elements of
+molecular design are adaptable for incorporation into a wide range of assemblies for direct solar energy
+conversion and storage.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+49
+Trapped-Ion Quantum Simulation for Nuclear Physics
+Dr. Guido Pagano, Assistant Professor
+Department of Physics & Astronomy
+Rice University
+Houston, TX 77005
+Quantum Field Theories play a central role in our understanding of nature providing a framework for
+understanding the interactions between elementary particles and for studying the real-time dynamics of
+matter after the Big Bang. However, despite significant progress in classical computational techniques,
+there are a number of roadblocks that prevent us from simulating these theories at large scale and in
+their real-time dynamics using conventional approaches. A fundamental challenge is related to the
+computational cost that grows exponentially with the number of particles, making large-scale
+simulations classically intractable. One promising approach to overcome these challenges is the use of
+quantum processors for directly simulating field theories. Recent advances in quantum-computing
+hardware have allowed access to regimes on the verge of surpassing classical computers. The
+overarching goal of this project is to use one of the most promising quantum platforms, trapped atomic
+ions, to directly map and simulate field theories and nuclear physics models. However, these theories
+are not readily mappable in existing quantum platforms. Therefore, the focus of this project is to study
+and experimentally realize new analog and hybrid analog-digital quantum simulation protocols that can
+directly realize quantum field theories in trapped-ion systems. The new experimental tools developed in
+this project will provide a foundation for the simulation of quantum matter in the Standard Model,
+approaching a regime that cannot be efficiently accessed with conventional computing techniques.
+This research was selected for funding by the Office of Nuclear Physics
+_____________________________________________________________________________________
+50
+Scalable Reconfigurable Computing Circuit Using Emerging Device Technologies
+Dr. Chenyun Pan, Assistant Professor
+Department of Electrical Engineering
+The University of Texas at Arlington
+Arlington, TX 76010
+As traditional complementary metal–oxide–semiconductor (CMOS) technology scaling is approaching
+its physical limit, new computing paradigm, such as reconfigurable computing circuits, has been proposed
+as a promising candidate to substantially improve circuit energy- and area-efficiency. Reconfigurable
+circuits are made of logic devices whose input-output mapping can be transformed in real-time, which
+means that the same circuit can be used to implement various logic functions with small device usage. It
+enables a higher computation density and lower cost and area, which is excellent for a wide range of
+applications from the high-performance data center to low-power portable devices. The rapid discovery
+of emerging reconfigurable device technologies also opens a new path towards an energy-efficient
+reconfigurable hardware paradigm to facilitate low-power logic circuits thanks to the unique device-level
+physics behavior. However, there is still a big question of “how to fully utilize reconfigurable devices to
+enable efficient reconfigurable circuits?” Limited research has been performed to take advantage of these
+emerging devices to realize large-scale reconfigurable circuits. A fundamental rethinking is needed to
+establish a comprehensive design methodology to efficiently obtain the true potential of emerging
+reconfigurable technologies in the early design and exploration stage.
+The goal of this proposal is to use a synergistic device-circuit-synthesis co-optimization approach to
+(i) develop novel synthesis solutions to enable large-scale reconfigurable circuits and (ii) adapt the
+synthesizer to leverage emerging compact and energy-efficient reconfigurable logic devices. We will
+propose a novel Boolean Satisfiability (SAT)-based synthesis method and algorithm to realize large-scale
+area-efficient reconfigurable circuits. At the device/cell level, we will develop compact device-level
+models and generate cell library for several representative emerging technologies that will enable
+efficient reconfigurable synthesis and optimization. Furthermore, we will develop and validate a fast
+cross-layer co-optimization methodology to maximize the potential of proposed reconfigurable circuits
+with emerging technologies. Finally, we will explore several circuit applications that will fully utilize the
+proposed reconfigurable design method, and a comprehensive benchmarking will be carried out for a
+variety of promising technologies against the traditional CMOS counterparts to identify the most
+promising reconfigurable devices and their potential advantage and requirements.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+51
+Elucidating the Electrochemically Enhanced Surface Diffusion Mechanism
+in Materials for Clean Energy
+Dr. Pietro Papa Lopes, Assistant Chemist
+Materials Science Division
+Argonne National Laboratory
+Lemont, IL 60439
+The goal of this Early Career Research Program is to explore, understand, and control the
+phenomenon of electrochemically enhanced surface diffusion in materials with potential applications in
+electrochemical energy conversion and storage technologies (electrolyzers, fuel cells, and batteries).
+Electrochemically enhanced surface diffusion is characterized by faster surface atom mobility observed
+on a given material when immersed in an electrochemical medium in relation to the same surface exposed
+to vacuum or gas phase environments. As the origins of this phenomenon are still not well understood,
+unraveling its mechanism will provide the means to quantitatively describe the kinetic pathways
+responsible for changes to surface structure and composition, and thus to the surface’s functional sites.
+The central hypothesis of this work is that the mechanism of electrochemically enhanced surface diffusion
+involves nanoscale dissolution-redeposition events governed by the electrode and electrolyte properties.
+This work will use well-defined surfaces and electrolytes as blank canvases that will be studied by a suite
+of in situ multi-scale characterization tools that include ultra-high-sensitivity atomic mass spectrometry,
+scanning, electron, and X-ray microscopy tools enhanced with machine learning algorithms, and atomistic
+theory and simulations to uncover the relationships between electrochemically enhanced surface
+diffusion and dissolution-redeposition events. By elucidating the mechanism of surface mobility in the
+electrochemical medium, we will expand our ability to control surface dynamics on many materials used
+in electrochemistry, impacting how we understand materials stability and also how we can open the path
+towards the regeneration of materials for clean energy applications.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+52
+The Mathematical Foundations of Holography
+Dr. Natalie Paquette, Assistant Professor
+Department of Physics
+University of Washington
+Seattle, Washington 98195
+The holographic principle is a profound equivalence between two dramatically different-looking physical
+systems. It relates a gravitational theory in some spacetime to a non-gravitational theory in a different
+spacetime, with the latter spacetime possessing fewer dimensions than the former. In particular, a
+universe well-described by Einstein’s general theory of relativity is encoded in a non-gravitational many-
+body quantum system that is often said to live “on the boundary” of the gravitational theory, analogous
+to a hologram. The so-called AdS/CFT correspondence from string theory is the most concrete
+instantiation of the holographic principle, and it posits that spacetime is an emergent notion, encoded
+nontrivially in the dynamics of the "boundary" theory. In this context, the AdS stands for anti de-Sitter, a
+spacetime geometry with negative curvature analogous to an M.C. Escher painting, and the CFT stands
+for the “boundary” conformal field theory, a special type of (typically very strongly interacting) quantum
+system. However, many aspects of the holographic principle remain implicit and poorly understood,
+which obscures fundamental questions about quantum gravity such as the nature of the black hole
+interior or the emergence of spacetime. Furthermore, holography has not been as well-understood in
+spacetimes outside of asymptotically anti de-Sitter space. This includes ordinary flat spacetime which is
+a good approximation, for many purposes, to the real world, and is the setting for a rapidly developing
+holographic dictionary called celestial holography. This research project leverages recent developments
+at the intersection of string theory, algebra, and geometry to develop new mathematical frameworks for
+both AdS/CFT and celestial holographic systems. This approach aims to help clarify and compute basic
+observables in the holographic dictionary from a novel perspective, and to work towards a mathematical
+proof of aspects of holography.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+53
+Spacetime from Information
+Dr. Geoffrey Penington, Assistant Professor
+Department of Physics
+University of California, Berkeley
+Berkeley, California 94720
+The question of how to reconcile quantum mechanics with gravity is the most important remaining
+mystery about the fundamental laws of nature. In recent years, we have begun to understand more and
+more that a crucial role in this reconciliation is played by ideas from information theory. In particular, we
+have seen dramatic progress on the Black Hole Information Problem -- the question of how and if
+information that falls into a black hole ever escapes -- that reveals how the shape of spacetime itself
+encodes the distribution of information. This research project uses ideas from general relativity,
+quantum error correction, quantum complexity theory and quantum field theory to investigate the
+fundamental origins of space and time. With these powerful interdisciplinary tools, we can attack some
+of the central mysteries in quantum gravity. How can a black hole contain more information on the
+inside than from the outside? How do quantum fluctuations change the classical structure of spacetime
+found by Einstein? What makes the universe appear “local” such that the physics here on Earth is
+independent of the state of a distant galaxy?
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+54
+Mechanistic Understanding of the Criegee Intermediates Reaction Network
+in Atmospheric and Combustion Systems
+Dr. Denisia Popolan-Vaida, Assistant Professor
+Department of Chemistry
+University of Central Florida
+Orlando, FL 32816
+Criegee intermediates (CIs) are highly reactive key species with zwitterionic character that are
+formed in the ozonolysis of unsaturated organic compounds. Uni- and bi-molecular reactions involving CIs
+play an important role in atmospheric, combustion, and synthetic organic chemistry. A detailed
+mechanistic understanding of the CIs reaction network is currently lacking in part due to limitations in
+detecting intermediate species that usually occur in small concentrations. In particular, the pathways by
+which CIs can drive the formation of higher molecular weight, lower volatility secondary organic aerosols
+(SOA) precursors, via the formation of functionalized hydrocarbons are currently not understood.
+Identification and quantification of these reactive species within complex reactive mixtures is essential
+for the development of a fundamental, chemically accurate description of complex atmospheric and
+combustion systems.
+This research aims to generate new mechanistic understanding of the CIs reaction network, and
+to find the pathways by which CIs can drive the formation of higher molecular weight, lower volatility
+precursors that can lead to SOA formation, and eventually detect and identify the size and composition
+of SOA. The reaction network of CIs formed in the ozone-assisted oxidation reactions of selected acyclic
+and endocyclic alkenes, which are analogues of important species found in atmospheric and combustion
+systems, will be investigated as a function of alkene structure and carbon number to understand the role
+of resonance stabilization induced by the competition between collisional stabilization and unimolecular
+reaction of the energy-rich CIs. In particular, the role of resonance-stabilized intermediates in the balance
+between oxidation and molecular weight growth will be investigated. The outcome of this research will
+represent a critical contribution to current and future atmospheric and combustion models, which
+currently do not include the effect of resonance stabilization. It will help connect our current
+understanding of the role and reactivity of CIs in the gas-phase to heterogeneous environments.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+55
+Quantum Capability Learning
+Dr. Timothy Proctor, Senior Research Scientist
+Sandia National Laboratories
+Livermore, CA 94550
+Quantum computers are rapidly advancing and they may soon realize scientific and economic
+breakthroughs. But quantum computing hardware experiences errors that cause real-world computations
+to fail. Those errors limit the power of a quantum computer, preventing it from executing some
+computations. Today, there is no way to accurately predict a quantum computer’s capability or which
+quantum computations it will be able to run successfully. Experimentally verifying that a specific quantum
+computer has correctly executed a specific computation is challenging even with today’s relatively small
+quantum processors; it will be practically impossible for quantum computers large enough to have a
+practical advantage over classical computers. Researchers and end users urgently need ways to (a)
+measure how well a quantum computer runs specific programs, and (b) predict what novel programs it
+will or won’t be able to run. This research will address these problems, by: (1) designing methods to
+measure indirectly how well a quantum computer executes a computation; (2) creating techniques to
+learn which quantum computations a specific quantum computer can run, using machine learning and
+multi-scale modelling; and (3) leveraging these methods to implement quantum algorithms with the
+highest possible success rates. This research will make it possible to understand the capabilities of
+quantum computing hardware, and to make best use of each particular quantum computer’s strengths.
+The techniques developed by this project will immediately provide a significant boost to DOE’s entire
+quantum computing program, and will accelerate scientific discovery using quantum computers.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+56
+Developing TES with Sensitivity to meV Scale Excitations for Light Mass Dark Matter Searches
+and other Applications
+Dr. Matt Pyle, Garland Assistant Professor of Physics
+Department of Physics
+University of California Berkeley
+Berkeley, Ca. 94720
+Dark matter is the one form of matter that humanity knows must exist beyond the Standard Model of
+particle physics because of its gravitational effects on the universe. However, essentially none of its
+properties (mass, spin, under what forces it interacts) have been directly measured yet. If dark matter
+particles have a mass between 10-3 and 10-11 that of a proton, the interactions between dark matter and
+detectors cannot been seen with currently available technology because they produce vibrational and
+photon excitations that are simply too small to be measured. This research will attempt to improve the
+sensitivity of the superconducting Transition Edge Sensor (TES) so that these excitations can be
+detected. A TES is a small volume superconducting film that has been stabilized at a temperature within
+its transition from a superconducting to a normal conducting state. Energy deposited in the TES will
+thermalize, increasing its temperature, resulting in a sharp increase in the resistance of the TES that is
+then measured. To increase the TES sensitivity, this project will develop new superconducting films with
+transition temperatures near absolute zero which will have both significantly reduced thermal
+fluctuation noise and heat capacity. This project will also develop improved electro-magnetic isolation
+techniques to isolate these extremely sensitive sensors from the environment. Using this new more
+sensitive sensor technology, prototype devices for dark matter searches will be developed.
+This research was selected for funding by the Office of High Energy Physics.
+_____________________________________________________________________________________
+57
+Unraveling the Ultrafast Chemical Dynamics Governing
+Non-Equilibrium Molecule-Nanoparticle Interactions
+Dr. Krupa Ramasesha, Senior Member of Technical Staff
+Combustion Research Facility
+Sandia National Laboratories
+Livermore, CA 94550
+Photoinduced charge transfer is fundamental to processes such as photocatalysis, photosynthesis
+and photovoltaic activity, but the combination of strong electron correlation, and non-adiabatic and
+relativistic effects pose significant challenges to the development of a detailed description of charge
+transfer, particularly in systems containing transition metals. These challenges are exemplified in
+plasmonic photocatalysis, where electronic interactions across nano- and molecular length scales govern
+charge and energy transfer between photoexcited plasmonic nanoparticles and adsorbed molecules,
+ultimately driving chemical reactions. However, due to the complexity in theoretically treating and
+experimentally probing plasmonic nanoparticle-molecule interactions with sensitivity to both
+nanoparticle and molecular responses to photoexcitation, open questions remain regarding the principal
+mechanisms that underlie plasmonic photocatalysis. Deciphering which mechanisms are active requires
+investigations of non-equilibrium electronic interactions between plasmonic nanoparticles and molecules
+using advanced time-resolved and element-specific probes, which constitutes the primary objective of
+this research.
+This project will systematically investigate non-equilibrium molecule-nanoparticle electronic
+interactions by studying how ultrafast electronic and vibrational dynamics vary as a function of the
+electronic properties of the adsorbed molecules, the mode of nanoparticle electronic excitation (i.e.,
+intraband vs. interband), and the chemical composition of the nanoparticle itself. The first part of this
+project will investigate electronic and vibrational dynamics in gold nanoparticle-molecule systems, with
+the goal of unraveling the dependence of molecule-nanoparticle energy and charge transfer mechanisms
+on adsorbate electronic structure and the mode of nanoparticle excitation. The second part of the project
+will study the influence of catalytic metals on nanoparticle-molecule electronic interactions by probing
+ultrafast electronic dynamics in functionalized core-shell nanoparticles containing plasmonic and catalytic
+metals. Experiments will use ultrafast core-level spectroscopy as element-specific probes of electronic
+dynamics, providing sensitivity to both nanoparticle and adsorbate electronic structure evolution.
+Ultrafast broadband infrared spectroscopy, in turn, will monitor vibrational dynamics across all adsorbate
+infrared-active vibrations in the mid-infrared region following electronic excitation.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+58
+Structural Tuning of Photosynthetic Light Harvesting
+Dr. Michael Reppert, Assistant Professor
+Department of Chemistry
+Purdue University
+West Lafayette, IN 47906-1332
+Biological photosynthesis – the biological conversion of solar energy into chemical fuel – has
+long served as an inspiration for light-harvesting technologies. Fascination with this fundamental
+process has driven a century-long effort to uncover its mechanistic details. Despite dramatic
+advances, our understanding of photosynthesis at the atomic and molecular level remains limited by
+uncertainty over the “structure-spectrum relationship”, i.e., how protein structure tunes optical
+properties of the pigment protein complexes (PPCs) that capture light to drive photosynthetic chemistry.
+From the examples nature has provided us, it is evident that pigment-protein interactions offer a wide
+degree of control over the optical properties of bound pigments, enabling the same chemical pigment
+(e.g., chlorophyll a) to be used in different PPCs for many different purposes (e.g., optical antenna,
+electron donor, photoprotective energy sink). The specific mechanisms by which such optical tuning
+occurs, are poorly understood, leaving significant gaps in our ability both to understand native PPC
+function and, potentially, to tune PPC function for new or optimized light-harvesting applications. To
+overcome this challenge, this project aims to develop a transferable “toolkit” for identifying and
+controlling structure based optical tuning in photosynthetic PPCs. The three core components of
+this toolkit – robust site energy prediction methods, structure-dependent vibronic mixing models, and
+experimentally calibrated quantum dynamics simulations – will be parameterized directly against an
+experimental library of mutagenesis data on model PPCs, establishing a quantitative connection
+between theory and experiment. Finally, these methods will be applied to resolve the long-standing
+question of the structural origins and functional significance of low-energy trap states in Photosystem
+II of cyanobacteria through a combination of structure-based spectroscopic simulations and toolkit-
+guided mutagenesis. A key goal is to produce a strain of the cyanobacterium Synechocystis PCC6803 that
+lacks low-energy trap states in Photosystem II, allowing the functional role of these states to be directly
+assessed. The successful completion of this work will both provide definitive answers to long-standing
+mechanistic questions in photosystem II energy funneling and pave the way toward rational mutation-
+based optimization of photosynthetic light harvesting.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+59
+Unraveling the Physics of Earthquake Precursors
+Using Ultrasonic Imaging and Physics-Informed Machine Learning
+Dr. Jacques Rivière, Assistant Professor
+Department of Engineering Science and Mechanics
+Pennsylvania State University
+University Park, PA 16801
+Improving our understanding of earthquakes is critical to help assess seismic hazard and has broad
+implications for numerous subsurface activities related to energy extraction (oil/gas, geothermal), CO
+2
+sequestration and waste repositories. The heterogeneous nature of Earth’s crust, which leads to non-
+uniform stress states and complex fault systems, is often cited as a major impediment in interpreting field
+results, assessing seismic risk, or even one day, predicting the occurrence of earthquakes. Despite these
+challenges, recent work at the laboratory scale shows that machine learning (ML) algorithms can
+successfully predict the timing and magnitude of laboratory quakes using radiated ultrasonic waves that
+emanate from the faults (equivalent to seismic waves in nature). Existing studies show that laboratory
+quakes are preceded by systematic changes in wave properties. Inspired by these new developments, the
+first objective of the proposed work is to reveal the underlying physics that allows ML-based prediction
+of laboratory quakes. In the long term, advanced ML models – if generalizable – could provide a pathway
+to improving seismic risk assessment (or even predicting earthquakes) in nature. In the short- to medium-
+term, the use of advanced ML models in laboratory settings – where large datasets under well-constrained
+conditions are readily available – represents a unique opportunity to improve our understanding of
+earthquake physics and in turn, better understand why/how the reported predictions work. Here, I
+propose to build a ML framework informed by current knowledge on constitutive laws governing frictional
+instability. If successful, the proposed physics-informed ML framework would require less training data
+for equally good predictions, and make predictions more generalizable, for instance when tested outside
+the bounds of the training set (e.g., for real earthquakes). The second objective of the proposed work is
+to illuminate the role of fault heterogeneity and off-fault rock damage. High-resolution imaging of
+laboratory-scale faults, through the use of dense arrays of ultrasonic sensors and in combination with the
+physics-informed ML framework, will allow us to visualize the mechanics of earthquake nucleation and to
+build process-based models that connect pre-seismic activity (or lack of) to the precursory changes in
+wave velocity/attenuation occurring on the fault plane and surrounding host rock, in relation with
+heterogeneity on the fault plane. In sum, the combination of physics-informed ML models with high
+resolution imaging of laboratory faults will provide a physical basis that can in turn improve our
+interpretation of field observations as well as inform future use of ML approaches in the field.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+60
+Characterizing the Limits of Nonequilibrium Control for Dissipative Self-Assembly
+Dr. Grant M. Rotskoff, Assistant Professor
+Department of Chemistry
+Stanford University
+Stanford, CA 94305
+Biological systems produce molecular components that assemble into complex, multiscale
+structures. The process by which these components spontaneously come together is known as self-
+assembly. Self-assembled biomolecular materials are highly dynamic and adaptive. This research focuses
+on two such materials 1) self-healing networks that consist of proteins that demonstrate exotic elastic
+properties and 2) nanoscale capsids that robustly assemble to specifically encapsulate well-defined target
+cargoes. While both classes of materials have important technological applications, we continue to have
+a limited fundamental understanding of the properties of these complex materials. Our ability to design
+and control these materials would be greatly enhanced by synergistic developments in computational and
+theoretical techniques that enable an improved understanding of how to control the assembly process of
+such systems. This project seeks to develop theoretical and computational methods for characterizing the
+self-assembly dynamics of biomolecular materials when the dynamics is modulated by external control
+variables. We aim to address theoretical questions of 1) how to control assembly dynamics by changing
+external conditions affecting growth and 2) how to characterize the limits and thermodynamic costs of
+controlled growth to understand which nonequilibrium structures are realizable given a fixed set of
+control parameters. This research aims to expand our theoretical toolkit to understand the behavior and
+properties of these nonequilibrium biomolecular materials. Alongside the proposed theoretical
+developments we aim to build computational tools using physics-informed machine learning techniques
+and reinforcement learning, both of which will allow us to study the properties of complex systems.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+61
+Polymeric chelators for rare-earth element extraction and separation
+Dr. Michael Schulz, Assistant Professor
+Department of Chemistry
+Virginia Polytechnic Institute and State University
+Blacksburg, VA 24061
+Rare-earth elements (REEs) are crucial to many modern technologies including wind turbines
+(Nd, Dy), electric vehicle motors (Nd, Dy), and lighting phosphors (Eu, Tb, Y). However, in 2015 the U.S.
+produced only 3.3% of the REEs mined globally. This lack of domestic REE production necessitates
+importing REEs into the United States. As world demand for these metals outpaces supply, new and
+sustainable sources are needed, as well as more efficient methods of extraction and purification. Metal-
+chelating polymers exhibit potential in these applications due to their relatively low cost and high
+affinity for target elements. Developing materials capable of selectively adsorbing individual REEs would
+enable the efficient separation of these critical components from REE-containing waste streams. This
+research focuses on studying and ultimately controlling the interaction between polymers and REEs to
+improve extraction and purification processes. The approach includes measurements of metal-binding
+thermodynamics, specifically elucidating the connections among ligand structure, linear polymer
+parameters, and polymer topology in the context of metal chelation. Synthesis and characterization of a
+series of structurally-related polymers enables determination of precise structure–property
+relationships, thereby uncovering design principles for producing more effective metal-binding
+materials.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+62
+The interplay of reconnection and turbulence in relativistic plasmas: the case of black hole accretion
+flows and coronae
+Dr. Lorenzo Sironi, Associate Professor
+Department of Astronomy
+Columbia University
+New York, NY 10027
+Massive black holes provide a unique environment for studying physical processes that cannot be
+investigated in the laboratory. A novel view of the black hole surroundings has recently been made
+available by the Event Horizon Telescope (EHT). EHT has provided images of the immediate vicinity of the
+supermassive black hole of the galaxy M87 and soon will deliver observations of Sagittarius A* at the
+center of our Milky Way galaxy. A large number of general relativistic magnetohydrodynamic (MHD)
+simulations have been performed to model the EHT data with different (but arbitrary) assumptions for
+the properties of the emitting electrons. Even though these models are very elaborate, they are unable
+to probe the physics of the emitting particles from first principles. This is the realm of particle-in-cell (PIC)
+simulations. The planned research project will deploy PIC simulations and analytical tools to study the role
+of two fundamental plasma physical processes: (i) magnetic reconnection - the annihilation of oppositely
+directed magnetic fields, and (ii) turbulence. These processes are responsible for powering the emission
+from the accretion flows feeding massive black holes.
+This research plan will tackle two aspects of the physics of plasmas near black holes: (i) determine the
+origin of the observed hard X-ray emission and test whether coronae are likely sources of Ultra High
+Energy Cosmic Rays (UHECRs), the most energetic particles in the Universe. This will be done by studying
+the self-consistent interplay of reconnection and radiation in the most magnetized regions (“coronae”)
+around a luminous black hole; (ii) study the development of turbulence and reconnection in low-
+luminosity accretion flows feeding a supermassive black hole. The project is expected to help better
+understand the properties of ions and electrons. Since electrons dominate the emission, this will be of
+paramount importance to produce more accurate models to compare with EHT observations.
+This research was selected for funding by the Office of Fusion Energy Sciences
+_____________________________________________________________________________________
+63
+Integration of in situ Monitoring and Artificial Intelligence in the Synthesis of Uranium Alloys and
+Compounds to inform Performance Following Melt Fabrication Processes
+Dr. Elizabeth Sooby, Assistant Professor
+Department of Physics and Astronomy
+University of Texas at San Antonio
+San Antonio, TX, 78249
+High temperature stability is a hallmark property of many materials required for technological
+advancements in the energy sector, from steam turbine blades to oil/gas tooling to nuclear reactor
+materials. However, the material design and discovery process can be painstaking, requiring enormous
+time and effort to develop and test novel systems. The objective of this project is to develop and test a
+methodology to rapidly provide high quality, performance indicating data during the fabrication of
+uranium-based alloys and compounds. These data will be leveraged in the development of an artificial
+intelligence (AI) algorithm aimed to reduce time-to- and cost-of-discovery for high temperature materials.
+In turn, this matures a capability with the potential to predict performance for a broad set of materials
+and fabrication methods, including melt-pool based technologies like welding and additive manufacturing.
+Thermal and optical imaging as well as pyrometry facilitate in situ monitoring of the melting, solidification
+and rapid/quenched cooling of melt-synthesized compounds with temporal and spatial accuracy to the
+10’s of microns (approximately the thickness of a human hair). The principal investigator hypothesizes
+that by correlating the temperature, visual spectrum, and thermal (infrared) image data collected during
+part fabrication, several key performance-predicting phenomena will be identified. In essence, the
+research effort would employ fundamental materials science and AI to understand, predict, and ultimately
+control the synthesis and fabrication of novel material systems focusing on Uranium alloys as a test case
+to enable transformation of advanced manufacturing processes.
+This research was selected for funding by the Office of Basic Energy Sciences
+_____________________________________________________________________________________
+64
+Electrocatalytic Nitrate Reduction: Controlling Adsorbate Affinity to Tailor Reaction Products
+Dr. Kelsey A. Stoerzinger, Assistant Professor
+School of Chemical, Biological, and Environmental Engineering
+Oregon State University
+Corvallis, OR 97331
+Every year, Haber-Bosch nitrogen fixation to form ammonia releases immense volumes of CO . At
+2
+the same time, nitrate contamination from untreated wastewater threatens human health across the US.
+Development of circular processes to efficiently upgrade waste nitrate for reuse is critical to sustainably
+address this growing environmental hazard. Electrochemical reduction of nitrate operates at ambient
+temperatures and pressures, and can leverage distributed renewable energy sources and water as a
+hydrogen source for ammonia production. However, current catalysts lack electron efficiency in reducing
+nitrate versus water, lack selectivity in forming ammonia as a product, or rely on expensive rare metals,
+making widespread implementation unfeasible. To overcome these limitations, this proposal seeks a
+mechanistic understanding of nitrate electrochemical reduction on earth abundant metals and their
+alloys, with the goal of identifying active-site properties that improve both Faradaic efficiency and product
+selectivity. This insight will extend to other electrocatalytic reductive process that compete with water
+reduction.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+65
+Stable Hydrogen Isotopes as Tracers of H Reactivity during Geological Storage
+2
+Dr. Daniel Stolper, Assistant Professor
+Department of Earth and Planetary Science
+University of California, Berkeley
+Berkeley, CA 94720
+Geologic systems such as confined aquifers, depleted oil and gas reservoirs, and salt caverns have
+been proposed to be suitable for H storage at scale. A fundamental question in storing H in these
+2 2
+geologic systems is how well it is retained in the reservoir — i.e., is any H being lost due to reaction or
+2
+leakage.
+The project will study the basic chemistry of the stable hydrogen isotopic composition of H as a
+2
+potential means for measuring the reactivity of H in the subsurface. Specifically, the two stable isotopes
+2
+of hydrogen, protium (1H) and deuterium (2H or D), lead to three different stable forms (isotopologues) of
+molecular hydrogen: H , HD, and D . These species react at different rates and their equilibrium isotopic
+2 2
+compositions vary as a function of temperature both internally and with other hydrogen-bearing phases.
+The relative abundances of HD/H (i.e., D/H ratios) have long been used to study the sources and sinks of
+2
+molecular hydrogen in the environment. D has not been utilized as a tracer previously given its exceeding
+2
+rarity (~25 ppb relative abundance) and the difficulty of measuring it via mass spectrometry due to
+common interferences. D is only now measurable using state-of-the-art high-resolution mass
+2
+spectrometers.
+One consequence of the storage of molecular hydrogen in the subsurface is that it will inevitably
+be brought into contact with water. H will then be able to react with the liquid water, dissolved chemical
+2
+species, or microorganisms. Such reactions may lead to the destruction of H while others may lead to
+2
+isotope exchange reactions (or both). As the H dissolves in the fluids, it will exchange its hydrogen
+2
+isotopes, changing composition in both its HD and D abundances in an attempt to reach isotopic
+2
+equilibrium. The kinetics of these reactions and the ultimate final equilibrium isotopic compositions
+dictate the overall rate and trajectory of changes in H , HD, and D abundances during storage. Knowledge
+2 2
+of these fundamental chemical properties could thus provide a way to measure in real time if H is reacting
+2
+during storage and the rate of that reaction.
+This project will employ both methodological developments and experiments to use the full suite
+of molecular hydrogen isotopologues in order study the reactivity of hydrogen gas in geological settings.
+Specifically, the research will experimentally determine abiotic rates of hydrogen isotope exchange and
+final equilibrium compositions between molecular hydrogen and water with and without minerals present
+for all stable isotopologues of H (i.e. HD and D as well) from 25-100°C. These constraints will provide a
+2 2
+basic scientific framework that will allow for the establishment at the molecular level of whether H is
+2
+reacting with other substances during geologic storage.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+66
+Efficient and Accessible Interactive Visual Analytics of Exascale Scientific Data
+Dr. Brian Summa, Assistant Professor
+Department of Computer Science
+Tulane University
+New Orleans, LA 70118
+The need to accurately model and measure complex phenomena is driving a continual increase in the size
+of scientific data. In practically all disciplines, multi-gigabyte, terabyte, or even petabyte-sized datasets
+are becoming more common. While advances have accelerated our ability to create large data, the ability
+to share and analyze these datasets has struggled to keep pace. Through the technological advances of
+this project, the simple, intuitive, and wide-reaching use of large scientific data will be possible.
+First, this project will develop technologies allowing scientists to search repositories of scientific data using
+intuitive examples. Specifically, it will create new machine learning approaches to map scientific data to
+a concise representation, a hash, that will allow similarity calculations between datasets to scale
+massively. These fast, scalable comparisons will allow scientists to interactively search vast databases to
+find similar or dissimilar datasets. This project will develop learned hashes that define similarity between
+datasets either directly through labels created by domain experts or indirectly via features that describe
+the fundamental structure of data. In addition, these new hashing methods will ignore the noise in data
+and allow large data to be fully queried, comparing features at all scales.
+Next, this project will explore innovative data reduction and post-transfer reconstruction approaches that
+provide both efficient data transfer and accurate analyses. Large data are usually sent initially at a reduced
+size, with data fidelity increased over time through progressive data transfers. This project will design
+novel data structures that will provide accurate analytics at all points of this progression. In addition, the
+project will develop new approaches to skip this additional data transfer, using machine learning to
+reconstruct datasets locally.
+Finally, this work will develop formal models that describe interactive computer systems for the visual
+analysis of large data. Current systems in this space must leverage many algorithmic accelerators for
+performance and handle the variability of distributed processing and storage while maintaining the strict
+feedback times required for interactivity. This complexity often leads to complicated system deployments
+using ad-hoc configurations. This project will develop the first models that formally describe the
+complexities of these systems. Using these models in a formal design will result in large-data systems that
+are maintainable, testable, predictable, scalable and - ultimately - simple to deploy.
+In addition to its research objectives, this project will develop new systems for large image segmentation
+and anomaly detection in simulations. By incorporating the developed research advances, these systems
+will directly support ongoing efforts at Department of Energy laboratories.
+This research was selected for funding by the Office of Advanced Scientific Computing Research
+and the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+67
+Understanding the 10 seconds neutron lifetime discrepancy
+Dr. Zhaowen Tang, Scientist 3
+Physics Division
+Los Alamos National Laboratory
+Los Alamos, NM 87544
+The Standard Model of particle physics describes the way that all known elementary particles behave
+under three of the four known forces of the universe, the electromagnetic, weak, and strong interactions.
+Under this theory, the free neutron decays 100% of the time into a proton, electron, and antineutrino,
+with a lifetime of about 15 minutes. In combination with other experiments, the neutron lifetime can
+provide constraints on many extensions of the Standard Model. Also, knowledge of the neutron lifetime
+at the 1 second level is necessary to improve predictions of the elements generated from the Big Bang.
+There are primarily two different methods to measure the neutron lifetime: experiments based on cold
+neutron beams and experiments using ultracold neutron bottles. The results of these two methods differ
+by 9.6 seconds, which corresponds to a chance of 1 in 3.5 million that the two results are compatible with
+each other. There are two possible explanations for this large discrepancy: unaccounted effects in the
+interpretation of data (systematic error) in one or both of the methods, or a new mode of decay of the
+neutron that produces thus far unknown and undetected particles. This research plans to measure the
+neutron lifetime to the 1 second level using an alternative method with completely different systematic
+errors compared to previous measurements. A result that agrees with the bottle experiments will suggest
+that there are unaccounted systematic errors in the beam measurements, and a result that agrees with
+the beam experiments can be interpreted as a discovery of a new hidden decay mode of the neutron.
+This research was selected for funding by the Office of Nuclear Physics.
+_____________________________________________________________________________________
+68
+Energy Recycling for a Green Plasma-Based Collider
+Dr. Marlene Turner, Research Scientist
+Accelerator Technology and Applied Physics Division
+Lawrence Berkeley National Laboratory
+Berkeley, California 94720
+High energy physics particle colliders enable scientific discoveries and allow us to probe the fundamental
+building blocks of the universe. However, one of the limits on their scientific reach is the tremendous
+electrical power needed to operate them. This project develops a path to decreasing the energy
+consumption of a future collider by a large fraction, translating to tens of millions of dollars of cost savings
+per year. Savings are achieved by developing compact, plasma-based energy recycling and taking full
+advantage of the enormous accelerating gradients possible with plasma-based accelerators. This project
+will demonstrate experimentally that residual energy in a collider-relevant plasma wakefield acceleration
+structure can be absorbed by trailing laser pulses, which can then be reused or their energy recycled.
+Plasma-based energy recycling provides two additional advantages. First, as energy is extracted from
+wakefields, the plasma cooling time decreases, which may enable higher collider luminosity and increase
+discovery potential. Second, radioactive material production in the beam dump decreases because beam
+energy is extracted after the collision and upstream of the beam dump. In a society sensitive to both cost
+and environmental issues, plasma-based energy recycling may be the key to obtaining support for the
+construction of a lepton collider at and above the Terra-electron-Volt (TeV) scale. Experiments will be
+performed on the petawatt laser system of the Berkeley Lab Laser Accelerator (BELLA) Center at Lawrence
+Berkeley National Laboratory (LBNL) and are enabled by the facility's new Second Beamline.
+This research was selected for funding by the Office of High Energy Physics.
+69
+Assessing Greenhouse Gas Structural and Functional Resilience of Freshwater Coastal Wetlands
+Subject to Persistent Saltwater Intrusion Events
+Dr. Jorge A. Villa, Assistant Professor
+School of Geosciences
+University of Louisiana at Lafayette
+Lafayette, LA 70504
+Greenhouse gas production and fluxes in coastal wetlands are controlled by complex interacting
+hydrological and ecological processes whose dynamics are, in turn, modified by saltwater intrusion (SWI)
+events. In suburban and urban transition zones, the floodwalls and levee systems built to protect
+infrastructure and urban development intensify the SWI events resulting from floods during storm surges.
+When the flood waves travel inland, they meet these barriers, and saltwater can remain stagnant for
+prolonged periods, increasing the exposure of adjacent coastal wetlands to salt stress (i.e., persistent SWI
+events). These stress conditions induced by SWI are rarely represented in biogeochemical models, limiting
+our capacity to predict and assess the long-term effects of SWI on coastal greenhouse gas production and
+fluxes. Moreover, significant knowledge gaps exist in how the ecosystem reorganizes after SWI
+disturbance. Specifically, what trajectories do biological components (ecosystem structure) and
+greenhouse gas production and emission (ecosystem function) follow after SWI? Also, it is not clear what
+the relevant scales to evaluate these trajectories are. Using an ecohydrological patch approach defined
+by plant functional types and water levels, this early-career proposal aims to understand better how
+ecosystem structure and function linked to greenhouse gas fluxes in freshwater coastal wetlands affected
+by the built environment are influenced by SWI in the short- (days to weeks) and long- (years to decades)
+term. This project will evaluate carbon dioxide and methane pools and fluxes before, during, and after
+simulated SWI events covering a wide range of salt exposure (salinity concentration, duration, and
+frequency). The measurements will be conducted on a multi-setting sampling approach composed of
+controlled mesocosm in greenhouses and experimental wetland ecosystem units and will be
+complemented with time-for-space replacements in coastal wetlands with a history of persistent SWI.
+Data collected will be used to produce and incorporate an explicit salinity-dependent function to the
+methane biogeochemistry module integrated into the E3SM Land Model (ELM v1). The improved module
+will then be used to assess the sensitivity of methane emissions to different scenarios of SWI, accounting
+for increased storm magnitude and frequency expected from climate change and sea-level rise and
+exacerbated by current and projected build environments.
+This research was selected for funding by the Office of Biological and Environmental Research
+and the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+70
+CASPT2 Geometries, Spectra, and Relativistic Electronic Structures of Actinide Species
+Dr. Bess Vlaisavljevich, Assistant Professor
+Department of Chemistry
+University of South Dakota
+Vermillion, SD 57069
+The pairing of electron spin in molecules can be tuned through the interactions between the metal
+center and its coordination environment. For molecules that can access multiple spin states, these spin
+properties can be exploited for use as sensors or molecular switches. The spin-coupling in the heaviest
+elements, the f-block, are among the most challenging to model due to the prevalence of such
+interactions. In addition to using modeling to design new molecules, results from the state-of-the-art
+computational methods used in this work can be used to assess the reliability of more affordable methods.
+Through comparisons with experiment, this work can assist with the development of the next generation
+of theoretical tools by quantifying if and when today’s methods breakdown. Since the 5f-elements often
+present with multiconfigurational electronic structures and large spin–orbit effects, modeling the
+electronic structure, molecular geometries, and vibrational spectra of larger systems containing actinides
+with more accurate methods than commonly used will provide new insights into spin properties and
+bonding. Improved descriptions of the behavior of f-electrons will be achieved by 1) computing structural
+properties, 2) predicting spectra, and 3) and accounting for strong correlation and spin–orbit coupling
+using methods based on the complete active space approach. Modeling will include optimizing geometries
+and performing vibrational analysis with second-order multireference methods followed by relativistic
+electronic structure studies using analogous methods based on the Dirac equation. This work will be
+performed in close collaboration with experimental groups and, when feasible, in both the absence and
+presence of a magnetic field.
+This research was selected for funding by the Office of Basic Energy Sciences and
+the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+71
+Analog Quantum Simulation for Solid-State Spectroscopies
+Dr. Yao Wang, Assistant Professor
+Department of Physics and Astronomy
+Clemson University
+Clemson, SC 29634
+Quantum materials are materials in which many electrons behave collectively through quantum
+entanglement in ways that are incongruous with classical models. Understanding, controlling, and
+designing quantum materials with particular functionalities, such as superconductors and batteries,
+comprise a large part of the innovative landscape at the frontier of energy science. These innovative
+applications rely on the accurate and efficient characterization of electrons’ collective properties using
+advanced spectroscopies. However, due to non-negligible quantum entanglement in these materials,
+simulations based on classical computers cannot efficiently capture the underlying physics of the
+materials’ spectroscopies, leaving a gap between predictable theories and practical experiments. The
+objective of this project is to develop analog quantum simulation protocols for certain classes of solid-
+state spectroscopies, including linear and nonlinear x-ray and neutron scattering spectroscopies. The
+objective also includes extending the theory and simulations of these spectroscopies to laser-engineered
+nonequilibrium matter. The protocols developed in this project can be realized by near-term quantum
+machines and will exceed the reach of any classical computer. The simulated spectroscopies generated
+by this project will then provide spectral fingerprints for exotic properties and enable efficient control of
+designed phases. This project will lead to transformative discoveries in the field of superconductors,
+energy materials, and quantum devices. The tight connection to DOE-operated, advanced spectral
+experiments will also enhance the scientific impact of world-class user facilities.
+This research was selected for funding by the Office of Basic Energy Sciences and
+the DOE Established Program to Stimulate Competitive Research.
+_____________________________________________________________________________________
+72
+Polariton Reaction Dynamics: Exploiting Strong Light-Matter Interactions for New Chemistry
+Dr. Marissa L. Weichman, Assistant Professor
+Department of Chemistry
+Princeton University
+Princeton, NJ 08544
+The development of novel methods to break and form specific chemical bonds will overcome major
+barriers to innovation in chemistry, revolutionizing our capabilities in chemical synthesis and energy
+technologies. A programmable reactor environment – where a researcher might “turn a knob” in the
+laboratory to activate or protect a selected bond – would enable a new level of rational chemical
+control. The emerging field of polariton chemistry inspires a means to develop exactly such devices for
+directing chemical reactions. Polaritons are hybrid light-matter states with unusual properties arising
+from strong interactions between a molecular ensemble and the confined electromagnetic field of an
+optical cavity. Polaritons inherit the wave-like nature of light while maintaining local molecular
+structure. It should perhaps not come as a surprise that polaritons can demonstrate energetics,
+reactivity, and photochemistry dramatically distinct from ordinary molecules. Polaritons formed from
+molecular vibrational states have recently been shown to impact the reactivity of specific chemical
+functional groups, but the mechanisms and scope of this phenomenon remain open questions that
+define the leading edge of the field. The fundamental physics underlying molecular polariton reactivity
+must be understood before we can engineer practical devices. This goal necessitates a new body of
+experimental work directly surveying cavity-coupled reaction trajectories on clean, easily-modeled
+reactive surfaces, working in close partnership with theory.
+In this research project, we aim to decipher the ground rules of polariton reactivity through
+experimental spectroscopic studies of a library of foundational chemical transformations carried out
+under strong light-matter coupling. Our primary aim is to survey cavity-altered reactivity in elementary
+reactions, harnessing radical hydrogen abstraction reactions in particular as probes of polariton
+dynamics. These reactions have well-characterized single-barrier reactive surfaces; they can be initiated
+with photolysis and tracked directly on ultrafast timescales; they are exothermic and proceed rapidly so
+dynamical signatures are not washed out; and they are accessible to theory, enabling detailed
+interpretation of reaction pathways. We will use direct time-resolved spectroscopic methods to
+measure intracavity reaction rates and the quantum state distribution of nascent products, aiming to
+pinpoint precisely how reactive trajectories are influenced by strong light-matter interactions. Examples
+of both significant and insignificant changes in intracavity reactivity will elucidate the experimental
+parameters crucial for achieving cavity-altered chemistry and validate or eliminate emerging theories.
+Our results will provide fertile ground for mechanistic interpretation and a toehold for future efforts to
+harness polaritonics to direct increasingly complex chemistry.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+73
+Dream Beam: Diffraction-limited Radiation Enhancement with Adaptive Mirrors
+for X-ray Coherent Beamlines
+Dr. Antoine Wojdyla, Research
+Scientist Advanced Light Source
+Lawrence Berkeley National
+Laboratory Berkeley, CA 94710
+DOE x-ray light sources facilities such as the Advanced Photon Source, the LINAC Coherent Light
+Source and the Advanced Light Source are undergoing major upgrades to increase the source
+brightness and enable groundbreaking science, based on laser-like high coherent flux. The Diffraction-
+limited Radiation Enhancement with Adaptive Mirrors (DREAM) project takes advantage of recent
+technological developments in the field of x-ray adaptive optics to shape and control coherent x-ray
+wavefronts at the nanometer level, tuning their properties in novel ways. This work will develop
+automated beamline alignment procedures using adaptive optics to achieve optimal performance
+during routine user operation, using machine learning procedures. It will also seek the tighter
+integration of beamlines with their experimental end stations, demonstrating dynamic x-ray sample
+illumination for high-throughput data collection and autonomous experiments. The project will explore
+the use of adaptive optics to engineer wavefronts to give rise to new contrast mechanisms and higher
+sensitivity in experiments, tuning the phase of the light when it interacts with the sample. The DREAM
+beam project represents a critical, collaborative step forward toward enabling high-speed experiments
+for in-operando studies of new micro-electronics, quantum devices, or batteries.
+This research was selected for funding by the Office of Basic Energy Sciences.
+74
+Disentangling Quantum Electronic States Layer-by-layer via Space-Frequency Lock-in
+Dr. Shuolong Yang, Assistant Professor
+Pritzker School of Molecular Engineering
+The University of Chicago
+Chicago, IL 60637
+Layer-by-layer material engineering has led to an enormous testbed for energy and quantum
+applications due to the flexibilities to manipulate many-body interactions. In particular, it is poised to
+launch the next wave of topological quantum materials based on the precise control of topology, which
+enables the flow of electrical currents with quantized conductance, nontrivial statistics, and maximum
+protection. However, the understanding of the distribution of electronic wavefunctions across different
+layers, which is key to the realization of topological quantum phases, has remained experimentally
+intractable. The goal of this research program is to establish and utilize a space-frequency lock-in scheme
+enabled by time- and angle-resolved photoemission spectroscopy to address this challenge. In this
+program, we will “see” the layer origins of electronic states by “listening” to the characteristic lattice mode
+frequencies: femtosecond laser pulses launch coherent lattice vibrations with layer-specific frequencies;
+photoemission spectroscopy tracks the electronic responses. Through decomposition of the electronic
+structure dynamics in the lattice frequency domain, we will be able to deduce the layer origins of different
+electronic states. Furthermore, we will connect time-resolved photoemission with time-resolved X-ray
+diffraction to quantify the electron-phonon coupling strengths, which will in turn quantify the weights of
+electronic wavefunctions in each layer. In digital superlattices Manganese Bismuth Tellurides, we will
+reveal the layer origin of the topological surface state, which is critical to the realization of quantized edge
+conduction. In Iron-Tellurium-Selenium ultrathin films, we will unveil the layer origins of the Dirac
+electronic states to establish the topological superconducting phase. This space-frequency lock-in regime
+will be broadly applicable to other heterostructural materials such as transition metal dichalcogenides
+and oxide superlattices. The layer-by-layer deciphering of electronic structures will provide direct
+feedback to layer-by-layer engineering, leading to a rapid optimization of new digital superlattices to
+enable future quantum and energy applications.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+75
+Investigation of Encapsulin Nanocompartment Systems as a Scaffold for Biomaterials Synthesis in
+Rhodococcus jostii
+Dr. Mimi C. Yung, Staff Scientist
+Biosciences and Biotechnology Division
+Lawrence Livermore National Laboratory
+Livermore, CA 94550
+With recent innovations in synthetic biology, genetically engineered microorganisms can now
+produce a wide variety of bioproducts, including fuels, commodity chemicals, plastics, and inorganic
+materials, to support a robust bioeconomy. However, challenges such as poor reaction efficiencies and
+toxicity often limit yields and prevent the production of desired chemicals. One strategy to overcome
+these challenges is to isolate biosynthetic reactions into protein compartments or cages within
+engineered microorganisms. Confining biochemical reactions into such cages may help increase reaction
+yields by bringing the reaction components closer together. At the same time, keeping the desired
+bioproducts inside these cages can prevent any potential toxic effects of the products, or the conversion
+of those products into undesired molecules. Some bacteria, such as the emerging model bioproduction
+bacterium Rhodococcus jostii, naturally produce protein cages, called encapsulin nanocompartments.
+The goal of this research is to identify mechanisms for engineering compartmentalized biosynthesis in
+this bacterial strain. This project will develop approaches to control encapsulin production by
+investigating the native regulation, biosynthesis, and maintenance of the encapsulin system. Gene-
+editing methods will be used to engineer encapsulins with novel structural properties for expanded
+bioproduction capabilities. As a case study, the encapsulin system will be used to biosynthesize
+cadmium sulfate (CdS) nanoparticles, which are semi-conducting materials used in many important
+optical and electronic applications. Ultimately, this work will establish encapsulin compartmentalization
+systems as a means of improving yields and enabling new biosynthetic routes toward next generation
+bioproducts and biomaterials in support of DOE’s mission to build a strong bioeconomy and thus
+enhance our energy security.
+This research was selected for funding by the Office of Biological and Environmental Research.
+_____________________________________________________________________________________
+76
+Quantum Simulation and State Preparation for Two-Dimensional Materials
+Dr. Michael Zaletel, Assistant Professor
+Department of Physics
+University of California, Berkeley
+Berkeley, CA 94720
+Many of the proposed uses for quantum computers require them both to be large, operating on
+many thousands of quantum bits, and to manipulate these “qubits” with near-perfect fidelity. While
+steadily improving, existing quantum hardware is not yet at the threshold required for running generic
+algorithms, making it important to find new approaches which can run on existing hardware. One of the
+most promising routes is “quantum simulation”: Given the chemical composition for a material of interest,
+can we use quantum hardware to predict its low-temperature properties such as electrical conductivity
+and magnetism? The objective of this research is to develop and deploy quantum simulation algorithms
+applicable to near-term quantum hardware, focusing on both gate-based quantum computers and
+Rydberg atom “quantum simulators.” The first approach will pursue efficient algorithms for studying two-
+dimensional materials like graphene using small gate-based quantum computers. By using the quantum
+computer to encode the correlations between any two halves of the material, simulations can be
+performed with resources that scale only with the size of the material’s surface, rather than its volume,
+greatly reducing the required hardware resources. The second approach will provide a roadmap for using
+the intrinsic dynamics of arrays of atoms trapped by optical tweezers to simulate the physics of several
+magnetic compounds whose properties have remained enigmatic for decades. The research will combine
+analytic methods, large-scale computational modeling, algorithm validation on quantum hardware, and
+close collaboration with experiments.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+77
+Exploring the Role of TOR kinase in the Regulation of Central Metabolism and Lipid Synthesis
+Dr. Zhiyang Zhai, Associate Biologist
+Biology Department
+Brookhaven National Laboratory
+Upton, NY 11973
+Triacylglycerol (TAG), is one of the highest energy forms of stored carbon in living systems having
+an energy density similar to that of petrochemicals, making it an ideal target for the development of net-
+zero carbon fuels. TAG principally accumulates in plant seeds where it fuels post-germinative seedling
+establishment. Oil yield from seeds is limited by seed biomass, so there is increasing interest in
+engineering the accumulation of TAG in vegetative tissues of high-yielding biomass crops. This approach
+requires a detailed understanding of the regulatory network that controls carbon conversion and of the
+factors that limit TAG accumulation in vegetative tissues. Two key components of this network are the
+sucrose non-fermenting 1-related protein kinase1 and the target of rapamycin (TOR) sensor kinase. These
+sensor kinases act antagonistically to modulate central metabolism by integrating information about the
+availability of energy and nutrients and phosphorylating target proteins that control the synthesis or
+breakdown of cellular components. When mammalian TOR is activated by growth factors and nutrients,
+it promotes TAG accumulation by upregulating lipid synthesis and downregulating its breakdown.
+However, the regulatory role of plant TOR is poorly understood. Planned research will focus on how
+carbon signals interact with, and modulate the activity of plant TOR. Key plant lipid regulating targets of
+TOR kinase will also be investigated. Foundational knowledge from this work will inform on energy flow
+and conversion and provide a new perspective on the mechanisms that plants use to control those
+processes.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+78
+Optical Manipulation of Magnetic Order in van der Waals Heterostructures
+Dr. Xiao-Xiao Zhang, Assistant Professor
+Physics Department
+University of Florida
+Gainesville, FL 32611
+Controlling the electronic spin plays a critical role in the development of modern technology. Most
+established methods rely on electrical transport. Developing an all-optical approach will enable a non-
+invasive and potentially ultrafast method to initiate, control, and read the spin states, which will greatly
+advance the spintronics and quantum information device research. Although a circularly polarized photon
+carries a spin of ±h, direct magnet domain manipulation with light helicity has been challenging due to
+the weak angular momentum transfer between photons and magnetic ions. The recently discovered
+atomically thin, two-dimensional (2D) magnets offer new possibilities with their rich electric and optical
+properties. In particular, novel interfacial effects within such 2D magnetic heterostructures can lead to
+new control capabilities of magnetic states. This proposal uses optical pump-probe spectroscopy to
+investigate the photon-induced magnetization modulation in 2D magnetic crystals and magnetic
+heterostructures. The project will develop a fundamental understanding of the non-equilibrium spin
+dynamics in 2D systems, and aims to achieve a full spin-flip and further coherent spin control with ultrafast
+laser pulses. The results will provide insights into emergent phenomena between different physical
+systems and stimulate 2D device development for high-speed spintronics and quantum operations.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+79
+Advanced Uncertainty Quantification Methods for Scientific Inverse Problems
+Dr. Guannan Zhang, Senior Research Scientist
+Computer Science and Mathematics Division
+Oak Ridge National Laboratory
+Oak Ridge, TN 37830
+We will develop a new array of mathematical methods for accurately and efficiently sampling high-
+dimensional Bayesian posterior distributions to quantify uncertainties in solving scientific inverse
+problems. Scientific inverse problems seek to infer unobservable parameters of a physical model from
+quantities that can be measured in scientific experiments. Measurements obtained from scientific
+experiments are often subject to data noise or lack of important information, i.e., data uncertainty; the
+forward model could miss a critical physics phenomenon, which is interpreted as model uncertainty.
+Solving a scientific inverse problem in the Bayesian context is equivalent to sampling from the posterior
+distribution that encapsulates all sorts of uncertainties. Because the posterior distribution could have
+arbitrarily complex geometry, it is impossible for any method to overcome all challenges in inverse
+sampling. In this project, we will develop a level-set learning based inverse sampling method for
+multimodal posterior distributions to overcome the challenge of mode mixing intractability in existing
+sampling methods. The level sets of the posterior distribution will be learned by deep neural networks.
+The developed inverse sampling method will be combined with a neural-network based dimension
+reduction approach to handle high-dimensional ill-conditioned posterior distributions. Additionally,
+sampling the posterior requires many forward model simulations. When the forward model is
+computationally intensive, a surrogate posterior is needed to accelerate time to solution. Recent
+advancement of neural networks has naturally led to neural network-based surrogates for Bayesian
+inference. However, a neural network model usually requires time-consuming hyperparameter tuning.
+To address this issue, we will develop a generalized deep neural network model with continuum
+architecture, where the standard fully connected network becomes a special case of our model. We will
+derive theoretical results on the expressive power of our model to explain its superior performance. The
+outcome of this project will significantly improve the accuracy and efficiency in solving scientific inverse
+problems that arise from the U.S. Department of Energy's mission space.
+This research was selected for funding by the Office of Advanced Scientific Computing Research.
+_____________________________________________________________________________________
+80
+Probing and Controlling Novel Electronic and Magnetic Ordering in Electron-Hole Wigner Crystals
+Dr. You Zhou, Assistant Professor
+Department of Materials Science and Engineering
+University of Maryland
+College Park, MD 20742
+Understanding and controlling the competition between electron correlation and quantum
+fluctuations are central to the studies of correlated electronic materials, which may enable novel materials
+functionalities. However, it is often challenging to understand such a competition in solids since there is
+usually a strong interplay between electronic and other degrees of freedom, such as lattice. Van der Waals
+heterostructures, made of atomically thin two-dimensional materials, have recently emerged as a new
+platform for investigating correlated electron physics, where electronic behaviors can be controlled by
+electrostatic perturbations. For example, in a coupled bilayer of two-dimensional semiconductors, the
+electronic behaviors of one layer can become highly dependent on the other layer, leading to the
+formation of correlated phases, including Wigner crystals and excitonic insulators. This research program
+will explore how the interlayer Coulomb interactions between atomically thin materials could lead to new
+correlated states, such as electron-hole Wigner crystals. In addition, the project will develop techniques
+to probe charge orderings in such heterostructures. The program will further leverage the control of
+charge states to engineer novel magnetic states. The ability to control charge and magnetic ordering will
+impact our understanding of a broad range of quantum materials.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+81
+Understanding Thermal Oxidation of Tungsten and the Impact of Radiation
+under Fusion Extremes
+Dr. Yuanyuan Zhu, Assistant Professor
+Department of Materials Science and Engineering, Institute of Materials Science
+University of Connecticut
+Storrs, CT 06269
+Fusion energy holds great promise for replacing fossil fuels for baseload electrical power,
+however, harnessing such energy is a demanding process and requires materials that can cope in
+extreme environments including hush off-normal conditions. This project addresses a well-known fusion
+safety hazard concerning aggressive high-temperature oxidation of tungsten plasma-facing materials
+(PFMs) in case of air-ingress accident scenarios, which could generate highly volatile radioactive oxide
+dust and lead to uncontrollable first-wall decomposition. Currently, there is not a complete
+understanding of the fundamental nanoscale processes of tungsten oxidation in either pristine or
+irradiated conditions. To fill these key gaps, this project leverages novel in-situ environmental
+microscopy methods combined with dedicated computer vision models to unveil the dynamic evolution
+of passivating tungsten oxide layers at the nanoscale and in real-time, including in the presence of
+radiation-induced defects. These in-situ insights will then be correlated with tungsten oxidation rate
+kinetics providing a coupled experimental and theoretical framework for predicting tungsten
+performance under off-normal conditions. This new mechanistic understanding will provide the
+knowledge basis for developing creative strategies to improve tungsten oxidation resistance, and will
+impact the designing criteria for next-generation tungsten-based PFMs that will have to balance
+between radiation tolerance and oxidation resistance, both of which are essential for the safe and
+reliable operation of fusion energy systems.
+This research was selected for funding by the Office of Fusion Energy Sciences.
+_____________________________________________________________________________________
+82
+Upcycling of All-Carbon Polymer Backbones into Value-Added Amines via Skeletal Rearrangement
+Dr. Aleksandr V. Zhukhovitskiy, Assistant Professor
+Department of Chemistry
+University of North Carolina at Chapel Hill
+Chapel Hill, NC 27599
+During the past century, development of polymers—large molecules formed by repeated linking
+of smaller units—has enabled unparalleled global technological progress. However, this progress has
+come at the cost of a global plastics pollution crisis. Among the most abundant polymers that contribute
+to this pollution are vinyl polymers and polyolefins. At the heart of their accumulation is the fact that
+cleavage of strong carbon-carbon bonds in the polymer chains is a daunting process. These bonds typically
+require such high temperatures (≥350 °C) to be cleaved, that mixtures of products form during pyrolysis,
+which further compounds the recycling problem. New strategies toward controlled breakdown of such
+polymers are urgently needed. To address this demand, the objectives of this project are (1) to develop
+catalytic installation of nitrogen atoms along all-carbon polymer backbones and (2) to utilize skeletal
+rearrangements to enable polymer upcycling—i.e., conversion to add value—into nitrogen-containing
+small molecules. This project particularly focuses on diene polymers, which makes up a large proportion
+of commodity rubber materials and plastics but whose recycling remains an unsolved challenge. If
+successful, the proposed research will transform rubber waste into building blocks for functional
+materials. More broadly, it will advance plastic sustainability by introducing a new strategy—namely,
+skeletal rearrangements—for the upcycling of waste polymers.
+This research was selected for funding by the Office of Basic Energy Sciences.
+_____________________________________________________________________________________
+83

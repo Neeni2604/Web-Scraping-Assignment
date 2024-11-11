@@ -1,0 +1,970 @@
+Name,Gender,Institution,Category,Subcategory,Year
+Kavin Ammigan,Unknown,Fermi National Accelerator Laboratory,National Lab,,2022
+Alexander Austregesilo,Male,Thomas Jefferson National Accelerator Facility,National Lab,,2022
+Keith Bechtol,Male,University of Wisconsin-Madison,University,State/Public,2022
+Lauren E. Beckingham,Female,Auburn University,University,Unknown,2022
+Timothy Berkelbach,Male,Columbia University,University,Ivy League,2022
+Peter A. Bosler,Male,Sandia National Laboratories,National Lab,,2022
+Itay Budin,Male,University of California San Diego,University,Unknown,2022
+Livia Casali,Female,University of Tennessee-Knoxville,University,Unknown,2022
+David Cereceda,Male,Villanova University,University,Unknown,2022
+Katerina Chatziioannou,Female,California Institute of Technology,University,Private,2022
+Yang-Ting Chien,Unknown,Georgia State University,University,Unknown,2022
+Christopher J. Dares,Male,Florida International University,University,Unknown,2022
+Emily C. Davidson,Female,Princeton University,University,Ivy League,2022
+John D. Despotopulos,Male,Lawrence Livermore National Laboratory,National Lab,,2022
+Johannes Doerfert,Male,Argonne National Laboratory,National Lab,,2022
+Chunhui Du,Unknown,"University of California, San Diego",University,State/Public,2022
+Auralee Edelen,Unknown,SLAC National Accelerator Laboratory,National Lab,,2022
+Sabit Ekin,Male,Oklahoma State University,University,Unknown,2022
+Timofey Frolov,Male,Lawrence Livermore National Laboratory,National Lab,,2022
+Trey E. Gebhart,Male,Oak Ridge National Laboratory,National Lab,,2022
+Emily B. Graham,Female,Pacific Northwest National Laboratory,National Lab,,2022
+Hanqi Guo,Unknown,Argonne National Laboratory,National Lab,,2022
+Ryan G. Hadt,Male,California Institute of Technology,University,Private,2022
+K. C. Hammond,Unknown,Princeton Plasma Physics Laboratory,National Lab,,2022
+Shaun R. Haskey,Male,Princeton Plasma Physics Laboratory,National Lab,,2022
+Dugan Hayes,Male,University of Rhode Island,University,Unknown,2022
+Andrew Hearin,Male,Argonne National Laboratory,National Lab,,2022
+Elizabeth Herndon,Female,Oak Ridge National Laboratory,National Lab,,2022
+Tova Holmes,Female,University of Tennessee,University,Unknown,2022
+Tanzima Z. Islam,Unknown,Texas State University,University,Unknown,2022
+Benjamin Jorns,Male,University of Michigan,University,State/Public,2022
+Piran R. Kidambi,Unknown,Vanderbilt University,University,Unknown,2022
+Jae Chul Kim,Unknown,Stevens Institute of Technology,University,Unknown,2022
+Anders Knospe,Male,Lehigh University,University,Unknown,2022
+Boopathy Kombaiah,Unknown,Idaho National Laboratory,National Lab,,2022
+Noah Kurinsky,Male,SLAC National Laboratory,University,Unknown,2022
+Aeriel D.M. Leonard,Unknown,The Ohio State University,University,State/Public,2022
+Yuzhang Li,Unknown,"University of California, Los Angeles",University,State/Public,2022
+Chong Liu,Unknown,The University of Chicago,University,Private,2022
+Lu Lu,Unknown,University of Pennsylvania,University,Ivy League,2022
+Xiao Luo,Unknown,"University of California, Santa Barbara",University,Unknown,2022
+Devin Matthews,Male,Southern Methodist University,University,Unknown,2022
+Matteo Mitrano,Male,Harvard University,University,Ivy League,2022
+Christopher Monahan,Male,William & Mary,University,Unknown,2022
+Atieh Moridi,Unknown,Cornell University,University,Ivy League,2022
+Andrew Mounce,Male,Sandia National Laboratories,National Lab,,2022
+Benjamin Nachman,Male,Lawrence Berkeley National Laboratory,National Lab,,2022
+Aditya G. Nair,Male,"University of Nevada, Reno",University,Unknown,2022
+Lisa Olshansky,Female,"University of Illinois, Urbana-Champaign",University,Unknown,2022
+Guido Pagano,Male,Rice University,University,Private,2022
+Chenyun Pan,Unknown,The University of Texas at Arlington,University,Unknown,2022
+Pietro Papa Lopes,Male,Argonne National Laboratory,National Lab,,2022
+Natalie Paquette,Female,University of Washington,University,State/Public,2022
+Geoffrey Penington,Male,"University of California, Berkeley",University,State/Public,2022
+Denisia Popolan-Vaida,Female,University of Central Florida,University,Unknown,2022
+Timothy Proctor,Male,Sandia National Laboratories,National Lab,,2022
+Matt Pyle,Male,University of California Berkeley,University,Unknown,2022
+Krupa Ramasesha,Unknown,Sandia National Laboratories,National Lab,,2022
+Michael Reppert,Male,Purdue University,University,Unknown,2022
+Grant M. Rotskoff,Male,Stanford University,University,Private,2022
+Michael Schulz,Male,Virginia Polytechnic Institute and State University,University,Unknown,2022
+Lorenzo Sironi,Male,Columbia University,University,Ivy League,2022
+Elizabeth Sooby,Female,University of Texas at San Antonio,University,Unknown,2022
+Kelsey A. Stoerzinger,Female,Oregon State University,University,Unknown,2022
+Daniel Stolper,Male,"University of California, Berkeley",University,State/Public,2022
+Brian Summa,Male,Tulane University,University,Unknown,2022
+Zhaowen Tang,Unknown,Los Alamos National Laboratory,National Lab,,2022
+Marlene Turner,Female,Lawrence Berkeley National Laboratory,National Lab,,2022
+Jorge A. Villa,Male,University of Louisiana at Lafayette,University,Unknown,2022
+Bess Vlaisavljevich,Female,University of South Dakota,University,Unknown,2022
+Yao Wang,Unknown,Clemson University,University,Unknown,2022
+Marissa L. Weichman,Female,Princeton University,University,Ivy League,2022
+Antoine Wojdyla,Male,Lawrence Berkeley National,National Lab,,2022
+Shuolong Yang,Unknown,The University of Chicago,University,Private,2022
+Mimi C. Yung,Female,Lawrence Livermore National Laboratory,National Lab,,2022
+Michael Zaletel,Male,"University of California, Berkeley",University,State/Public,2022
+Zhiyang Zhai,Unknown,Brookhaven National Laboratory,National Lab,,2022
+Xiao-Xiao Zhang,Unknown,University of Florida,University,State/Public,2022
+Guannan Zhang,Unknown,Oak Ridge National Laboratory,National Lab,,2022
+You Zhou,Unknown,University of Maryland,University,Unknown,2022
+Yuanyuan Zhu,Unknown,University of Connecticut,University,Unknown,2022
+Aleksandr V. Zhukhovitskiy,Male,University of North Carolina at Chapel Hill,University,State/Public,2022
+Gina C. Adam,Female,The George Washington University,University,Unknown,2024
+Whitney Armstrong,Male,Argonne National Laboratory,National Lab,,2024
+Miguel Arratia,Male,"University of California, Riverside",University,Unknown,2024
+Sayan Biswas,Unknown,University of Minnesota,University,State/Public,2024
+Steven J Blazewicz,Male,Lawrence Livermore National Laboratory,National Lab,,2024
+David Cesar,Male,SLAC National Accelerator Laboratory,National Lab,,2024
+Matthew B. Chambers,Male,Louisiana State University,University,Unknown,2024
+Nathaniel Chaney,Male,Duke University,University,Private,2024
+Xiaoqian Chen,Unknown,Brookhaven National Laboratory,National Lab,,2024
+Tyler Cocker,Male,Michigan State University,University,Unknown,2024
+Stacy M. Copp,Female,"University of California, Irvine",University,Unknown,2024
+Gavin Cornwell,Male,Pacific Northwest National Laboratory,National Lab,,2024
+Sneha P. Couvillion,Female,Pacific Northwest National Laboratory,National Lab,,2024
+Jacob Covey,Male,University of Illinois Urbana-Champaign,University,Unknown,2024
+Anil Damle,Male,Cornell University,University,Ivy League,2024
+Nelson Dzade,Male,Pennsylvania State University,University,Unknown,2024
+Gilberto Fernandes Lopes Fabbris,Male,Argonne National Laboratory,National Lab,,2024
+Gianluca Geraci,Male,SLAC National Accelerator Laboratory,National Lab,,2024
+Julia Gonski,Female,SLAC National Accelerator Laboratory,National Lab,,2024
+Eduardo Higino da Silva Neto,Male,Yale University,University,Ivy League,2024
+Alisa Javadi,Female,University of Oklahoma,University,Unknown,2024
+Dafei Jin,Unknown,University of Notre Dame,University,Unknown,2024
+Carlee Joe-Wong,Female,Carnegie Mellon University,University,Unknown,2024
+Austin Joyce,Male,University of Chicago,University,Private,2024
+Alvine Kamaha,Female,"University of California, Los Angeles (UCLA)",University,State/Public,2024
+Shaina Kelly,Female,Columbia University,University,Ivy League,2024
+Itamar Kimchi,Male,Georgia Institute of Technology,University,Unknown,2024
+Lydia Kisley,Female,Case Western Reserve University,University,Unknown,2024
+Marek Kolmer,Male,Ames National Laboratory,National Lab,,2024
+Stephen Lam,Male,University of Massachusetts Lowell,University,Unknown,2024
+Amanda Lietz,Female,North Carolina State University,University,Unknown,2024
+Fang Liu,Unknown,Emory University,University,Private,2024
+Shusen Liu,Unknown,Lawrence Livermore National Laboratory,National Lab,,2024
+Whitney Loo,Male,University of Wisconsin-Madison,University,State/Public,2024
+Matthew Loyd,Male,Oak Ridge National Laboratory,National Lab,,2024
+Yunqiu Kelly Luo,Unknown,University of Southern California,University,Private,2024
+David Martinez Caicedo,Male,South Dakota School of Mines and Technology,University,Unknown,2024
+Liane M. Moreau,Female,Washington State University,University,Unknown,2024
+Ian Moult,Male,Yale University,University,Ivy League,2024
+Lukas Muechler,Male,Penn State University,University,Unknown,2024
+Andy Nguyen,Male,"Elise Novitski, Assistant Professor",University,Unknown,2024
+Kevin Pedro,Male,Fermi National Accelerator Laboratory,National Lab,,2024
+Bo Peng,Male,Pacific Northwest National Laboratory,National Lab,,2024
+Jennifer Louise Pore,Female,Lawrence Berkeley National Laboratory,National Lab,,2024
+Wei Qin,Unknown,University of Oklahoma,University,Unknown,2024
+Lina Quan,Female,Virginia Polytechnic Institute and State University,University,Unknown,2024
+Dylan Rankin,Male,University of Pennsylvania,University,Ivy League,2024
+Alex J. Rinehart,Male,New Mexico Tech,University,Unknown,2024
+Sourabh K. Saha,Unknown,Georgia Institute of Technology,University,Unknown,2024
+Thomas Scaffidi,Male,"University of California, Irvine",University,Unknown,2024
+Daniel Schwalbe-Koda,Male,"University of California, Los Angeles",University,State/Public,2024
+Filippo Scotti,Male,Lawrence Livermore National Laboratory,National Lab,,2024
+S. Eileen Seo,Unknown,Arizona State University,University,Unknown,2024
+Kyle Seyler,Female,The University of Arizona,University,Unknown,2024
+Sara Shamekh,Female,New York University,University,Private,2024
+Yu-Tsun Shao,Unknown,University of Southern California,University,Private,2024
+Philip Shushkov,Male,Indiana University,University,Unknown,2024
+Jennifer Shusterman,Female,Lawrence Livermore National Laboratory,National Lab,,2024
+Marien Simeni Simeni,Male,University of Minnesota,University,State/Public,2024
+Craig Snoeyink,Male,University of Buffalo,University,Unknown,2024
+Ioannis Spanopoulos,Male,University of South Florida,University,Unknown,2024
+Allison H. Squires,Female,The University of Chicago,University,Private,2024
+Xiao Su,Unknown,University of Illinois at Urbana-Champaign,University,State/Public,2024
+Carolin M. Sutter-Fella,Female,Lawrence Berkeley National Laboratory,National Lab,,2024
+Thi Vo,Female,Johns Hopkins University,University,Private,2024
+Kyle Wendt,Female,Lawrence Livermore National Laboratory,National Lab,,2024
+Shawn Westerdale,Male,"University of California, Riverside",University,Unknown,2024
+Lea R. Winter,Female,Yale University,University,Ivy League,2024
+Mitchell A. Wood,Male,Sandia National Laboratories,National Lab,,2024
+W.L. Kimmy Wu,Unknown,SLAC National Accelerator Laboratory,National Lab,,2024
+Yang Yang,Unknown,"University of California, Santa Barbra",University,Unknown,2024
+Mingwei Zhang,Unknown,"University of California, Davis",University,Unknown,2024
+Ben Zhu,Male,Lawrence Livermore National Laboratory,National Lab,,2024
+Cristal Zuniga,Female,San Diego State University,University,Unknown,2024
+Hussein Aluie,Male,University of Rochester,University,Unknown,2019
+Luca Argenti,Male,University of Central Florida,University,Unknown,2019
+Veronica Augustyn,Female,North Carolina State University,University,Unknown,2019
+Kristin Burnum-Johnson,Female,Pacific Northwest National Laboratory,National Lab,,2019
+Viviana Cavaliere,Female,Brookhaven National Laboratory (BNL),National Lab,,2019
+Lan Cheng,Unknown,Johns Hopkins University,University,Private,2019
+Miaofang Chi,Unknown,Oak Ridge National Laboratory (ORNL),National Lab,,2019
+Robert Coridan,Male,University of Arkansas,University,Unknown,2019
+Scott Cushing,Male,California Institute of Technology,University,Private,2019
+Shudipto Konika Dishari,Unknown,University of Nebraska-Lincoln,University,Unknown,2019
+Thomas Dumitrescu,Male,"University of California, Los Angeles",University,State/Public,2019
+Cora Dvorkin,Female,Harvard University,University,Ivy League,2019
+Tim Eifler,Male,University of Arizona,University,Unknown,2019
+David Flaherty,Male,University of Illinois,University,Unknown,2019
+Greeshma Gadikota,Unknown,Cornell University*,University,Ivy League,2019
+Diana Gamzina,Female,SLAC National Accelerator Laboratory,National Lab,,2019
+Arianna Gleason,Female,SLAC National Accelerator Laboratory,National Lab,,2019
+Sowjanya Gollapinni,Unknown,University of Tennessee,University,Unknown,2019
+Karl D. Hammond,Male,University of Missouri,University,Unknown,2019
+Scott Hertel,Male,"University of Massachusetts, Amherst",University,Unknown,2019
+Jier Huang,Unknown,Marquette University,University,Unknown,2019
+Stratos Idreos,Male,Harvard University,University,Ivy League,2019
+Laura Jeanty,Female,University of Oregon,University,Unknown,2019
+M. Benjamin Jungfleisch,Unknown,University of Delaware,University,Unknown,2019
+Jyoti Katoch,Female,Carnegie Mellon University,University,Unknown,2019
+Kibaek Kim,Unknown,Argonne National Laboratory (ANL),National Lab,,2019
+Elisabeth Krause,Female,University of Arizona,University,Unknown,2019
+Isaac J. Larsen,Male,University of Massachusetts – Amherst,University,Unknown,2019
+David T. Limmer,Male,"University of California, Berkeley",University,State/Public,2019
+Lucas Lindsay,Male,Oak Ridge National Laboratory (ORNL),National Lab,,2019
+Cara Lubner,Female,National Renewable Energy Laboratory (NREL),National Lab,,2019
+Joseph M. Lukens,Male,Oak Ridge National Laboratory (ORNL),National Lab,,2019
+Pedro Machado,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,2019
+Vladimir Manucharyan,Male,University of Maryland,University,Unknown,2019
+Jared Maxson,Male,Cornell University,University,Ivy League,2019
+Ryan McBride,Male,University of Michigan,University,State/Public,2019
+Josh Michener,Male,Oak Ridge National Laboratory,National Lab,,2019
+Kathryn Mohror,Female,Lawrence Livermore National Laboratory,National Lab,,2019
+Brad Ramshaw,Male,Cornell University,University,Ivy League,2019
+Cindy Rubio Gonzalez,Female,"University of California, Davis",University,Unknown,2019
+Ashkan Salamat,Unknown,University of Nevada,University,Unknown,2019
+Catherine Schuman,Female,Oak Ridge National Laboratory (ORNL),National Lab,,2019
+Michael D. Shields,Male,Johns Hopkins University,University,Private,2019
+Kevin Solomon,Male,Purdue University,University,Unknown,2019
+Peter Sorensen,Male,Lawrence Berkeley National Laboratory,National Lab,,2019
+James Stegen,Male,Pacific Northwest National Laboratory,National Lab,,2019
+Timothy Stoltzfus-Dueck,Male,Princeton Plasma Physics Laboratory,National Lab,,2019
+Elijah Thimsen,Male,Washington University,University,Unknown,2019
+Jeff Thompson,Male,Princeton University,University,Ivy League,2019
+Ian A. Tonks,Male,University of Minnesota,University,State/Public,2019
+Nhan V. Tran,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,2019
+Ahmet Uysal,Male,Argonne National Laboratory (ANL),National Lab,,2019
+Charuleka Varadharajan,Unknown,Lawrence Berkeley National Laboratory,National Lab,,2019
+David Vinyard,Male,Louisiana State University and A&M College,University,Unknown,2019
+Bin Wang,Unknown,University of Oklahoma,University,Unknown,2019
+Yangyang Wang,Unknown,Oak Ridge National Laboratory,National Lab,,2019
+Sarah J. Watzman,Female,University of Cincinnati,University,Unknown,2019
+Janelle P. Wharry,Female,Purdue University,University,Unknown,2019
+Jingke Xu,Unknown,Lawrence Livermore National Laboratory,National Lab,,2019
+Xingchen Xu,Unknown,Fermi National Accelerator Laboratory (FNAL),National Lab,,2019
+Qimin Yan,Unknown,Temple University,University,Unknown,2019
+Andriy Zakutayev,Male,National Renewable Energy Laboratory (NREL),National Lab,,2019
+Ilija Zeljkovic,Male,Boston College,University,Unknown,2019
+Kandis Leslie Gilliard-Abdul Aziz,Unknown,"University of California, Riverside",University,Unknown,2023
+Philip Adsley,Male,Texas A&M University,University,Unknown,2023
+Chibueze Amanchukwu,Unknown,The University of Chicago,University,Private,2023
+Bahar Asgari,Female,"University of Maryland, College Park",University,State/Public,2023
+Sam Barber,Male,Lawrence Berkeley National Laboratory,National Lab,,2023
+Mathew R. Becker,Male,Argonne National Laboratory,National Lab,,2023
+Julie Bessac,Female,Statistician National Renewable Energy,University,Unknown,2023
+Christian Boutan,Male,Pacific Northwest National Laboratory,National Lab,,2023
+Mathew Brahlek,Male,Oak Ridge National Laboratory,National Lab,,2023
+James Daniel Brandenburg,Male,Ohio State University,University,State/Public,2023
+Jennifer Brophy,Female,"Stanford, CA",University,Unknown,2023
+Elizabeth Brost,Female,Brookhaven National,University,Unknown,2023
+Lucas Brouwer,Male,Lawrence Berkeley National Laboratory,National Lab,,2023
+Steven Brus,Male,Argonne National Laboratory,National Lab,,2023
+Jonathan D. Burns,Male,University of Alabama at Birmingham,University,Unknown,2023
+John F. Cahill,Male,Oak Ridge National Laboratory,National Lab,,2023
+Yue Cao,Unknown,Argonne National Laboratory,National Lab,,2023
+Lane Carasik,Male,"University Richmond, Virginia",University,Unknown,2023
+Korey P. Carter,Male,University of Iowa,University,Unknown,2023
+Daniel Casey,Male,Lawrence Livermore National Laboratory (LLNL),National Lab,,2023
+Tirthankar Chakraborty,Unknown,Atmospheric Sciences and Global Change,University,Unknown,2023
+Fanglin Che,Unknown,University of Massachusetts Lowell,University,Unknown,2023
+Martin Claassen,Male,Astronomy University of Pennsylvania,University,Ivy League,2023
+Kensha Marie Clark,Unknown,University of Mississippi,University,Unknown,2023
+Laura de Sousa Oliveira,Female,University of Wyoming,University,Unknown,2023
+Gauthier J.-P. Deblonde,Male,Lawrence Livermore National Laboratory,National Lab,,2023
+Maria Laura di Vacri,Female,Pacific Northwest National Laboratory,National Lab,,2023
+Leah G. Dodson,Female,Biochemistry University of Maryland,University,Unknown,2023
+Dong,Unknown,"University of Oklahoma,",University,Unknown,2023
+Chuanfei Dong,Unknown,Boston University,University,Unknown,2023
+Leora Dresselhaus-Marais,Female,Stanford University,University,Private,2023
+Vinicius Duarte,Male,Princeton Plasma Physics Laboratory,National Lab,,2023
+Guillaume Duclos,Male,Physics Brandeis University,University,Unknown,2023
+Eugene Dumitrescu,Male,Computational Science and Engineering,University,Unknown,2023
+Raghav Kunnawalkam Elayavalli,Unknown,Vanderbilt University,University,Unknown,2023
+Claudio Emma,Male,Advanced Accelerator Research,University,Unknown,2023
+Guillermo Fernandez Moroni,Male,Fermi National Accelerator Laboratory,National Lab,,2023
+Rich Fiorella,Male,Los Alamos National Laboratory,National Lab,,2023
+Holly B. Flynn,Female,Savannah River National,University,Unknown,2023
+Fereshte Ghahari Kermani,Unknown,George Mason University,University,Unknown,2023
+Nikolay Golubev,Male,University of Arizona,University,Unknown,2023
+Laura Gunn,Female,"School of Integrative Plant Sciences, Plant Biology",University,Unknown,2023
+Shabnam Hematian,Unknown,University of North Carolina at Greensboro,University,Unknown,2023
+Robert Hovden,Male,University of Michigan,University,State/Public,2023
+Ezio Iacocca,Male,Science University of Colorado Colorado,University,Unknown,2023
+Lise-Marie Imbert-Gerard,Unknown,"Arizona Board of Regents, University of Arizona",University,Unknown,2023
+Nicholas Jackson,Male,"University of Illinois, Urbana-Champaign",University,Unknown,2023
+Jing Li,Unknown,New Jersey Institute of,University,Unknown,2023
+Julia Kalow,Female,Chemistry Northwestern,University,Unknown,2023
+Brendan Keith,Male,Brown University,University,Ivy League,2023
+Takaaki Koyanagi,Male,Oak Ridge National Laboratory,National Lab,,2023
+Benjamin A. Legg,Male,Pacific Northwest National Laboratory,National Lab,,2023
+Wenjing Liao,Unknown,Georgia Institute of Technology,University,Unknown,2023
+Kun Liu,Unknown,Los Alamos National Laboratory (LANL),National Lab,,2023
+Andrey Lokhov,Male,Los Alamos National Laboratory,National Lab,,2023
+Dan Lu,Male,Oak Ridge National Laboratory,National Lab,,2023
+Niall Mangan,Male,Mathematics Northwestern University,University,Private,2023
+Chris Marshall,Male,University of Rochester,University,Unknown,2023
+C. Michael McGuirk,Unknown,Mines,University,Unknown,2023
+James McIver,Male,Physics Columbia University,University,Ivy League,2023
+Bernhard Mistlberger,Male,SLAC National Accelerator Laboratory,National Lab,,2023
+Julia Moriarty,Female,University of Colorado Boulder,University,Unknown,2023
+Johanna Nelson Weker,Female,Lightsource SLAC National Accelerator,University,Unknown,2023
+Hyunseok Oh,Unknown,University of Wisconsin-Madison,University,State/Public,2023
+Elizabeth Paul,Female,Columbia University,University,Ivy League,2023
+Adam Printz,Male,University of Arizona,University,Unknown,2023
+Jin Qian,Female,Lawrence Berkeley National Laboratory,National Lab,,2023
+Felix Ringer,Male,Old Dominion University,University,Unknown,2023
+Annette Rowe,Female,"Cincinnati Cincinnati,",University,Unknown,2023
+Derek Schaeffer,Male,"Astronomy University of California, Los",University,Unknown,2023
+Arunima Singh,Unknown,Arizona State University,University,Unknown,2023
+Hillary Smith,Female,Astronomy Swarthmore College,University,Unknown,2023
+Erin Stache,Female,Princeton University,University,Ivy League,2023
+Mathew A. Steiner,Male,Engineering University of Cincinnati,University,Unknown,2023
+Esther Tsai,Female,"Laboratory Upton, NY",University,Unknown,2023
+Omar Valsson,Male,University of North Texas,University,Unknown,2023
+Ying Wang,Unknown,University of Wisconsin-Madison,University,State/Public,2023
+Cory Windorff,Male,Biochemistry New Mexico State University,University,Unknown,2023
+Derong Xu,Unknown,Brookhaven National Laboratory,National Lab,,2023
+Da Yan,Unknown,University of Alabama at,University,Unknown,2023
+Joanna M Zajac,Female,Brookhaven National Laboratory,National Lab,,2023
+Yu Zhang,Unknown,Los Alamos National Laboratory,National Lab,,2023
+Youtong Zheng,Unknown,"Boston College,",University,Unknown,2023
+Brian Zhou,Male,"Boston College,",University,Unknown,2023
+Silvia Zorzeti,Female,Fermi National Accelerator Laboratory,National Lab,,2023
+Michael Zuerch,Male,"University of California, Berkeley",University,State/Public,2023
+Daniel Bardayan,Male,Oak Ridge National Laboratory,National Lab,,2010
+Christian Bauer,Male,Lawrence Berkeley National Laboratory,National Lab,,2010
+Ivan Bazarov,Male,Cornell University,University,Ivy League,2010
+Philip Bingham,Male,Oak Ridge National Laboratory,National Lab,,2010
+Stanislav Boldyrev,Male,University of Wisconsin,University,Unknown,2010
+Grigory Bronevetsky,Male,Lawrence Livermore National Laboratory,National Lab,,2010
+Martin Centurion,Male,University of Nebraska,University,Unknown,2010
+Patrick Yin Chiang,Male,Oregon State University,University,Unknown,2010
+Luisa Chiesa,Female,Miami University,University,Unknown,2010
+Samantha Daly,Female,University of Michigan,University,State/Public,2010
+Yuantao Ding,Unknown,SLAC National Accelerator Laboratory,National Lab,,2010
+David Erickson,Male,Cornell University,University,Ivy League,2010
+Amir Farbin,Male,"University of Texas, Arlington",University,Unknown,2010
+Daniel Fredrickson,Male,University of Wisconsin,University,Unknown,2010
+Andrew Gaunt,Male,Los Alamos National Laboratory,National Lab,,2010
+Adrian Gozar,Male,Brookhaven National Laboratory,National Lab,,2010
+William Gustafson,Male,Pacific Northwest National Laboratory,National Lab,,2010
+Valerie Halyo,Female,University of Colorado,University,Unknown,2010
+Michael Hermele,Male,University of Colorado,University,Unknown,2010
+Patrick Huber,Male,Virginia Polytechnic Institute and State University,University,Unknown,2010
+Christiane Jablonowski,Female,University of Michigan,University,State/Public,2010
+Arthi Jayaraman,Unknown,University of Colorado,University,Unknown,2010
+Rubin Juanes,Male,University of Maryland,University,Unknown,2010
+Matias Kirst,Male,University of Florida,University,State/Public,2010
+John Kitchin,Male,Carnegie Mellon University,University,Unknown,2010
+Michael Kohl,Male,Hampton University,University,Unknown,2010
+Matthew Law,Male,"University of California, Irvine",University,Unknown,2010
+Rupak Mahapatra,Unknown,Texas A&M University,University,Unknown,2010
+Alysia Marino,Female,University of Colorado,University,Unknown,2010
+Christina Markert,Female,University of Texas at Austin,University,State/Public,2010
+Youssef Marzouk,Male,Los Alamos National Laboratory,National Lab,,2010
+Christopher Mauger,Male,Los Alamos National Laboratory,National Lab,,2010
+Nathan McDowell,Male,Los Alamos National Laboratory,National Lab,,2010
+Antonino Miceli,Male,Argonne National Laboratory,National Lab,,2010
+Delia Milliron,Female,Lawrence Berkeley National Laboratory,National Lab,,2010
+Denes Molnar,Unknown,Purdue University,University,Unknown,2010
+Benjamin Monreal,Male,"University of California, Santa Barbara",University,Unknown,2010
+Tobin Munsat,Male,University of Colorado,University,Unknown,2010
+Pavel Nadolsky,Male,Southern Methodist University,University,Unknown,2010
+Jeffrey Newman,Male,University of Pittsburgh,University,Unknown,2010
+Jennifer O'Donnell,Female,Iowa State University,University,Unknown,2010
+Victoria Orphan,Female,California institute of Technology,University,Private,2010
+Kalyan Perumalla,Male,Oak Ridge National Laboratory,National Lab,,2010
+Eric Potma,Male,"University of California, Irvine",University,Unknown,2010
+Jonathan Schilling,Male,University of Minnesota,University,State/Public,2010
+Matthew Schwartz,Male,SLAC National Accelerator Laboratory,National Lab,,2010
+Ariel Schwartzman,Male,SLAC National Accelerator Laboratory,National Lab,,2010
+Athena Sefat,Female,Oak Ridge National Laboratory,National Lab,,2010
+Wendy Shaw,Female,Pacific Northwest National Laboratory,National Lab,,2010
+David Shih,Male,Los Alamos National Laboratory,National Lab,,2010
+Evgenya Smirnova,Female,Los Alamos National Laboratory,National Lab,,2010
+Vsevolod Soukhanovskii,Male,Lawrence Livermore National Laboratory,National Lab,,2010
+Michelle Strout,Female,Colorado State University,University,Unknown,2010
+Tsuyoshi Tajima,Male,Los Alamos National Laboratory,National Lab,,2010
+Christine Thomas,Female,Washington State University,University,Unknown,2010
+Timothy VanReken,Male,Washington State University,University,Unknown,2010
+Anil Vullikanti,Male,Virginia Polytechnic Institute and State University,University,Unknown,2010
+Feng Wang,Unknown,"University of California, Berkeley",University,State/Public,2010
+Mort Webster,Male,Northwestern University,University,Private,2010
+Emily Weiss,Female,Northwestern University,University,Private,2010
+Feng Yuan,Unknown,Lawrence Berkeley National Laboratory,National Lab,,2010
+Xiaochao Zheng,Unknown,University of Virginia,University,Unknown,2010
+Michael Arnold,Male,University of Wisconsin,University,Unknown,2011
+Nina Balke,Female,Oak Ridge National Laboratory,National Lab,,2011
+Timothy Bertram,Male,"University of California, San Diego",University,State/Public,2011
+Guillaume Blanquart,Male,California Institute of Technology,University,Private,2011
+Ricardo Castro,Male,"University of California, Davis",University,Unknown,2011
+Jennifer Cha,Female,"University of California, San Diego",University,State/Public,2011
+Youping Chen,Unknown,University of Florida,University,State/Public,2011
+Aaron Chou,Male,Fermi National Accelerator Laboratory,National Lab,,2011
+Paul Dauenhauer,Male,University of Massachusetts Amherst,University,Unknown,2011
+Sarah Demers,Female,Yale University,University,Ivy League,2011
+Shen Dillon,Unknown,University of Illinois at Urbana‐Champaign,University,Unknown,2011
+Mircea Dinca,Male,Massachusetts Institute of Technology,University,Private,2011
+Alireza Doostan,Male,University of Colorado,University,Unknown,2011
+Jozef Dudek,Male,Old Dominion University,University,Unknown,2011
+Mary Dunlop,Female,University of Vermont,University,Unknown,2011
+Gurudev Dutt,Unknown,University of Pittsburgh,University,Unknown,2011
+Pavel Evtushenko,Male,Thomas Jefferson National Accelerator Facility,National Lab,,2011
+Michael Galperin,Male,"University of California, San Diego",University,State/Public,2011
+Nuh Gedik,Male,Massachusetts Institute of Technology,University,Private,2011
+Kai Germaschewski,Male,University of New Hampshire,University,Unknown,2011
+Jeffrey Greeley,Male,Argonne National Laboratory,National Lab,,2011
+Julia Greer,Female,California Institute of Technology,University,Private,2011
+Markus Guehr,Male,SLAC National Acceleratory Laboratory,University,Unknown,2011
+Carter Hall,Male,University of Maryland,University,Unknown,2011
+Thomas Hamann,Male,Michigan State University,University,Unknown,2011
+Ryan Hayward,Male,University of Massachusetts Amherst,University,Unknown,2011
+Samuel Hazen,Male,University of Massachussetts Amherst,University,Unknown,2011
+Chris Hirata,Male,California Institute of Technology,University,Private,2011
+Yongqin Jiao,Unknown,Lawrence Livermore National Laboratory,National Lab,,2011
+Anantharaman Kalyanaraman,Unknown,Washington State University,University,Unknown,2011
+James Kneller,Male,North Carolina State University,University,Unknown,2011
+Suzanne Lapi,Female,Washington University,University,Unknown,2011
+Minhyea Lee,Unknown,University of Colorado,University,Unknown,2011
+Peter Lindstrom,Male,Lawrence Livermore National Laboratory,National Lab,,2011
+Rene Lopez,Male,University of North Carolina,University,Unknown,2011
+Matthew Marshall,Male,Pacific Northwest National Laboratory,National Lab,,2011
+Daniel Melconian,Male,Texas A&M University,University,Unknown,2011
+Peter Mueller,Male,Argonne National Laboratory,National Lab,,2011
+Alberto Nicolis,Male,Columbia University,University,Ivy League,2011
+Christoph Niemann,Male,"University of California, Los Angeles",University,State/Public,2011
+Jonathan Owen,Male,Columbia University,University,Ivy League,2011
+Ryan Patterson,Male,California Institute of Technology,University,Private,2011
+Thomas Prolier,Male,Argonne National Laboratory,National Lab,,2011
+Tatiana Prozorov,Female,Ames Laboratory,University,Unknown,2011
+Sofia Quaglioni,Female,Lawrence Livermore National Laboratory,National Lab,,2011
+Alexander Romanenko,Male,Fermi National Accelerator Laboratory,National Lab,,2011
+David Savage,Male,"University of California, Berkeley",University,State/Public,2011
+Eric Schelter,Male,University of Pennsylvania,University,Ivy League,2011
+Xipeng Shen,Unknown,College of William and Mary,University,Unknown,2011
+Daniel Sinars,Male,Sandia National Laboratories,National Lab,,2011
+Anze Slosar,Unknown,Brookhaven National Laboratory,National Lab,,2011
+Alexandre Tartakovsky,Male,Pacific Northwest National Laboratory,National Lab,,2011
+Alexis Templeton,Male,University of Colorado,University,Unknown,2011
+Jesse Thaler,Male,Massachusetts Institute of Technology,University,Private,2011
+Susannah Tringe,Female,Lawrence Berkeley National Laboratory,National Lab,,2011
+Ezekial Unterberg,Unknown,Oak Ridge National Laboratory,National Lab,,2011
+Anastasia Volovich,Female,Brown University,University,Ivy League,2011
+Francesco Volpe,Male,University of Wisconsin,University,Unknown,2011
+Faya Wang,Unknown,SLAC National Acceleratory Laboratory,University,Unknown,2011
+Anne White,Female,Massachusetts Institute of Technology,University,Private,2011
+Zhigang Wu,Unknown,Colorado School of Mines,University,Unknown,2011
+Junqiao Wu,Unknown,"University of California, Berkeley",University,State/Public,2011
+Jinlong Zhang,Unknown,Argonne National Laboratory,National Lab,,2011
+Pengpeng Zhang,Unknown,Michigan State University,University,Unknown,2011
+Haimei Zheng,Unknown,Lawrence Berkeley National Laboratory,National Lab,,2011
+Kirstin Alberi,Female,National Renewable Energy Laboratory,National Lab,,2012
+John Asbury,Male,Pennsylvania State University,University,Unknown,2012
+Pavan Balaji,Unknown,Argonne National Laboratory,National Lab,,2012
+Jesse Berezovsky,Male,Case Western Reserve University,University,Unknown,2012
+Theodore Betley,Male,Harvard University,University,Ivy League,2012
+Aditya Bhan,Male,University of Minnesota,University,State/Public,2012
+Kristen Buchanan,Female,Colorado State University,University,Unknown,2012
+Gianpaolo Carosi,Male,Lawrence Livermore National Laboratory,National Lab,,2012
+Brendan Casey,Male,Fermi National Accelerator Laboratory,National Lab,,2012
+Hank Childs,Male,Lawrence Berkeley National Laboratory,National Lab,,2012
+Amy Clarke,Female,Los Alamos National Laboratory,National Lab,,2012
+Nicolas Commaux,Male,Oak Ridge National Laboratory,National Lab,,2012
+Silviu Covrig,Male,Thomas Jefferson National Accelerator Facility,National Lab,,2012
+Christopher Crawford,Male,University of Kentucky,University,Unknown,2012
+Aleksandar Donev,Male,New York University,University,Private,2012
+Gary Douberly,Male,University of Georgia,University,Unknown,2012
+Xiangfeng Duan,Unknown,"University of California, Los Angeles",University,State/Public,2012
+Huaiyu Duan,Unknown,University of New Mexico,University,Unknown,2012
+John Dueber,Male,"University of California, Berkeley",University,State/Public,2012
+Mattan Erez,Unknown,University of Texas,University,Unknown,2012
+Rouven Essig,Male,Stony Brook University,University,Unknown,2012
+Joshua Figueroa,Male,"University of California, San Diego",University,State/Public,2012
+Charles Folden III,Male,Texas A&M University,University,Unknown,2012
+Oliver Gessner,Male,Lawrence Berkeley National Laboratory,National Lab,,2012
+Daniel Gianola,Male,University of Pennsylvania,University,Ivy League,2012
+Sean Hartnoll,Male,Stanford University,University,Private,2012
+Daniel Hayes,Male,Oak Ridge National Laboratory,National Lab,,2012
+Anne Jones,Female,Arizona State University,University,Unknown,2012
+Rohit Karnik,Unknown,Massachusetts Institute of Technology,University,Private,2012
+Daniel Kasen,Male,"University of California, Berkeley",University,State/Public,2012
+Andreas Kemp,Male,Lawrence Livermore National Laboratory,National Lab,,2012
+Svetlana Kilina,Female,North Dakota State University,University,Unknown,2012
+Matthias Kling,Male,Kansas State University,University,Unknown,2012
+Lu Li,Unknown,University of Michigan,University,State/Public,2012
+Rachel Mandelbaum,Female,Carnegie Mellon University,University,Unknown,2012
+Jaime Marian,Male,Lawrence Livermore National Laboratory,National Lab,,2012
+James McKinlay,Male,Indiana University,University,Unknown,2012
+Nikhil Padmanabhan,Male,Yale University,University,Ivy League,2012
+Steven Pain,Male,Oak Ridge National Laboratory,National Lab,,2012
+Felix Parra Diaz,Male,Massachusetts Institute of Technology,University,Private,2012
+Samuel Payne,Male,Pacific Northwest National Laboratory,National Lab,,2012
+Jennifer Reed,Female,University of Wisconsin,University,Unknown,2012
+Paul Romatschke,Male,University of Colorado,University,Unknown,2012
+Volker Rose,Male,Argonne National Laboratory,National Lab,,2012
+Ozgur Sahin,Unknown,Columbia University,University,Ivy League,2012
+Tina Salguero,Female,University of Georgia,University,Unknown,2012
+Leonardo Senatore,Male,Stanford University,University,Private,2012
+Tengming Shen,Unknown,Fermi National Accelerator Laboratory,National Lab,,2012
+Pavel Snopok,Male,Illinois Institute of Technology,University,Unknown,2012
+Santiago Solares,Male,University of Maryland,University,Unknown,2012
+Garrett Suen,Male,University of Wisconsin,University,Unknown,2012
+Mitra Taheri,Female,Drexel University,University,Unknown,2012
+Ivan Vitev,Male,Los Alamos National Laboratory,National Lab,,2012
+Haim Waisman,Male,Columbia University,University,Ivy League,2012
+Lisa Whitehead,Female,University of Houston,University,Unknown,2012
+Richard Wilson,Male,Argonne National Laboratory,National Lab,,2012
+Kevin Wilson,Male,Lawrence Berkeley National Laboratory,National Lab,,2012
+Weida Wu,Unknown,Rutgers University,University,Unknown,2012
+Dao Xiang,Female,University of Washington,University,State/Public,2012
+Xiaodong Xu,Unknown,University of Washington,University,State/Public,2012
+Ming Ye,Unknown,Florida State University,University,Unknown,2012
+Jamey Young,Male,Vanderbilt University,University,Unknown,2012
+Victor Zavala,Male,Argonne National Laboratory,National Lab,,2012
+Junjie Zhu,Unknown,University of Michigan,University,State/Public,2012
+Joshua Zide,Male,University of Delaware,University,Unknown,2012
+Thomas Bligaard,Male,SLAC National Accelerator Laboratory,National Lab,,2013
+Adam S. Bolton,Male,University of Utah,University,Unknown,2013
+Cheng Cen,Unknown,West Virginia University,University,Unknown,2013
+Clarence L. Chang,Male,Argonne National Laboratory,National Lab,,2013
+Clifford W. Cheung,Male,California Institute of Technology,University,Private,2013
+Sigrid Close,Female,Stanford University,University,Private,2013
+Heather D. Coleman,Female,Syracuse University,University,Unknown,2013
+Valentino R. Cooper,Male,Oak Ridge National Laboratory,National Lab,,2013
+Frank E. Curtis,Male,Lehigh University,University,Unknown,2013
+Richard Dawes,Male,Missouri University of Science and Technology,University,Unknown,2013
+William Detmold,Male,Massachusetts Institute of Technology,University,Private,2013
+Jason A. Detwiler,Male,University of Washington,University,State/Public,2013
+Ahmed Diallo,Male,Princeton Plasma Physics Laboratory,National Lab,,2013
+Daniel B. Dougherty,Male,North Carolina State University,University,Unknown,2013
+Krzysztof J. Fidkowski,Male,University of Michigan,University,State/Public,2013
+Felix R. Fischer,Male,"University of California, Berkeley",University,State/Public,2013
+Liang Fu,Unknown,Massachusetts Institute of Technology,University,Private,2013
+Etienne Garand,Male,University of Wisconsin‐Madision,University,Unknown,2013
+Emanuel Gull,Male,University of Michigan,University,State/Public,2013
+Ruilan Guo,Unknown,University of Notre Dame,University,Unknown,2013
+Gaute Hagen,Male,Oak Ridge National Laboratory,National Lab,,2013
+Daniel J. Haxton,Male,Lawrence Berkeley National Laboratory,National Lab,,2013
+Jason P. Hayward,Male,The University of Tennessee,University,Unknown,2013
+Alexander Hexemer,Male,Lawrence Berkeley National Laboratory,National Lab,,2013
+Stefan Hoeche,Male,SLAC National Accelerator Laboratory,National Lab,,2013
+Andrew G. Ivanov,Male,Kansas State University,University,Unknown,2013
+Marian Jandel,Male,Los Alamos National Laboratory,National Lab,,2013
+Matthew C. Jewell,Male,University of Wisconsin‐Eau Claire,University,Unknown,2013
+Sriram Krishnamoorthy,Unknown,Pacific Northwest National Laboratory,National Lab,,2013
+Milind Kulkarni,Unknown,Purdue University,University,Unknown,2013
+Keji Lai,Unknown,University of Texas at Austin,University,State/Public,2013
+Dominique Loque,Unknown,University of Hawaii,University,Unknown,2013
+Jelena Maricic,Female,University of Hawaii,University,Unknown,2013
+Benjamin J. McMorran,Male,University of Oregon,University,Unknown,2013
+William E. Mustain,Male,University of Connecticut,University,Unknown,2013
+Rebecca B. Neumann,Female,University of Washington,University,State/Public,2013
+Michelle A. O'Malley,Female,"University of California, Santa Barbara",University,Unknown,2013
+Gabriel D. Orebi Gann,Male,"University of California, Berkeley",University,State/Public,2013
+Toyoko Jennifer Orimoto,Female,Northeastern University,University,Unknown,2013
+Johnpierre Paglione,Unknown,University of Maryland,University,Unknown,2013
+George Shu Heng Pau,Male,Lawrence Berkeley National Laboratory,National Lab,,2013
+Brian F. Pfleger,Male,University of Wisconsin‐Madision,University,Unknown,2013
+Yuan Ping,Unknown,Lawrence Livermore National Laboratory,National Lab,,2013
+Brian A. Powell,Male,Clemson University,University,Unknown,2013
+Danilo C. Pozzo,Male,University of Washington,University,State/Public,2013
+Ashwin Ramasubramaniam,Unknown,"University of Massachusetts, Amherst",University,Unknown,2013
+Lijuan Ruan,Unknown,Brookhaven National Laboratory,National Lab,,2013
+Matthias R. Schindler,Male,University of South Carolina,University,Unknown,2013
+Jonathan Simon,Male,University of Chicago,University,Private,2013
+Sara E. Skrabalak,Female,Indiana University,University,Unknown,2013
+Ivan I. Smalyukh,Male,University of Colorado,University,Unknown,2013
+Xiaowei Teng,Unknown,University of New Hampshire,University,Unknown,2013
+Megan C. Thielges,Female,Indiana University,University,Unknown,2013
+William A. Tisdale,Male,Massachusetts Institute of Technology,University,Private,2013
+Andrew J. Tolley,Male,Case Western Reserve University,University,Unknown,2013
+Nathan M. Urban,Male,Los Alamos National Laboratory,National Lab,,2013
+Katherine A. Willets,Female,University of Texas at Austin,University,State/Public,2013
+Michael Williams,Male,Massachusetts Institute of Technology,University,Private,2013
+Juhao Wu,Unknown,SLAC National Accelerator Laboratory,National Lab,,2013
+Setthivoine You,Unknown,University of Washington,University,State/Public,2013
+Dominika Zgid,Female,University of Michigan,University,State/Public,2013
+Rebecca J. Abergel,Female,Lawrence Berkeley National Laboratory,National Lab,,2014
+Geoffrey S.D. Beach,Male,Massachusetts Institute of Technology,University,Private,2014
+Jenifer C. Braley,Female,Colorado School of Mines,University,Unknown,2014
+Antoine J. Cerfon,Male,New York University,University,Private,2014
+Emil M. Constantinescu,Male,Argonne National Laboratory,National Lab,,2014
+Carl Eric Dahl,Male,Northwestern University,University,Private,2014
+Mark P.M. Dean,Male,Brookhaven National Laboratory,National Lab,,2014
+Olivier A. Delaire,Male,Oak Ridge National Laboratory,National Lab,,2014
+Rafael M. Fernandes,Male,University of Minnesota,University,State/Public,2014
+Daniele Filippetto,Female,Lawrence Berkeley National Laboratory,National Lab,,2014
+Gregory D. Fuchs,Male,Cornell University,University,Ivy League,2014
+Todd Gamblin,Male,Lawrence Livermore National Laboratory,National Lab,,2014
+Shambhu Ghimire,Unknown,SLAC National Accelerator Laboratory,National Lab,,2014
+Lars C. Grabow,Male,University of Houston,University,Unknown,2014
+Peter W. Graham,Male,Stanford University,University,Private,2014
+Anna Grassellino,Female,Fermi National Accelerator Laboratory,National Lab,,2014
+Brian A. Grierson,Male,Princeton Plasma Physics Laboratory,National Lab,,2014
+Stephanie B. Hansen,Female,"Sandia National Laboratories, New Mexico",National Lab,,2014
+James Hirschauer,Male,Fermi National Accelerator Laboratory,National Lab,,2014
+Nadine Kabengi,Female,Georgia State University,University,Unknown,2014
+Lisa J. Kaufman,Female,Indiana University,University,Unknown,2014
+Wei Li,Unknown,William Marsh Rice University,University,Private,2014
+Stephanie A. Majewski,Female,University of Oregon,University,Unknown,2014
+Ni Ni,Unknown,"University of California, Los Angeles",University,State/Public,2014
+Trent R. Northen,Male,Lawrence Berkeley National Laboratory,National Lab,,2014
+Shyue Ping Ong,Unknown,"University of California, San Diego",University,State/Public,2014
+Mike S. Pritchard,Male,"University of California, Irvine",University,Unknown,2014
+Xin Qian,Unknown,Brookhaven National Laboratory,National Lab,,2014
+Joel C. Rowland,Male,Los Alamos National Laboratory,National Lab,,2014
+Florin Rusu,Male,"University of California, Merced",University,Unknown,2014
+Bjoern P. Schenke,Unknown,Brookhaven National Laboratory,National Lab,,2014
+Guglielmo Scovazzi,Male,Duke University,University,Private,2014
+Nathaniel P. Stern,Male,Northwestern University,University,Private,2014
+Jenny Y. Yang,Female,"University of California, Irvine",University,Unknown,2014
+James G. Analytis,Male,"University of California, Berkeley",University,State/Public,2015
+Lawrence R. Baker,Male,Ohio State University,University,State/Public,2015
+Phillip S. Barbeau,Male,Duke University,University,Private,2015
+Ilenia Battiato,Female,San Diego State University,University,Unknown,2015
+Nathaniel J. Craig,Male,"University of California, Santa Barbara",University,Unknown,2015
+Catherine M. Deibel,Female,Louisiana State University,University,Unknown,2015
+Christian Engelmann,Male,Oak Ridge National Laboratory,National Lab,,2015
+Eranda Nikolla,Female,Wayne State University,University,Unknown,2015
+Tori Z. Forbes,Female,University of Iowa,University,Unknown,2015
+Jeffrey G. Gardner,Male,University of Maryland Baltimore County,University,Unknown,2015
+Pierre Gentine,Male,Columbia University,University,Ivy League,2015
+Krzysztof Gofryk,Male,Idaho National Laboratory,National Lab,,2015
+Erik M. Grumstrup,Male,Montana State University,University,Unknown,2015
+Thomas Hartman,Male,Cornell University,University,Ivy League,2015
+Cory D. Hauck,Male,Oak Ridge National Laboratory,National Lab,,2015
+David J. Heldebrant,Male,Pacific Northwest National Laboratory,National Lab,,2015
+Matthew E. Helgeson,Male,"University of California, Santa Barbara",University,Unknown,2015
+Henry C. Hoffmann,Male,University of Chicago,University,Private,2015
+Anubhav Jain,Unknown,Lawrence Berkeley National Laboratory,National Lab,,2015
+Rebekka S. Klausen,Female,Johns Hopkins University,University,Private,2015
+Christopher J. Kliewer,Male,Sandia National Laboratories,National Lab,,2015
+Alexey Kovalev,Male,University of Nebraska,University,Unknown,2015
+Kyle M. Lancaster,Female,Cornell University,University,Ivy League,2015
+Christopher Lee,Male,Los Alamos National Laboratory,National Lab,,2015
+Dongsheng Li,Unknown,Pacific Northwest National Laboratory,National Lab,,2015
+Kin Fai Mak,Unknown,Pennsylvania State University,University,Unknown,2015
+Lorenzo Mangolini,Male,"University of California, Riverside",University,Unknown,2015
+Jeetain Mittal,Unknown,Lehigh University,University,Unknown,2015
+Katharine Page,Female,Oak Ridge National Laboratory,National Lab,,2015
+Chad M. Parish,Male,Oak Ridge National Laboratory,National Lab,,2015
+Andrew Puckett,Male,University of Connecticut,University,Unknown,2015
+Jonathan D. Raff,Male,Indiana University,University,Unknown,2015
+Timothy J. Rupert,Male,"University of California, Irvine",University,Unknown,2015
+Anne Sakdinawat,Female,SLAC National Accelerator Laboratory,National Lab,,2015
+Elizabeth S. Sattely,Female,Stanford University,University,Private,2015
+Jordan R. Schmidt,Male,University of Wisconsin‐Madison,University,Unknown,2015
+Oliver Schmitz,Male,University of Wisconsin‐Madison,University,Unknown,2015
+Daniel P. Shoemaker,Male,University of Illinois,University,Unknown,2015
+Tracy R. Slatyer,Female,Massachusetts Institute of Technology,University,Private,2015
+Patricia Solvignon,Female,University of New Hampshire,University,Unknown,2015
+Yogesh Surendranath,Male,Massachusetts Institute of Technology,University,Private,2015
+Jing Tao,Unknown,Brookhaven National Laboratory,National Lab,,2015
+Daniela M. Ushizima,Female,Lawrence Berkeley National Laboratory,National Lab,,2015
+Brent A. VanDevender,Male,Pacific Northwest National Laboratory,National Lab,,2015
+Justin R. Walensky,Male,University of Missouri,University,Unknown,2015
+Jonathan Weare,Male,University of Chicago,University,Private,2015
+Peter Winter,Male,Argonne National Laboratory,National Lab,,2015
+Yunyan Zhang,Unknown,Lawrence Livermore National Laboratory,National Lab,,2015
+Thomas K. Allison,Male,Stony Brook University,University,Unknown,2016
+Jessica M. Anna,Female,University of Pennsylvania,University,Ivy League,2016
+Scott D. Baalrud,Male,University of Iowa,University,Unknown,2016
+Peter J. Bruggeman,Male,University of Minnesota,University,State/Public,2016
+Alvin Cheung,Male,University of Washington,University,State/Public,2016
+Jim Ciston,Male,Lawrence Berkeley National Laboratory,National Lab,,2016
+Sean M. Couch,Male,Michigan State University,University,Unknown,2016
+Daniela F. Cusack,Female,"University of California, Los Angeles",University,State/Public,2016
+Yingge Du,Unknown,Pacific Northwest National Laboratory,National Lab,,2016
+Jonathan W. Engle,Male,Los Alamos National Laboratory,National Lab,,2016
+Grigory V. Eremeev,Male,Thomas Jefferson National Accelerator Facility,National Lab,,2016
+Francesco A. Evangelista,Male,Emory University,University,Private,2016
+Rebecca Flint,Female,Iowa State University,University,Unknown,2016
+Alison R. Fout,Female,University of Illinois,University,Unknown,2016
+Jacklyn M. Gates,Female,Lawrence Berkeley National Laboratory,National Lab,,2016
+Kristian A. Hahn,Male,Northwestern University,University,Private,2016
+Kirsten S. Hofmockel,Female,Pacific Northwest National Laboratory,National Lab,,2016
+Xia Hong,Unknown,University of Nebraska,University,Unknown,2016
+Travis S. Humble,Male,Oak Ridge National Laboratory,National Lab,,2016
+Yier Jin,Unknown,University of Central Florida,University,Unknown,2016
+Robert D. Kolasinski,Male,Sandia National Laboratories,National Lab,,2016
+Egemen Kolemen,Male,Princeton University,University,Ivy League,2016
+Jessica A. Krogstad,Female,University of Illinois,University,Unknown,2016
+Amber T. Krummel,Female,Colorado State University,University,Unknown,2016
+Christoph Lehner,Male,Brookhaven National Laboratory,National Lab,,2016
+Melanie A. Mayes,Female,Oak Ridge National Laboratory,National Lab,,2016
+Karis J. McFarlane,Female,Lawrence Livermore National Laboratory,National Lab,,2016
+Chad Mitchell,Male,Lawrence Berkeley National Laboratory,National Lab,,2016
+James J. Moran,Male,Pacific Northwest National Laboratory,National Lab,,2016
+Wellington Muchero,Unknown,Oak Ridge National Laboratory,National Lab,,2016
+Michael L. Neidig,Male,University of Rochester,University,Unknown,2016
+Jamie R. Neilson,Female,Colorado State University,University,Unknown,2016
+Katja C. Nowack,Female,Cornell University,University,Ivy League,2016
+Kabir G. Peay,Male,Stanford University,University,Private,2016
+Sam Posen,Male,Fermi National Accelerator Laboratory,National Lab,,2016
+Jennifer L. Raaf,Female,Fermi National Accelerator Laboratory,National Lab,,2016
+Devesh Ranjan,Male,Georgia Institute of Technology,University,Unknown,2016
+Matthew Redshaw,Male,Central Michigan University,University,Unknown,2016
+Eduardo Rozo,Male,University of Arizona,University,Unknown,2016
+Rebecca Schulman,Female,The Johns Hopkins University,University,Private,2016
+Ian D. Sharp,Male,Lawrence Berkeley National Laboratory,National Lab,,2016
+John B. Shaw,Male,University of Arkansas,University,Unknown,2016
+Adele C. Tamboli,Female,National Renewable Energy Laboratory,National Lab,,2016
+Jeroen van Tilborg,Male,Lawrence Berkeley National Laboratory,National Lab,,2016
+Clayton G. Webster,Male,Oak Ridge National Laboratory,National Lab,,2016
+Haidan Wen,Unknown,Argonne National Laboratory,National Lab,,2016
+Christopher Wrede,Male,Michigan State University,University,Unknown,2016
+Zeeshan Ahmed,Male,SLAC National Accelerator Laboratory,National Lab,,2017
+Jared M. Allred,Male,The University of Alabama,University,Unknown,2017
+Nicholas J. Bouskill,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2017
+Kelly A. Chipps,Female,Oak Ridge National Laboratory (ORNL),National Lab,,2017
+Brian A. Collins,Male,Washington State University,University,Unknown,2017
+Steven C. DeCaluwe,Male,Colorado School of Mines,University,Unknown,2017
+Naresh Devineni,Male,The City College of New York,University,Unknown,2017
+Matthew R. Dietrich,Male,Argonne National Laboratory (ANL),National Lab,,2017
+Qiang Du,Unknown,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2017
+Jiwen Fan,Unknown,Pacific Northwest National Laboratory (PNNL),National Lab,,2017
+Frederico Fiuza,Male,SLAC National Accelerator Laboratory,National Lab,,2017
+David J. Flannigan,Male,University of Minnesota,University,State/Public,2017
+Renee R. Frontiera,Female,University of Minnesota,University,State/Public,2017
+Kenneth R. Graham,Male,University of Kentucky,University,Unknown,2017
+David L. Green,Male,Oak Ridge National Laboratory (ORNL),National Lab,,2017
+Heiko Hergert,Male,Michigan State University,University,Unknown,2017
+Alexander I. Himmel,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,2017
+Amy E. Hixon,Female,University of Notre Dame,University,Unknown,2017
+Benjamin Hooberman,Male,University of Illinois,University,Unknown,2017
+Benjamin M. Hunt,Male,Carnegie Mellon University,University,Unknown,2017
+Josh Kacher,Male,Georgia Institute of Technology,University,Unknown,2017
+Mariam Kiran,Female,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2017
+Charles D. Koven,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2017
+Stephanie Law,Female,University Of Delaware,University,Unknown,2017
+Lin Lin,Female,"University of California, Berkeley",University,State/Public,2017
+Brian K. Long,Male,The University of Tennessee,University,Unknown,2017
+Richard L. Longland,Male,North Carolina State University,University,Unknown,2017
+Kenneth Lopata,Male,Louisiana State University and A&M College,University,Unknown,2017
+Marilena LoVerde,Female,SUNY Stony Brook University,University,Unknown,2017
+Steven O. Mansoorabadi,Male,Auburn University,University,Unknown,2017
+Julia M. Mikhailova,Female,Princeton University,University,Ivy League,2017
+Emilio A. Nanni,Male,SLAC National Accelerator Laboratory,National Lab,,2017
+Eric W. Neuscamman,Male,"University of California, Berkeley",University,State/Public,2017
+James Ostrowski,Male,The University of Tennessee,University,Unknown,2017
+Dennis V. Perepelitsa,Male,University of Colorado,University,Unknown,2017
+Tom Peterka,Male,Argonne National Laboratory (ANL),National Lab,,2017
+Neeraj Rai,Male,Mississippi State University,University,Unknown,2017
+Ted C. Rogers,Male,Old Dominion University,University,Unknown,2017
+Tiark Rompf,Unknown,Purdue University,University,Unknown,2017
+Michael D. Schneider,Male,Lawrence Livermore National Laboratory (LLNL),National Lab,,2017
+Adam B. Sefkow,Male,University of Rochester,University,Unknown,2017
+Sanjaya D. Senanayake,Unknown,Brookhaven National Laboratory (BNL),National Lab,,2017
+Hannah S. Shafaat,Female,The Ohio State University,University,State/Public,2017
+Sahar Sharifzadeh,Female,Boston University,University,Unknown,2017
+Jessie F. Shelton,Female,University of Illinois,University,Unknown,2017
+Siqian Shen,Unknown,University of Michigan,University,State/Public,2017
+Justin Stevens,Male,The College of William and Mary,University,Unknown,2017
+Jin Suntivich,Female,Cornell University,University,Ivy League,2017
+Jason R. Trelewicz,Male,SUNY Stony Brook University,University,Unknown,2017
+Juan P. Trelles,Male,University of Massachusetts Lowell,University,Unknown,2017
+Alessandro Tricoli,Male,Brookhaven National Laboratory (BNL),National Lab,,2017
+Anja von der Linden,Female,SUNY Stony Brook University,University,Unknown,2017
+Thomas Z. Ward,Male,Oak Ridge National Laboratory (ORNL),National Lab,,2017
+David J. Weston,Male,Oak Ridge National Laboratory (ORNL),National Lab,,2017
+Timothy M. Wildey,Male,"Sandia National Laboratories, New Mexico (SNL‐NM)",National Lab,,2017
+Kelly C. Wrighton,Female,The Ohio State University,University,State/Public,2017
+Chao Zhang,Unknown,Brookhaven National Laboratory,National Lab,,2017
+Jeramy D. Zimmerman,Male,Colorado School of Mines,University,Unknown,2017
+Assel Aitkaliyeva,Female,University of Florida,University,State/Public,2018
+Daniel Amador-Noguez,Male,University of Wisconsin-Madison,University,State/Public,2018
+Artur Apresyan,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,2018
+Shane Ardo,Male,"University of California, Irvine",University,Unknown,2018
+Prasanna Balaprakash,Unknown,Argonne National Laboratory (ANL),National Lab,,2018
+Elizabeth J. Biddinger,Female,The City College of New York,University,Unknown,2018
+Valentina Bisogni,Female,Brookhaven National Laboratory (BNL),National Lab,,2018
+James Blakemore,Male,University of Kansas,University,Unknown,2018
+Daniel Bowring,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,2018
+Nanette Boyle,Female,Colorado School of Mines,University,Unknown,2018
+Raul Briceno,Male,Old Dominion University,University,Unknown,2018
+Susannah Burrows,Female,Pacific Northwest National Laboratory (PNNL),National Lab,,2018
+Huibo Cao,Unknown,Oak Ridge National Laboratory (ORNL),National Lab,,2018
+Ethan J. Crumlin,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2018
+Eric C. Cyr,Male,Sandia National Laboratories (SNL-NM),National Lab,,2018
+Cesar da Silva,Male,Los Alamos National Laboratory (LANL),National Lab,,2018
+Karen Davies,Female,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2018
+Nathalie de Leon,Female,Princeton University,University,Ivy League,2018
+Luiz De Viveiros Souza Filho,Unknown,Pennsylvania State University,University,Unknown,2018
+Jared Delcamp,Male,University of Mississippi,University,Unknown,2018
+David Donovan,Male,The University of Tennessee,University,Unknown,2018
+Benjamin Doughty,Male,Oak Ridge National Laboratory (ORNL),National Lab,,2018
+Daniel A. Dwyer,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2018
+Thomas Faulkner,Male,University of Illinois,University,Unknown,2018
+Nathaniel M. Ferraro,Male,Princeton Plasma Physics Laboratory (PPPL),National Lab,,2018
+Stefano Gandolfi,Male,Los Alamos National Laboratory (LANL),National Lab,,2018
+Tais Gorkhover,Unknown,SLAC National Accelerator Laboratory,National Lab,,2018
+Alexander Gray,Male,Temple University,University,Unknown,2018
+Kentaro Hara,Male,Texas A&M University,University,Unknown,2018
+Naruki Hiranuma,Unknown,West Texas A&M University,University,Unknown,2018
+Kolby Jardine,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2018
+Zhang Jiang,Unknown,Argonne National Laboratory (ANL),National Lab,,2018
+Michael Kagan,Male,SLAC National Accelerator Laboratory,National Lab,,2018
+Liqin Ke,Unknown,Ames Laboratory,University,Unknown,2018
+Karah E. Knope,Unknown,Georgetown University,University,Unknown,2018
+Samuel Aaron Lazerson,Male,Princeton Plasma Physics Laboratory (PPPL),National Lab,,2018
+Alexie Leauthaud-Harnett,Female,"University of California, Santa Cruz",University,Unknown,2018
+Joshua Levine,Male,The University of Arizona,University,Unknown,2018
+Bolin Liao,Unknown,"University of California, Santa Barbara",University,Unknown,2018
+Ryan P. Lively,Male,Georgia Institute of Technology,University,Unknown,2018
+Tammy Ma,Female,Lawrence Livermore National Laboratory (LLNL),National Lab,,2018
+Themis Mastoridis,Male,California Polytechnic State University,University,Unknown,2018
+Zach Meisel,Male,Ohio University,University,Unknown,2018
+Siddharth Misra,Unknown,The University of Oklahoma,University,Unknown,2018
+Karen L. Mulfort,Female,Argonne National Laboratory (ANL),National Lab,,2018
+Jacquelyn Noronha-Hostler,Female,Rutgers University,University,Unknown,2018
+Colin Ophus,Male,Lawrence Berkeley National Lab (LBNL),National Lab,,2018
+Paris Perdikaris,Male,University of Pennsylvania,University,Ivy League,2018
+Nicola Perry,Female,University of Illinois,University,Unknown,2018
+David Powers,Male,Texas A&M University,University,Unknown,2018
+Kerri A. Pratt,Female,University of Michigan,University,State/Public,2018
+Benjamin Safdi,Male,University of Michigan,University,State/Public,2018
+Omer San,Male,Oklahoma State University,University,Unknown,2018
+Hee-Jong Seo,Unknown,Ohio University,University,Unknown,2018
+Julian Shun,Male,Massachusetts Institute of Technology,University,Private,2018
+Meredith N. Silberstein,Female,Cornell University,University,Ivy League,2018
+David Simmons-Duffin,Male,California Institute of Technology,University,Private,2018
+Jaideep Taggart Singh,Unknown,Michigan State University,University,Unknown,2018
+Zachary P. Smith,Male,Massachusetts Institute of Technology,University,Private,2018
+Aritoki Suzuki,Unknown,Lawrence Berkeley National Laboratory (LBNL),National Lab,,2018
+Ming Tang,Unknown,Rice University,University,Private,2018
+Ming Lee Tang,Unknown,"University of California, Riverside",University,Unknown,2018
+Kazuhiro Terao,Male,SLAC National Accelerator Laboratory,National Lab,,2018
+Javier Tiffenberg,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,2018
+Wang-Kong Tse,Unknown,University of Alabama,University,Unknown,2018
+Anne-Marie Valente-Feliciano,Female,Thomas Jefferson National Accelerator Facility,National Lab,,2018
+Romain Vasseur,Male,University of Massachusetts Amherst,University,Unknown,2018
+Anselm Vossen,Male,Duke University,University,Private,2018
+Luisa Whittaker-Brooks,Female,University of Utah,University,Unknown,2018
+Haixuan Xu,Unknown,The University of Tennessee,University,Unknown,2018
+Xiaoshan Xu,Unknown,University of Nebraska-Lincoln,University,Unknown,2018
+Rachel P. Yohay,Female,Florida State University,University,Unknown,2018
+Guihua Yu,Unknown,The University of Texas at Austin,University,State/Public,2018
+Joel Yuen-Zhou,Male,University of California San Diego,University,Unknown,2018
+Philipp Zerbe,Male,"University of California, Davis",University,Unknown,2018
+Alex Zylstra,Male,Los Alamos National Laboratory (LANL),National Lab,,2018
+Robert Ainsworth,Male,Fermi National Accelerator Laboratory,National Lab,,2020
+Jonathan Asaadi,Male,The University of Texas at Arlington,University,Unknown,2020
+Jason Azoulay,Male,University of Southern Mississippi,University,Unknown,2020
+Bryan Beckingham,Male,Auburn University,University,Unknown,2020
+D. Kwabena Bediako,Unknown,"University of California, Berkeley",University,State/Public,2020
+Michael Bishof,Male,Argonne National Laboratory,National Lab,,2020
+Jennifer Bridwell-Rabb,Female,University of Michigan,University,State/Public,2020
+Maria Chan,Female,Argonne National Laboratory,National Lab,,2020
+Manos Chatzopoulos,Male,Louisiana State University,University,Unknown,2020
+Federica Coppari,Female,Lawrence Livermore National Laboratory,National Lab,,2020
+Amy Cordones-Hahn,Female,SLAC National Accelerator Laboratory,National Lab,,2020
+Joseph Cotruvo,Male,Pennsylvania State University,University,Unknown,2020
+Arun Devaraj,Male,Pacific Northwest National Laboratory,National Lab,,2020
+Javier Duarte,Male,The Regents of the University of California – UCSD,University,Unknown,2020
+Christine E. Duval,Female,Case Western Reserve University,University,Unknown,2020
+Joanne B. Emerson,Female,"University of California, Davis",University,Unknown,2020
+Li Fang,Unknown,University of Central Florida,University,Unknown,2020
+Kevin G. Field,Male,2355 Bonisteel Blvd.,University,Unknown,2020
+Laura Fields,Female,Fermi National Accelerator Laboratory,National Lab,,2020
+Benjamin Frandsen,Male,Brigham Young University,University,Unknown,2020
+Ronald Fernando Garcia Ruiz,Male,Massachusetts Institute of Technology,University,Private,2020
+Benedikt Geiger,Male,University of Wisconsin – Madison,University,Unknown,2020
+Dustin A. Gilbert,Male,University of Tennessee,University,Unknown,2020
+Ranganathan Gopalakrishnan,Male,The University of Memphis,University,Unknown,2020
+Marco Govoni,Male,Argonne National Laboratory (ANL),National Lab,,2020
+Heather Gray,Female,The Regents of University of California,University,Unknown,2020
+Wendy Gu,Female,Stanford University,University,Private,2020
+Matthew Hoffman,Male,Los Alamos National Laboratory,National Lab,,2020
+Wanzheng Hu,Unknown,Boston University,University,Unknown,2020
+Paul W. Humrickhouse,Male,Idaho National Laboratory,National Lab,,2020
+Jonathan Jarvis,Male,Fermi National Accelerator Laboratory,National Lab,,2020
+Luchang Jin,Unknown,University of Connecticut,University,Unknown,2020
+Siddharth Karkare,Unknown,Arizona State University,University,Unknown,2020
+Trevor F. Keenan,Male,UC Berkeley,University,Unknown,2020
+Vedika Khemani,Unknown,Stanford University,University,Private,2020
+Laura Lammers,Female,Lawrence Berkeley National Laboratory,National Lab,,2020
+Kyle G. Leach,Female,Colorado School of Mines,University,Unknown,2020
+Hugh Lippincott,Male,Regents of the University of California,University,Unknown,2020
+Alessandro Lovato,Male,Argonne National Laboratory,National Lab,,2020
+Manthiram,Unknown,Massachusetts Institute of Technology,University,Private,2020
+Elijah H. Martin,Male,Oak Ridge National Laboratory,National Lab,,2020
+Jarad A. Mason,Unknown,Harvard University,University,Ivy League,2020
+Phillip Milner,Male,Cornell University,University,Ivy League,2020
+Michael Mooney,Male,Colorado State University,University,Unknown,2020
+Gary F. Moore,Male,Arizona State University,University,Unknown,2020
+Bogdan Nicolae,Male,Argonne National Laboratory,National Lab,,2020
+Erin E Nuccio,Female,Lawrence Livermore National Laboratory,National Lab,,2020
+Brendan O'Shea,Male,SLAC National Accelerator Laboratory,National Lab,,2020
+Christina M. Patricola,Female,Iowa State University,University,Unknown,2020
+Bei Wang Phillips,Unknown,University of Utah,University,Unknown,2020
+Kemp Plumb,Unknown,Brown University,University,Ivy League,2020
+David Radice,Male,The Pennsylvania State University,University,Unknown,2020
+Simon Roux,Male,Lawrence Berkeley National Laboratory,National Lab,,2020
+Justin B. Sambur,Male,Colorado State University,University,Unknown,2020
+Lado Samushia,Male,Kansas State University,University,Unknown,2020
+Bayrammurad Saparov,Unknown,University of Oklahoma,University,Unknown,2020
+Nobuo Sato,Male,Thomas Jefferson National Accelerator Facility,National Lab,,2020
+Phiala Shanahan,Unknown,Massachusetts Institute of Technology,University,Private,2020
+James Shepherd,Male,University of Iowa,University,Unknown,2020
+Louise Skinnari,Female,Northeastern University,University,Unknown,2020
+Douglas Stanford,Male,Board of Trustees of the Leland Stanford Junior University,University,Unknown,2020
+Benjamin N. Sulman,Male,Oak Ridge National Laboratory,National Lab,,2020
+Dali Sun,Female,North Carolina State University,University,Unknown,2020
+Wenhao Sun,Unknown,University of Michigan,University,State/Public,2020
+Nathaniel Trask,Male,Sandia National Laboratories,National Lab,,2020
+Michael A. Troxel,Male,Duke University,University,Private,2020
+Wim M. van Rees,Male,Massachusetts Institute of Technology,University,Private,2020
+Tuo Wang,Unknown,Louisiana State University,University,Unknown,2020
+Chen Wang,Unknown,"University of Massachusetts, Amherst",University,Unknown,2020
+Stefan M. Wild,Male,"Laboratory for Applied Mathematics, Numerical Software, and Statistics",University,Unknown,2020
+Huolin Xin,Unknown,University of California,University,Unknown,2020
+Ming Yi,Unknown,Rice University,University,Private,2020
+Kevin C. Young,Male,Sandia National Laboratories,National Lab,,2020
+Tong Zhou,Unknown,Lawrence Berkeley National Laboratory,National Lab,,2020
+Corey Adams,Male,Argonne National Laboratory,National Lab,,2021
+Ariful Azad,Unknown,Indiana University,University,Unknown,2021
+Marcel D. Baer,Male,Pacific Northwest National Laboratory,National Lab,,2021
+Miles F. Beaux II,Male,Los Alamos National Laboratory,National Lab,,2021
+Matthew T. Beidler,Male,Oak Ridge National Laboratory,National Lab,,2021
+Lindsey Bleem,Female,Argonne National Laboratory,National Lab,,2021
+Mark D. Boyer II,Male,Princeton Plasma Physics Laboratory,National Lab,,2021
+Penghui Cao,Unknown,"University of California, Irvine",University,Unknown,2021
+Si Chen,Unknown,Argonne National Laboratory,National Lab,,2021
+Benjamin J. Cole,Male,Lawrence Berkeley National Laboratory,National Lab,,2021
+Riccardo Comin,Male,Massachusetts Institute of Technology,University,Private,2021
+Melina Avila Coronado,Female,Argonne National Laboratory,National Lab,,2021
+Heather Crawford,Female,Lawrence Berkeley National Laboratory,National Lab,,2021
+Melissa A. Cregger,Female,Oak Ridge National Laboratory,National Lab,,2021
+Anup K. Das,Unknown,Drexel University,University,Unknown,2021
+Sheng Di,Unknown,Argonne National Laboratory,National Lab,,2021
+Gregory Doerk,Male,Brookhaven National Laboratory,National Lab,,2021
+J. Matthew Durham,Unknown,Los Alamos National Laboratory,National Lab,,2021
+Manuel Endres,Male,California Institute of Technology,University,Private,2021
+Netta Engelhardt,Female,Massachusetts Institute of Technology,University,Private,2021
+Mengjia Gaowei,Unknown,Brookhaven National Laboratory,National Lab,,2021
+Mona Ghassemi,Female,Virginia Polytechnic Institute and State University,University,Unknown,2021
+Loren Greenman,Male,Kansas State University,University,Unknown,2021
+Xiaodan Gu,Unknown,The University of Southern Mississippi,University,Unknown,2021
+Philip Harris,Male,Massachusetts Institute of Technology,University,Private,2021
+Kai He,Male,Clemson University,University,Unknown,2021
+Russell J. Hewett,Male,Virginia Polytechnic Institute and State University,University,Unknown,2021
+Edward G. Hohenstein,Male,SLAC National Accelerator Laboratory,National Lab,,2021
+Jin Hu,Female,University of Arkansas,University,Unknown,2021
+Shu Hu,Unknown,Yale University,University,Ivy League,2021
+Gabriel Isaacman-VanWertz,Male,Virginia Polytechnic Institute and State University,University,Unknown,2021
+Katherine Isaacs,Female,The University of Arizona,University,Unknown,2021
+Andrew Jayich,Male,"University of California, Santa Barbara",University,Unknown,2021
+Christopher Johnson,Male,Stony Brook University,University,Unknown,2021
+Jovan Kamcev,Male,University of Michigan,University,State/Public,2021
+Drew P. Kouri,Male,Sandia National Laboratories,National Lab,,2021
+Roopali Kukreja,Unknown,University of California Davis,University,Unknown,2021
+James Letts,Male,"University of California, Davis",University,Unknown,2021
+Xinle Li,Unknown,Clark Atlanta University,University,Unknown,2021
+Mingda Li,Unknown,Massachusetts Institute of Technology,University,Private,2021
+Fankang Li,Unknown,Oak Ridge National Laboratory,National Lab,,2021
+Tongyan Lin,Unknown,"University of California, San Diego",University,State/Public,2021
+Ben Loer,Male,Pacific Northwest National Laboratory,National Lab,,2021
+Xueying Lu,Unknown,Northern Illinois University,University,Unknown,2021
+Tara Mastren,Female,University of Utah,University,Unknown,2021
+Emma Elizabeth McBride,Female,SLAC National Accelerator Laboratory,National Lab,,2021
+Charles C. L. McCrory,Male,University of Michigan,University,State/Public,2021
+Julia A. Mundy,Female,Harvard University,University,Ivy League,2021
+Guangxin Ni,Unknown,Florida State University,University,Unknown,2021
+Brian Nord,Male,Fermi National Accelerator Laboratory,National Lab,,2021
+Simone Pagan Griso,Female,Lawrence Berkeley National Laboratory,National Lab,,2021
+Diana Parno,Female,Carnegie Mellon University,University,Unknown,2021
+Maria Piarulli,Female,Washington University in St. Louis,University,Private,2021
+Craig Plaisance,Male,Louisiana State University,University,Unknown,2021
+Diana Y. Qiu,Female,Yale University,University,Ivy League,2021
+Mohammad Javad Abdolhosseini Qomi,Male,University of California Irvine,University,Unknown,2021
+Kiersten Ruisard,Female,Oak Ridge National Laboratory,National Lab,,2021
+Robert Saye,Male,Lawrence Berkeley National Laboratory,National Lab,,2021
+Srimoyee Sen,Unknown,Iowa State University,University,Unknown,2021
+Christo S. Sevov,Unknown,The Ohio State University,University,State/Public,2021
+Chun Shen,Unknown,Wayne State University,University,Unknown,2021
+Daisuke Shiraki,Male,Oak Ridge National Laboratory,National Lab,,2021
+Indara Suarez,Unknown,Boston University,University,Unknown,2021
+Nathan Tallent,Male,Pacific Northwest National Laboratory,National Lab,,2021
+Aditya V. Thakur,Male,"University of California, Davis",University,Unknown,2021
+V. Sara Thoi,Unknown,Johns Hopkins University,University,Private,2021
+Marcos Turqueti,Male,Lawrence Berkeley National Laboratory,National Lab,,2021
+Petros Tzeferacos,Male,University of Rochester,University,Unknown,2021
+Caterina Vernieri,Female,SLAC National Accelerator Laboratory,National Lab,,2021
+Hao-Yi Wu,Unknown,Boise State University,University,Unknown,2021
+Dianne Xiao,Female,University of Washington,University,State/Public,2021
+Jie Xu,Unknown,"University of Texas, El Paso",University,Unknown,2021
+Xue Zheng,Unknown,Lawrence Livermore National Laboratory,National Lab,,2021
+Qiang Zhu,Unknown,University of Nevada Las Vegas,University,Unknown,2021
