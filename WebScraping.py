@@ -10,7 +10,7 @@ import gender_guesser.detector as gender
 import logging
 import matplotlib.pyplot as plt
 import seaborn as sns
-import scholarly
+from scholarly import scholarly
 import time
 
 # ============================
@@ -36,29 +36,23 @@ os.makedirs(txt_dir, exist_ok=True)
 # ============================
 
 def get_pdf_links(base_url):
-    # Fetches all PDF links and corresponding years from the given base URL.
+    """
+    Fetches all PDF links from the given base URL.
+    """
     response = requests.get(base_url)
     if response.status_code != 200:
         raise Exception(f"Failed to load page {base_url}")
 
     soup = BeautifulSoup(response.content, 'html.parser')
-    pdf_links_and_years = []
-
-    for link in soup.find_all('a', href=True):
-        if link['href'].lower().endswith('.pdf'):
-            pdf_url = urljoin(base_url, link['href'])
-            # Extract year from link text (e.g., "Fiscal Year 2024 Award Abstracts")
-            year_match = re.search(r'Fiscal Year (\d{4})', link.text)
-            if year_match:
-                year = int(year_match.group(1))
-                pdf_links_and_years.append((pdf_url, year))
-                
-    logging.info(f"Found {len(pdf_links_and_years)} PDF files.")
-    return pdf_links_and_years
+    pdf_links = [urljoin(base_url, link['href']) for link in soup.find_all('a', href=True) if link['href'].lower().endswith('.pdf')]
+    logging.info(f"Found {len(pdf_links)} PDF files.")
+    return pdf_links
 
 
 def download_pdf(url, save_path):
-    # Downloads a PDF from the given URL to the specified save path.
+    """
+    Downloads a PDF from the given URL to the specified save path.
+    """
     try:
         response = requests.get(url, stream=True)
         if response.status_code == 200:
@@ -76,8 +70,10 @@ def download_pdf(url, save_path):
 
 
 def download_pdfs(pdf_links, pdf_dir):
-    # Downloads all PDFs from the list of PDF links.
-    for pdf_url, year in tqdm(pdf_links, desc='Downloading PDFs'):
+    """
+    Downloads all PDFs from the list of PDF links.
+    """
+    for pdf_url in tqdm(pdf_links, desc='Downloading PDFs'):
         pdf_name = pdf_url.split('/')[-1]
         save_path = os.path.join(pdf_dir, pdf_name)
         if not os.path.exists(save_path):
@@ -86,7 +82,6 @@ def download_pdfs(pdf_links, pdf_dir):
                 logging.warning(f"Failed to download: {pdf_url}")
         else:
             logging.info(f"Already downloaded: {pdf_name}")
-    return pdf_links
 
 
 
@@ -165,7 +160,6 @@ national_labs = [
     'National Energy Technology Laboratory',
     'National Renewable Energy Laboratory',
     'Savannah River National Laboratory',
-    'Lawrence Berkeley National',
 ]
 
 ivy_league = [
@@ -233,8 +227,14 @@ def categorize_institution(institution):
     for pr in private_universities:
         if pr.lower() in institution_lower:
             return ('University', 'Private')
+    # If "University" is in the name but not in any list
+    if 'university' in institution_lower:
+        return ('University', 'Other')
+    # If "College" is in the name but not in any list
+    if 'college' in institution_lower:
+        return ('University', 'Other')
     # Default category
-    return ('University', 'Unknown')
+    return ('Unknown', None)
 
 
 def classify_gender(name):
@@ -293,15 +293,12 @@ def extract_entries_from_text(text):
     return entries
 
 
-def extract_and_classify_data(txt_dir, pdf_links):
+def extract_and_classify_data(txt_dir):
     """
     Extracts names and institutions from all text files and classifies them.
     """
     all_entries = []
     txt_files = [os.path.join(txt_dir, f) for f in os.listdir(txt_dir) if f.lower().endswith('.txt')]
-
-    # Create a mapping of pdf file names to years
-    year_map = {pdf_url.split('/')[-1]: year for pdf_url, year in pdf_links}
 
     for txt_file in tqdm(txt_files, desc='Extracting Data from Texts'):
         try:
@@ -309,24 +306,21 @@ def extract_and_classify_data(txt_dir, pdf_links):
                 text = file.read()
             
             entries = extract_entries_from_text(text)
-            pdf_name = os.path.basename(txt_file).replace('.txt', '.pdf')
-            year = year_map.get(pdf_name)
-
+            
             if not entries:
-                logging.warning(f"No entries found in {pdf_name}")
+                logging.warning(f"No entries found in {os.path.basename(txt_file)}")
                 continue
 
             for name, institution in entries:
                 gender_class = classify_gender(name)
                 category, subcategory = categorize_institution(institution)
-
+                
                 all_entries.append({
                     'Name': name,
                     'Gender': gender_class,
                     'Institution': institution,
                     'Category': category,
-                    'Subcategory': subcategory,
-                    'Year': year  # Add year to the entry
+                    'Subcategory': subcategory
                 })
         
         except Exception as e:
@@ -423,7 +417,7 @@ def main():
     extract_texts(pdf_dir, txt_dir)
 
     # Step 3: Extract Names and Institutions, and retrieve h-index
-    df = extract_and_classify_data(txt_dir, pdf_links)
+    df = extract_and_classify_data_with_h_index(txt_dir)
     
     if df.empty:
         logging.warning("No data extracted. Exiting.")
@@ -433,7 +427,7 @@ def main():
     print(df.head())
 
     # Step 4: Save to CSV
-    output_csv = 'classified_award_data.csv'
+    output_csv = 'classified_award_data_with_hindex.csv'
     df.to_csv(output_csv, index=False)
     logging.info(f"Data extraction and classification completed. Saved to '{output_csv}'.")
 

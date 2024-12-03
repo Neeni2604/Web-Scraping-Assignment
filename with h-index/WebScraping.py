@@ -10,7 +10,7 @@ import gender_guesser.detector as gender
 import logging
 import matplotlib.pyplot as plt
 import seaborn as sns
-import scholarly
+from scholarly import scholarly
 import time
 
 # ============================
