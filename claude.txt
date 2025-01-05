@@ -1,0 +1,178 @@
+import requests 
+from bs4 import BeautifulSoup
+import os
+from urllib.parse import urljoin
+from tqdm import tqdm
+import pdfplumber
+import re
+import pandas as pd
+import gender_guesser.detector as gender
+import logging
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scholarly import scholarly
+import time
+
+# [Previous setup code remains the same until the extract_entries_from_text function]
+
+def extract_entries_from_text(text):
+    """
+    Extracts (Name, Institution, Zipcode, Program Area) from the provided text.
+    """
+    lines = text.split('\n')
+    entries = []
+    department_keywords = ['department', 'division', 'group', 'office', 'section', 'center']
+    
+    # Program areas to look for
+    program_areas = [
+        'Accelerator R&D and Production',
+        'Advanced Scientific Computing Research',
+        'Basic Energy Sciences',
+        'Biological and Environmental Research',
+        'Fusion Energy Sciences',
+        'High Energy Physics',
+        'Isotope R&D and Production',
+        'Nuclear Physics'
+    ]
+
+    for i, line in enumerate(lines):
+        line = line.strip()
+        if line.startswith('Dr. '):
+            name_match = re.match(r'Dr\.\s+([A-Za-z.\-\' ]+?),', line)
+            if name_match:
+                name = name_match.group(1).strip()
+                institution = None
+                zipcode = None
+                program_area = None
+
+                # Look for institution and zipcode
+                for j in range(i+1, len(lines)):
+                    current_line = lines[j].strip()
+                    
+                    # Look for ZIP code
+                    zip_match = re.search(r'\b\d{5}\b', current_line)
+                    if zip_match and not zipcode:
+                        zipcode = zip_match.group(0)
+                        # Institution is the line before this
+                        if j-1 > i:
+                            potential_institution = lines[j-1].strip()
+                            if not any(keyword in potential_institution.lower() for keyword in department_keywords):
+                                institution = potential_institution
+                            else:
+                                if j-2 > i:
+                                    potential_institution = lines[j-2].strip()
+                                    if not any(keyword in potential_institution.lower() for keyword in department_keywords):
+                                        institution = potential_institution
+
+                # Look for program area
+                for j in range(max(0, i-20), min(len(lines), i+20)):  # Search 20 lines before and after
+                    current_line = lines[j].strip()
+                    if "This research was selected for funding by" in current_line:
+                        for area in program_areas:
+                            if area in current_line:
+                                program_area = area
+                                break
+                        if not program_area:  # If area not found in standard form, extract from the line
+                            office_match = re.search(r'Office of (.*?)\.', current_line)
+                            if office_match:
+                                program_area = office_match.group(1).strip()
+
+                if institution and zipcode:  # Only add entry if we found both institution and zipcode
+                    entries.append({
+                        'Name': name,
+                        'Institution': institution,
+                        'Zipcode': zipcode,
+                        'Program_Area': program_area
+                    })
+
+    return entries
+
+def extract_and_classify_data(txt_dir):
+    """
+    Extracts names, institutions, zipcodes, and program areas from all text files and classifies them.
+    """
+    all_entries = []
+    txt_files = [os.path.join(txt_dir, f) for f in os.listdir(txt_dir) if f.lower().endswith('.txt')]
+
+    for txt_file in tqdm(txt_files, desc='Extracting Data from Texts'):
+        try:
+            with open(txt_file, 'r', encoding='utf-8') as file:
+                text = file.read()
+            
+            entries = extract_entries_from_text(text)
+            
+            if not entries:
+                logging.warning(f"No entries found in {os.path.basename(txt_file)}")
+                continue
+
+            for entry in entries:
+                name = entry['Name']
+                gender_class = classify_gender(name)
+                category, subcategory = categorize_institution(entry['Institution'])
+                
+                entry.update({
+                    'Gender': gender_class,
+                    'Category': category,
+                    'Subcategory': subcategory
+                })
+                all_entries.append(entry)
+        
+        except Exception as e:
+            logging.error(f"Error processing {txt_file}: {e}")
+
+    # Create DataFrame
+    df = pd.DataFrame(all_entries)
+    return df
+
+# Comment out h-index related functions
+"""
+def get_h_index(name):
+    try:
+        search_query = scholarly.search_author(name)
+        author = next(search_query, None)
+        
+        if author:
+            author_profile = scholarly.fill(author)
+            h_index = author_profile.get('hindex', None)
+            if h_index is not None:
+                return h_index
+            else:
+                print(f"No h-index found for {name}.")
+                return 'N/A'
+        else:
+            print(f"No Google Scholar profile found for {name}.")
+            return 'N/A'
+    except Exception as e:
+        logging.error(f"Error looking up h-index for {name}: {e}")
+        return 'N/A'
+
+def extract_and_classify_data_with_h_index(txt_dir):
+    # ... [previous implementation] ...
+    pass
+"""
+
+def main():
+    # Step 1: Download PDFs
+    pdf_links = get_pdf_links(base_url)
+    download_pdfs(pdf_links, pdf_dir)
+
+    # Step 2: Extract Text from PDFs
+    extract_texts(pdf_dir, txt_dir)
+
+    # Step 3: Extract Names, Institutions, Zipcodes, and Program Areas
+    df = extract_and_classify_data(txt_dir)
+    
+    if df.empty:
+        logging.warning("No data extracted. Exiting.")
+        return
+
+    # Display the first few entries
+    print(df.head())
+
+    # Step 4: Save to CSV
+    output_csv = 'classified_award_data.csv'
+    df.to_csv(output_csv, index=False)
+    logging.info(f"Data extraction and classification completed. Saved to '{output_csv}'.")
+
+if __name__ == "__main__":
+    main()
