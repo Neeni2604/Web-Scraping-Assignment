@@ -314,12 +314,13 @@ def extract_entries_from_text(text):
                                 program_area = office_match.group(1).strip()
 
                 if institution and zipcode:  # Only add entry if we found both institution and zipcode
-                    entries.append({
-                        'Name': name,
-                        'Institution': institution,
-                        'Zipcode': zipcode,
-                        'Program_Area': program_area
-                    })
+                    # entries.append({
+                    #     'Name': name,
+                    #     'Institution': institution,
+                    #     'Zipcode': zipcode,
+                    #     'Program_Area': program_area
+                    # })
+                    entries.append((name, institution, zipcode, program_area))
 
     return entries
 
@@ -355,7 +356,7 @@ def extract_and_classify_data(txt_dir):
             #     all_entries.append(entry)
 
             # With h-index
-            for name, institution in entries:
+            for name, institution, zipcode, program_area in entries:
                 gender_class = classify_gender(name)
                 category, subcategory = categorize_institution(institution)
                 
@@ -368,6 +369,8 @@ def extract_and_classify_data(txt_dir):
                     'Institution': institution,
                     'Category': category,
                     'Subcategory': subcategory,
+                    'Zipcode' : zipcode,
+                    'Program Area' : program_area,
                     'h-index': h_index  # Add h-index to the entry
                 })
                 time.sleep(5)  # Sleep to avoid too many requests too quickly

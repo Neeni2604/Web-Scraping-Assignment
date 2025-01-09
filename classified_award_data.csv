@@ -1,970 +1,970 @@
-Name,Institution,Zipcode,Program_Area,Gender,Category,Subcategory
-Kavin Ammigan,Fermi National Accelerator Laboratory,60510,,Unknown,National Lab,
-Alexander Austregesilo,Thomas Jefferson National Accelerator Facility,23606,High Energy Physics,Male,National Lab,
-Keith Bechtol,University of Wisconsin-Madison,53706,High Energy Physics,Male,University,State/Public
-Lauren E. Beckingham,Auburn University,36849,Basic Energy Sciences,Female,University,Other
-Timothy Berkelbach,Columbia University,10027,Basic Energy Sciences,Male,University,Ivy League
-Peter A. Bosler,Sandia National Laboratories,87125,Basic Energy Sciences,Male,National Lab,
-Itay Budin,University of California San Diego,92093,Advanced Scientific Computing Research,Male,University,Other
-Livia Casali,University of Tennessee-Knoxville,37996,Biological and Environmental Research,Female,University,Other
-David Cereceda,Villanova University,19085,Fusion Energy Sciences,Male,University,Other
-Katerina Chatziioannou,California Institute of Technology,91125,Fusion Energy Sciences,Female,University,Private
-Yang-Ting Chien,Georgia State University,30303,Nuclear Physics,Unknown,University,Other
-Christopher J. Dares,Florida International University,33199,Nuclear Physics,Male,University,Other
-Emily C. Davidson,Princeton University,08540,Basic Energy Sciences,Female,University,Ivy League
-John D. Despotopulos,Lawrence Livermore National Laboratory,94550,Nuclear Physics,Male,National Lab,
-Johannes Doerfert,Argonne National Laboratory,60439,Nuclear Physics,Male,National Lab,
-Chunhui Du,"University of California, San Diego",92093,Advanced Scientific Computing Research,Unknown,University,State/Public
-Auralee Edelen,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Unknown,National Lab,
-Sabit Ekin,Oklahoma State University,74078,Basic Energy Sciences,Male,University,Other
-Timofey Frolov,Lawrence Livermore National Laboratory,94550,Advanced Scientific Computing Research,Male,National Lab,
-Trey E. Gebhart,Oak Ridge National Laboratory,37830,Fusion Energy Sciences,Male,National Lab,
-Emily B. Graham,Pacific Northwest National Laboratory,99352,Fusion Energy Sciences,Female,National Lab,
-Hanqi Guo,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Unknown,National Lab,
-Ryan G. Hadt,California Institute of Technology,91125,Advanced Scientific Computing Research,Male,University,Private
-K. C. Hammond,Princeton Plasma Physics Laboratory,08540,Basic Energy Sciences,Unknown,National Lab,
-Shaun R. Haskey,Princeton Plasma Physics Laboratory,08540,Fusion Energy Sciences,Male,National Lab,
-Dugan Hayes,University of Rhode Island,02881,Fusion Energy Sciences,Male,University,Other
-Andrew Hearin,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Elizabeth Herndon,Oak Ridge National Laboratory,37831,High Energy Physics,Female,National Lab,
-Tova Holmes,University of Tennessee,37996,Biological and Environmental Research,Female,University,Other
-Tanzima Z. Islam,Texas State University,78666,High Energy Physics,Unknown,University,Other
-Benjamin Jorns,University of Michigan,48109,Advanced Scientific Computing Research,Male,University,State/Public
-Piran R. Kidambi,Vanderbilt University,37212,Fusion Energy Sciences,Unknown,University,Other
-Jae Chul Kim,Stevens Institute of Technology,07030,Isotope R&D and Production,Unknown,Unknown,
-Anders Knospe,Lehigh University,18015,Basic Energy Sciences,Male,University,Other
-Boopathy Kombaiah,Idaho National Laboratory,83415,Nuclear Physics,Unknown,National Lab,
-Noah Kurinsky,SLAC National Laboratory,94025,Basic Energy Sciences,Male,Unknown,
-Aeriel D.M. Leonard,The Ohio State University,43210,High Energy Physics,Unknown,University,State/Public
-Yuzhang Li,"University of California, Los Angeles",90095,Basic Energy Sciences,Unknown,University,State/Public
-Chong Liu,The University of Chicago,60637,Basic Energy Sciences,Unknown,University,Private
-Lu Lu,University of Pennsylvania,19104,Basic Energy Sciences,Unknown,University,Ivy League
-Xiao Luo,"University of California, Santa Barbara",93106,Advanced Scientific Computing Research,Unknown,University,Other
-Devin Matthews,Southern Methodist University,75275,High Energy Physics,Male,University,Other
-Matteo Mitrano,Harvard University,02138,Basic Energy Sciences,Male,University,Ivy League
-Christopher Monahan,William & Mary,23187,Nuclear Physics,Male,Unknown,
-Atieh Moridi,Cornell University,14853,Nuclear Physics,Unknown,University,Ivy League
-Andrew Mounce,Sandia National Laboratories,87111,Basic Energy Sciences,Male,National Lab,
-Benjamin Nachman,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Aditya G. Nair,"University of Nevada, Reno",89557,Advanced Scientific Computing Research,Male,University,Other
-Lisa Olshansky,"University of Illinois, Urbana-Champaign",61801,Basic Energy Sciences,Female,University,Other
-Guido Pagano,Rice University,77005,Basic Energy Sciences,Male,University,Private
-Chenyun Pan,The University of Texas at Arlington,76010,Nuclear Physics,Unknown,University,Other
-Pietro Papa Lopes,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Male,National Lab,
-Natalie Paquette,University of Washington,98195,Basic Energy Sciences,Female,University,State/Public
-Geoffrey Penington,"University of California, Berkeley",94720,High Energy Physics,Male,University,State/Public
-Denisia Popolan-Vaida,University of Central Florida,32816,High Energy Physics,Female,University,Other
-Timothy Proctor,Sandia National Laboratories,94550,Basic Energy Sciences,Male,National Lab,
-Matt Pyle,University of California Berkeley,94720,High Energy Physics,Male,University,Other
-Krupa Ramasesha,Sandia National Laboratories,94550,High Energy Physics,Unknown,National Lab,
-Michael Reppert,Purdue University,47906,Basic Energy Sciences,Male,University,Other
-Grant M. Rotskoff,Stanford University,94305,Basic Energy Sciences,Male,University,Private
-Michael Schulz,Virginia Polytechnic Institute and State University,24061,Basic Energy Sciences,Male,University,Other
-Lorenzo Sironi,Columbia University,10027,Basic Energy Sciences,Male,University,Ivy League
-Elizabeth Sooby,University of Texas at San Antonio,78249,Fusion Energy Sciences,Female,University,Other
-Kelsey A. Stoerzinger,Oregon State University,97331,Basic Energy Sciences,Female,University,Other
-Daniel Stolper,"University of California, Berkeley",94720,Basic Energy Sciences,Male,University,State/Public
-Brian Summa,Tulane University,70118,Basic Energy Sciences,Male,University,Other
-Zhaowen Tang,Los Alamos National Laboratory,87544,Advanced Scientific Computing Research,Unknown,National Lab,
-Marlene Turner,Lawrence Berkeley National Laboratory,94720,Nuclear Physics,Female,National Lab,
-Jorge A. Villa,University of Louisiana at Lafayette,70504,High Energy Physics,Male,University,Other
-Bess Vlaisavljevich,University of South Dakota,57069,Biological and Environmental Research,Female,University,Other
-Yao Wang,Clemson University,29634,Basic Energy Sciences,Unknown,University,Other
-Marissa L. Weichman,Princeton University,08544,Basic Energy Sciences,Female,University,Ivy League
-Antoine Wojdyla,Lawrence Berkeley National,94710,Basic Energy Sciences,Male,Unknown,
-Shuolong Yang,The University of Chicago,60637,Basic Energy Sciences,Unknown,University,Private
-Mimi C. Yung,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Female,National Lab,
-Michael Zaletel,"University of California, Berkeley",94720,Biological and Environmental Research,Male,University,State/Public
-Zhiyang Zhai,Brookhaven National Laboratory,11973,Basic Energy Sciences,Unknown,National Lab,
-Xiao-Xiao Zhang,University of Florida,32611,Basic Energy Sciences,Unknown,University,State/Public
-Guannan Zhang,Oak Ridge National Laboratory,37830,Basic Energy Sciences,Unknown,National Lab,
-You Zhou,University of Maryland,20742,Basic Energy Sciences,Unknown,University,Other
-Yuanyuan Zhu,University of Connecticut,06269,Basic Energy Sciences,Unknown,University,Other
-Aleksandr V. Zhukhovitskiy,University of North Carolina at Chapel Hill,27599,Basic Energy Sciences,Male,University,State/Public
-Gina C. Adam,The George Washington University,20052,,Female,University,Other
-Whitney Armstrong,Argonne National Laboratory,60439,Nuclear Physics,Male,National Lab,
-Miguel Arratia,"University of California, Riverside",92507,Nuclear Physics,Male,University,Other
-Sayan Biswas,University of Minnesota,55455,Nuclear Physics,Unknown,University,State/Public
-Steven J Blazewicz,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Male,National Lab,
-David Cesar,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Male,National Lab,
-Matthew B. Chambers,Louisiana State University,70803,Basic Energy Sciences,Male,University,Other
-Nathaniel Chaney,Duke University,27708,Basic Energy Sciences,Male,University,Private
-Xiaoqian Chen,Brookhaven National Laboratory,11973,Basic Energy Sciences,Unknown,National Lab,
-Tyler Cocker,Michigan State University,48824,Basic Energy Sciences,Male,University,Other
-Stacy M. Copp,"University of California, Irvine",92697,Basic Energy Sciences,Female,University,Other
-Gavin Cornwell,Pacific Northwest National Laboratory,99354,Basic Energy Sciences,Male,National Lab,
-Sneha P. Couvillion,Pacific Northwest National Laboratory,99354,Biological and Environmental Research,Female,National Lab,
-Jacob Covey,University of Illinois Urbana-Champaign,80101,Biological and Environmental Research,Male,University,Other
-Anil Damle,Cornell University,14853,Nuclear Physics,Male,University,Ivy League
-Nelson Dzade,Pennsylvania State University,16802,Advanced Scientific Computing Research,Male,University,Other
-Gilberto Fernandes Lopes Fabbris,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Gianluca Geraci,SLAC National Accelerator Laboratory,94025,Fusion Energy Sciences,Male,National Lab,
-Julia Gonski,SLAC National Accelerator Laboratory,94025,Advanced Scientific Computing Research,Female,National Lab,
-Eduardo Higino da Silva Neto,Yale University,06520,High Energy Physics,Male,University,Ivy League
-Alisa Javadi,University of Oklahoma,73019,High Energy Physics,Female,University,Other
-Dafei Jin,University of Notre Dame,46556,Basic Energy Sciences,Unknown,University,Other
-Carlee Joe-Wong,Carnegie Mellon University,15213,Basic Energy Sciences,Female,University,Other
-Austin Joyce,University of Chicago,60637,Advanced Scientific Computing Research,Male,University,Private
-Alvine Kamaha,"University of California, Los Angeles (UCLA)",90095,High Energy Physics,Female,University,State/Public
-Shaina Kelly,Columbia University,10027,High Energy Physics,Female,University,Ivy League
-Itamar Kimchi,Georgia Institute of Technology,30332,Nuclear Physics,Male,Unknown,
-Lydia Kisley,Case Western Reserve University,44106,Basic Energy Sciences,Female,University,Other
-Marek Kolmer,Ames National Laboratory,50011,Basic Energy Sciences,Male,National Lab,
-Stephen Lam,University of Massachusetts Lowell,01854,Nuclear Physics,Male,University,Other
-Amanda Lietz,North Carolina State University,27607,Fusion Energy Sciences,Female,University,Other
-Fang Liu,Emory University,30322,Fusion Energy Sciences,Unknown,University,Private
-Shusen Liu,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Unknown,National Lab,
-Whitney Loo,University of Wisconsin-Madison,53706,Advanced Scientific Computing Research,Male,University,State/Public
-Matthew Loyd,Oak Ridge National Laboratory,37830,Basic Energy Sciences,Male,National Lab,
-Yunqiu Kelly Luo,University of Southern California,90089,Basic Energy Sciences,Unknown,University,Private
-David Martinez Caicedo,South Dakota School of Mines and Technology,57701,Basic Energy Sciences,Male,Unknown,
-Liane M. Moreau,Washington State University,99164,Basic Energy Sciences,Female,University,Other
-Ian Moult,Yale University,06511,Basic Energy Sciences,Male,University,Ivy League
-Lukas Muechler,Penn State University,16802,High Energy Physics,Male,University,Other
-Andy Nguyen,"Elise Novitski, Assistant Professor",98195,Basic Energy Sciences,Male,Unknown,
-Kevin Pedro,Fermi National Accelerator Laboratory,60510,Basic Energy Sciences,Male,National Lab,
-Bo Peng,Pacific Northwest National Laboratory,99354,High Energy Physics,Male,National Lab,
-Jennifer Louise Pore,Lawrence Berkeley National Laboratory,94720,Nuclear Physics,Female,National Lab,
-Wei Qin,University of Oklahoma,73019,Basic Energy Sciences,Unknown,University,Other
-Lina Quan,Virginia Polytechnic Institute and State University,24061,Biological and Environmental Research,Female,University,Other
-Dylan Rankin,University of Pennsylvania,19104,Basic Energy Sciences,Male,University,Ivy League
-Alex J. Rinehart,New Mexico Tech,87801,High Energy Physics,Male,Unknown,
-Sourabh K. Saha,Georgia Institute of Technology,30332,Basic Energy Sciences,Unknown,Unknown,
-Thomas Scaffidi,"University of California, Irvine",92697,Fusion Energy Sciences,Male,University,Other
-Daniel Schwalbe-Koda,"University of California, Los Angeles",90095,Basic Energy Sciences,Male,University,State/Public
-Filippo Scotti,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Male,National Lab,
-S. Eileen Seo,Arizona State University,85281,Fusion Energy Sciences,Unknown,University,Other
-Kyle Seyler,The University of Arizona,85721,Basic Energy Sciences,Female,University,Other
-Sara Shamekh,New York University,10012,Basic Energy Sciences,Female,University,Private
-Yu-Tsun Shao,University of Southern California,90089,Basic Energy Sciences,Unknown,University,Private
-Philip Shushkov,Indiana University,47405,Basic Energy Sciences,Male,University,Other
-Jennifer Shusterman,Lawrence Livermore National Laboratory,94550,Isotope R&D and Production,Female,National Lab,
-Marien Simeni Simeni,University of Minnesota,55455,Isotope R&D and Production,Male,University,State/Public
-Craig Snoeyink,University of Buffalo,14260,Basic Energy Sciences,Male,University,Other
-Ioannis Spanopoulos,University of South Florida,33617,Basic Energy Sciences,Male,University,Other
-Allison H. Squires,The University of Chicago,60637,Basic Energy Sciences,Female,University,Private
-Xiao Su,University of Illinois at Urbana-Champaign,61801,Basic Energy Sciences,Unknown,University,State/Public
-Carolin M. Sutter-Fella,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Thi Vo,Johns Hopkins University,21218,Basic Energy Sciences,Female,University,Private
-Kyle Wendt,Lawrence Livermore National Laboratory,94550,Nuclear Physics,Female,National Lab,
-Shawn Westerdale,"University of California, Riverside",92521,Nuclear Physics,Male,University,Other
-Lea R. Winter,Yale University,06520,High Energy Physics,Female,University,Ivy League
-Mitchell A. Wood,Sandia National Laboratories,87123,Basic Energy Sciences,Male,National Lab,
-W.L. Kimmy Wu,SLAC National Accelerator Laboratory,94025,High Energy Physics,Unknown,National Lab,
-Yang Yang,"University of California, Santa Barbra",93106,Basic Energy Sciences,Unknown,University,Other
-Mingwei Zhang,"University of California, Davis",95616,Basic Energy Sciences,Unknown,University,Other
-Ben Zhu,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Male,National Lab,
-Cristal Zuniga,San Diego State University,92115,,Female,University,Other
-Hussein Aluie,University of Rochester,14627,,Male,University,Other
-Luca Argenti,University of Central Florida,32826,Fusion Energy Sciences,Male,University,Other
-Veronica Augustyn,North Carolina State University,27695,Basic Energy Sciences,Female,University,Other
-Kristin Burnum-Johnson,Pacific Northwest National Laboratory,99352,Nuclear Physics,Female,National Lab,
-Viviana Cavaliere,Brookhaven National Laboratory (BNL),11973,Biological and Environmental Research,Female,National Lab,
-Lan Cheng,Johns Hopkins University,21218,High Energy Physics,Unknown,University,Private
-Miaofang Chi,Oak Ridge National Laboratory (ORNL),37831,Basic Energy Sciences,Unknown,National Lab,
-Robert Coridan,University of Arkansas,72701,Nuclear Physics,Male,University,Other
-Scott Cushing,California Institute of Technology,91125,Basic Energy Sciences,Male,University,Private
-Shudipto Konika Dishari,University of Nebraska-Lincoln,68583,Nuclear Physics,Unknown,University,Other
-Thomas Dumitrescu,"University of California, Los Angeles",90095,High Energy Physics,Male,University,State/Public
-Cora Dvorkin,Harvard University,02138,High Energy Physics,Female,University,Ivy League
-Tim Eifler,University of Arizona,85721,High Energy Physics,Male,University,Other
-David Flaherty,University of Illinois,61820,High Energy Physics,Male,University,Other
-Greeshma Gadikota,Cornell University*,14850,Nuclear Physics,Unknown,University,Ivy League
-Diana Gamzina,SLAC National Accelerator Laboratory,94025,High Energy Physics,Female,National Lab,
-Arianna Gleason,SLAC National Accelerator Laboratory,94025,Fusion Energy Sciences,Female,National Lab,
-Sowjanya Gollapinni,University of Tennessee,37996,Fusion Energy Sciences,Unknown,University,Other
-Karl D. Hammond,University of Missouri,65211,High Energy Physics,Male,University,Other
-Scott Hertel,"University of Massachusetts, Amherst",01003,Nuclear Physics,Male,University,Other
-Jier Huang,Marquette University,53201,Basic Energy Sciences,Unknown,University,Other
-Stratos Idreos,Harvard University,02138,Basic Energy Sciences,Male,University,Ivy League
-Laura Jeanty,University of Oregon,97403,Advanced Scientific Computing Research,Female,University,Other
-M. Benjamin Jungfleisch,University of Delaware,19716,High Energy Physics,Unknown,University,Other
-Jyoti Katoch,Carnegie Mellon University,15213,Basic Energy Sciences,Female,University,Other
-Kibaek Kim,Argonne National Laboratory (ANL),60439,Advanced Scientific Computing Research,Unknown,National Lab,
-Elisabeth Krause,University of Arizona,85721,High Energy Physics,Female,University,Other
-Isaac J. Larsen,University of Massachusetts – Amherst,01003,High Energy Physics,Male,University,Other
-David T. Limmer,"University of California, Berkeley",97410,Basic Energy Sciences,Male,University,State/Public
-Lucas Lindsay,Oak Ridge National Laboratory (ORNL),37831,Basic Energy Sciences,Male,National Lab,
-Cara Lubner,National Renewable Energy Laboratory (NREL),80401,Basic Energy Sciences,Female,National Lab,
-Joseph M. Lukens,Oak Ridge National Laboratory (ORNL),37831,Basic Energy Sciences,Male,National Lab,
-Pedro Machado,Fermi National Accelerator Laboratory (FNAL),60510,High Energy Physics,Male,National Lab,
-Vladimir Manucharyan,University of Maryland,20742,Advanced Scientific Computing Research,Male,University,Other
-Jared Maxson,Cornell University,14850,Basic Energy Sciences,Male,University,Ivy League
-Ryan McBride,University of Michigan,48109,Fusion Energy Sciences,Male,University,State/Public
-Josh Michener,Oak Ridge National Laboratory,37830,Biological and Environmental Research,Male,National Lab,
-Kathryn Mohror,Lawrence Livermore National Laboratory,94551,Advanced Scientific Computing Research,Female,National Lab,
-Brad Ramshaw,Cornell University,14850,Nuclear Physics,Male,University,Ivy League
-Cindy Rubio Gonzalez,"University of California, Davis",95618,Advanced Scientific Computing Research,Female,University,Other
-Ashkan Salamat,University of Nevada,89154,Basic Energy Sciences,Unknown,University,Other
-Catherine Schuman,Oak Ridge National Laboratory (ORNL),37831,Advanced Scientific Computing Research,Female,National Lab,
-Michael D. Shields,Johns Hopkins University,21218,Advanced Scientific Computing Research,Male,University,Private
-Kevin Solomon,Purdue University,47907,Advanced Scientific Computing Research,Male,University,Other
-Peter Sorensen,Lawrence Berkeley National Laboratory,94720,High Energy Physics,Male,National Lab,
-James Stegen,Pacific Northwest National Laboratory,99352,High Energy Physics,Male,National Lab,
-Timothy Stoltzfus-Dueck,Princeton Plasma Physics Laboratory,08543,Biological and Environmental Research,Male,National Lab,
-Elijah Thimsen,Washington University,63130,Fusion Energy Sciences,Male,University,Other
-Jeff Thompson,Princeton University,08544,Fusion Energy Sciences,Male,University,Ivy League
-Ian A. Tonks,University of Minnesota,55455,Basic Energy Sciences,Male,University,State/Public
-Nhan V. Tran,Fermi National Accelerator Laboratory (FNAL),60510,Basic Energy Sciences,Male,National Lab,
-Ahmet Uysal,Argonne National Laboratory (ANL),60439,High Energy Physics,Male,National Lab,
-Charuleka Varadharajan,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Unknown,National Lab,
-David Vinyard,Louisiana State University and A&M College,70803,Biological and Environmental Research,Male,University,Other
-Bin Wang,University of Oklahoma,73019,Basic Energy Sciences,Unknown,University,Other
-Yangyang Wang,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Unknown,National Lab,
-Sarah J. Watzman,University of Cincinnati,45221,Basic Energy Sciences,Female,University,Other
-Janelle P. Wharry,Purdue University,47907,Basic Energy Sciences,Female,University,Other
-Jingke Xu,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Unknown,National Lab,
-Xingchen Xu,Fermi National Accelerator Laboratory (FNAL),60510,High Energy Physics,Unknown,National Lab,
-Qimin Yan,Temple University,19122,High Energy Physics,Unknown,University,Other
-Andriy Zakutayev,National Renewable Energy Laboratory (NREL),80401,Basic Energy Sciences,Male,National Lab,
-Ilija Zeljkovic,Boston College,02467,Basic Energy Sciences,Male,University,Other
-Kandis Leslie Gilliard-Abdul Aziz,"University of California, Riverside",92507,Basic Energy Sciences,Unknown,University,Other
-Philip Adsley,Texas A&M University,77840,Nuclear Physics,Male,University,Other
-Chibueze Amanchukwu,The University of Chicago,60637,Nuclear Physics,Unknown,University,Private
-Bahar Asgari,"University of Maryland, College Park",20742,Basic Energy Sciences,Female,University,State/Public
-Sam Barber,Lawrence Berkeley National Laboratory,94720,Advanced Scientific Computing Research,Male,National Lab,
-Mathew R. Becker,Argonne National Laboratory,60439,High Energy Physics,Male,National Lab,
-Julie Bessac,Statistician National Renewable Energy,80401,High Energy Physics,Female,Unknown,
-Christian Boutan,Pacific Northwest National Laboratory,99352,Advanced Scientific Computing Research,Male,National Lab,
-Mathew Brahlek,Oak Ridge National Laboratory,37830,High Energy Physics,Male,National Lab,
-James Daniel Brandenburg,Ohio State University,43210,Basic Energy Sciences,Male,University,State/Public
-Jennifer Brophy,"Stanford, CA",94305,Nuclear Physics,Female,Unknown,
-Elizabeth Brost,Brookhaven National,11973,Biological and Environmental Research,Female,Unknown,
-Lucas Brouwer,Lawrence Berkeley National Laboratory,94720,High Energy Physics,Male,National Lab,
-Steven Brus,Argonne National Laboratory,60439,High Energy Physics,Male,National Lab,
-Jonathan D. Burns,University of Alabama at Birmingham,35294,Biological and Environmental Research,Male,University,Other
-John F. Cahill,Oak Ridge National Laboratory,37831,Isotope R&D and Production,Male,National Lab,
-Yue Cao,Argonne National Laboratory,60439,Biological and Environmental Research,Unknown,National Lab,
-Lane Carasik,"University Richmond, Virginia",23284,Fusion Energy Sciences,Male,University,Other
-Korey P. Carter,University of Iowa,52242,Fusion Energy Sciences,Male,University,Other
-Daniel Casey,Lawrence Livermore National Laboratory (LLNL),94550,Basic Energy Sciences,Male,National Lab,
-Tirthankar Chakraborty,Atmospheric Sciences and Global Change,99354,Fusion Energy Sciences,Unknown,Unknown,
-Fanglin Che,University of Massachusetts Lowell,01854,Biological and Environmental Research,Unknown,University,Other
-Martin Claassen,Astronomy University of Pennsylvania,19104,Basic Energy Sciences,Male,University,Ivy League
-Kensha Marie Clark,University of Mississippi,38677,Basic Energy Sciences,Unknown,University,Other
-Laura de Sousa Oliveira,University of Wyoming,82071,High Energy Physics,Female,University,Other
-Gauthier J.-P. Deblonde,Lawrence Livermore National Laboratory,94550,Basic Energy Sciences,Male,National Lab,
-Maria Laura di Vacri,Pacific Northwest National Laboratory,99352,Nuclear Physics,Female,National Lab,
-Leah G. Dodson,Biochemistry University of Maryland,20742,Nuclear Physics,Female,University,Other
-Dong,"University of Oklahoma,",73019,Basic Energy Sciences,Unknown,University,Other
-Chuanfei Dong,Boston University,02215,Basic Energy Sciences,Unknown,University,Other
-Leora Dresselhaus-Marais,Stanford University,94305,Fusion Energy Sciences,Female,University,Private
-Vinicius Duarte,Princeton Plasma Physics Laboratory,08540,Basic Energy Sciences,Male,National Lab,
-Guillaume Duclos,Physics Brandeis University,02453,Fusion Energy Sciences,Male,University,Other
-Eugene Dumitrescu,Computational Science and Engineering,37831,Basic Energy Sciences,Male,Unknown,
-Raghav Kunnawalkam Elayavalli,Vanderbilt University,37240,Advanced Scientific Computing Research,Unknown,University,Other
-Claudio Emma,Advanced Accelerator Research,94025,Nuclear Physics,Male,Unknown,
-Guillermo Fernandez Moroni,Fermi National Accelerator Laboratory,60510,High Energy Physics,Male,National Lab,
-Rich Fiorella,Los Alamos National Laboratory,87544,High Energy Physics,Male,National Lab,
-Holly B. Flynn,Savannah River National,29808,Biological and Environmental Research,Female,Unknown,
-Fereshte Ghahari Kermani,George Mason University,22030,Fusion Energy Sciences,Unknown,University,Other
-Nikolay Golubev,University of Arizona,85721,Basic Energy Sciences,Male,University,Other
-Laura Gunn,"School of Integrative Plant Sciences, Plant Biology",14853,Basic Energy Sciences,Female,Unknown,
-Shabnam Hematian,University of North Carolina at Greensboro,27402,Basic Energy Sciences,Unknown,University,Other
-Robert Hovden,University of Michigan,48109,Basic Energy Sciences,Male,University,State/Public
-Ezio Iacocca,Science University of Colorado Colorado,80918,Basic Energy Sciences,Male,University,Other
-Lise-Marie Imbert-Gerard,"Arizona Board of Regents, University of Arizona",85721,Basic Energy Sciences,Unknown,University,Other
-Nicholas Jackson,"University of Illinois, Urbana-Champaign",61801,Basic Energy Sciences,Male,University,Other
-Jing Li,New Jersey Institute of,07102,Basic Energy Sciences,Unknown,Unknown,
-Julia Kalow,Chemistry Northwestern,60201,Basic Energy Sciences,Female,Unknown,
-Brendan Keith,Brown University,02912,Basic Energy Sciences,Male,University,Ivy League
-Takaaki Koyanagi,Oak Ridge National Laboratory,37831,Advanced Scientific Computing Research,Male,National Lab,
-Benjamin A. Legg,Pacific Northwest National Laboratory,99352,Fusion Energy Sciences,Male,National Lab,
-Wenjing Liao,Georgia Institute of Technology,30332,Basic Energy Sciences,Unknown,Unknown,
-Kun Liu,Los Alamos National Laboratory (LANL),87545,Nuclear Physics,Unknown,National Lab,
-Andrey Lokhov,Los Alamos National Laboratory,87545,Advanced Scientific Computing Research,Male,National Lab,
-Dan Lu,Oak Ridge National Laboratory,37831,Advanced Scientific Computing Research,Male,National Lab,
-Niall Mangan,Mathematics Northwestern University,60208,Biological and Environmental Research,Male,University,Private
-Chris Marshall,University of Rochester,14627,Advanced Scientific Computing Research,Male,University,Other
-C. Michael McGuirk,Mines,80401,Basic Energy Sciences,Unknown,Unknown,
-James McIver,Physics Columbia University,10027,Basic Energy Sciences,Male,University,Ivy League
-Bernhard Mistlberger,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Male,National Lab,
-Julia Moriarty,University of Colorado Boulder,80303,Basic Energy Sciences,Female,University,Other
-Johanna Nelson Weker,Lightsource SLAC National Accelerator,94025,Basic Energy Sciences,Female,Unknown,
-Hyunseok Oh,University of Wisconsin-Madison,53706,Basic Energy Sciences,Unknown,University,State/Public
-Elizabeth Paul,Columbia University,10027,Nuclear Physics,Female,University,Ivy League
-Adam Printz,University of Arizona,85721,Fusion Energy Sciences,Male,University,Other
-Jin Qian,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Felix Ringer,Old Dominion University,23529,Basic Energy Sciences,Male,University,Other
-Annette Rowe,"Cincinnati Cincinnati,",45221,Nuclear Physics,Female,Unknown,
-Derek Schaeffer,"Astronomy University of California, Los",90095,Basic Energy Sciences,Male,University,Other
-Arunima Singh,Arizona State University,85287,Fusion Energy Sciences,Unknown,University,Other
-Hillary Smith,Astronomy Swarthmore College,19081,Basic Energy Sciences,Female,University,Other
-Erin Stache,Princeton University,08544,Basic Energy Sciences,Female,University,Ivy League
-Mathew A. Steiner,Engineering University of Cincinnati,45223,Basic Energy Sciences,Male,University,Other
-Esther Tsai,"Laboratory Upton, NY",11973,Basic Energy Sciences,Female,Unknown,
-Omar Valsson,University of North Texas,76201,Basic Energy Sciences,Male,University,Other
-Ying Wang,University of Wisconsin-Madison,53706,Basic Energy Sciences,Unknown,University,State/Public
-Cory Windorff,Biochemistry New Mexico State University,88003,Basic Energy Sciences,Male,University,Other
-Derong Xu,Brookhaven National Laboratory,11973,Nuclear Physics,Unknown,National Lab,
-Da Yan,University of Alabama at,35294,Nuclear Physics,Unknown,University,Other
-Joanna M Zajac,Brookhaven National Laboratory,11789,Basic Energy Sciences,Female,National Lab,
-Yu Zhang,Los Alamos National Laboratory,87545,Basic Energy Sciences,Unknown,National Lab,
-Youtong Zheng,"Boston College,",02467,Basic Energy Sciences,Unknown,University,Other
-Brian Zhou,"Boston College,",02467,Biological and Environmental Research,Male,University,Other
-Silvia Zorzeti,Fermi National Accelerator Laboratory,60510,Basic Energy Sciences,Female,National Lab,
-Michael Zuerch,"University of California, Berkeley",94720,High Energy Physics,Male,University,State/Public
-Daniel Bardayan,Oak Ridge National Laboratory,37831,Nuclear Physics,Male,National Lab,
-Christian Bauer,Lawrence Berkeley National Laboratory,94720,High Energy Physics,Male,National Lab,
-Ivan Bazarov,Cornell University,14850,Basic Energy Sciences,Male,University,Ivy League
-Philip Bingham,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Male,National Lab,
-Stanislav Boldyrev,University of Wisconsin,53715,Basic Energy Sciences,Male,University,Other
-Grigory Bronevetsky,Lawrence Livermore National Laboratory,94550,Advanced Scientific Computing Research,Male,National Lab,
-Martin Centurion,University of Nebraska,68588,Basic Energy Sciences,Male,University,Other
-Patrick Yin Chiang,Oregon State University,97331,Advanced Scientific Computing Research,Male,University,Other
-Luisa Chiesa,Miami University,45056,Fusion Energy Sciences,Female,University,Other
-Samantha Daly,University of Michigan,48109,Basic Energy Sciences,Female,University,State/Public
-Yuantao Ding,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Unknown,National Lab,
-David Erickson,Cornell University,14853,Basic Energy Sciences,Male,University,Ivy League
-Amir Farbin,"University of Texas, Arlington",76019,High Energy Physics,Male,University,Other
-Daniel Fredrickson,University of Wisconsin,53715,Basic Energy Sciences,Male,University,Other
-Andrew Gaunt,Los Alamos National Laboratory,87545,Basic Energy Sciences,Male,National Lab,
-Adrian Gozar,Brookhaven National Laboratory,11973,Basic Energy Sciences,Male,National Lab,
-William Gustafson,Pacific Northwest National Laboratory,99352,Biological and Environmental Research,Male,National Lab,
-Valerie Halyo,University of Colorado,80309,High Energy Physics,Female,University,Other
-Michael Hermele,University of Colorado,80309,Basic Energy Sciences,Male,University,Other
-Patrick Huber,Virginia Polytechnic Institute and State University,24061,High Energy Physics,Male,University,Other
-Christiane Jablonowski,University of Michigan,48109,Advanced Scientific Computing Research,Female,University,State/Public
-Arthi Jayaraman,University of Colorado,80309,Basic Energy Sciences,Unknown,University,Other
-Rubin Juanes,University of Maryland,20742,Basic Energy Sciences,Male,University,Other
-Matias Kirst,University of Florida,32611,Biological and Environmental Research,Male,University,State/Public
-John Kitchin,Carnegie Mellon University,15213,Basic Energy Sciences,Male,University,Other
-Michael Kohl,Hampton University,23668,Nuclear Physics,Male,University,Other
-Matthew Law,"University of California, Irvine",92697,Basic Energy Sciences,Male,University,Other
-Rupak Mahapatra,Texas A&M University,77845,High Energy Physics,Unknown,University,Other
-Alysia Marino,University of Colorado,80309,High Energy Physics,Female,University,Other
-Christina Markert,University of Texas at Austin,78712,Nuclear Physics,Female,University,State/Public
-Youssef Marzouk,Los Alamos National Laboratory,87545,Advanced Scientific Computing Research,Male,National Lab,
-Christopher Mauger,Los Alamos National Laboratory,87545,High Energy Physics,Male,National Lab,
-Nathan McDowell,Los Alamos National Laboratory,87545,Biological and Environmental Research,Male,National Lab,
-Antonino Miceli,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Delia Milliron,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Denes Molnar,Purdue University,47907,Nuclear Physics,Unknown,University,Other
-Benjamin Monreal,"University of California, Santa Barbara",93106,Nuclear Physics,Male,University,Other
-Tobin Munsat,University of Colorado,80309,Fusion Energy Sciences,Male,University,Other
-Pavel Nadolsky,Southern Methodist University,75205,High Energy Physics,Male,University,Other
-Jeffrey Newman,University of Pittsburgh,15213,High Energy Physics,Male,University,Other
-Jennifer O'Donnell,Iowa State University,50011,Basic Energy Sciences,Female,University,Other
-Victoria Orphan,California institute of Technology,91125,Biological and Environmental Research,Female,University,Private
-Kalyan Perumalla,Oak Ridge National Laboratory,37831,Advanced Scientific Computing Research,Male,National Lab,
-Eric Potma,"University of California, Irvine",92697,Basic Energy Sciences,Male,University,Other
-Jonathan Schilling,University of Minnesota,55455,Biological and Environmental Research,Male,University,State/Public
-Matthew Schwartz,SLAC National Accelerator Laboratory,94025,High Energy Physics,Male,National Lab,
-Ariel Schwartzman,SLAC National Accelerator Laboratory,94025,High Energy Physics,Male,National Lab,
-Athena Sefat,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Female,National Lab,
-Wendy Shaw,Pacific Northwest National Laboratory,99352,Basic Energy Sciences,Female,National Lab,
-David Shih,Los Alamos National Laboratory,87545,High Energy Physics,Male,National Lab,
-Evgenya Smirnova,Los Alamos National Laboratory,87545,High Energy Physics,Female,National Lab,
-Vsevolod Soukhanovskii,Lawrence Livermore National Laboratory,94550,High Energy Physics,Male,National Lab,
-Michelle Strout,Colorado State University,80523,Advanced Scientific Computing Research,Female,University,Other
-Tsuyoshi Tajima,Los Alamos National Laboratory,87545,Nuclear Physics,Male,National Lab,
-Christine Thomas,Washington State University,99164,Basic Energy Sciences,Female,University,Other
-Timothy VanReken,Washington State University,99164,Biological and Environmental Research,Male,University,Other
-Anil Vullikanti,Virginia Polytechnic Institute and State University,24060,Advanced Scientific Computing Research,Male,University,Other
-Feng Wang,"University of California, Berkeley",94704,Basic Energy Sciences,Unknown,University,State/Public
-Mort Webster,Northwestern University,60208,Biological and Environmental Research,Male,University,Private
-Emily Weiss,Northwestern University,60208,Basic Energy Sciences,Female,University,Private
-Feng Yuan,Lawrence Berkeley National Laboratory,94720,Nuclear Physics,Unknown,National Lab,
-Xiaochao Zheng,University of Virginia,22904,Nuclear Physics,Unknown,University,Other
-Michael Arnold,University of Wisconsin,53706,Basic Energy Sciences,Male,University,Other
-Nina Balke,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Female,National Lab,
-Timothy Bertram,"University of California, San Diego",92093,Biological and Environmental Research,Male,University,State/Public
-Guillaume Blanquart,California Institute of Technology,91125,Basic Energy Sciences,Male,University,Private
-Ricardo Castro,"University of California, Davis",95616,Basic Energy Sciences,Male,University,Other
-Jennifer Cha,"University of California, San Diego",92093,Basic Energy Sciences,Female,University,State/Public
-Youping Chen,University of Florida,32611,Basic Energy Sciences,Unknown,University,State/Public
-Aaron Chou,Fermi National Accelerator Laboratory,60510,High Energy Physics,Male,National Lab,
-Paul Dauenhauer,University of Massachusetts Amherst,01003,Basic Energy Sciences,Male,University,Other
-Sarah Demers,Yale University,06520,High Energy Physics,Female,University,Ivy League
-Shen Dillon,University of Illinois at Urbana‐Champaign,61820,Basic Energy Sciences,Unknown,University,Other
-Mircea Dinca,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Alireza Doostan,University of Colorado,80309,Advanced Scientific Computing Research,Male,University,Other
-Jozef Dudek,Old Dominion University,23529,Nuclear Physics,Male,University,Other
-Mary Dunlop,University of Vermont,05405,Biological and Environmental Research,Female,University,Other
-Gurudev Dutt,University of Pittsburgh,15260,Basic Energy Sciences,Unknown,University,Other
-Pavel Evtushenko,Thomas Jefferson National Accelerator Facility,23606,Basic Energy Sciences,Male,National Lab,
-Michael Galperin,"University of California, San Diego",92093,Basic Energy Sciences,Male,University,State/Public
-Nuh Gedik,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Kai Germaschewski,University of New Hampshire,03824,Basic Energy Sciences,Male,University,Other
-Jeffrey Greeley,Argonne National Laboratory,60439,Fusion Energy Sciences,Male,National Lab,
-Julia Greer,California Institute of Technology,91125,Basic Energy Sciences,Female,University,Private
-Markus Guehr,SLAC National Acceleratory Laboratory,94025,Basic Energy Sciences,Male,Unknown,
-Carter Hall,University of Maryland,20742,High Energy Physics,Male,University,Other
-Thomas Hamann,Michigan State University,48824,Basic Energy Sciences,Male,University,Other
-Ryan Hayward,University of Massachusetts Amherst,01003,Basic Energy Sciences,Male,University,Other
-Samuel Hazen,University of Massachussetts Amherst,01003,Biological and Environmental Research,Male,University,Other
-Chris Hirata,California Institute of Technology,91125,High Energy Physics,Male,University,Private
-Yongqin Jiao,Lawrence Livermore National Laboratory,94550,Biological and Environmental Research,Unknown,National Lab,
-Anantharaman Kalyanaraman,Washington State University,99164,Advanced Scientific Computing Research,Unknown,University,Other
-James Kneller,North Carolina State University,27695,Nuclear Physics,Male,University,Other
-Suzanne Lapi,Washington University,63110,Nuclear Physics,Female,University,Other
-Minhyea Lee,University of Colorado,80309,Basic Energy Sciences,Unknown,University,Other
-Peter Lindstrom,Lawrence Livermore National Laboratory,94550,Advanced Scientific Computing Research,Male,National Lab,
-Rene Lopez,University of North Carolina,27599,Basic Energy Sciences,Male,University,Other
-Matthew Marshall,Pacific Northwest National Laboratory,99352,Basic Energy Sciences,Male,National Lab,
-Daniel Melconian,Texas A&M University,77843,Nuclear Physics,Male,University,Other
-Peter Mueller,Argonne National Laboratory,60439,Nuclear Physics,Male,National Lab,
-Alberto Nicolis,Columbia University,10027,High Energy Physics,Male,University,Ivy League
-Christoph Niemann,"University of California, Los Angeles",90095,Fusion Energy Sciences,Male,University,State/Public
-Jonathan Owen,Columbia University,10027,Fusion Energy Sciences,Male,University,Ivy League
-Ryan Patterson,California Institute of Technology,91125,Basic Energy Sciences,Male,University,Private
-Thomas Prolier,Argonne National Laboratory,60439,High Energy Physics,Male,National Lab,
-Tatiana Prozorov,Ames Laboratory,50011,Basic Energy Sciences,Female,Unknown,
-Sofia Quaglioni,Lawrence Livermore National Laboratory,94551,Nuclear Physics,Female,National Lab,
-Alexander Romanenko,Fermi National Accelerator Laboratory,60510,Nuclear Physics,Male,National Lab,
-David Savage,"University of California, Berkeley",94720,Basic Energy Sciences,Male,University,State/Public
-Eric Schelter,University of Pennsylvania,19104,Basic Energy Sciences,Male,University,Ivy League
-Xipeng Shen,College of William and Mary,23187,Basic Energy Sciences,Unknown,University,Other
-Daniel Sinars,Sandia National Laboratories,87185,Advanced Scientific Computing Research,Male,National Lab,
-Anze Slosar,Brookhaven National Laboratory,11973,High Energy Physics,Unknown,National Lab,
-Alexandre Tartakovsky,Pacific Northwest National Laboratory,99352,Advanced Scientific Computing Research,Male,National Lab,
-Alexis Templeton,University of Colorado,80309,Basic Energy Sciences,Male,University,Other
-Jesse Thaler,Massachusetts Institute of Technology,02139,High Energy Physics,Male,University,Private
-Susannah Tringe,Lawrence Berkeley National Laboratory,94720,Biological and Environmental Research,Female,National Lab,
-Ezekial Unterberg,Oak Ridge National Laboratory,37831,Biological and Environmental Research,Unknown,National Lab,
-Anastasia Volovich,Brown University,02912,High Energy Physics,Female,University,Ivy League
-Francesco Volpe,University of Wisconsin,53706,High Energy Physics,Male,University,Other
-Faya Wang,SLAC National Acceleratory Laboratory,94025,High Energy Physics,Unknown,Unknown,
-Anne White,Massachusetts Institute of Technology,02139,High Energy Physics,Female,University,Private
-Zhigang Wu,Colorado School of Mines,80401,Basic Energy Sciences,Unknown,Unknown,
-Junqiao Wu,"University of California, Berkeley",94720,Basic Energy Sciences,Unknown,University,State/Public
-Jinlong Zhang,Argonne National Laboratory,60439,High Energy Physics,Unknown,National Lab,
-Pengpeng Zhang,Michigan State University,48824,Basic Energy Sciences,Unknown,University,Other
-Haimei Zheng,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Unknown,National Lab,
-Kirstin Alberi,National Renewable Energy Laboratory,80401,Basic Energy Sciences,Female,National Lab,
-John Asbury,Pennsylvania State University,16802,Basic Energy Sciences,Male,University,Other
-Pavan Balaji,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Unknown,National Lab,
-Jesse Berezovsky,Case Western Reserve University,44106,Basic Energy Sciences,Male,University,Other
-Theodore Betley,Harvard University,02138,Basic Energy Sciences,Male,University,Ivy League
-Aditya Bhan,University of Minnesota,55455,Basic Energy Sciences,Male,University,State/Public
-Kristen Buchanan,Colorado State University,80523,Basic Energy Sciences,Female,University,Other
-Gianpaolo Carosi,Lawrence Livermore National Laboratory,94550,High Energy Physics,Male,National Lab,
-Brendan Casey,Fermi National Accelerator Laboratory,60510,High Energy Physics,Male,National Lab,
-Hank Childs,Lawrence Berkeley National Laboratory,94720,Advanced Scientific Computing Research,Male,National Lab,
-Amy Clarke,Los Alamos National Laboratory,87545,Basic Energy Sciences,Female,National Lab,
-Nicolas Commaux,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Male,National Lab,
-Silviu Covrig,Thomas Jefferson National Accelerator Facility,23606,Nuclear Physics,Male,National Lab,
-Christopher Crawford,University of Kentucky,40506,Nuclear Physics,Male,University,Other
-Aleksandar Donev,New York University,10012,Advanced Scientific Computing Research,Male,University,Private
-Gary Douberly,University of Georgia,30602,Advanced Scientific Computing Research,Male,University,Other
-Xiangfeng Duan,"University of California, Los Angeles",90095,Basic Energy Sciences,Unknown,University,State/Public
-Huaiyu Duan,University of New Mexico,87131,Nuclear Physics,Unknown,University,Other
-John Dueber,"University of California, Berkeley",94720,Biological and Environmental Research,Male,University,State/Public
-Mattan Erez,University of Texas,78712,Advanced Scientific Computing Research,Unknown,University,Other
-Rouven Essig,Stony Brook University,11794,High Energy Physics,Male,University,Other
-Joshua Figueroa,"University of California, San Diego",92093,High Energy Physics,Male,University,State/Public
-Charles Folden III,Texas A&M University,77843,Nuclear Physics,Male,University,Other
-Oliver Gessner,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Daniel Gianola,University of Pennsylvania,19104,Basic Energy Sciences,Male,University,Ivy League
-Sean Hartnoll,Stanford University,94305,Basic Energy Sciences,Male,University,Private
-Daniel Hayes,Oak Ridge National Laboratory,37831,High Energy Physics,Male,National Lab,
-Anne Jones,Arizona State University,85287,Basic Energy Sciences,Female,University,Other
-Rohit Karnik,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Unknown,University,Private
-Daniel Kasen,"University of California, Berkeley",94720,Nuclear Physics,Male,University,State/Public
-Andreas Kemp,Lawrence Livermore National Laboratory,94550,Nuclear Physics,Male,National Lab,
-Svetlana Kilina,North Dakota State University,58108,Basic Energy Sciences,Female,University,Other
-Matthias Kling,Kansas State University,66506,Basic Energy Sciences,Male,University,Other
-Lu Li,University of Michigan,48109,Basic Energy Sciences,Unknown,University,State/Public
-Rachel Mandelbaum,Carnegie Mellon University,15213,High Energy Physics,Female,University,Other
-Jaime Marian,Lawrence Livermore National Laboratory,94550,Fusion Energy Sciences,Male,National Lab,
-James McKinlay,Indiana University,47405,Fusion Energy Sciences,Male,University,Other
-Nikhil Padmanabhan,Yale University,06520,High Energy Physics,Male,University,Ivy League
-Steven Pain,Oak Ridge National Laboratory,37831,High Energy Physics,Male,National Lab,
-Felix Parra Diaz,Massachusetts Institute of Technology,02139,Nuclear Physics,Male,University,Private
-Samuel Payne,Pacific Northwest National Laboratory,99352,Fusion Energy Sciences,Male,National Lab,
-Jennifer Reed,University of Wisconsin,53706,Biological and Environmental Research,Female,University,Other
-Paul Romatschke,University of Colorado,80309,Biological and Environmental Research,Male,University,Other
-Volker Rose,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Ozgur Sahin,Columbia University,10027,Basic Energy Sciences,Unknown,University,Ivy League
-Tina Salguero,University of Georgia,30602,Basic Energy Sciences,Female,University,Other
-Leonardo Senatore,Stanford University,94305,Basic Energy Sciences,Male,University,Private
-Tengming Shen,Fermi National Accelerator Laboratory,60510,High Energy Physics,Unknown,National Lab,
-Pavel Snopok,Illinois Institute of Technology,60616,High Energy Physics,Male,Unknown,
-Santiago Solares,University of Maryland,20742,Basic Energy Sciences,Male,University,Other
-Garrett Suen,University of Wisconsin,53715,Biological and Environmental Research,Male,University,Other
-Mitra Taheri,Drexel University,19104,Biological and Environmental Research,Female,University,Other
-Ivan Vitev,Los Alamos National Laboratory,87545,Nuclear Physics,Male,National Lab,
-Haim Waisman,Columbia University,10027,Advanced Scientific Computing Research,Male,University,Ivy League
-Lisa Whitehead,University of Houston,77204,High Energy Physics,Female,University,Other
-Richard Wilson,Argonne National Laboratory,60439,High Energy Physics,Male,National Lab,
-Kevin Wilson,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Weida Wu,Rutgers University,08854,Basic Energy Sciences,Unknown,University,Other
-Dao Xiang,University of Washington,98195,Basic Energy Sciences,Female,University,State/Public
-Xiaodong Xu,University of Washington,98195,Basic Energy Sciences,Unknown,University,State/Public
-Ming Ye,Florida State University,32306,Biological and Environmental Research,Unknown,University,Other
-Jamey Young,Vanderbilt University,37235,Biological and Environmental Research,Male,University,Other
-Victor Zavala,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Male,National Lab,
-Junjie Zhu,University of Michigan,48109,High Energy Physics,Unknown,University,State/Public
-Joshua Zide,University of Delaware,19716,Basic Energy Sciences,Male,University,Other
-Thomas Bligaard,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Male,National Lab,
-Adam S. Bolton,University of Utah,84112,High Energy Physics,Male,University,Other
-Cheng Cen,West Virginia University,26506,Basic Energy Sciences,Unknown,University,Other
-Clarence L. Chang,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Clifford W. Cheung,California Institute of Technology,91125,High Energy Physics,Male,University,Private
-Sigrid Close,Stanford University,94305,Fusion Energy Sciences,Female,University,Private
-Heather D. Coleman,Syracuse University,13244,Fusion Energy Sciences,Female,University,Other
-Valentino R. Cooper,Oak Ridge National Laboratory,37831,Biological & Environmental Research,Male,National Lab,
-Frank E. Curtis,Lehigh University,18015,Advanced Scientific Computing Research,Male,University,Other
-Richard Dawes,Missouri University of Science and Technology,65409,Basic Energy Sciences,Male,University,Other
-William Detmold,Massachusetts Institute of Technology,02139,Nuclear Physics,Male,University,Private
-Jason A. Detwiler,University of Washington,98195,Nuclear Physics,Male,University,State/Public
-Ahmed Diallo,Princeton Plasma Physics Laboratory,08543,Nuclear Physics,Male,National Lab,
-Daniel B. Dougherty,North Carolina State University,27695,Basic Energy Sciences,Male,University,Other
-Krzysztof J. Fidkowski,University of Michigan,48109,Advanced Scientific Computing Research,Male,University,State/Public
-Felix R. Fischer,"University of California, Berkeley",94704,Basic Energy Sciences,Male,University,State/Public
-Liang Fu,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Unknown,University,Private
-Etienne Garand,University of Wisconsin‐Madision,53715,Basic Energy Sciences,Male,University,Other
-Emanuel Gull,University of Michigan,48109,Basic Energy Sciences,Male,University,State/Public
-Ruilan Guo,University of Notre Dame,46556,Basic Energy Sciences,Unknown,University,Other
-Gaute Hagen,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Male,National Lab,
-Daniel J. Haxton,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Jason P. Hayward,The University of Tennessee,37996,Basic Energy Sciences,Male,University,Other
-Alexander Hexemer,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Stefan Hoeche,SLAC National Accelerator Laboratory,94205,Basic Energy Sciences,Male,National Lab,
-Andrew G. Ivanov,Kansas State University,66506,High Energy Physics,Male,University,Other
-Marian Jandel,Los Alamos National Laboratory,87545,Nuclear Physics,Male,National Lab,
-Matthew C. Jewell,University of Wisconsin‐Eau Claire,54702,Nuclear Physics,Male,University,Other
-Sriram Krishnamoorthy,Pacific Northwest National Laboratory,99352,Advanced Scientific Computing Research,Unknown,National Lab,
-Milind Kulkarni,Purdue University,47906,Advanced Scientific Computing Research,Unknown,University,Other
-Keji Lai,University of Texas at Austin,78712,Basic Energy Sciences,Unknown,University,State/Public
-Dominique Loque,University of Hawaii,96822,Basic Energy Sciences,Unknown,University,Other
-Jelena Maricic,University of Hawaii,96822,Biological & Environmental Research,Female,University,Other
-Benjamin J. McMorran,University of Oregon,97403,Basic Energy Sciences,Male,University,Other
-William E. Mustain,University of Connecticut,06269,Basic Energy Sciences,Male,University,Other
-Rebecca B. Neumann,University of Washington,98195,Basic Energy Sciences,Female,University,State/Public
-Michelle A. O'Malley,"University of California, Santa Barbara",93106,Biological & Environmental Research,Female,University,Other
-Gabriel D. Orebi Gann,"University of California, Berkeley",94704,Biological & Environmental Research,Male,University,State/Public
-Toyoko Jennifer Orimoto,Northeastern University,02115,High Energy Physics,Female,University,Other
-Johnpierre Paglione,University of Maryland,20742,Basic Energy Sciences,Unknown,University,Other
-George Shu Heng Pau,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Brian F. Pfleger,University of Wisconsin‐Madision,53715,Biological & Environmental Research,Male,University,Other
-Yuan Ping,Lawrence Livermore National Laboratory,94550,Fusion Energy Sciences,Unknown,National Lab,
-Brian A. Powell,Clemson University,29634,Fusion Energy Sciences,Male,University,Other
-Danilo C. Pozzo,University of Washington,98195,Basic Energy Sciences,Male,University,State/Public
-Ashwin Ramasubramaniam,"University of Massachusetts, Amherst",01003,Basic Energy Sciences,Unknown,University,Other
-Lijuan Ruan,Brookhaven National Laboratory,11973,Basic Energy Sciences,Unknown,National Lab,
-Matthias R. Schindler,University of South Carolina,29208,Nuclear Physics,Male,University,Other
-Jonathan Simon,University of Chicago,60637,Basic Energy Sciences,Male,University,Private
-Sara E. Skrabalak,Indiana University,47405,Basic Energy Sciences,Female,University,Other
-Ivan I. Smalyukh,University of Colorado,80309,Basic Energy Sciences,Male,University,Other
-Xiaowei Teng,University of New Hampshire,03824,Basic Energy Sciences,Unknown,University,Other
-Megan C. Thielges,Indiana University,47405,Basic Energy Sciences,Female,University,Other
-William A. Tisdale,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Andrew J. Tolley,Case Western Reserve University,44106,High Energy Physics,Male,University,Other
-Nathan M. Urban,Los Alamos National Laboratory,87545,High Energy Physics,Male,National Lab,
-Katherine A. Willets,University of Texas at Austin,78712,Basic Energy Sciences,Female,University,State/Public
-Michael Williams,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Juhao Wu,SLAC National Accelerator Laboratory,94025,Nuclear Physics,Unknown,National Lab,
-Setthivoine You,University of Washington,98195,Basic Energy Sciences,Unknown,University,State/Public
-Dominika Zgid,University of Michigan,48109,Basic Energy Sciences,Female,University,State/Public
-Rebecca J. Abergel,Lawrence Berkeley National Laboratory,94720,,Female,National Lab,
-Geoffrey S.D. Beach,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Jenifer C. Braley,Colorado School of Mines,80401,Basic Energy Sciences,Female,Unknown,
-Antoine J. Cerfon,New York University,10012,Basic Energy Sciences,Male,University,Private
-Emil M. Constantinescu,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Male,National Lab,
-Carl Eric Dahl,Northwestern University,60208,Advanced Scientific Computing Research,Male,University,Private
-Mark P.M. Dean,Brookhaven National Laboratory,11973,Basic Energy Sciences,Male,National Lab,
-Olivier A. Delaire,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Male,National Lab,
-Rafael M. Fernandes,University of Minnesota,55455,Basic Energy Sciences,Male,University,State/Public
-Daniele Filippetto,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Gregory D. Fuchs,Cornell University,14835,Basic Energy Sciences,Male,University,Ivy League
-Todd Gamblin,Lawrence Livermore National Laboratory,94550,Advanced Scientific Computing Research,Male,National Lab,
-Shambhu Ghimire,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Unknown,National Lab,
-Lars C. Grabow,University of Houston,77204,Basic Energy Sciences,Male,University,Other
-Peter W. Graham,Stanford University,94305,Basic Energy Sciences,Male,University,Private
-Anna Grassellino,Fermi National Accelerator Laboratory,60510,High Energy Physics,Female,National Lab,
-Brian A. Grierson,Princeton Plasma Physics Laboratory,08543,High Energy Physics,Male,National Lab,
-Stephanie B. Hansen,"Sandia National Laboratories, New Mexico",87123,Fusion Energy Sciences,Female,National Lab,
-James Hirschauer,Fermi National Accelerator Laboratory,60510,Fusion Energy Sciences,Male,National Lab,
-Nadine Kabengi,Georgia State University,30302,Advanced Scientific Computing Research,Female,University,Other
-Lisa J. Kaufman,Indiana University,47408,Basic Energy Sciences,Female,University,Other
-Wei Li,William Marsh Rice University,77005,Nuclear Physics,Unknown,University,Private
-Stephanie A. Majewski,University of Oregon,97403,High Energy Physics,Female,University,Other
-Ni Ni,"University of California, Los Angeles",90095,High Energy Physics,Unknown,University,State/Public
-Trent R. Northen,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Shyue Ping Ong,"University of California, San Diego",92093,Basic Energy Sciences,Unknown,University,State/Public
-Mike S. Pritchard,"University of California, Irvine",92697,Biological & Environmental Research,Male,University,Other
-Xin Qian,Brookhaven National Laboratory,11973,High Energy Physics,Unknown,National Lab,
-Joel C. Rowland,Los Alamos National Laboratory,87545,High Energy Physics,Male,National Lab,
-Florin Rusu,"University of California, Merced",95343,Advanced Scientific Computing Research,Male,University,Other
-Bjoern P. Schenke,Brookhaven National Laboratory,11973,Advanced Scientific Computing Research,Unknown,National Lab,
-Guglielmo Scovazzi,Duke University,27708,Advanced Scientific Computing Research,Male,University,Private
-Nathaniel P. Stern,Northwestern University,60208,Basic Energy Sciences,Male,University,Private
-Jenny Y. Yang,"University of California, Irvine",92697,Basic Energy Sciences,Female,University,Other
-James G. Analytis,"University of California, Berkeley",94720,Basic Energy Sciences,Male,University,State/Public
-Lawrence R. Baker,Ohio State University,43210,Basic Energy Sciences,Male,University,State/Public
-Phillip S. Barbeau,Duke University,27705,Basic Energy Sciences,Male,University,Private
-Ilenia Battiato,San Diego State University,92182,High Energy Physics,Female,University,Other
-Nathaniel J. Craig,"University of California, Santa Barbara",93106,Basic Energy Sciences,Male,University,Other
-Catherine M. Deibel,Louisiana State University,70803,High Energy Physics,Female,University,Other
-Christian Engelmann,Oak Ridge National Laboratory,37831,Fusion Energy Sciences,Male,National Lab,
-Eranda Nikolla,Wayne State University,48202,Advanced Scientific Computing Research,Female,University,Other
-Tori Z. Forbes,University of Iowa,52242,Basic Energy Sciences,Female,University,Other
-Jeffrey G. Gardner,University of Maryland Baltimore County,21250,Basic Energy Sciences,Male,University,Other
-Pierre Gentine,Columbia University,10027,Biological and Environmental Research,Male,University,Ivy League
-Krzysztof Gofryk,Idaho National Laboratory,83415,Basic Energy Sciences,Male,National Lab,
-Erik M. Grumstrup,Montana State University,59717,Basic Energy Sciences,Male,University,Other
-Thomas Hartman,Cornell University,14853,High Energy Physics,Male,University,Ivy League
-Cory D. Hauck,Oak Ridge National Laboratory,37831,High Energy Physics,Male,National Lab,
-David J. Heldebrant,Pacific Northwest National Laboratory,99354,Advanced Scientific Computing Research,Male,National Lab,
-Matthew E. Helgeson,"University of California, Santa Barbara",93106,Basic Energy Sciences,Male,University,Other
-Henry C. Hoffmann,University of Chicago,60637,Advanced Scientific Computing Research,Male,University,Private
-Anubhav Jain,Lawrence Berkeley National Laboratory,94720,Advanced Scientific Computing Research,Unknown,National Lab,
-Rebekka S. Klausen,Johns Hopkins University,21218,Basic Energy Sciences,Female,University,Private
-Christopher J. Kliewer,Sandia National Laboratories,94550,Basic Energy Sciences,Male,National Lab,
-Alexey Kovalev,University of Nebraska,68588,Basic Energy Sciences,Male,University,Other
-Kyle M. Lancaster,Cornell University,14853,Basic Energy Sciences,Female,University,Ivy League
-Christopher Lee,Los Alamos National Laboratory,87544,Basic Energy Sciences,Male,National Lab,
-Dongsheng Li,Pacific Northwest National Laboratory,99354,Nuclear Physics,Unknown,National Lab,
-Kin Fai Mak,Pennsylvania State University,16802,Basic Energy Sciences,Unknown,University,Other
-Lorenzo Mangolini,"University of California, Riverside",92521,Basic Energy Sciences,Male,University,Other
-Jeetain Mittal,Lehigh University,18015,Fusion Energy Sciences,Unknown,University,Other
-Katharine Page,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Female,National Lab,
-Chad M. Parish,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Male,National Lab,
-Andrew Puckett,University of Connecticut,06269,Fusion Energy Sciences,Male,University,Other
-Jonathan D. Raff,Indiana University,47401,Nuclear Physics,Male,University,Other
-Timothy J. Rupert,"University of California, Irvine",92697,Basic Energy Sciences,Male,University,Other
-Anne Sakdinawat,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Female,National Lab,
-Elizabeth S. Sattely,Stanford University,94304,Basic Energy Sciences,Female,University,Private
-Jordan R. Schmidt,University of Wisconsin‐Madison,53715,Basic Energy Sciences,Male,University,Other
-Oliver Schmitz,University of Wisconsin‐Madison,53715,Basic Energy Sciences,Male,University,Other
-Daniel P. Shoemaker,University of Illinois,61820,Basic Energy Sciences,Male,University,Other
-Tracy R. Slatyer,Massachusetts Institute of Technology,02139,High Energy Physics,Female,University,Private
-Patricia Solvignon,University of New Hampshire,03824,Nuclear Physics,Female,University,Other
-Yogesh Surendranath,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Jing Tao,Brookhaven National Laboratory,11973,Basic Energy Sciences,Unknown,National Lab,
-Daniela M. Ushizima,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Brent A. VanDevender,Pacific Northwest National Laboratory,99354,Advanced Scientific Computing Research,Male,National Lab,
-Justin R. Walensky,University of Missouri,65211,Basic Energy Sciences,Male,University,Other
-Jonathan Weare,University of Chicago,60637,Advanced Scientific Computing Research,Male,University,Private
-Peter Winter,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Male,National Lab,
-Yunyan Zhang,Lawrence Livermore National Laboratory,94550,High Energy Physics,Unknown,National Lab,
-Thomas K. Allison,Stony Brook University,11794,Basic Energy Sciences,Male,University,Other
-Jessica M. Anna,University of Pennsylvania,19104,Basic Energy Sciences,Female,University,Ivy League
-Scott D. Baalrud,University of Iowa,52242,Fusion Energy Sciences,Male,University,Other
-Peter J. Bruggeman,University of Minnesota,55455,Fusion Energy Sciences,Male,University,State/Public
-Alvin Cheung,University of Washington,98195,Advanced Scientific Computing Research,Male,University,State/Public
-Jim Ciston,Lawrence Berkeley National Laboratory,94720,Advanced Scientific Computing Research,Male,National Lab,
-Sean M. Couch,Michigan State University,48824,Basic Energy Sciences,Male,University,Other
-Daniela F. Cusack,"University of California, Los Angeles",90095,Nuclear Physics,Female,University,State/Public
-Yingge Du,Pacific Northwest National Laboratory,99352,Biological and Environmental Research,Unknown,National Lab,
-Jonathan W. Engle,Los Alamos National Laboratory,87544,Basic Energy Sciences,Male,National Lab,
-Grigory V. Eremeev,Thomas Jefferson National Accelerator Facility,23606,Nuclear Physics,Male,National Lab,
-Francesco A. Evangelista,Emory University,30322,Basic Energy Sciences,Male,University,Private
-Rebecca Flint,Iowa State University,50011,Basic Energy Sciences,Female,University,Other
-Alison R. Fout,University of Illinois,61820,Basic Energy Sciences,Female,University,Other
-Jacklyn M. Gates,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Kristian A. Hahn,Northwestern University,60201,Nuclear Physics,Male,University,Private
-Kirsten S. Hofmockel,Pacific Northwest National Laboratory,99352,High Energy Physics,Female,National Lab,
-Xia Hong,University of Nebraska,68588,Basic Energy Sciences,Unknown,University,Other
-Travis S. Humble,Oak Ridge National Laboratory,37831,High Energy Physics,Male,National Lab,
-Yier Jin,University of Central Florida,32826,Advanced Scientific Computing Research,Unknown,University,Other
-Robert D. Kolasinski,Sandia National Laboratories,94551,Advanced Scientific Computing Research,Male,National Lab,
-Egemen Kolemen,Princeton University,08544,Fusion Energy Sciences,Male,University,Ivy League
-Jessica A. Krogstad,University of Illinois,61820,Basic Energy Sciences,Female,University,Other
-Amber T. Krummel,Colorado State University,80523,Basic Energy Sciences,Female,University,Other
-Christoph Lehner,Brookhaven National Laboratory,11973,Basic Energy Sciences,Male,National Lab,
-Melanie A. Mayes,Oak Ridge National Laboratory,37831,High Energy Physics,Female,National Lab,
-Karis J. McFarlane,Lawrence Livermore National Laboratory,94551,Biological and Environmental Research,Female,National Lab,
-Chad Mitchell,Lawrence Berkeley National Laboratory,94720,High Energy Physics,Male,National Lab,
-James J. Moran,Pacific Northwest National Laboratory,99352,High Energy Physics,Male,National Lab,
-Wellington Muchero,Oak Ridge National Laboratory,37831,Biological and Environmental Research,Unknown,National Lab,
-Michael L. Neidig,University of Rochester,14627,Biological and Environmental Research,Male,University,Other
-Jamie R. Neilson,Colorado State University,80523,Basic Energy Sciences,Female,University,Other
-Katja C. Nowack,Cornell University,14850,Basic Energy Sciences,Female,University,Ivy League
-Kabir G. Peay,Stanford University,94304,Basic Energy Sciences,Male,University,Private
-Sam Posen,Fermi National Accelerator Laboratory,60510,Biological and Environmental Research,Male,National Lab,
-Jennifer L. Raaf,Fermi National Accelerator Laboratory,60510,High Energy Physics,Female,National Lab,
-Devesh Ranjan,Georgia Institute of Technology,30332,Fusion Energy Sciences,Male,Unknown,
-Matthew Redshaw,Central Michigan University,48859,Fusion Energy Sciences,Male,University,Other
-Eduardo Rozo,University of Arizona,85721,High Energy Physics,Male,University,Other
-Rebecca Schulman,The Johns Hopkins University,21218,High Energy Physics,Female,University,Private
-Ian D. Sharp,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-John B. Shaw,University of Arkansas,72701,Basic Energy Sciences,Male,University,Other
-Adele C. Tamboli,National Renewable Energy Laboratory,80401,Basic Energy Sciences,Female,National Lab,
-Jeroen van Tilborg,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Clayton G. Webster,Oak Ridge National Laboratory,37831,Advanced Scientific Computing Research,Male,National Lab,
-Haidan Wen,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Unknown,National Lab,
-Christopher Wrede,Michigan State University,48824,Nuclear Physics,Male,University,Other
-Zeeshan Ahmed,SLAC National Accelerator Laboratory,94025,,Male,National Lab,
-Jared M. Allred,The University of Alabama,35487,High Energy Physics,Male,University,Other
-Nicholas J. Bouskill,Lawrence Berkeley National Laboratory (LBNL),94720,Biological and Environmental Research,Male,National Lab,
-Kelly A. Chipps,Oak Ridge National Laboratory (ORNL),37831,Biological and Environmental Research,Female,National Lab,
-Brian A. Collins,Washington State University,99164,Nuclear Physics,Male,University,Other
-Steven C. DeCaluwe,Colorado School of Mines,80401,Basic Energy Sciences,Male,Unknown,
-Naresh Devineni,The City College of New York,10031,Basic Energy Sciences,Male,University,Other
-Matthew R. Dietrich,Argonne National Laboratory (ANL),60439,Biological and Environmental Research,Male,National Lab,
-Qiang Du,Lawrence Berkeley National Laboratory (LBNL),94720,High Energy Physics,Unknown,National Lab,
-Jiwen Fan,Pacific Northwest National Laboratory (PNNL),99352,High Energy Physics,Unknown,National Lab,
-Frederico Fiuza,SLAC National Accelerator Laboratory,94025,Fusion Energy Sciences,Male,National Lab,
-David J. Flannigan,University of Minnesota,55455,Basic Energy Sciences,Male,University,State/Public
-Renee R. Frontiera,University of Minnesota,55455,Basic Energy Sciences,Female,University,State/Public
-Kenneth R. Graham,University of Kentucky,40526,Basic Energy Sciences,Male,University,Other
-David L. Green,Oak Ridge National Laboratory (ORNL),37831,Basic Energy Sciences,Male,National Lab,
-Heiko Hergert,Michigan State University,48824,Nuclear Physics,Male,University,Other
-Alexander I. Himmel,Fermi National Accelerator Laboratory (FNAL),60510,High Energy Physics,Male,National Lab,
-Amy E. Hixon,University of Notre Dame,46556,Basic Energy Sciences,Female,University,Other
-Benjamin Hooberman,University of Illinois,61820,High Energy Physics,Male,University,Other
-Benjamin M. Hunt,Carnegie Mellon University,15213,High Energy Physics,Male,University,Other
-Josh Kacher,Georgia Institute of Technology,30332,Basic Energy Sciences,Male,Unknown,
-Mariam Kiran,Lawrence Berkeley National Laboratory (LBNL),94720,Advanced Scientific Computing Research,Female,National Lab,
-Charles D. Koven,Lawrence Berkeley National Laboratory (LBNL),94720,Advanced Scientific Computing Research,Male,National Lab,
-Stephanie Law,University Of Delaware,19716,Biological and Environmental Research,Female,University,Other
-Lin Lin,"University of California, Berkeley",94704,Advanced Scientific Computing Research,Female,University,State/Public
-Brian K. Long,The University of Tennessee,37996,Advanced Scientific Computing Research,Male,University,Other
-Richard L. Longland,North Carolina State University,27695,Basic Energy Sciences,Male,University,Other
-Kenneth Lopata,Louisiana State University and A&M College,70803,Basic Energy Sciences,Male,University,Other
-Marilena LoVerde,SUNY Stony Brook University,11794,High Energy Physics,Female,University,Other
-Steven O. Mansoorabadi,Auburn University,36849,High Energy Physics,Male,University,Other
-Julia M. Mikhailova,Princeton University,08544,Fusion Energy Sciences,Female,University,Ivy League
-Emilio A. Nanni,SLAC National Accelerator Laboratory,94025,High Energy Physics,Male,National Lab,
-Eric W. Neuscamman,"University of California, Berkeley",94704,Basic Energy Sciences,Male,University,State/Public
-James Ostrowski,The University of Tennessee,37996,Advanced Scientific Computing Research,Male,University,Other
-Dennis V. Perepelitsa,University of Colorado,80303,Advanced Scientific Computing Research,Male,University,Other
-Tom Peterka,Argonne National Laboratory (ANL),60439,Advanced Scientific Computing Research,Male,National Lab,
-Neeraj Rai,Mississippi State University,39762,Basic Energy Sciences,Male,University,Other
-Ted C. Rogers,Old Dominion University,23508,Basic Energy Sciences,Male,University,Other
-Tiark Rompf,Purdue University,47907,Advanced Scientific Computing Research,Unknown,University,Other
-Michael D. Schneider,Lawrence Livermore National Laboratory (LLNL),94551,High Energy Physics,Male,National Lab,
-Adam B. Sefkow,University of Rochester,14627,High Energy Physics,Male,University,Other
-Sanjaya D. Senanayake,Brookhaven National Laboratory (BNL),11973,Fusion Energy Sciences,Unknown,National Lab,
-Hannah S. Shafaat,The Ohio State University,43210,Basic Energy Sciences,Female,University,State/Public
-Sahar Sharifzadeh,Boston University,02215,Basic Energy Sciences,Female,University,Other
-Jessie F. Shelton,University of Illinois,61820,Basic Energy Sciences,Female,University,Other
-Siqian Shen,University of Michigan,48109,Advanced Scientific Computing Research,Unknown,University,State/Public
-Justin Stevens,The College of William and Mary,23187,Nuclear Physics,Male,University,Other
-Jin Suntivich,Cornell University,14850,Nuclear Physics,Female,University,Ivy League
-Jason R. Trelewicz,SUNY Stony Brook University,11794,Fusion Energy Sciences,Male,University,Other
-Juan P. Trelles,University of Massachusetts Lowell,01854,Fusion Energy Sciences,Male,University,Other
-Alessandro Tricoli,Brookhaven National Laboratory (BNL),11973,High Energy Physics,Male,National Lab,
-Anja von der Linden,SUNY Stony Brook University,11794,High Energy Physics,Female,University,Other
-Thomas Z. Ward,Oak Ridge National Laboratory (ORNL),37831,High Energy Physics,Male,National Lab,
-David J. Weston,Oak Ridge National Laboratory (ORNL),37831,Biological and Environmental Research,Male,National Lab,
-Timothy M. Wildey,"Sandia National Laboratories, New Mexico (SNL‐NM)",87185,Advanced Scientific Computing Research,Male,National Lab,
-Kelly C. Wrighton,The Ohio State University,43210,Advanced Scientific Computing Research,Female,University,State/Public
-Chao Zhang,Brookhaven National Laboratory,11973,Biological and Environmental Research,Unknown,National Lab,
-Jeramy D. Zimmerman,Colorado School of Mines,80401,High Energy Physics,Male,Unknown,
-Assel Aitkaliyeva,University of Florida,32605,,Female,University,State/Public
-Daniel Amador-Noguez,University of Wisconsin-Madison,53706,Basic Energy Sciences,Male,University,State/Public
-Artur Apresyan,Fermi National Accelerator Laboratory (FNAL),60510,High Energy Physics,Male,National Lab,
-Shane Ardo,"University of California, Irvine",92697,High Energy Physics,Male,University,Other
-Prasanna Balaprakash,Argonne National Laboratory (ANL),60439,Advanced Scientific Computing Research,Unknown,National Lab,
-Elizabeth J. Biddinger,The City College of New York,10031,Advanced Scientific Computing Research,Female,University,Other
-Valentina Bisogni,Brookhaven National Laboratory (BNL),11973,Basic Energy Sciences,Female,National Lab,
-James Blakemore,University of Kansas,66045,Basic Energy Sciences,Male,University,Other
-Daniel Bowring,Fermi National Accelerator Laboratory (FNAL),60510,Basic Energy Sciences,Male,National Lab,
-Nanette Boyle,Colorado School of Mines,80401,Biological and Environmental Research,Female,Unknown,
-Raul Briceno,Old Dominion University,23529,Nuclear Physics,Male,University,Other
-Susannah Burrows,Pacific Northwest National Laboratory (PNNL),99352,Nuclear Physics,Female,National Lab,
-Huibo Cao,Oak Ridge National Laboratory (ORNL),37831,Biological and Environmental Research,Unknown,National Lab,
-Ethan J. Crumlin,Lawrence Berkeley National Laboratory (LBNL),94720,Basic Energy Sciences,Male,National Lab,
-Eric C. Cyr,Sandia National Laboratories (SNL-NM),87185,Advanced Scientific Computing Research,Male,National Lab,
-Cesar da Silva,Los Alamos National Laboratory (LANL),87544,Nuclear Physics,Male,National Lab,
-Karen Davies,Lawrence Berkeley National Laboratory (LBNL),94720,Nuclear Physics,Female,National Lab,
-Nathalie de Leon,Princeton University,08544,Basic Energy Sciences,Female,University,Ivy League
-Luiz De Viveiros Souza Filho,Pennsylvania State University,16802,Basic Energy Sciences,Unknown,University,Other
-Jared Delcamp,University of Mississippi,38677,Basic Energy Sciences,Male,University,Other
-David Donovan,The University of Tennessee,37996,Basic Energy Sciences,Male,University,Other
-Benjamin Doughty,Oak Ridge National Laboratory (ORNL),37831,Fusion Energy Sciences,Male,National Lab,
-Daniel A. Dwyer,Lawrence Berkeley National Laboratory (LBNL),94720,High Energy Physics,Male,National Lab,
-Thomas Faulkner,University of Illinois,61801,High Energy Physics,Male,University,Other
-Nathaniel M. Ferraro,Princeton Plasma Physics Laboratory (PPPL),08543,High Energy Physics,Male,National Lab,
-Stefano Gandolfi,Los Alamos National Laboratory (LANL),87545,Fusion Energy Sciences,Male,National Lab,
-Tais Gorkhover,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Unknown,National Lab,
-Alexander Gray,Temple University,19130,Basic Energy Sciences,Male,University,Other
-Kentaro Hara,Texas A&M University,77845,Fusion Energy Sciences,Male,University,Other
-Naruki Hiranuma,West Texas A&M University,79016,Basic Energy Sciences,Unknown,University,Other
-Kolby Jardine,Lawrence Berkeley National Laboratory (LBNL),94720,Biological and Environmental Research,Male,National Lab,
-Zhang Jiang,Argonne National Laboratory (ANL),60439,Basic Energy Sciences,Unknown,National Lab,
-Michael Kagan,SLAC National Accelerator Laboratory,94025,Nuclear Physics,Male,National Lab,
-Liqin Ke,Ames Laboratory,50011,Basic Energy Sciences,Unknown,Unknown,
-Karah E. Knope,Georgetown University,20057,Basic Energy Sciences,Unknown,University,Other
-Samuel Aaron Lazerson,Princeton Plasma Physics Laboratory (PPPL),08543,Basic Energy Sciences,Male,National Lab,
-Alexie Leauthaud-Harnett,"University of California, Santa Cruz",95064,High Energy Physics,Female,University,Other
-Joshua Levine,The University of Arizona,85721,Advanced Scientific Computing Research,Male,University,Other
-Bolin Liao,"University of California, Santa Barbara",93106,Advanced Scientific Computing Research,Unknown,University,Other
-Ryan P. Lively,Georgia Institute of Technology,30332,Basic Energy Sciences,Male,Unknown,
-Tammy Ma,Lawrence Livermore National Laboratory (LLNL),94551,Fusion Energy Sciences,Female,National Lab,
-Themis Mastoridis,California Polytechnic State University,93407,Fusion Energy Sciences,Male,University,Other
-Zach Meisel,Ohio University,45701,Nuclear Physics,Male,University,Other
-Siddharth Misra,The University of Oklahoma,73019,Basic Energy Sciences,Unknown,University,Other
-Karen L. Mulfort,Argonne National Laboratory (ANL),60439,Basic Energy Sciences,Female,National Lab,
-Jacquelyn Noronha-Hostler,Rutgers University,08854,Basic Energy Sciences,Female,University,Other
-Colin Ophus,Lawrence Berkeley National Lab (LBNL),94720,Basic Energy Sciences,Male,Unknown,
-Paris Perdikaris,University of Pennsylvania,19104,Advanced Scientific Computing Research,Male,University,Ivy League
-Nicola Perry,University of Illinois,61801,Advanced Scientific Computing Research,Female,University,Other
-David Powers,Texas A&M University,77843,Basic Energy Sciences,Male,University,Other
-Kerri A. Pratt,University of Michigan,48109,Basic Energy Sciences,Female,University,State/Public
-Benjamin Safdi,University of Michigan,48109,Basic Energy Sciences,Male,University,State/Public
-Omer San,Oklahoma State University,74078,Advanced Scientific Computing Research,Male,University,Other
-Hee-Jong Seo,Ohio University,45701,Advanced Scientific Computing Research,Unknown,University,Other
-Julian Shun,Massachusetts Institute of Technology,02139,Advanced Scientific Computing Research,Male,University,Private
-Meredith N. Silberstein,Cornell University,14853,Advanced Scientific Computing Research,Female,University,Ivy League
-David Simmons-Duffin,California Institute of Technology,91125,High Energy Physics,Male,University,Private
-Jaideep Taggart Singh,Michigan State University,48824,Nuclear Physics,Unknown,University,Other
-Zachary P. Smith,Massachusetts Institute of Technology,02139,Nuclear Physics,Male,University,Private
-Aritoki Suzuki,Lawrence Berkeley National Laboratory (LBNL),94720,High Energy Physics,Unknown,National Lab,
-Ming Tang,Rice University,77005,High Energy Physics,Unknown,University,Private
-Ming Lee Tang,"University of California, Riverside",92521,Basic Energy Sciences,Unknown,University,Other
-Kazuhiro Terao,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Male,National Lab,
-Javier Tiffenberg,Fermi National Accelerator Laboratory (FNAL),60510,High Energy Physics,Male,National Lab,
-Wang-Kong Tse,University of Alabama,35487,Basic Energy Sciences,Unknown,University,Other
-Anne-Marie Valente-Feliciano,Thomas Jefferson National Accelerator Facility,23606,Basic Energy Sciences,Female,National Lab,
-Romain Vasseur,University of Massachusetts Amherst,01035,Nuclear Physics,Male,University,Other
-Anselm Vossen,Duke University,27708,Nuclear Physics,Male,University,Private
-Luisa Whittaker-Brooks,University of Utah,84112,Nuclear Physics,Female,University,Other
-Haixuan Xu,The University of Tennessee,37911,Basic Energy Sciences,Unknown,University,Other
-Xiaoshan Xu,University of Nebraska-Lincoln,68588,Basic Energy Sciences,Unknown,University,Other
-Rachel P. Yohay,Florida State University,32306,Basic Energy Sciences,Female,University,Other
-Guihua Yu,The University of Texas at Austin,78712,High Energy Physics,Unknown,University,State/Public
-Joel Yuen-Zhou,University of California San Diego,92093,Basic Energy Sciences,Male,University,Other
-Philipp Zerbe,"University of California, Davis",95618,Biological and Environmental Research,Male,University,Other
-Alex Zylstra,Los Alamos National Laboratory (LANL),87545,Fusion Energy Sciences,Male,National Lab,
-Robert Ainsworth,Fermi National Accelerator Laboratory,60510,,Male,National Lab,
-Jonathan Asaadi,The University of Texas at Arlington,76019,High Energy Physics,Male,University,Other
-Jason Azoulay,University of Southern Mississippi,39406,High Energy Physics,Male,University,Other
-Bryan Beckingham,Auburn University,36849,Basic Energy Sciences,Male,University,Other
-D. Kwabena Bediako,"University of California, Berkeley",94720,Basic Energy Sciences,Unknown,University,State/Public
-Michael Bishof,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Jennifer Bridwell-Rabb,University of Michigan,48109,Nuclear Physics,Female,University,State/Public
-Maria Chan,Argonne National Laboratory,60439,Basic Energy Sciences,Female,National Lab,
-Manos Chatzopoulos,Louisiana State University,70803,Basic Energy Sciences,Male,University,Other
-Federica Coppari,Lawrence Livermore National Laboratory,94550,Nuclear Physics,Female,National Lab,
-Amy Cordones-Hahn,SLAC National Accelerator Laboratory,94025,Fusion Energy Sciences,Female,National Lab,
-Joseph Cotruvo,Pennsylvania State University,16802,Basic Energy Sciences,Male,University,Other
-Arun Devaraj,Pacific Northwest National Laboratory,99354,Basic Energy Sciences,Male,National Lab,
-Javier Duarte,The Regents of the University of California – UCSD,92093,Basic Energy Sciences,Male,University,Other
-Christine E. Duval,Case Western Reserve University,44106,High Energy Physics,Female,University,Other
-Joanne B. Emerson,"University of California, Davis",95616,Nuclear Physics,Female,University,Other
-Li Fang,University of Central Florida,32816,Biological and Environmental Research,Unknown,University,Other
-Kevin G. Field,2355 Bonisteel Blvd.,48109,Basic Energy Sciences,Male,Unknown,
-Laura Fields,Fermi National Accelerator Laboratory,60510,Fusion Energy Sciences,Female,National Lab,
-Benjamin Frandsen,Brigham Young University,84602,High Energy Physics,Male,University,Other
-Ronald Fernando Garcia Ruiz,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Benedikt Geiger,University of Wisconsin – Madison,53715,Nuclear Physics,Male,University,Other
-Dustin A. Gilbert,University of Tennessee,37996,Fusion Energy Sciences,Male,University,Other
-Ranganathan Gopalakrishnan,The University of Memphis,38152,Basic Energy Sciences,Male,University,Other
-Marco Govoni,Argonne National Laboratory (ANL),60439,Fusion Energy Sciences,Male,National Lab,
-Heather Gray,The Regents of University of California,94710,Basic Energy Sciences,Female,University,Other
-Wendy Gu,Stanford University,94305,Basic Energy Sciences,Female,University,Private
-Matthew Hoffman,Los Alamos National Laboratory,87545,Biological and Environmental Research,Male,National Lab,
-Wanzheng Hu,Boston University,02215,Biological and Environmental Research,Unknown,University,Other
-Paul W. Humrickhouse,Idaho National Laboratory,83402,Basic Energy Sciences,Male,National Lab,
-Jonathan Jarvis,Fermi National Accelerator Laboratory,60510,Fusion Energy Sciences,Male,National Lab,
-Luchang Jin,University of Connecticut,06259,Basic Energy Sciences,Unknown,University,Other
-Siddharth Karkare,Arizona State University,85287,High Energy Physics,Unknown,University,Other
-Trevor F. Keenan,UC Berkeley,94720,Basic Energy Sciences,Male,Unknown,
-Vedika Khemani,Stanford University,94305,Biological and Environmental Research,Unknown,University,Private
-Laura Lammers,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Female,National Lab,
-Kyle G. Leach,Colorado School of Mines,80401,Nuclear Physics,Female,Unknown,
-Hugh Lippincott,Regents of the University of California,93106,Nuclear Physics,Male,University,Other
-Alessandro Lovato,Argonne National Laboratory,60439,High Energy Physics,Male,National Lab,
-Manthiram,Massachusetts Institute of Technology,02139,Nuclear Physics,Unknown,University,Private
-Elijah H. Martin,Oak Ridge National Laboratory,37830,Fusion Energy Sciences,Male,National Lab,
-Jarad A. Mason,Harvard University,02143,Fusion Energy Sciences,Unknown,University,Ivy League
-Phillip Milner,Cornell University,14850,Basic Energy Sciences,Male,University,Ivy League
-Michael Mooney,Colorado State University,80523,Basic Energy Sciences,Male,University,Other
-Gary F. Moore,Arizona State University,85287,Basic Energy Sciences,Male,University,Other
-Bogdan Nicolae,Argonne National Laboratory,60439,Basic Energy Sciences,Male,National Lab,
-Erin E Nuccio,Lawrence Livermore National Laboratory,94550,Advanced Scientific Computing Research,Female,National Lab,
-Brendan O'Shea,SLAC National Accelerator Laboratory,94025,High Energy Physics,Male,National Lab,
-Christina M. Patricola,Iowa State University,50011,High Energy Physics,Female,University,Other
-Bei Wang Phillips,University of Utah,84112,Basic Energy Sciences,Unknown,University,Other
-Kemp Plumb,Brown University,02912,Basic Energy Sciences,Unknown,University,Ivy League
-David Radice,The Pennsylvania State University,16802,Basic Energy Sciences,Male,University,Other
-Simon Roux,Lawrence Berkeley National Laboratory,94720,Biological and Environmental Research,Male,National Lab,
-Justin B. Sambur,Colorado State University,80523,Biological and Environmental Research,Male,University,Other
-Lado Samushia,Kansas State University,66506,High Energy Physics,Male,University,Other
-Bayrammurad Saparov,University of Oklahoma,73019,Basic Energy Sciences,Unknown,University,Other
-Nobuo Sato,Thomas Jefferson National Accelerator Facility,23602,Basic Energy Sciences,Male,National Lab,
-Phiala Shanahan,Massachusetts Institute of Technology,02139,Nuclear Physics,Unknown,University,Private
-James Shepherd,University of Iowa,52242,Nuclear Physics,Male,University,Other
-Louise Skinnari,Northeastern University,02115,Basic Energy Sciences,Female,University,Other
-Douglas Stanford,Board of Trustees of the Leland Stanford Junior University,94305,High Energy Physics,Male,University,Other
-Benjamin N. Sulman,Oak Ridge National Laboratory,37831,High Energy Physics,Male,National Lab,
-Dali Sun,North Carolina State University,27695,Biological and Environmental Research,Female,University,Other
-Wenhao Sun,University of Michigan,48105,Basic Energy Sciences,Unknown,University,State/Public
-Nathaniel Trask,Sandia National Laboratories,87123,Advanced Scientific Computing Research,Male,National Lab,
-Michael A. Troxel,Duke University,27705,High Energy Physics,Male,University,Private
-Wim M. van Rees,Massachusetts Institute of Technology,02139,Advanced Scientific Computing Research,Male,University,Private
-Tuo Wang,Louisiana State University,70803,Advanced Scientific Computing Research,Unknown,University,Other
-Chen Wang,"University of Massachusetts, Amherst",01035,Basic Energy Sciences,Unknown,University,Other
-Stefan M. Wild,"Laboratory for Applied Mathematics, Numerical Software, and Statistics",60439,Advanced Scientific Computing Research,Male,Unknown,
-Huolin Xin,University of California,92697,Advanced Scientific Computing Research,Unknown,University,Other
-Ming Yi,Rice University,77005,Basic Energy Sciences,Unknown,University,Private
-Kevin C. Young,Sandia National Laboratories,94550,Advanced Scientific Computing Research,Male,National Lab,
-Tong Zhou,Lawrence Berkeley National Laboratory,94720,High Energy Physics,Unknown,National Lab,
-Corey Adams,Argonne National Laboratory,60439,,Male,National Lab,
-Ariful Azad,Indiana University,47401,Nuclear Physics,Unknown,University,Other
-Marcel D. Baer,Pacific Northwest National Laboratory,99352,Advanced Scientific Computing Research,Male,National Lab,
-Miles F. Beaux II,Los Alamos National Laboratory,87545,Basic Energy Sciences,Male,National Lab,
-Matthew T. Beidler,Oak Ridge National Laboratory,37830,Basic Energy Sciences,Male,National Lab,
-Lindsey Bleem,Argonne National Laboratory,60439,Fusion Energy Sciences,Female,National Lab,
-Mark D. Boyer II,Princeton Plasma Physics Laboratory,08540,High Energy Physics,Male,National Lab,
-Penghui Cao,"University of California, Irvine",92697,Fusion Energy Sciences,Unknown,University,Other
-Si Chen,Argonne National Laboratory,60439,High Energy Physics,Unknown,National Lab,
-Benjamin J. Cole,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Riccardo Comin,Massachusetts Institute of Technology,02139,Biological and Environmental Research,Male,University,Private
-Melina Avila Coronado,Argonne National Laboratory,60439,Basic Energy Sciences,Female,National Lab,
-Heather Crawford,Lawrence Berkeley National Laboratory,94720,Nuclear Physics,Female,National Lab,
-Melissa A. Cregger,Oak Ridge National Laboratory,37830,Biological and Environmental Research,Female,National Lab,
-Anup K. Das,Drexel University,19104,Biological and Environmental Research,Unknown,University,Other
-Sheng Di,Argonne National Laboratory,60439,Advanced Scientific Computing Research,Unknown,National Lab,
-Gregory Doerk,Brookhaven National Laboratory,11973,Biological and Environmental Research,Male,National Lab,
-J. Matthew Durham,Los Alamos National Laboratory,87545,Nuclear Physics,Unknown,National Lab,
-Manuel Endres,California Institute of Technology,91125,Advanced Scientific Computing Research,Male,University,Private
-Netta Engelhardt,Massachusetts Institute of Technology,02139,High Energy Physics,Female,University,Private
-Mengjia Gaowei,Brookhaven National Laboratory,11973,High Energy Physics,Unknown,National Lab,
-Mona Ghassemi,Virginia Polytechnic Institute and State University,24061,Nuclear Physics,Female,University,Other
-Loren Greenman,Kansas State University,66506,Fusion Energy Sciences,Male,University,Other
-Xiaodan Gu,The University of Southern Mississippi,39402,Basic Energy Sciences,Unknown,University,Other
-Philip Harris,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Male,University,Private
-Kai He,Clemson University,29634,High Energy Physics,Male,University,Other
-Russell J. Hewett,Virginia Polytechnic Institute and State University,24061,Advanced Scientific Computing Research,Male,University,Other
-Edward G. Hohenstein,SLAC National Accelerator Laboratory,94025,Basic Energy Sciences,Male,National Lab,
-Jin Hu,University of Arkansas,72701,Basic Energy Sciences,Female,University,Other
-Shu Hu,Yale University,06510,Basic Energy Sciences,Unknown,University,Ivy League
-Gabriel Isaacman-VanWertz,Virginia Polytechnic Institute and State University,24061,Basic Energy Sciences,Male,University,Other
-Katherine Isaacs,The University of Arizona,85721,Biological and Environmental Research,Female,University,Other
-Andrew Jayich,"University of California, Santa Barbara",93106,Nuclear Physics,Male,University,Other
-Christopher Johnson,Stony Brook University,11794,Nuclear Physics,Male,University,Other
-Jovan Kamcev,University of Michigan,48109,Basic Energy Sciences,Male,University,State/Public
-Drew P. Kouri,Sandia National Laboratories,87185,Basic Energy Sciences,Male,National Lab,
-Roopali Kukreja,University of California Davis,95616,Advanced Scientific Computing Research,Unknown,University,Other
-James Letts,"University of California, Davis",95616,Basic Energy Sciences,Male,University,Other
-Xinle Li,Clark Atlanta University,30314,Basic Energy Sciences,Unknown,University,Other
-Mingda Li,Massachusetts Institute of Technology,02139,Basic Energy Sciences,Unknown,University,Private
-Fankang Li,Oak Ridge National Laboratory,37831,Basic Energy Sciences,Unknown,National Lab,
-Tongyan Lin,"University of California, San Diego",92093,Basic Energy Sciences,Unknown,University,State/Public
-Ben Loer,Pacific Northwest National Laboratory,99354,Nuclear Physics,Male,National Lab,
-Xueying Lu,Northern Illinois University,60115,High Energy Physics,Unknown,University,Other
-Tara Mastren,University of Utah,84112,High Energy Physics,Female,University,Other
-Emma Elizabeth McBride,SLAC National Accelerator Laboratory,94025,Isotope R&D and Production,Female,National Lab,
-Charles C. L. McCrory,University of Michigan,48109,Basic Energy Sciences,Male,University,State/Public
-Julia A. Mundy,Harvard University,02139,Basic Energy Sciences,Female,University,Ivy League
-Guangxin Ni,Florida State University,32306,Basic Energy Sciences,Unknown,University,Other
-Brian Nord,Fermi National Accelerator Laboratory,60510,High Energy Physics,Male,National Lab,
-Simone Pagan Griso,Lawrence Berkeley National Laboratory,94720,High Energy Physics,Female,National Lab,
-Diana Parno,Carnegie Mellon University,15213,High Energy Physics,Female,University,Other
-Maria Piarulli,Washington University in St. Louis,63130,Nuclear Physics,Female,University,Private
-Craig Plaisance,Louisiana State University,70803,Nuclear Physics,Male,University,Other
-Diana Y. Qiu,Yale University,06520,Basic Energy Sciences,Female,University,Ivy League
-Mohammad Javad Abdolhosseini Qomi,University of California Irvine,92697,Basic Energy Sciences,Male,University,Other
-Kiersten Ruisard,Oak Ridge National Laboratory,37830,Biological and Environmental Research,Female,National Lab,
-Robert Saye,Lawrence Berkeley National Laboratory,94720,Advanced Scientific Computing Research,Male,National Lab,
-Srimoyee Sen,Iowa State University,50011,Nuclear Physics,Unknown,University,Other
-Christo S. Sevov,The Ohio State University,43210,Nuclear Physics,Unknown,University,State/Public
-Chun Shen,Wayne State University,48201,Basic Energy Sciences,Unknown,University,Other
-Daisuke Shiraki,Oak Ridge National Laboratory,37831,Nuclear Physics,Male,National Lab,
-Indara Suarez,Boston University,02215,Fusion Energy Sciences,Unknown,University,Other
-Nathan Tallent,Pacific Northwest National Laboratory,99352,Advanced Scientific Computing Research,Male,National Lab,
-Aditya V. Thakur,"University of California, Davis",95616,Advanced Scientific Computing Research,Male,University,Other
-V. Sara Thoi,Johns Hopkins University,21218,Basic Energy Sciences,Unknown,University,Private
-Marcos Turqueti,Lawrence Berkeley National Laboratory,94720,Basic Energy Sciences,Male,National Lab,
-Petros Tzeferacos,University of Rochester,14627,Basic Energy Sciences,Male,University,Other
-Caterina Vernieri,SLAC National Accelerator Laboratory,94025,Fusion Energy Sciences,Female,National Lab,
-Hao-Yi Wu,Boise State University,83725,Basic Energy Sciences,Unknown,University,Other
-Dianne Xiao,University of Washington,98195,Basic Energy Sciences,Female,University,State/Public
-Jie Xu,"University of Texas, El Paso",79968,Basic Energy Sciences,Unknown,University,Other
-Xue Zheng,Lawrence Livermore National Laboratory,94551,Basic Energy Sciences,Unknown,National Lab,
-Qiang Zhu,University of Nevada Las Vegas,89154,Biological and Environmental Research,Unknown,University,Other
+Name,Gender,Institution,Category,Subcategory,Zipcode,Program Area,h-index
+Kavin Ammigan,Unknown,Fermi National Accelerator Laboratory,National Lab,,60510,,N/A
+Alexander Austregesilo,Male,Thomas Jefferson National Accelerator Facility,National Lab,,23606,High Energy Physics,39
+Keith Bechtol,Male,University of Wisconsin-Madison,University,State/Public,53706,High Energy Physics,N/A
+Lauren E. Beckingham,Female,Auburn University,University,Other,36849,Basic Energy Sciences,18
+Timothy Berkelbach,Male,Columbia University,University,Ivy League,10027,Basic Energy Sciences,42
+Peter A. Bosler,Male,Sandia National Laboratories,National Lab,,87125,Basic Energy Sciences,N/A
+Itay Budin,Male,University of California San Diego,University,Other,92093,Advanced Scientific Computing Research,16
+Livia Casali,Female,University of Tennessee-Knoxville,University,Other,37996,Biological and Environmental Research,19
+David Cereceda,Male,Villanova University,University,Other,19085,Fusion Energy Sciences,10
+Katerina Chatziioannou,Female,California Institute of Technology,University,Private,91125,Fusion Energy Sciences,73
+Yang-Ting Chien,Unknown,Georgia State University,University,Other,30303,Nuclear Physics,24
+Christopher J. Dares,Male,Florida International University,University,Other,33199,Nuclear Physics,24
+Emily C. Davidson,Female,Princeton University,University,Ivy League,08540,Basic Energy Sciences,17
+John D. Despotopulos,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Nuclear Physics,N/A
+Johannes Doerfert,Male,Argonne National Laboratory,National Lab,,60439,Nuclear Physics,19
+Chunhui Du,Unknown,"University of California, San Diego",University,State/Public,92093,Advanced Scientific Computing Research,28
+Auralee Edelen,Unknown,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,21
+Sabit Ekin,Male,Oklahoma State University,University,Other,74078,Basic Energy Sciences,15
+Timofey Frolov,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Advanced Scientific Computing Research,26
+Trey E. Gebhart,Male,Oak Ridge National Laboratory,National Lab,,37830,Fusion Energy Sciences,N/A
+Emily B. Graham,Female,Pacific Northwest National Laboratory,National Lab,,99352,Fusion Energy Sciences,32
+Hanqi Guo,Unknown,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,26
+Ryan G. Hadt,Male,California Institute of Technology,University,Private,91125,Advanced Scientific Computing Research,N/A
+K. C. Hammond,Unknown,Princeton Plasma Physics Laboratory,National Lab,,08540,Basic Energy Sciences,16
+Shaun R. Haskey,Male,Princeton Plasma Physics Laboratory,National Lab,,08540,Fusion Energy Sciences,N/A
+Dugan Hayes,Male,University of Rhode Island,University,Other,02881,Fusion Energy Sciences,20
+Andrew Hearin,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,33
+Elizabeth Herndon,Female,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,22
+Tova Holmes,Female,University of Tennessee,University,Other,37996,Biological and Environmental Research,214
+Tanzima Z. Islam,Unknown,Texas State University,University,Other,78666,High Energy Physics,N/A
+Benjamin Jorns,Male,University of Michigan,University,State/Public,48109,Advanced Scientific Computing Research,31
+Piran R. Kidambi,Unknown,Vanderbilt University,University,Other,37212,Fusion Energy Sciences,41
+Jae Chul Kim,Unknown,Stevens Institute of Technology,Unknown,,07030,Isotope R&D and Production,26
+Anders Knospe,Male,Lehigh University,University,Other,18015,Basic Energy Sciences,N/A
+Boopathy Kombaiah,Unknown,Idaho National Laboratory,National Lab,,83415,Nuclear Physics,18
+Noah Kurinsky,Male,SLAC National Laboratory,Unknown,,94025,Basic Energy Sciences,33
+Aeriel D.M. Leonard,Unknown,The Ohio State University,University,State/Public,43210,High Energy Physics,N/A
+Yuzhang Li,Unknown,"University of California, Los Angeles",University,State/Public,90095,Basic Energy Sciences,48
+Chong Liu,Unknown,The University of Chicago,University,Private,60637,Basic Energy Sciences,86
+Lu Lu,Unknown,University of Pennsylvania,University,Ivy League,19104,Basic Energy Sciences,228
+Xiao Luo,Unknown,"University of California, Santa Barbara",University,Other,93106,Advanced Scientific Computing Research,47
+Devin Matthews,Male,Southern Methodist University,University,Other,75275,High Energy Physics,37
+Matteo Mitrano,Male,Harvard University,University,Ivy League,02138,Basic Energy Sciences,23
+Christopher Monahan,Male,William & Mary,Unknown,,23187,Nuclear Physics,18
+Atieh Moridi,Unknown,Cornell University,University,Ivy League,14853,Nuclear Physics,21
+Andrew Mounce,Male,Sandia National Laboratories,National Lab,,87111,Basic Energy Sciences,16
+Benjamin Nachman,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,199
+Aditya G. Nair,Male,"University of Nevada, Reno",University,Other,89557,Advanced Scientific Computing Research,12
+Lisa Olshansky,Female,"University of Illinois, Urbana-Champaign",University,Other,61801,Basic Energy Sciences,9
+Guido Pagano,Male,Rice University,University,Private,77005,Basic Energy Sciences,25
+Chenyun Pan,Unknown,The University of Texas at Arlington,University,Other,76010,Nuclear Physics,15
+Pietro Papa Lopes,Male,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,34
+Natalie Paquette,Female,University of Washington,University,State/Public,98195,Basic Energy Sciences,1
+Geoffrey Penington,Male,"University of California, Berkeley",University,State/Public,94720,High Energy Physics,37
+Denisia Popolan-Vaida,Female,University of Central Florida,University,Other,32816,High Energy Physics,21
+Timothy Proctor,Male,Sandia National Laboratories,National Lab,,94550,Basic Energy Sciences,21
+Matt Pyle,Male,University of California Berkeley,University,Other,94720,High Energy Physics,N/A
+Krupa Ramasesha,Unknown,Sandia National Laboratories,National Lab,,94550,High Energy Physics,18
+Michael Reppert,Male,Purdue University,University,Other,47906,Basic Energy Sciences,21
+Grant M. Rotskoff,Male,Stanford University,University,Private,94305,Basic Energy Sciences,25
+Michael Schulz,Male,Virginia Polytechnic Institute and State University,University,Other,24061,Basic Energy Sciences,93
+Lorenzo Sironi,Male,Columbia University,University,Ivy League,10027,Basic Energy Sciences,51
+Elizabeth Sooby,Female,University of Texas at San Antonio,University,Other,78249,Fusion Energy Sciences,15
+Kelsey A. Stoerzinger,Female,Oregon State University,University,Other,97331,Basic Energy Sciences,44
+Daniel Stolper,Male,"University of California, Berkeley",University,State/Public,94720,Basic Energy Sciences,29
+Brian Summa,Male,Tulane University,University,Other,70118,Basic Energy Sciences,14
+Zhaowen Tang,Unknown,Los Alamos National Laboratory,National Lab,,87544,Advanced Scientific Computing Research,16
+Marlene Turner,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Nuclear Physics,N/A
+Jorge A. Villa,Male,University of Louisiana at Lafayette,University,Other,70504,High Energy Physics,14
+Bess Vlaisavljevich,Female,University of South Dakota,University,Other,57069,Biological and Environmental Research,32
+Yao Wang,Unknown,Clemson University,University,Other,29634,Basic Energy Sciences,83
+Marissa L. Weichman,Female,Princeton University,University,Ivy League,08544,Basic Energy Sciences,N/A
+Antoine Wojdyla,Male,Lawrence Berkeley National,Unknown,,94710,Basic Energy Sciences,12
+Shuolong Yang,Unknown,The University of Chicago,University,Private,60637,Basic Energy Sciences,20
+Mimi C. Yung,Female,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,12
+Michael Zaletel,Male,"University of California, Berkeley",University,State/Public,94720,Biological and Environmental Research,53
+Zhiyang Zhai,Unknown,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,16
+Xiao-Xiao Zhang,Unknown,University of Florida,University,State/Public,32611,Basic Energy Sciences,10
+Guannan Zhang,Unknown,Oak Ridge National Laboratory,National Lab,,37830,Basic Energy Sciences,21
+You Zhou,Unknown,University of Maryland,University,Other,20742,Basic Energy Sciences,147
+Yuanyuan Zhu,Unknown,University of Connecticut,University,Other,06269,Basic Energy Sciences,21
+Aleksandr V. Zhukhovitskiy,Male,University of North Carolina at Chapel Hill,University,State/Public,27599,Basic Energy Sciences,N/A
+Gina C. Adam,Female,The George Washington University,University,Other,20052,,17
+Whitney Armstrong,Male,Argonne National Laboratory,National Lab,,60439,Nuclear Physics,N/A
+Miguel Arratia,Male,"University of California, Riverside",University,Other,92507,Nuclear Physics,18
+Sayan Biswas,Unknown,University of Minnesota,University,State/Public,55455,Nuclear Physics,13
+Steven J Blazewicz,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,27
+David Cesar,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,22
+Matthew B. Chambers,Male,Louisiana State University,University,Other,70803,Basic Energy Sciences,16
+Nathaniel Chaney,Male,Duke University,University,Private,27708,Basic Energy Sciences,25
+Xiaoqian Chen,Unknown,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,24
+Tyler Cocker,Male,Michigan State University,University,Other,48824,Basic Energy Sciences,20
+Stacy M. Copp,Female,"University of California, Irvine",University,Other,92697,Basic Energy Sciences,N/A
+Gavin Cornwell,Male,Pacific Northwest National Laboratory,National Lab,,99354,Basic Energy Sciences,14
+Sneha P. Couvillion,Female,Pacific Northwest National Laboratory,National Lab,,99354,Biological and Environmental Research,17
+Jacob Covey,Male,University of Illinois Urbana-Champaign,University,Other,80101,Biological and Environmental Research,25
+Anil Damle,Male,Cornell University,University,Ivy League,14853,Nuclear Physics,16
+Nelson Dzade,Male,Pennsylvania State University,University,Other,16802,Advanced Scientific Computing Research,36
+Gilberto Fernandes Lopes Fabbris,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,N/A
+Gianluca Geraci,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Fusion Energy Sciences,17
+Julia Gonski,Female,SLAC National Accelerator Laboratory,National Lab,,94025,Advanced Scientific Computing Research,162
+Eduardo Higino da Silva Neto,Male,Yale University,University,Ivy League,06520,High Energy Physics,N/A
+Alisa Javadi,Female,University of Oklahoma,University,Other,73019,High Energy Physics,22
+Dafei Jin,Unknown,University of Notre Dame,University,Other,46556,Basic Energy Sciences,23
+Carlee Joe-Wong,Female,Carnegie Mellon University,University,Other,15213,Basic Energy Sciences,34
+Austin Joyce,Male,University of Chicago,University,Private,60637,Advanced Scientific Computing Research,33
+Alvine Kamaha,Female,"University of California, Los Angeles (UCLA)",University,State/Public,90095,High Energy Physics,18
+Shaina Kelly,Female,Columbia University,University,Ivy League,10027,High Energy Physics,13
+Itamar Kimchi,Male,Georgia Institute of Technology,Unknown,,30332,Nuclear Physics,28
+Lydia Kisley,Female,Case Western Reserve University,University,Other,44106,Basic Energy Sciences,20
+Marek Kolmer,Male,Ames National Laboratory,National Lab,,50011,Basic Energy Sciences,22
+Stephen Lam,Male,University of Massachusetts Lowell,University,Other,01854,Nuclear Physics,16
+Amanda Lietz,Female,North Carolina State University,University,Other,27607,Fusion Energy Sciences,13
+Fang Liu,Unknown,Emory University,University,Private,30322,Fusion Energy Sciences,133
+Shusen Liu,Unknown,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,19
+Whitney Loo,Male,University of Wisconsin-Madison,University,State/Public,53706,Advanced Scientific Computing Research,23
+Matthew Loyd,Male,Oak Ridge National Laboratory,National Lab,,37830,Basic Energy Sciences,34
+Yunqiu Kelly Luo,Unknown,University of Southern California,University,Private,90089,Basic Energy Sciences,12
+David Martinez Caicedo,Male,South Dakota School of Mines and Technology,Unknown,,57701,Basic Energy Sciences,N/A
+Liane M. Moreau,Female,Washington State University,University,Other,99164,Basic Energy Sciences,N/A
+Ian Moult,Male,Yale University,University,Ivy League,06511,Basic Energy Sciences,N/A
+Lukas Muechler,Male,Penn State University,University,Other,16802,High Energy Physics,29
+Andy Nguyen,Male,"Elise Novitski, Assistant Professor",Unknown,,98195,Basic Energy Sciences,18
+Kevin Pedro,Male,Fermi National Accelerator Laboratory,National Lab,,60510,Basic Energy Sciences,36
+Bo Peng,Male,Pacific Northwest National Laboratory,National Lab,,99354,High Energy Physics,29
+Jennifer Louise Pore,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Nuclear Physics,N/A
+Wei Qin,Unknown,University of Oklahoma,University,Other,73019,Basic Energy Sciences,49
+Lina Quan,Female,Virginia Polytechnic Institute and State University,University,Other,24061,Biological and Environmental Research,43
+Dylan Rankin,Male,University of Pennsylvania,University,Ivy League,19104,Basic Energy Sciences,N/A
+Alex J. Rinehart,Male,New Mexico Tech,Unknown,,87801,High Energy Physics,N/A
+Sourabh K. Saha,Unknown,Georgia Institute of Technology,Unknown,,30332,Basic Energy Sciences,N/A
+Thomas Scaffidi,Male,"University of California, Irvine",University,Other,92697,Fusion Energy Sciences,26
+Daniel Schwalbe-Koda,Male,"University of California, Los Angeles",University,State/Public,90095,Basic Energy Sciences,18
+Filippo Scotti,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,26
+S. Eileen Seo,Unknown,Arizona State University,University,Other,85281,Fusion Energy Sciences,13
+Kyle Seyler,Female,The University of Arizona,University,Other,85721,Basic Energy Sciences,25
+Sara Shamekh,Female,New York University,University,Private,10012,Basic Energy Sciences,7
+Yu-Tsun Shao,Unknown,University of Southern California,University,Private,90089,Basic Energy Sciences,24
+Philip Shushkov,Male,Indiana University,University,Other,47405,Basic Energy Sciences,14
+Jennifer Shusterman,Female,Lawrence Livermore National Laboratory,National Lab,,94550,Isotope R&D and Production,11
+Marien Simeni Simeni,Male,University of Minnesota,University,State/Public,55455,Isotope R&D and Production,13
+Craig Snoeyink,Male,University of Buffalo,University,Other,14260,Basic Energy Sciences,9
+Ioannis Spanopoulos,Male,University of South Florida,University,Other,33617,Basic Energy Sciences,45
+Allison H. Squires,Female,The University of Chicago,University,Private,60637,Basic Energy Sciences,14
+Xiao Su,Unknown,University of Illinois at Urbana-Champaign,University,State/Public,61801,Basic Energy Sciences,161
+Carolin M. Sutter-Fella,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,38
+Thi Vo,Female,Johns Hopkins University,University,Private,21218,Basic Energy Sciences,51
+Kyle Wendt,Female,Lawrence Livermore National Laboratory,National Lab,,94550,Nuclear Physics,N/A
+Shawn Westerdale,Male,"University of California, Riverside",University,Other,92521,Nuclear Physics,36
+Lea R. Winter,Female,Yale University,University,Ivy League,06520,High Energy Physics,N/A
+Mitchell A. Wood,Male,Sandia National Laboratories,National Lab,,87123,Basic Energy Sciences,19
+W.L. Kimmy Wu,Unknown,SLAC National Accelerator Laboratory,National Lab,,94025,High Energy Physics,42
+Yang Yang,Unknown,"University of California, Santa Barbra",University,Other,93106,Basic Energy Sciences,297
+Mingwei Zhang,Unknown,"University of California, Davis",University,Other,95616,Basic Energy Sciences,14
+Ben Zhu,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,111
+Cristal Zuniga,Female,San Diego State University,University,Other,92115,,23
+Hussein Aluie,Male,University of Rochester,University,Other,14627,,27
+Luca Argenti,Male,University of Central Florida,University,Other,32826,Fusion Energy Sciences,29
+Veronica Augustyn,Female,North Carolina State University,University,Other,27695,Basic Energy Sciences,33
+Kristin Burnum-Johnson,Female,Pacific Northwest National Laboratory,National Lab,,99352,Nuclear Physics,43
+Viviana Cavaliere,Female,Brookhaven National Laboratory (BNL),National Lab,,11973,Biological and Environmental Research,N/A
+Lan Cheng,Unknown,Johns Hopkins University,University,Private,21218,High Energy Physics,95
+Miaofang Chi,Unknown,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Basic Energy Sciences,96
+Robert Coridan,Male,University of Arkansas,University,Other,72701,Nuclear Physics,18
+Scott Cushing,Male,California Institute of Technology,University,Private,91125,Basic Energy Sciences,38
+Shudipto Konika Dishari,Unknown,University of Nebraska-Lincoln,University,Other,68583,Nuclear Physics,12
+Thomas Dumitrescu,Male,"University of California, Los Angeles",University,State/Public,90095,High Energy Physics,24
+Cora Dvorkin,Female,Harvard University,University,Ivy League,02138,High Energy Physics,54
+Tim Eifler,Male,University of Arizona,University,Other,85721,High Energy Physics,89
+David Flaherty,Male,University of Illinois,University,Other,61820,High Energy Physics,43
+Greeshma Gadikota,Unknown,Cornell University*,University,Ivy League,14850,Nuclear Physics,25
+Diana Gamzina,Female,SLAC National Accelerator Laboratory,National Lab,,94025,High Energy Physics,22
+Arianna Gleason,Female,SLAC National Accelerator Laboratory,National Lab,,94025,Fusion Energy Sciences,28
+Sowjanya Gollapinni,Unknown,University of Tennessee,University,Other,37996,Fusion Energy Sciences,N/A
+Karl D. Hammond,Male,University of Missouri,University,Other,65211,High Energy Physics,27
+Scott Hertel,Male,"University of Massachusetts, Amherst",University,Other,01003,Nuclear Physics,52
+Jier Huang,Unknown,Marquette University,University,Other,53201,Basic Energy Sciences,41
+Stratos Idreos,Male,Harvard University,University,Ivy League,02138,Basic Energy Sciences,43
+Laura Jeanty,Female,University of Oregon,University,Other,97403,Advanced Scientific Computing Research,N/A
+M. Benjamin Jungfleisch,Unknown,University of Delaware,University,Other,19716,High Energy Physics,37
+Jyoti Katoch,Female,Carnegie Mellon University,University,Other,15213,Basic Energy Sciences,20
+Kibaek Kim,Unknown,Argonne National Laboratory (ANL),National Lab,,60439,Advanced Scientific Computing Research,15
+Elisabeth Krause,Female,University of Arizona,University,Other,85721,High Energy Physics,82
+Isaac J. Larsen,Male,University of Massachusetts – Amherst,University,Other,01003,High Energy Physics,N/A
+David T. Limmer,Male,"University of California, Berkeley",University,State/Public,97410,Basic Energy Sciences,39
+Lucas Lindsay,Male,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Basic Energy Sciences,50
+Cara Lubner,Female,National Renewable Energy Laboratory (NREL),National Lab,,80401,Basic Energy Sciences,N/A
+Joseph M. Lukens,Male,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Basic Energy Sciences,27
+Pedro Machado,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,High Energy Physics,65
+Vladimir Manucharyan,Male,University of Maryland,University,Other,20742,Advanced Scientific Computing Research,N/A
+Jared Maxson,Male,Cornell University,University,Ivy League,14850,Basic Energy Sciences,29
+Ryan McBride,Male,University of Michigan,University,State/Public,48109,Fusion Energy Sciences,36
+Josh Michener,Male,Oak Ridge National Laboratory,National Lab,,37830,Biological and Environmental Research,18
+Kathryn Mohror,Female,Lawrence Livermore National Laboratory,National Lab,,94551,Advanced Scientific Computing Research,29
+Brad Ramshaw,Male,Cornell University,University,Ivy League,14850,Nuclear Physics,37
+Cindy Rubio Gonzalez,Female,"University of California, Davis",University,Other,95618,Advanced Scientific Computing Research,20
+Ashkan Salamat,Unknown,University of Nevada,University,Other,89154,Basic Energy Sciences,26
+Catherine Schuman,Female,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Advanced Scientific Computing Research,33
+Michael D. Shields,Male,Johns Hopkins University,University,Private,21218,Advanced Scientific Computing Research,30
+Kevin Solomon,Male,Purdue University,University,Other,47907,Advanced Scientific Computing Research,22
+Peter Sorensen,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,High Energy Physics,53
+James Stegen,Male,Pacific Northwest National Laboratory,National Lab,,99352,High Energy Physics,50
+Timothy Stoltzfus-Dueck,Male,Princeton Plasma Physics Laboratory,National Lab,,08543,Biological and Environmental Research,N/A
+Elijah Thimsen,Male,Washington University,University,Other,63130,Fusion Energy Sciences,28
+Jeff Thompson,Male,Princeton University,University,Ivy League,08544,Fusion Energy Sciences,31
+Ian A. Tonks,Male,University of Minnesota,University,State/Public,55455,Basic Energy Sciences,29
+Nhan V. Tran,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,Basic Energy Sciences,10
+Ahmet Uysal,Male,Argonne National Laboratory (ANL),National Lab,,60439,High Energy Physics,22
+Charuleka Varadharajan,Unknown,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,27
+David Vinyard,Male,Louisiana State University and A&M College,University,Other,70803,Biological and Environmental Research,31
+Bin Wang,Unknown,University of Oklahoma,University,Other,73019,Basic Energy Sciences,164
+Yangyang Wang,Unknown,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,37
+Sarah J. Watzman,Female,University of Cincinnati,University,Other,45221,Basic Energy Sciences,N/A
+Janelle P. Wharry,Female,Purdue University,University,Other,47907,Basic Energy Sciences,N/A
+Jingke Xu,Unknown,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,55
+Xingchen Xu,Unknown,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,High Energy Physics,4
+Qimin Yan,Unknown,Temple University,University,Other,19122,High Energy Physics,41
+Andriy Zakutayev,Male,National Renewable Energy Laboratory (NREL),National Lab,,80401,Basic Energy Sciences,59
+Ilija Zeljkovic,Male,Boston College,University,Other,02467,Basic Energy Sciences,29
+Kandis Leslie Gilliard-Abdul Aziz,Unknown,"University of California, Riverside",University,Other,92507,Basic Energy Sciences,N/A
+Philip Adsley,Male,Texas A&M University,University,Other,77840,Nuclear Physics,19
+Chibueze Amanchukwu,Unknown,The University of Chicago,University,Private,60637,Nuclear Physics,20
+Bahar Asgari,Female,"University of Maryland, College Park",University,State/Public,20742,Basic Energy Sciences,14
+Sam Barber,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Advanced Scientific Computing Research,23
+Mathew R. Becker,Male,Argonne National Laboratory,National Lab,,60439,High Energy Physics,N/A
+Julie Bessac,Female,Statistician National Renewable Energy,Unknown,,80401,High Energy Physics,12
+Christian Boutan,Male,Pacific Northwest National Laboratory,National Lab,,99352,Advanced Scientific Computing Research,13
+Mathew Brahlek,Male,Oak Ridge National Laboratory,National Lab,,37830,High Energy Physics,N/A
+James Daniel Brandenburg,Male,Ohio State University,University,State/Public,43210,Basic Energy Sciences,55
+Jennifer Brophy,Female,"Stanford, CA",Unknown,,94305,Nuclear Physics,14
+Elizabeth Brost,Female,Brookhaven National,Unknown,,11973,Biological and Environmental Research,N/A
+Lucas Brouwer,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,High Energy Physics,20
+Steven Brus,Male,Argonne National Laboratory,National Lab,,60439,High Energy Physics,39
+Jonathan D. Burns,Male,University of Alabama at Birmingham,University,Other,35294,Biological and Environmental Research,14
+John F. Cahill,Male,Oak Ridge National Laboratory,National Lab,,37831,Isotope R&D and Production,19
+Yue Cao,Unknown,Argonne National Laboratory,National Lab,,60439,Biological and Environmental Research,51
+Lane Carasik,Male,"University Richmond, Virginia",University,Other,23284,Fusion Energy Sciences,6
+Korey P. Carter,Male,University of Iowa,University,Other,52242,Fusion Energy Sciences,N/A
+Daniel Casey,Male,Lawrence Livermore National Laboratory (LLNL),National Lab,,94550,Basic Energy Sciences,29
+Tirthankar Chakraborty,Unknown,Atmospheric Sciences and Global Change,Unknown,,99354,Fusion Energy Sciences,22
+Fanglin Che,Unknown,University of Massachusetts Lowell,University,Other,01854,Biological and Environmental Research,24
+Martin Claassen,Male,Astronomy University of Pennsylvania,University,Ivy League,19104,Basic Energy Sciences,24
+Kensha Marie Clark,Unknown,University of Mississippi,University,Other,38677,Basic Energy Sciences,N/A
+Laura de Sousa Oliveira,Female,University of Wyoming,University,Other,82071,High Energy Physics,9
+Gauthier J.-P. Deblonde,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Basic Energy Sciences,N/A
+Maria Laura di Vacri,Female,Pacific Northwest National Laboratory,National Lab,,99352,Nuclear Physics,N/A
+Leah G. Dodson,Female,Biochemistry University of Maryland,University,Other,20742,Nuclear Physics,9
+Dong,Unknown,"University of Oklahoma,",University,Other,73019,Basic Energy Sciences,224
+Chuanfei Dong,Unknown,Boston University,University,Other,02215,Basic Energy Sciences,40
+Leora Dresselhaus-Marais,Female,Stanford University,University,Private,94305,Fusion Energy Sciences,12
+Vinicius Duarte,Male,Princeton Plasma Physics Laboratory,National Lab,,08540,Basic Energy Sciences,21
+Guillaume Duclos,Male,Physics Brandeis University,University,Other,02453,Fusion Energy Sciences,16
+Eugene Dumitrescu,Male,Computational Science and Engineering,Unknown,,37831,Basic Energy Sciences,22
+Raghav Kunnawalkam Elayavalli,Unknown,Vanderbilt University,University,Other,37240,Advanced Scientific Computing Research,N/A
+Claudio Emma,Male,Advanced Accelerator Research,Unknown,,94025,Nuclear Physics,19
+Guillermo Fernandez Moroni,Male,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,N/A
+Rich Fiorella,Male,Los Alamos National Laboratory,National Lab,,87544,High Energy Physics,14
+Holly B. Flynn,Female,Savannah River National,Unknown,,29808,Biological and Environmental Research,N/A
+Fereshte Ghahari Kermani,Unknown,George Mason University,University,Other,22030,Fusion Energy Sciences,N/A
+Nikolay Golubev,Male,University of Arizona,University,Other,85721,Basic Energy Sciences,14
+Laura Gunn,Female,"School of Integrative Plant Sciences, Plant Biology",Unknown,,14853,Basic Energy Sciences,21
+Shabnam Hematian,Unknown,University of North Carolina at Greensboro,University,Other,27402,Basic Energy Sciences,10
+Robert Hovden,Male,University of Michigan,University,State/Public,48109,Basic Energy Sciences,45
+Ezio Iacocca,Male,Science University of Colorado Colorado,University,Other,80918,Basic Energy Sciences,28
+Lise-Marie Imbert-Gerard,Unknown,"Arizona Board of Regents, University of Arizona",University,Other,85721,Basic Energy Sciences,11
+Nicholas Jackson,Male,"University of Illinois, Urbana-Champaign",University,Other,61801,Basic Energy Sciences,41
+Jing Li,Unknown,New Jersey Institute of,Unknown,,07102,Basic Energy Sciences,118
+Julia Kalow,Female,Chemistry Northwestern,Unknown,,60201,Basic Energy Sciences,28
+Brendan Keith,Male,Brown University,University,Ivy League,02912,Basic Energy Sciences,29
+Takaaki Koyanagi,Male,Oak Ridge National Laboratory,National Lab,,37831,Advanced Scientific Computing Research,35
+Benjamin A. Legg,Male,Pacific Northwest National Laboratory,National Lab,,99352,Fusion Energy Sciences,18
+Wenjing Liao,Unknown,Georgia Institute of Technology,Unknown,,30332,Basic Energy Sciences,18
+Kun Liu,Unknown,Los Alamos National Laboratory (LANL),National Lab,,87545,Nuclear Physics,158
+Andrey Lokhov,Male,Los Alamos National Laboratory,National Lab,,87545,Advanced Scientific Computing Research,19
+Dan Lu,Male,Oak Ridge National Laboratory,National Lab,,37831,Advanced Scientific Computing Research,86
+Niall Mangan,Male,Mathematics Northwestern University,University,Private,60208,Biological and Environmental Research,19
+Chris Marshall,Male,University of Rochester,University,Other,14627,Advanced Scientific Computing Research,61
+C. Michael McGuirk,Unknown,Mines,Unknown,,80401,Basic Energy Sciences,20
+James McIver,Male,Physics Columbia University,University,Ivy League,10027,Basic Energy Sciences,18
+Bernhard Mistlberger,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,37
+Julia Moriarty,Female,University of Colorado Boulder,University,Other,80303,Basic Energy Sciences,11
+Johanna Nelson Weker,Female,Lightsource SLAC National Accelerator,Unknown,,94025,Basic Energy Sciences,38
+Hyunseok Oh,Unknown,University of Wisconsin-Madison,University,State/Public,53706,Basic Energy Sciences,21
+Elizabeth Paul,Female,Columbia University,University,Ivy League,10027,Nuclear Physics,15
+Adam Printz,Male,University of Arizona,University,Other,85721,Fusion Energy Sciences,26
+Jin Qian,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,34
+Felix Ringer,Male,Old Dominion University,University,Other,23529,Basic Energy Sciences,38
+Annette Rowe,Female,"Cincinnati Cincinnati,",Unknown,,45221,Nuclear Physics,21
+Derek Schaeffer,Male,"Astronomy University of California, Los",University,Other,90095,Basic Energy Sciences,21
+Arunima Singh,Unknown,Arizona State University,University,Other,85287,Fusion Energy Sciences,24
+Hillary Smith,Female,Astronomy Swarthmore College,University,Other,19081,Basic Energy Sciences,35
+Erin Stache,Female,Princeton University,University,Ivy League,08544,Basic Energy Sciences,13
+Mathew A. Steiner,Male,Engineering University of Cincinnati,University,Other,45223,Basic Energy Sciences,14
+Esther Tsai,Female,"Laboratory Upton, NY",Unknown,,11973,Basic Energy Sciences,21
+Omar Valsson,Male,University of North Texas,University,Other,76201,Basic Energy Sciences,22
+Ying Wang,Unknown,University of Wisconsin-Madison,University,State/Public,53706,Basic Energy Sciences,78
+Cory Windorff,Male,Biochemistry New Mexico State University,University,Other,88003,Basic Energy Sciences,19
+Derong Xu,Unknown,Brookhaven National Laboratory,National Lab,,11973,Nuclear Physics,12
+Da Yan,Unknown,University of Alabama at,University,Other,35294,Nuclear Physics,283
+Joanna M Zajac,Female,Brookhaven National Laboratory,National Lab,,11789,Basic Energy Sciences,10
+Yu Zhang,Unknown,Los Alamos National Laboratory,National Lab,,87545,Basic Energy Sciences,110
+Youtong Zheng,Unknown,"Boston College,",University,Other,02467,Basic Energy Sciences,18
+Brian Zhou,Male,"Boston College,",University,Other,02467,Biological and Environmental Research,16
+Silvia Zorzeti,Female,Fermi National Accelerator Laboratory,National Lab,,60510,Basic Energy Sciences,11
+Michael Zuerch,Male,"University of California, Berkeley",University,State/Public,94720,High Energy Physics,114
+Daniel Bardayan,Male,Oak Ridge National Laboratory,National Lab,,37831,Nuclear Physics,38
+Christian Bauer,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,High Energy Physics,50
+Ivan Bazarov,Male,Cornell University,University,Ivy League,14850,Basic Energy Sciences,37
+Philip Bingham,Male,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,18
+Stanislav Boldyrev,Male,University of Wisconsin,University,Other,53715,Basic Energy Sciences,N/A
+Grigory Bronevetsky,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Advanced Scientific Computing Research,N/A
+Martin Centurion,Male,University of Nebraska,University,Other,68588,Basic Energy Sciences,32
+Patrick Yin Chiang,Male,Oregon State University,University,Other,97331,Advanced Scientific Computing Research,N/A
+Luisa Chiesa,Female,Miami University,University,Other,45056,Fusion Energy Sciences,22
+Samantha Daly,Female,University of Michigan,University,State/Public,48109,Basic Energy Sciences,16
+Yuantao Ding,Unknown,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,N/A
+David Erickson,Male,Cornell University,University,Ivy League,14853,Basic Energy Sciences,68
+Amir Farbin,Male,"University of Texas, Arlington",University,Other,76019,High Energy Physics,N/A
+Daniel Fredrickson,Male,University of Wisconsin,University,Other,53715,Basic Energy Sciences,29
+Andrew Gaunt,Male,Los Alamos National Laboratory,National Lab,,87545,Basic Energy Sciences,N/A
+Adrian Gozar,Male,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,25
+William Gustafson,Male,Pacific Northwest National Laboratory,National Lab,,99352,Biological and Environmental Research,35
+Valerie Halyo,Female,University of Colorado,University,Other,80309,High Energy Physics,N/A
+Michael Hermele,Male,University of Colorado,University,Other,80309,Basic Energy Sciences,37
+Patrick Huber,Male,Virginia Polytechnic Institute and State University,University,Other,24061,High Energy Physics,65
+Christiane Jablonowski,Female,University of Michigan,University,State/Public,48109,Advanced Scientific Computing Research,36
+Arthi Jayaraman,Unknown,University of Colorado,University,Other,80309,Basic Energy Sciences,38
+Rubin Juanes,Male,University of Maryland,University,Other,20742,Basic Energy Sciences,66
+Matias Kirst,Male,University of Florida,University,State/Public,32611,Biological and Environmental Research,48
+John Kitchin,Male,Carnegie Mellon University,University,Other,15213,Basic Energy Sciences,46
+Michael Kohl,Male,Hampton University,University,Other,23668,Nuclear Physics,110
+Matthew Law,Male,"University of California, Irvine",University,Other,92697,Basic Energy Sciences,103
+Rupak Mahapatra,Unknown,Texas A&M University,University,Other,77845,High Energy Physics,75
+Alysia Marino,Female,University of Colorado,University,Other,80309,High Energy Physics,69
+Christina Markert,Female,University of Texas at Austin,University,State/Public,78712,Nuclear Physics,24
+Youssef Marzouk,Male,Los Alamos National Laboratory,National Lab,,87545,Advanced Scientific Computing Research,46
+Christopher Mauger,Male,Los Alamos National Laboratory,National Lab,,87545,High Energy Physics,N/A
+Nathan McDowell,Male,Los Alamos National Laboratory,National Lab,,87545,Biological and Environmental Research,93
+Antonino Miceli,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,20
+Delia Milliron,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,71
+Denes Molnar,Unknown,Purdue University,University,Other,47907,Nuclear Physics,97
+Benjamin Monreal,Male,"University of California, Santa Barbara",University,Other,93106,Nuclear Physics,32
+Tobin Munsat,Male,University of Colorado,University,Other,80309,Fusion Energy Sciences,35
+Pavel Nadolsky,Male,Southern Methodist University,University,Other,75205,High Energy Physics,59
+Jeffrey Newman,Male,University of Pittsburgh,University,Other,15213,High Energy Physics,124
+Jennifer O'Donnell,Female,Iowa State University,University,Other,50011,Basic Energy Sciences,8
+Victoria Orphan,Female,California institute of Technology,University,Private,91125,Biological and Environmental Research,66
+Kalyan Perumalla,Male,Oak Ridge National Laboratory,National Lab,,37831,Advanced Scientific Computing Research,34
+Eric Potma,Male,"University of California, Irvine",University,Other,92697,Basic Energy Sciences,56
+Jonathan Schilling,Male,University of Minnesota,University,State/Public,55455,Biological and Environmental Research,50
+Matthew Schwartz,Male,SLAC National Accelerator Laboratory,National Lab,,94025,High Energy Physics,58
+Ariel Schwartzman,Male,SLAC National Accelerator Laboratory,National Lab,,94025,High Energy Physics,N/A
+Athena Sefat,Female,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,64
+Wendy Shaw,Female,Pacific Northwest National Laboratory,National Lab,,99352,Basic Energy Sciences,49
+David Shih,Male,Los Alamos National Laboratory,National Lab,,87545,High Energy Physics,38
+Evgenya Smirnova,Female,Los Alamos National Laboratory,National Lab,,87545,High Energy Physics,5
+Vsevolod Soukhanovskii,Male,Lawrence Livermore National Laboratory,National Lab,,94550,High Energy Physics,N/A
+Michelle Strout,Female,Colorado State University,University,Other,80523,Advanced Scientific Computing Research,28
+Tsuyoshi Tajima,Male,Los Alamos National Laboratory,National Lab,,87545,Nuclear Physics,16
+Christine Thomas,Female,Washington State University,University,Other,99164,Basic Energy Sciences,43
+Timothy VanReken,Male,Washington State University,University,Other,99164,Biological and Environmental Research,21
+Anil Vullikanti,Male,Virginia Polytechnic Institute and State University,University,Other,24060,Advanced Scientific Computing Research,49
+Feng Wang,Unknown,"University of California, Berkeley",University,State/Public,94704,Basic Energy Sciences,130
+Mort Webster,Male,Northwestern University,University,Private,60208,Biological and Environmental Research,35
+Emily Weiss,Female,Northwestern University,University,Private,60208,Basic Energy Sciences,68
+Feng Yuan,Unknown,Lawrence Berkeley National Laboratory,National Lab,,94720,Nuclear Physics,116
+Xiaochao Zheng,Unknown,University of Virginia,University,Other,22904,Nuclear Physics,58
+Michael Arnold,Male,University of Wisconsin,University,Other,53706,Basic Energy Sciences,55
+Nina Balke,Female,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,64
+Timothy Bertram,Male,"University of California, San Diego",University,State/Public,92093,Biological and Environmental Research,57
+Guillaume Blanquart,Male,California Institute of Technology,University,Private,91125,Basic Energy Sciences,34
+Ricardo Castro,Male,"University of California, Davis",University,Other,95616,Basic Energy Sciences,34
+Jennifer Cha,Female,"University of California, San Diego",University,State/Public,92093,Basic Energy Sciences,37
+Youping Chen,Unknown,University of Florida,University,State/Public,32611,Basic Energy Sciences,40
+Aaron Chou,Male,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,5
+Paul Dauenhauer,Male,University of Massachusetts Amherst,University,Other,01003,Basic Energy Sciences,51
+Sarah Demers,Female,Yale University,University,Ivy League,06520,High Energy Physics,N/A
+Shen Dillon,Unknown,University of Illinois at Urbana‐Champaign,University,Other,61820,Basic Energy Sciences,41
+Mircea Dinca,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,90
+Alireza Doostan,Male,University of Colorado,University,Other,80309,Advanced Scientific Computing Research,37
+Jozef Dudek,Male,Old Dominion University,University,Other,23529,Nuclear Physics,45
+Mary Dunlop,Female,University of Vermont,University,Other,05405,Biological and Environmental Research,28
+Gurudev Dutt,Unknown,University of Pittsburgh,University,Other,15260,Basic Energy Sciences,18
+Pavel Evtushenko,Male,Thomas Jefferson National Accelerator Facility,National Lab,,23606,Basic Energy Sciences,15
+Michael Galperin,Male,"University of California, San Diego",University,State/Public,92093,Basic Energy Sciences,90
+Nuh Gedik,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,53
+Kai Germaschewski,Male,University of New Hampshire,University,Other,03824,Basic Energy Sciences,29
+Jeffrey Greeley,Male,Argonne National Laboratory,National Lab,,60439,Fusion Energy Sciences,88
+Julia Greer,Female,California Institute of Technology,University,Private,91125,Basic Energy Sciences,80
+Markus Guehr,Male,SLAC National Acceleratory Laboratory,Unknown,,94025,Basic Energy Sciences,37
+Carter Hall,Male,University of Maryland,University,Other,20742,High Energy Physics,76
+Thomas Hamann,Male,Michigan State University,University,Other,48824,Basic Energy Sciences,52
+Ryan Hayward,Male,University of Massachusetts Amherst,University,Other,01003,Basic Energy Sciences,68
+Samuel Hazen,Male,University of Massachussetts Amherst,University,Other,01003,Biological and Environmental Research,34
+Chris Hirata,Male,California Institute of Technology,University,Private,91125,High Energy Physics,N/A
+Yongqin Jiao,Unknown,Lawrence Livermore National Laboratory,National Lab,,94550,Biological and Environmental Research,29
+Anantharaman Kalyanaraman,Unknown,Washington State University,University,Other,99164,Advanced Scientific Computing Research,27
+James Kneller,Male,North Carolina State University,University,Other,27695,Nuclear Physics,27
+Suzanne Lapi,Female,Washington University,University,Other,63110,Nuclear Physics,37
+Minhyea Lee,Unknown,University of Colorado,University,Other,80309,Basic Energy Sciences,23
+Peter Lindstrom,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Advanced Scientific Computing Research,41
+Rene Lopez,Male,University of North Carolina,University,Other,27599,Basic Energy Sciences,39
+Matthew Marshall,Male,Pacific Northwest National Laboratory,National Lab,,99352,Basic Energy Sciences,26
+Daniel Melconian,Male,Texas A&M University,University,Other,77843,Nuclear Physics,N/A
+Peter Mueller,Male,Argonne National Laboratory,National Lab,,60439,Nuclear Physics,86
+Alberto Nicolis,Male,Columbia University,University,Ivy League,10027,High Energy Physics,N/A
+Christoph Niemann,Male,"University of California, Los Angeles",University,State/Public,90095,Fusion Energy Sciences,33
+Jonathan Owen,Male,Columbia University,University,Ivy League,10027,Fusion Energy Sciences,63
+Ryan Patterson,Male,California Institute of Technology,University,Private,91125,Basic Energy Sciences,4
+Thomas Prolier,Male,Argonne National Laboratory,National Lab,,60439,High Energy Physics,N/A
+Tatiana Prozorov,Female,Ames Laboratory,Unknown,,50011,Basic Energy Sciences,32
+Sofia Quaglioni,Female,Lawrence Livermore National Laboratory,National Lab,,94551,Nuclear Physics,36
+Alexander Romanenko,Male,Fermi National Accelerator Laboratory,National Lab,,60510,Nuclear Physics,37
+David Savage,Male,"University of California, Berkeley",University,State/Public,94720,Basic Energy Sciences,41
+Eric Schelter,Male,University of Pennsylvania,University,Ivy League,19104,Basic Energy Sciences,54
+Xipeng Shen,Unknown,College of William and Mary,University,Other,23187,Basic Energy Sciences,40
+Daniel Sinars,Male,Sandia National Laboratories,National Lab,,87185,Advanced Scientific Computing Research,5
+Anze Slosar,Unknown,Brookhaven National Laboratory,National Lab,,11973,High Energy Physics,90
+Alexandre Tartakovsky,Male,Pacific Northwest National Laboratory,National Lab,,99352,Advanced Scientific Computing Research,46
+Alexis Templeton,Male,University of Colorado,University,Other,80309,Basic Energy Sciences,42
+Jesse Thaler,Male,Massachusetts Institute of Technology,University,Private,02139,High Energy Physics,76
+Susannah Tringe,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Biological and Environmental Research,92
+Ezekial Unterberg,Unknown,Oak Ridge National Laboratory,National Lab,,37831,Biological and Environmental Research,32
+Anastasia Volovich,Female,Brown University,University,Ivy League,02912,High Energy Physics,50
+Francesco Volpe,Male,University of Wisconsin,University,Other,53706,High Energy Physics,27
+Faya Wang,Unknown,SLAC National Acceleratory Laboratory,Unknown,,94025,High Energy Physics,9
+Anne White,Female,Massachusetts Institute of Technology,University,Private,02139,High Energy Physics,56
+Zhigang Wu,Unknown,Colorado School of Mines,Unknown,,80401,Basic Energy Sciences,56
+Junqiao Wu,Unknown,"University of California, Berkeley",University,State/Public,94720,Basic Energy Sciences,94
+Jinlong Zhang,Unknown,Argonne National Laboratory,National Lab,,60439,High Energy Physics,121
+Pengpeng Zhang,Unknown,Michigan State University,University,Other,48824,Basic Energy Sciences,22
+Haimei Zheng,Unknown,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,71
+Kirstin Alberi,Female,National Renewable Energy Laboratory,National Lab,,80401,Basic Energy Sciences,21
+John Asbury,Male,Pennsylvania State University,University,Other,16802,Basic Energy Sciences,12
+Pavan Balaji,Unknown,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,47
+Jesse Berezovsky,Male,Case Western Reserve University,University,Other,44106,Basic Energy Sciences,21
+Theodore Betley,Male,Harvard University,University,Ivy League,02138,Basic Energy Sciences,45
+Aditya Bhan,Male,University of Minnesota,University,State/Public,55455,Basic Energy Sciences,56
+Kristen Buchanan,Female,Colorado State University,University,Other,80523,Basic Energy Sciences,22
+Gianpaolo Carosi,Male,Lawrence Livermore National Laboratory,National Lab,,94550,High Energy Physics,N/A
+Brendan Casey,Male,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,35
+Hank Childs,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Advanced Scientific Computing Research,52
+Amy Clarke,Female,Los Alamos National Laboratory,National Lab,,87545,Basic Energy Sciences,39
+Nicolas Commaux,Male,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,N/A
+Silviu Covrig,Male,Thomas Jefferson National Accelerator Facility,National Lab,,23606,Nuclear Physics,N/A
+Christopher Crawford,Male,University of Kentucky,University,Other,40506,Nuclear Physics,36
+Aleksandar Donev,Male,New York University,University,Private,10012,Advanced Scientific Computing Research,48
+Gary Douberly,Male,University of Georgia,University,Other,30602,Advanced Scientific Computing Research,33
+Xiangfeng Duan,Unknown,"University of California, Los Angeles",University,State/Public,90095,Basic Energy Sciences,158
+Huaiyu Duan,Unknown,University of New Mexico,University,Other,87131,Nuclear Physics,31
+John Dueber,Male,"University of California, Berkeley",University,State/Public,94720,Biological and Environmental Research,36
+Mattan Erez,Unknown,University of Texas,University,Other,78712,Advanced Scientific Computing Research,43
+Rouven Essig,Male,Stony Brook University,University,Other,11794,High Energy Physics,N/A
+Joshua Figueroa,Male,"University of California, San Diego",University,State/Public,92093,High Energy Physics,N/A
+Charles Folden III,Male,Texas A&M University,University,Other,77843,Nuclear Physics,31
+Oliver Gessner,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,36
+Daniel Gianola,Male,University of Pennsylvania,University,Ivy League,19104,Basic Energy Sciences,81
+Sean Hartnoll,Male,Stanford University,University,Private,94305,Basic Energy Sciences,57
+Daniel Hayes,Male,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,148
+Anne Jones,Female,Arizona State University,University,Other,85287,Basic Energy Sciences,62
+Rohit Karnik,Unknown,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,60
+Daniel Kasen,Male,"University of California, Berkeley",University,State/Public,94720,Nuclear Physics,89
+Andreas Kemp,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Nuclear Physics,37
+Svetlana Kilina,Female,North Dakota State University,University,Other,58108,Basic Energy Sciences,45
+Matthias Kling,Male,Kansas State University,University,Other,66506,Basic Energy Sciences,63
+Lu Li,Unknown,University of Michigan,University,State/Public,48109,Basic Energy Sciences,100
+Rachel Mandelbaum,Female,Carnegie Mellon University,University,Other,15213,High Energy Physics,N/A
+Jaime Marian,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Fusion Energy Sciences,46
+James McKinlay,Male,Indiana University,University,Other,47405,Fusion Energy Sciences,29
+Nikhil Padmanabhan,Male,Yale University,University,Ivy League,06520,High Energy Physics,83
+Steven Pain,Male,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,75
+Felix Parra Diaz,Male,Massachusetts Institute of Technology,University,Private,02139,Nuclear Physics,N/A
+Samuel Payne,Male,Pacific Northwest National Laboratory,National Lab,,99352,Fusion Energy Sciences,49
+Jennifer Reed,Female,University of Wisconsin,University,Other,53706,Biological and Environmental Research,33
+Paul Romatschke,Male,University of Colorado,University,Other,80309,Biological and Environmental Research,45
+Volker Rose,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,32
+Ozgur Sahin,Unknown,Columbia University,University,Ivy League,10027,Basic Energy Sciences,34
+Tina Salguero,Female,University of Georgia,University,Other,30602,Basic Energy Sciences,37
+Leonardo Senatore,Male,Stanford University,University,Private,94305,Basic Energy Sciences,N/A
+Tengming Shen,Unknown,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,24
+Pavel Snopok,Male,Illinois Institute of Technology,Unknown,,60616,High Energy Physics,35
+Santiago Solares,Male,University of Maryland,University,Other,20742,Basic Energy Sciences,34
+Garrett Suen,Male,University of Wisconsin,University,Other,53715,Biological and Environmental Research,54
+Mitra Taheri,Female,Drexel University,University,Other,19104,Biological and Environmental Research,48
+Ivan Vitev,Male,Los Alamos National Laboratory,National Lab,,87545,Nuclear Physics,66
+Haim Waisman,Male,Columbia University,University,Ivy League,10027,Advanced Scientific Computing Research,41
+Lisa Whitehead,Female,University of Houston,University,Other,77204,High Energy Physics,42
+Richard Wilson,Male,Argonne National Laboratory,National Lab,,60439,High Energy Physics,224
+Kevin Wilson,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,64
+Weida Wu,Unknown,Rutgers University,University,Other,08854,Basic Energy Sciences,39
+Dao Xiang,Female,University of Washington,University,State/Public,98195,Basic Energy Sciences,15
+Xiaodong Xu,Unknown,University of Washington,University,State/Public,98195,Basic Energy Sciences,109
+Ming Ye,Unknown,Florida State University,University,Other,32306,Biological and Environmental Research,58
+Jamey Young,Male,Vanderbilt University,University,Other,37235,Biological and Environmental Research,68
+Victor Zavala,Male,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,47
+Junjie Zhu,Unknown,University of Michigan,University,State/Public,48109,High Energy Physics,13
+Joshua Zide,Male,University of Delaware,University,Other,19716,Basic Energy Sciences,36
+Thomas Bligaard,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,70
+Adam S. Bolton,Male,University of Utah,University,Other,84112,High Energy Physics,N/A
+Cheng Cen,Unknown,West Virginia University,University,Other,26506,Basic Energy Sciences,83
+Clarence L. Chang,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,7
+Clifford W. Cheung,Male,California Institute of Technology,University,Private,91125,High Energy Physics,N/A
+Sigrid Close,Female,Stanford University,University,Private,94305,Fusion Energy Sciences,30
+Heather D. Coleman,Female,Syracuse University,University,Other,13244,Fusion Energy Sciences,N/A
+Valentino R. Cooper,Male,Oak Ridge National Laboratory,National Lab,,37831,Biological & Environmental Research,44
+Frank E. Curtis,Male,Lehigh University,University,Other,18015,Advanced Scientific Computing Research,32
+Richard Dawes,Male,Missouri University of Science and Technology,University,Other,65409,Basic Energy Sciences,37
+William Detmold,Male,Massachusetts Institute of Technology,University,Private,02139,Nuclear Physics,59
+Jason A. Detwiler,Male,University of Washington,University,State/Public,98195,Nuclear Physics,57
+Ahmed Diallo,Male,Princeton Plasma Physics Laboratory,National Lab,,08543,Nuclear Physics,42
+Daniel B. Dougherty,Male,North Carolina State University,University,Other,27695,Basic Energy Sciences,N/A
+Krzysztof J. Fidkowski,Male,University of Michigan,University,State/Public,48109,Advanced Scientific Computing Research,N/A
+Felix R. Fischer,Male,"University of California, Berkeley",University,State/Public,94704,Basic Energy Sciences,41
+Liang Fu,Unknown,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,103
+Etienne Garand,Male,University of Wisconsin‐Madision,University,Other,53715,Basic Energy Sciences,28
+Emanuel Gull,Male,University of Michigan,University,State/Public,48109,Basic Energy Sciences,56
+Ruilan Guo,Unknown,University of Notre Dame,University,Other,46556,Basic Energy Sciences,35
+Gaute Hagen,Male,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,59
+Daniel J. Haxton,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,N/A
+Jason P. Hayward,Male,The University of Tennessee,University,Other,37996,Basic Energy Sciences,15
+Alexander Hexemer,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,N/A
+Stefan Hoeche,Male,SLAC National Accelerator Laboratory,National Lab,,94205,Basic Energy Sciences,63
+Andrew G. Ivanov,Male,Kansas State University,University,Other,66506,High Energy Physics,N/A
+Marian Jandel,Male,Los Alamos National Laboratory,National Lab,,87545,Nuclear Physics,31
+Matthew C. Jewell,Male,University of Wisconsin‐Eau Claire,University,Other,54702,Nuclear Physics,N/A
+Sriram Krishnamoorthy,Unknown,Pacific Northwest National Laboratory,National Lab,,99352,Advanced Scientific Computing Research,57
+Milind Kulkarni,Unknown,Purdue University,University,Other,47906,Advanced Scientific Computing Research,36
+Keji Lai,Unknown,University of Texas at Austin,University,State/Public,78712,Basic Energy Sciences,45
+Dominique Loque,Unknown,University of Hawaii,University,Other,96822,Basic Energy Sciences,N/A
+Jelena Maricic,Female,University of Hawaii,University,Other,96822,Biological & Environmental Research,61
+Benjamin J. McMorran,Male,University of Oregon,University,Other,97403,Basic Energy Sciences,23
+William E. Mustain,Male,University of Connecticut,University,Other,06269,Basic Energy Sciences,55
+Rebecca B. Neumann,Female,University of Washington,University,State/Public,98195,Basic Energy Sciences,24
+Michelle A. O'Malley,Female,"University of California, Santa Barbara",University,Other,93106,Biological & Environmental Research,38
+Gabriel D. Orebi Gann,Male,"University of California, Berkeley",University,State/Public,94704,Biological & Environmental Research,N/A
+Toyoko Jennifer Orimoto,Female,Northeastern University,University,Other,02115,High Energy Physics,N/A
+Johnpierre Paglione,Unknown,University of Maryland,University,Other,20742,Basic Energy Sciences,63
+George Shu Heng Pau,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,20
+Brian F. Pfleger,Male,University of Wisconsin‐Madision,University,Other,53715,Biological & Environmental Research,45
+Yuan Ping,Unknown,Lawrence Livermore National Laboratory,National Lab,,94550,Fusion Energy Sciences,95
+Brian A. Powell,Male,Clemson University,University,Other,29634,Fusion Energy Sciences,N/A
+Danilo C. Pozzo,Male,University of Washington,University,State/Public,98195,Basic Energy Sciences,N/A
+Ashwin Ramasubramaniam,Unknown,"University of Massachusetts, Amherst",University,Other,01003,Basic Energy Sciences,37
+Lijuan Ruan,Unknown,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,N/A
+Matthias R. Schindler,Male,University of South Carolina,University,Other,29208,Nuclear Physics,N/A
+Jonathan Simon,Male,University of Chicago,University,Private,60637,Basic Energy Sciences,50
+Sara E. Skrabalak,Female,Indiana University,University,Other,47405,Basic Energy Sciences,N/A
+Ivan I. Smalyukh,Male,University of Colorado,University,Other,80309,Basic Energy Sciences,71
+Xiaowei Teng,Unknown,University of New Hampshire,University,Other,03824,Basic Energy Sciences,37
+Megan C. Thielges,Female,Indiana University,University,Other,47405,Basic Energy Sciences,N/A
+William A. Tisdale,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,45
+Andrew J. Tolley,Male,Case Western Reserve University,University,Other,44106,High Energy Physics,3
+Nathan M. Urban,Male,Los Alamos National Laboratory,National Lab,,87545,High Energy Physics,25
+Katherine A. Willets,Female,University of Texas at Austin,University,State/Public,78712,Basic Energy Sciences,39
+Michael Williams,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,89
+Juhao Wu,Unknown,SLAC National Accelerator Laboratory,National Lab,,94025,Nuclear Physics,N/A
+Setthivoine You,Unknown,University of Washington,University,State/Public,98195,Basic Energy Sciences,N/A
+Dominika Zgid,Female,University of Michigan,University,State/Public,48109,Basic Energy Sciences,33
+Rebecca J. Abergel,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,,N/A
+Geoffrey S.D. Beach,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,N/A
+Jenifer C. Braley,Female,Colorado School of Mines,Unknown,,80401,Basic Energy Sciences,N/A
+Antoine J. Cerfon,Male,New York University,University,Private,10012,Basic Energy Sciences,N/A
+Emil M. Constantinescu,Male,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,N/A
+Carl Eric Dahl,Male,Northwestern University,University,Private,60208,Advanced Scientific Computing Research,N/A
+Mark P.M. Dean,Male,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,36
+Olivier A. Delaire,Male,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,N/A
+Rafael M. Fernandes,Male,University of Minnesota,University,State/Public,55455,Basic Energy Sciences,62
+Daniele Filippetto,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,28
+Gregory D. Fuchs,Male,Cornell University,University,Ivy League,14835,Basic Energy Sciences,39
+Todd Gamblin,Male,Lawrence Livermore National Laboratory,National Lab,,94550,Advanced Scientific Computing Research,37
+Shambhu Ghimire,Unknown,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,37
+Lars C. Grabow,Male,University of Houston,University,Other,77204,Basic Energy Sciences,42
+Peter W. Graham,Male,Stanford University,University,Private,94305,Basic Energy Sciences,N/A
+Anna Grassellino,Female,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,35
+Brian A. Grierson,Male,Princeton Plasma Physics Laboratory,National Lab,,08543,High Energy Physics,N/A
+Stephanie B. Hansen,Female,"Sandia National Laboratories, New Mexico",National Lab,,87123,Fusion Energy Sciences,50
+James Hirschauer,Male,Fermi National Accelerator Laboratory,National Lab,,60510,Fusion Energy Sciences,242
+Nadine Kabengi,Female,Georgia State University,University,Other,30302,Advanced Scientific Computing Research,22
+Lisa J. Kaufman,Female,Indiana University,University,Other,47408,Basic Energy Sciences,N/A
+Wei Li,Unknown,William Marsh Rice University,University,Private,77005,Nuclear Physics,221
+Stephanie A. Majewski,Female,University of Oregon,University,Other,97403,High Energy Physics,N/A
+Ni Ni,Unknown,"University of California, Los Angeles",University,State/Public,90095,High Energy Physics,99
+Trent R. Northen,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,64
+Shyue Ping Ong,Unknown,"University of California, San Diego",University,State/Public,92093,Basic Energy Sciences,88
+Mike S. Pritchard,Male,"University of California, Irvine",University,Other,92697,Biological & Environmental Research,33
+Xin Qian,Unknown,Brookhaven National Laboratory,National Lab,,11973,High Energy Physics,76
+Joel C. Rowland,Male,Los Alamos National Laboratory,National Lab,,87545,High Energy Physics,N/A
+Florin Rusu,Male,"University of California, Merced",University,Other,95343,Advanced Scientific Computing Research,24
+Bjoern P. Schenke,Unknown,Brookhaven National Laboratory,National Lab,,11973,Advanced Scientific Computing Research,N/A
+Guglielmo Scovazzi,Male,Duke University,University,Private,27708,Advanced Scientific Computing Research,33
+Nathaniel P. Stern,Male,Northwestern University,University,Private,60208,Basic Energy Sciences,N/A
+Jenny Y. Yang,Female,"University of California, Irvine",University,Other,92697,Basic Energy Sciences,43
+James G. Analytis,Male,"University of California, Berkeley",University,State/Public,94720,Basic Energy Sciences,67
+Lawrence R. Baker,Male,Ohio State University,University,State/Public,43210,Basic Energy Sciences,N/A
+Phillip S. Barbeau,Male,Duke University,University,Private,27705,Basic Energy Sciences,N/A
+Ilenia Battiato,Female,San Diego State University,University,Other,92182,High Energy Physics,27
+Nathaniel J. Craig,Male,"University of California, Santa Barbara",University,Other,93106,Basic Energy Sciences,15
+Catherine M. Deibel,Female,Louisiana State University,University,Other,70803,High Energy Physics,34
+Christian Engelmann,Male,Oak Ridge National Laboratory,National Lab,,37831,Fusion Energy Sciences,35
+Eranda Nikolla,Female,Wayne State University,University,Other,48202,Advanced Scientific Computing Research,32
+Tori Z. Forbes,Female,University of Iowa,University,Other,52242,Basic Energy Sciences,29
+Jeffrey G. Gardner,Male,University of Maryland Baltimore County,University,Other,21250,Basic Energy Sciences,19
+Pierre Gentine,Male,Columbia University,University,Ivy League,10027,Biological and Environmental Research,74
+Krzysztof Gofryk,Male,Idaho National Laboratory,National Lab,,83415,Basic Energy Sciences,32
+Erik M. Grumstrup,Male,Montana State University,University,Other,59717,Basic Energy Sciences,N/A
+Thomas Hartman,Male,Cornell University,University,Ivy League,14853,High Energy Physics,45
+Cory D. Hauck,Male,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,N/A
+David J. Heldebrant,Male,Pacific Northwest National Laboratory,National Lab,,99354,Advanced Scientific Computing Research,42
+Matthew E. Helgeson,Male,"University of California, Santa Barbara",University,Other,93106,Basic Energy Sciences,N/A
+Henry C. Hoffmann,Male,University of Chicago,University,Private,60637,Advanced Scientific Computing Research,N/A
+Anubhav Jain,Unknown,Lawrence Berkeley National Laboratory,National Lab,,94720,Advanced Scientific Computing Research,70
+Rebekka S. Klausen,Female,Johns Hopkins University,University,Private,21218,Basic Energy Sciences,24
+Christopher J. Kliewer,Male,Sandia National Laboratories,National Lab,,94550,Basic Energy Sciences,27
+Alexey Kovalev,Male,University of Nebraska,University,Other,68588,Basic Energy Sciences,54
+Kyle M. Lancaster,Female,Cornell University,University,Ivy League,14853,Basic Energy Sciences,40
+Christopher Lee,Male,Los Alamos National Laboratory,National Lab,,87544,Basic Energy Sciences,73
+Dongsheng Li,Unknown,Pacific Northwest National Laboratory,National Lab,,99354,Nuclear Physics,106
+Kin Fai Mak,Unknown,Pennsylvania State University,University,Other,16802,Basic Energy Sciences,75
+Lorenzo Mangolini,Male,"University of California, Riverside",University,Other,92521,Basic Energy Sciences,34
+Jeetain Mittal,Unknown,Lehigh University,University,Other,18015,Fusion Energy Sciences,62
+Katharine Page,Female,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,53
+Chad M. Parish,Male,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,43
+Andrew Puckett,Male,University of Connecticut,University,Other,06269,Fusion Energy Sciences,48
+Jonathan D. Raff,Male,Indiana University,University,Other,47401,Nuclear Physics,N/A
+Timothy J. Rupert,Male,"University of California, Irvine",University,Other,92697,Basic Energy Sciences,36
+Anne Sakdinawat,Female,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,N/A
+Elizabeth S. Sattely,Female,Stanford University,University,Private,94304,Basic Energy Sciences,N/A
+Jordan R. Schmidt,Male,University of Wisconsin‐Madison,University,Other,53715,Basic Energy Sciences,N/A
+Oliver Schmitz,Male,University of Wisconsin‐Madison,University,Other,53715,Basic Energy Sciences,128
+Daniel P. Shoemaker,Male,University of Illinois,University,Other,61820,Basic Energy Sciences,25
+Tracy R. Slatyer,Female,Massachusetts Institute of Technology,University,Private,02139,High Energy Physics,N/A
+Patricia Solvignon,Female,University of New Hampshire,University,Other,03824,Nuclear Physics,N/A
+Yogesh Surendranath,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,58
+Jing Tao,Unknown,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,43
+Daniela M. Ushizima,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,N/A
+Brent A. VanDevender,Male,Pacific Northwest National Laboratory,National Lab,,99354,Advanced Scientific Computing Research,N/A
+Justin R. Walensky,Male,University of Missouri,University,Other,65211,Basic Energy Sciences,32
+Jonathan Weare,Male,University of Chicago,University,Private,60637,Advanced Scientific Computing Research,22
+Peter Winter,Male,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,17
+Yunyan Zhang,Unknown,Lawrence Livermore National Laboratory,National Lab,,94550,High Energy Physics,25
+Thomas K. Allison,Male,Stony Brook University,University,Other,11794,Basic Energy Sciences,24
+Jessica M. Anna,Female,University of Pennsylvania,University,Ivy League,19104,Basic Energy Sciences,N/A
+Scott D. Baalrud,Male,University of Iowa,University,Other,52242,Fusion Energy Sciences,N/A
+Peter J. Bruggeman,Male,University of Minnesota,University,State/Public,55455,Fusion Energy Sciences,N/A
+Alvin Cheung,Male,University of Washington,University,State/Public,98195,Advanced Scientific Computing Research,17
+Jim Ciston,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Advanced Scientific Computing Research,46
+Sean M. Couch,Male,Michigan State University,University,Other,48824,Basic Energy Sciences,N/A
+Daniela F. Cusack,Female,"University of California, Los Angeles",University,State/Public,90095,Nuclear Physics,N/A
+Yingge Du,Unknown,Pacific Northwest National Laboratory,National Lab,,99352,Biological and Environmental Research,48
+Jonathan W. Engle,Male,Los Alamos National Laboratory,National Lab,,87544,Basic Energy Sciences,54
+Grigory V. Eremeev,Male,Thomas Jefferson National Accelerator Facility,National Lab,,23606,Nuclear Physics,N/A
+Francesco A. Evangelista,Male,Emory University,University,Private,30322,Basic Energy Sciences,N/A
+Rebecca Flint,Female,Iowa State University,University,Other,50011,Basic Energy Sciences,16
+Alison R. Fout,Female,University of Illinois,University,Other,61820,Basic Energy Sciences,30
+Jacklyn M. Gates,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,N/A
+Kristian A. Hahn,Male,Northwestern University,University,Private,60201,Nuclear Physics,N/A
+Kirsten S. Hofmockel,Female,Pacific Northwest National Laboratory,National Lab,,99352,High Energy Physics,N/A
+Xia Hong,Unknown,University of Nebraska,University,Other,68588,Basic Energy Sciences,64
+Travis S. Humble,Male,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,N/A
+Yier Jin,Unknown,University of Central Florida,University,Other,32826,Advanced Scientific Computing Research,54
+Robert D. Kolasinski,Male,Sandia National Laboratories,National Lab,,94551,Advanced Scientific Computing Research,N/A
+Egemen Kolemen,Male,Princeton University,University,Ivy League,08544,Fusion Energy Sciences,36
+Jessica A. Krogstad,Female,University of Illinois,University,Other,61820,Basic Energy Sciences,17
+Amber T. Krummel,Female,Colorado State University,University,Other,80523,Basic Energy Sciences,N/A
+Christoph Lehner,Male,Brookhaven National Laboratory,National Lab,,11973,Basic Energy Sciences,31
+Melanie A. Mayes,Female,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,40
+Karis J. McFarlane,Female,Lawrence Livermore National Laboratory,National Lab,,94551,Biological and Environmental Research,21
+Chad Mitchell,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,High Energy Physics,N/A
+James J. Moran,Male,Pacific Northwest National Laboratory,National Lab,,99352,High Energy Physics,80
+Wellington Muchero,Unknown,Oak Ridge National Laboratory,National Lab,,37831,Biological and Environmental Research,N/A
+Michael L. Neidig,Male,University of Rochester,University,Other,14627,Biological and Environmental Research,N/A
+Jamie R. Neilson,Female,Colorado State University,University,Other,80523,Basic Energy Sciences,N/A
+Katja C. Nowack,Female,Cornell University,University,Ivy League,14850,Basic Energy Sciences,N/A
+Kabir G. Peay,Male,Stanford University,University,Private,94304,Basic Energy Sciences,53
+Sam Posen,Male,Fermi National Accelerator Laboratory,National Lab,,60510,Biological and Environmental Research,30
+Jennifer L. Raaf,Female,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,N/A
+Devesh Ranjan,Male,Georgia Institute of Technology,Unknown,,30332,Fusion Energy Sciences,31
+Matthew Redshaw,Male,Central Michigan University,University,Other,48859,Fusion Energy Sciences,20
+Eduardo Rozo,Male,University of Arizona,University,Other,85721,High Energy Physics,6
+Rebecca Schulman,Female,The Johns Hopkins University,University,Private,21218,High Energy Physics,29
+Ian D. Sharp,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,56
+John B. Shaw,Male,University of Arkansas,University,Other,72701,Basic Energy Sciences,N/A
+Adele C. Tamboli,Female,National Renewable Energy Laboratory,National Lab,,80401,Basic Energy Sciences,N/A
+Jeroen van Tilborg,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,N/A
+Clayton G. Webster,Male,Oak Ridge National Laboratory,National Lab,,37831,Advanced Scientific Computing Research,N/A
+Haidan Wen,Unknown,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,35
+Christopher Wrede,Male,Michigan State University,University,Other,48824,Nuclear Physics,32
+Zeeshan Ahmed,Male,SLAC National Accelerator Laboratory,National Lab,,94025,,48
+Jared M. Allred,Male,The University of Alabama,University,Other,35487,High Energy Physics,21
+Nicholas J. Bouskill,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,Biological and Environmental Research,N/A
+Kelly A. Chipps,Female,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Biological and Environmental Research,N/A
+Brian A. Collins,Male,Washington State University,University,Other,99164,Nuclear Physics,27
+Steven C. DeCaluwe,Male,Colorado School of Mines,Unknown,,80401,Basic Energy Sciences,N/A
+Naresh Devineni,Male,The City College of New York,University,Other,10031,Basic Energy Sciences,30
+Matthew R. Dietrich,Male,Argonne National Laboratory (ANL),National Lab,,60439,Biological and Environmental Research,15
+Qiang Du,Unknown,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,High Energy Physics,81
+Jiwen Fan,Unknown,Pacific Northwest National Laboratory (PNNL),National Lab,,99352,High Energy Physics,57
+Frederico Fiuza,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Fusion Energy Sciences,38
+David J. Flannigan,Male,University of Minnesota,University,State/Public,55455,Basic Energy Sciences,33
+Renee R. Frontiera,Female,University of Minnesota,University,State/Public,55455,Basic Energy Sciences,31
+Kenneth R. Graham,Male,University of Kentucky,University,Other,40526,Basic Energy Sciences,N/A
+David L. Green,Male,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Basic Energy Sciences,32
+Heiko Hergert,Male,Michigan State University,University,Other,48824,Nuclear Physics,36
+Alexander I. Himmel,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,High Energy Physics,N/A
+Amy E. Hixon,Female,University of Notre Dame,University,Other,46556,Basic Energy Sciences,15
+Benjamin Hooberman,Male,University of Illinois,University,Other,61820,High Energy Physics,260
+Benjamin M. Hunt,Male,Carnegie Mellon University,University,Other,15213,High Energy Physics,16
+Josh Kacher,Male,Georgia Institute of Technology,Unknown,,30332,Basic Energy Sciences,25
+Mariam Kiran,Female,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,Advanced Scientific Computing Research,24
+Charles D. Koven,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,Advanced Scientific Computing Research,N/A
+Stephanie Law,Female,University Of Delaware,University,Other,19716,Biological and Environmental Research,25
+Lin Lin,Female,"University of California, Berkeley",University,State/Public,94704,Advanced Scientific Computing Research,326
+Brian K. Long,Male,The University of Tennessee,University,Other,37996,Advanced Scientific Computing Research,29
+Richard L. Longland,Male,North Carolina State University,University,Other,27695,Basic Energy Sciences,N/A
+Kenneth Lopata,Male,Louisiana State University and A&M College,University,Other,70803,Basic Energy Sciences,25
+Marilena LoVerde,Female,SUNY Stony Brook University,University,Other,11794,High Energy Physics,38
+Steven O. Mansoorabadi,Male,Auburn University,University,Other,36849,High Energy Physics,N/A
+Julia M. Mikhailova,Female,Princeton University,University,Ivy League,08544,Fusion Energy Sciences,N/A
+Emilio A. Nanni,Male,SLAC National Accelerator Laboratory,National Lab,,94025,High Energy Physics,N/A
+Eric W. Neuscamman,Male,"University of California, Berkeley",University,State/Public,94704,Basic Energy Sciences,N/A
+James Ostrowski,Male,The University of Tennessee,University,Other,37996,Advanced Scientific Computing Research,49
+Dennis V. Perepelitsa,Male,University of Colorado,University,Other,80303,Advanced Scientific Computing Research,217
+Tom Peterka,Male,Argonne National Laboratory (ANL),National Lab,,60439,Advanced Scientific Computing Research,40
+Neeraj Rai,Male,Mississippi State University,University,Other,39762,Basic Energy Sciences,26
+Ted C. Rogers,Male,Old Dominion University,University,Other,23508,Basic Energy Sciences,28
+Tiark Rompf,Unknown,Purdue University,University,Other,47907,Advanced Scientific Computing Research,37
+Michael D. Schneider,Male,Lawrence Livermore National Laboratory (LLNL),National Lab,,94551,High Energy Physics,23
+Adam B. Sefkow,Male,University of Rochester,University,Other,14627,High Energy Physics,35
+Sanjaya D. Senanayake,Unknown,Brookhaven National Laboratory (BNL),National Lab,,11973,Fusion Energy Sciences,71
+Hannah S. Shafaat,Female,The Ohio State University,University,State/Public,43210,Basic Energy Sciences,N/A
+Sahar Sharifzadeh,Female,Boston University,University,Other,02215,Basic Energy Sciences,25
+Jessie F. Shelton,Female,University of Illinois,University,Other,61820,Basic Energy Sciences,N/A
+Siqian Shen,Unknown,University of Michigan,University,State/Public,48109,Advanced Scientific Computing Research,26
+Justin Stevens,Male,The College of William and Mary,University,Other,23187,Nuclear Physics,59
+Jin Suntivich,Female,Cornell University,University,Ivy League,14850,Nuclear Physics,39
+Jason R. Trelewicz,Male,SUNY Stony Brook University,University,Other,11794,Fusion Energy Sciences,22
+Juan P. Trelles,Male,University of Massachusetts Lowell,University,Other,01854,Fusion Energy Sciences,26
+Alessandro Tricoli,Male,Brookhaven National Laboratory (BNL),National Lab,,11973,High Energy Physics,N/A
+Anja von der Linden,Female,SUNY Stony Brook University,University,Other,11794,High Energy Physics,N/A
+Thomas Z. Ward,Male,Oak Ridge National Laboratory (ORNL),National Lab,,37831,High Energy Physics,44
+David J. Weston,Male,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Biological and Environmental Research,99
+Timothy M. Wildey,Male,"Sandia National Laboratories, New Mexico (SNL‐NM)",National Lab,,87185,Advanced Scientific Computing Research,N/A
+Kelly C. Wrighton,Female,The Ohio State University,University,State/Public,43210,Advanced Scientific Computing Research,51
+Chao Zhang,Unknown,Brookhaven National Laboratory,National Lab,,11973,Biological and Environmental Research,168
+Jeramy D. Zimmerman,Male,Colorado School of Mines,Unknown,,80401,High Energy Physics,36
+Assel Aitkaliyeva,Female,University of Florida,University,State/Public,32605,,17
+Daniel Amador-Noguez,Male,University of Wisconsin-Madison,University,State/Public,53706,Basic Energy Sciences,38
+Artur Apresyan,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,High Energy Physics,N/A
+Shane Ardo,Male,"University of California, Irvine",University,Other,92697,High Energy Physics,38
+Prasanna Balaprakash,Unknown,Argonne National Laboratory (ANL),National Lab,,60439,Advanced Scientific Computing Research,37
+Elizabeth J. Biddinger,Female,The City College of New York,University,Other,10031,Advanced Scientific Computing Research,26
+Valentina Bisogni,Female,Brookhaven National Laboratory (BNL),National Lab,,11973,Basic Energy Sciences,30
+James Blakemore,Male,University of Kansas,University,Other,66045,Basic Energy Sciences,34
+Daniel Bowring,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,Basic Energy Sciences,N/A
+Nanette Boyle,Female,Colorado School of Mines,Unknown,,80401,Biological and Environmental Research,15
+Raul Briceno,Male,Old Dominion University,University,Other,23529,Nuclear Physics,36
+Susannah Burrows,Female,Pacific Northwest National Laboratory (PNNL),National Lab,,99352,Nuclear Physics,33
+Huibo Cao,Unknown,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Biological and Environmental Research,52
+Ethan J. Crumlin,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,Basic Energy Sciences,62
+Eric C. Cyr,Male,Sandia National Laboratories (SNL-NM),National Lab,,87185,Advanced Scientific Computing Research,20
+Cesar da Silva,Male,Los Alamos National Laboratory (LANL),National Lab,,87544,Nuclear Physics,37
+Karen Davies,Female,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,Nuclear Physics,91
+Nathalie de Leon,Female,Princeton University,University,Ivy League,08544,Basic Energy Sciences,37
+Luiz De Viveiros Souza Filho,Unknown,Pennsylvania State University,University,Other,16802,Basic Energy Sciences,N/A
+Jared Delcamp,Male,University of Mississippi,University,Other,38677,Basic Energy Sciences,43
+David Donovan,Male,The University of Tennessee,University,Other,37996,Basic Energy Sciences,13
+Benjamin Doughty,Male,Oak Ridge National Laboratory (ORNL),National Lab,,37831,Fusion Energy Sciences,25
+Daniel A. Dwyer,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,High Energy Physics,N/A
+Thomas Faulkner,Male,University of Illinois,University,Other,61801,High Energy Physics,33
+Nathaniel M. Ferraro,Male,Princeton Plasma Physics Laboratory (PPPL),National Lab,,08543,High Energy Physics,N/A
+Stefano Gandolfi,Male,Los Alamos National Laboratory (LANL),National Lab,,87545,Fusion Energy Sciences,53
+Tais Gorkhover,Unknown,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,29
+Alexander Gray,Male,Temple University,University,Other,19130,Basic Energy Sciences,51
+Kentaro Hara,Male,Texas A&M University,University,Other,77845,Fusion Energy Sciences,N/A
+Naruki Hiranuma,Unknown,West Texas A&M University,University,Other,79016,Basic Energy Sciences,19
+Kolby Jardine,Male,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,Biological and Environmental Research,32
+Zhang Jiang,Unknown,Argonne National Laboratory (ANL),National Lab,,60439,Basic Energy Sciences,47
+Michael Kagan,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Nuclear Physics,26
+Liqin Ke,Unknown,Ames Laboratory,Unknown,,50011,Basic Energy Sciences,28
+Karah E. Knope,Unknown,Georgetown University,University,Other,20057,Basic Energy Sciences,25
+Samuel Aaron Lazerson,Male,Princeton Plasma Physics Laboratory (PPPL),National Lab,,08543,Basic Energy Sciences,35
+Alexie Leauthaud-Harnett,Female,"University of California, Santa Cruz",University,Other,95064,High Energy Physics,N/A
+Joshua Levine,Male,The University of Arizona,University,Other,85721,Advanced Scientific Computing Research,66
+Bolin Liao,Unknown,"University of California, Santa Barbara",University,Other,93106,Advanced Scientific Computing Research,29
+Ryan P. Lively,Male,Georgia Institute of Technology,Unknown,,30332,Basic Energy Sciences,59
+Tammy Ma,Female,Lawrence Livermore National Laboratory (LLNL),National Lab,,94551,Fusion Energy Sciences,67
+Themis Mastoridis,Male,California Polytechnic State University,University,Other,93407,Fusion Energy Sciences,N/A
+Zach Meisel,Male,Ohio University,University,Other,45701,Nuclear Physics,36
+Siddharth Misra,Unknown,The University of Oklahoma,University,Other,73019,Basic Energy Sciences,49
+Karen L. Mulfort,Female,Argonne National Laboratory (ANL),National Lab,,60439,Basic Energy Sciences,35
+Jacquelyn Noronha-Hostler,Female,Rutgers University,University,Other,08854,Basic Energy Sciences,48
+Colin Ophus,Male,Lawrence Berkeley National Lab (LBNL),Unknown,,94720,Basic Energy Sciences,57
+Paris Perdikaris,Male,University of Pennsylvania,University,Ivy League,19104,Advanced Scientific Computing Research,50
+Nicola Perry,Female,University of Illinois,University,Other,61801,Advanced Scientific Computing Research,28
+David Powers,Male,Texas A&M University,University,Other,77843,Basic Energy Sciences,40
+Kerri A. Pratt,Female,University of Michigan,University,State/Public,48109,Basic Energy Sciences,N/A
+Benjamin Safdi,Male,University of Michigan,University,State/Public,48109,Basic Energy Sciences,50
+Omer San,Male,Oklahoma State University,University,Other,74078,Advanced Scientific Computing Research,70
+Hee-Jong Seo,Unknown,Ohio University,University,Other,45701,Advanced Scientific Computing Research,80
+Julian Shun,Male,Massachusetts Institute of Technology,University,Private,02139,Advanced Scientific Computing Research,35
+Meredith N. Silberstein,Female,Cornell University,University,Ivy League,14853,Advanced Scientific Computing Research,N/A
+David Simmons-Duffin,Male,California Institute of Technology,University,Private,91125,High Energy Physics,48
+Jaideep Taggart Singh,Unknown,Michigan State University,University,Other,48824,Nuclear Physics,N/A
+Zachary P. Smith,Male,Massachusetts Institute of Technology,University,Private,02139,Nuclear Physics,41
+Aritoki Suzuki,Unknown,Lawrence Berkeley National Laboratory (LBNL),National Lab,,94720,High Energy Physics,N/A
+Ming Tang,Unknown,Rice University,University,Private,77005,High Energy Physics,55
+Ming Lee Tang,Unknown,"University of California, Riverside",University,Other,92521,Basic Energy Sciences,46
+Kazuhiro Terao,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,53
+Javier Tiffenberg,Male,Fermi National Accelerator Laboratory (FNAL),National Lab,,60510,High Energy Physics,55
+Wang-Kong Tse,Unknown,University of Alabama,University,Other,35487,Basic Energy Sciences,23
+Anne-Marie Valente-Feliciano,Female,Thomas Jefferson National Accelerator Facility,National Lab,,23606,Basic Energy Sciences,N/A
+Romain Vasseur,Male,University of Massachusetts Amherst,University,Other,01035,Nuclear Physics,47
+Anselm Vossen,Male,Duke University,University,Private,27708,Nuclear Physics,N/A
+Luisa Whittaker-Brooks,Female,University of Utah,University,Other,84112,Nuclear Physics,29
+Haixuan Xu,Unknown,The University of Tennessee,University,Other,37911,Basic Energy Sciences,29
+Xiaoshan Xu,Unknown,University of Nebraska-Lincoln,University,Other,68588,Basic Energy Sciences,38
+Rachel P. Yohay,Female,Florida State University,University,Other,32306,Basic Energy Sciences,N/A
+Guihua Yu,Unknown,The University of Texas at Austin,University,State/Public,78712,High Energy Physics,192
+Joel Yuen-Zhou,Male,University of California San Diego,University,Other,92093,Basic Energy Sciences,38
+Philipp Zerbe,Male,"University of California, Davis",University,Other,95618,Biological and Environmental Research,37
+Alex Zylstra,Male,Los Alamos National Laboratory (LANL),National Lab,,87545,Fusion Energy Sciences,52
+Robert Ainsworth,Male,Fermi National Accelerator Laboratory,National Lab,,60510,,N/A
+Jonathan Asaadi,Male,The University of Texas at Arlington,University,Other,76019,High Energy Physics,109
+Jason Azoulay,Male,University of Southern Mississippi,University,Other,39406,High Energy Physics,35
+Bryan Beckingham,Male,Auburn University,University,Other,36849,Basic Energy Sciences,18
+D. Kwabena Bediako,Unknown,"University of California, Berkeley",University,State/Public,94720,Basic Energy Sciences,28
+Michael Bishof,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,182
+Jennifer Bridwell-Rabb,Female,University of Michigan,University,State/Public,48109,Nuclear Physics,17
+Maria Chan,Female,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,46
+Manos Chatzopoulos,Male,Louisiana State University,University,Other,70803,Basic Energy Sciences,N/A
+Federica Coppari,Female,Lawrence Livermore National Laboratory,National Lab,,94550,Nuclear Physics,N/A
+Amy Cordones-Hahn,Female,SLAC National Accelerator Laboratory,National Lab,,94025,Fusion Energy Sciences,23
+Joseph Cotruvo,Male,Pennsylvania State University,University,Other,16802,Basic Energy Sciences,26
+Arun Devaraj,Male,Pacific Northwest National Laboratory,National Lab,,99354,Basic Energy Sciences,37
+Javier Duarte,Male,The Regents of the University of California – UCSD,University,Other,92093,Basic Energy Sciences,229
+Christine E. Duval,Female,Case Western Reserve University,University,Other,44106,High Energy Physics,10
+Joanne B. Emerson,Female,"University of California, Davis",University,Other,95616,Nuclear Physics,34
+Li Fang,Unknown,University of Central Florida,University,Other,32816,Biological and Environmental Research,75
+Kevin G. Field,Male,2355 Bonisteel Blvd.,Unknown,,48109,Basic Energy Sciences,N/A
+Laura Fields,Female,Fermi National Accelerator Laboratory,National Lab,,60510,Fusion Energy Sciences,89
+Benjamin Frandsen,Male,Brigham Young University,University,Other,84602,High Energy Physics,25
+Ronald Fernando Garcia Ruiz,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,36
+Benedikt Geiger,Male,University of Wisconsin – Madison,University,Other,53715,Nuclear Physics,45
+Dustin A. Gilbert,Male,University of Tennessee,University,Other,37996,Fusion Energy Sciences,31
+Ranganathan Gopalakrishnan,Male,The University of Memphis,University,Other,38152,Basic Energy Sciences,17
+Marco Govoni,Male,Argonne National Laboratory (ANL),National Lab,,60439,Fusion Energy Sciences,33
+Heather Gray,Female,The Regents of University of California,University,Other,94710,Basic Energy Sciences,255
+Wendy Gu,Female,Stanford University,University,Private,94305,Basic Energy Sciences,24
+Matthew Hoffman,Male,Los Alamos National Laboratory,National Lab,,87545,Biological and Environmental Research,40
+Wanzheng Hu,Unknown,Boston University,University,Other,02215,Biological and Environmental Research,28
+Paul W. Humrickhouse,Male,Idaho National Laboratory,National Lab,,83402,Basic Energy Sciences,N/A
+Jonathan Jarvis,Male,Fermi National Accelerator Laboratory,National Lab,,60510,Fusion Energy Sciences,11
+Luchang Jin,Unknown,University of Connecticut,University,Other,06259,Basic Energy Sciences,31
+Siddharth Karkare,Unknown,Arizona State University,University,Other,85287,High Energy Physics,25
+Trevor F. Keenan,Male,UC Berkeley,Unknown,,94720,Basic Energy Sciences,71
+Vedika Khemani,Unknown,Stanford University,University,Private,94305,Biological and Environmental Research,41
+Laura Lammers,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,23
+Kyle G. Leach,Female,Colorado School of Mines,Unknown,,80401,Nuclear Physics,31
+Hugh Lippincott,Male,Regents of the University of California,University,Other,93106,Nuclear Physics,N/A
+Alessandro Lovato,Male,Argonne National Laboratory,National Lab,,60439,High Energy Physics,34
+Manthiram,Unknown,Massachusetts Institute of Technology,University,Private,02139,Nuclear Physics,174
+Elijah H. Martin,Male,Oak Ridge National Laboratory,National Lab,,37830,Fusion Energy Sciences,15
+Jarad A. Mason,Unknown,Harvard University,University,Ivy League,02143,Fusion Energy Sciences,47
+Phillip Milner,Male,Cornell University,University,Ivy League,14850,Basic Energy Sciences,29
+Michael Mooney,Male,Colorado State University,University,Other,80523,Basic Energy Sciences,207
+Gary F. Moore,Male,Arizona State University,University,Other,85287,Basic Energy Sciences,32
+Bogdan Nicolae,Male,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,24
+Erin E Nuccio,Female,Lawrence Livermore National Laboratory,National Lab,,94550,Advanced Scientific Computing Research,22
+Brendan O'Shea,Male,SLAC National Accelerator Laboratory,National Lab,,94025,High Energy Physics,21
+Christina M. Patricola,Female,Iowa State University,University,Other,50011,High Energy Physics,38
+Bei Wang Phillips,Unknown,University of Utah,University,Other,84112,Basic Energy Sciences,28
+Kemp Plumb,Unknown,Brown University,University,Ivy League,02912,Basic Energy Sciences,15
+David Radice,Male,The Pennsylvania State University,University,Other,16802,Basic Energy Sciences,56
+Simon Roux,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Biological and Environmental Research,69
+Justin B. Sambur,Male,Colorado State University,University,Other,80523,Biological and Environmental Research,N/A
+Lado Samushia,Male,Kansas State University,University,Other,66506,High Energy Physics,57
+Bayrammurad Saparov,Unknown,University of Oklahoma,University,Other,73019,Basic Energy Sciences,41
+Nobuo Sato,Male,Thomas Jefferson National Accelerator Facility,National Lab,,23602,Basic Energy Sciences,37
+Phiala Shanahan,Unknown,Massachusetts Institute of Technology,University,Private,02139,Nuclear Physics,38
+James Shepherd,Male,University of Iowa,University,Other,52242,Nuclear Physics,22
+Louise Skinnari,Female,Northeastern University,University,Other,02115,Basic Energy Sciences,222
+Douglas Stanford,Male,Board of Trustees of the Leland Stanford Junior University,University,Other,94305,High Energy Physics,172
+Benjamin N. Sulman,Male,Oak Ridge National Laboratory,National Lab,,37831,High Energy Physics,33
+Dali Sun,Female,North Carolina State University,University,Other,27695,Biological and Environmental Research,26
+Wenhao Sun,Unknown,University of Michigan,University,State/Public,48105,Basic Energy Sciences,58
+Nathaniel Trask,Male,Sandia National Laboratories,National Lab,,87123,Advanced Scientific Computing Research,26
+Michael A. Troxel,Male,Duke University,University,Private,27705,High Energy Physics,N/A
+Wim M. van Rees,Male,Massachusetts Institute of Technology,University,Private,02139,Advanced Scientific Computing Research,15
+Tuo Wang,Unknown,Louisiana State University,University,Other,70803,Advanced Scientific Computing Research,40
+Chen Wang,Unknown,"University of Massachusetts, Amherst",University,Other,01035,Basic Energy Sciences,83
+Stefan M. Wild,Male,"Laboratory for Applied Mathematics, Numerical Software, and Statistics",Unknown,,60439,Advanced Scientific Computing Research,44
+Huolin Xin,Unknown,University of California,University,Other,92697,Advanced Scientific Computing Research,97
+Ming Yi,Unknown,Rice University,University,Private,77005,Basic Energy Sciences,38
+Kevin C. Young,Male,Sandia National Laboratories,National Lab,,94550,Advanced Scientific Computing Research,N/A
+Tong Zhou,Unknown,Lawrence Berkeley National Laboratory,National Lab,,94720,High Energy Physics,61
+Corey Adams,Male,Argonne National Laboratory,National Lab,,60439,,42
+Ariful Azad,Unknown,Indiana University,University,Other,47401,Nuclear Physics,26
+Marcel D. Baer,Male,Pacific Northwest National Laboratory,National Lab,,99352,Advanced Scientific Computing Research,N/A
+Miles F. Beaux II,Male,Los Alamos National Laboratory,National Lab,,87545,Basic Energy Sciences,N/A
+Matthew T. Beidler,Male,Oak Ridge National Laboratory,National Lab,,37830,Basic Energy Sciences,N/A
+Lindsey Bleem,Female,Argonne National Laboratory,National Lab,,60439,Fusion Energy Sciences,83
+Mark D. Boyer II,Male,Princeton Plasma Physics Laboratory,National Lab,,08540,High Energy Physics,N/A
+Penghui Cao,Unknown,"University of California, Irvine",University,Other,92697,Fusion Energy Sciences,25
+Si Chen,Unknown,Argonne National Laboratory,National Lab,,60439,High Energy Physics,54
+Benjamin J. Cole,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,N/A
+Riccardo Comin,Male,Massachusetts Institute of Technology,University,Private,02139,Biological and Environmental Research,88
+Melina Avila Coronado,Female,Argonne National Laboratory,National Lab,,60439,Basic Energy Sciences,N/A
+Heather Crawford,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,Nuclear Physics,36
+Melissa A. Cregger,Female,Oak Ridge National Laboratory,National Lab,,37830,Biological and Environmental Research,N/A
+Anup K. Das,Unknown,Drexel University,University,Other,19104,Biological and Environmental Research,37
+Sheng Di,Unknown,Argonne National Laboratory,National Lab,,60439,Advanced Scientific Computing Research,40
+Gregory Doerk,Male,Brookhaven National Laboratory,National Lab,,11973,Biological and Environmental Research,26
+J. Matthew Durham,Unknown,Los Alamos National Laboratory,National Lab,,87545,Nuclear Physics,100
+Manuel Endres,Male,California Institute of Technology,University,Private,91125,Advanced Scientific Computing Research,32
+Netta Engelhardt,Female,Massachusetts Institute of Technology,University,Private,02139,High Energy Physics,24
+Mengjia Gaowei,Unknown,Brookhaven National Laboratory,National Lab,,11973,High Energy Physics,16
+Mona Ghassemi,Female,Virginia Polytechnic Institute and State University,University,Other,24061,Nuclear Physics,30
+Loren Greenman,Male,Kansas State University,University,Other,66506,Fusion Energy Sciences,N/A
+Xiaodan Gu,Unknown,The University of Southern Mississippi,University,Other,39402,Basic Energy Sciences,57
+Philip Harris,Male,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,92
+Kai He,Male,Clemson University,University,Other,29634,High Energy Physics,38
+Russell J. Hewett,Male,Virginia Polytechnic Institute and State University,University,Other,24061,Advanced Scientific Computing Research,8
+Edward G. Hohenstein,Male,SLAC National Accelerator Laboratory,National Lab,,94025,Basic Energy Sciences,49
+Jin Hu,Female,University of Arkansas,University,Other,72701,Basic Energy Sciences,96
+Shu Hu,Unknown,Yale University,University,Ivy League,06510,Basic Energy Sciences,55
+Gabriel Isaacman-VanWertz,Male,Virginia Polytechnic Institute and State University,University,Other,24061,Basic Energy Sciences,36
+Katherine Isaacs,Female,The University of Arizona,University,Other,85721,Biological and Environmental Research,19
+Andrew Jayich,Male,"University of California, Santa Barbara",University,Other,93106,Nuclear Physics,19
+Christopher Johnson,Male,Stony Brook University,University,Other,11794,Nuclear Physics,70
+Jovan Kamcev,Male,University of Michigan,University,State/Public,48109,Basic Energy Sciences,28
+Drew P. Kouri,Male,Sandia National Laboratories,National Lab,,87185,Basic Energy Sciences,N/A
+Roopali Kukreja,Unknown,University of California Davis,University,Other,95616,Advanced Scientific Computing Research,23
+James Letts,Male,"University of California, Davis",University,Other,95616,Basic Energy Sciences,18
+Xinle Li,Unknown,Clark Atlanta University,University,Other,30314,Basic Energy Sciences,34
+Mingda Li,Unknown,Massachusetts Institute of Technology,University,Private,02139,Basic Energy Sciences,31
+Fankang Li,Unknown,Oak Ridge National Laboratory,National Lab,,37831,Basic Energy Sciences,15
+Tongyan Lin,Unknown,"University of California, San Diego",University,State/Public,92093,Basic Energy Sciences,N/A
+Ben Loer,Male,Pacific Northwest National Laboratory,National Lab,,99354,Nuclear Physics,N/A
+Xueying Lu,Unknown,Northern Illinois University,University,Other,60115,High Energy Physics,11
+Tara Mastren,Female,University of Utah,University,Other,84112,High Energy Physics,20
+Emma Elizabeth McBride,Female,SLAC National Accelerator Laboratory,National Lab,,94025,Isotope R&D and Production,24
+Charles C. L. McCrory,Male,University of Michigan,University,State/Public,48109,Basic Energy Sciences,N/A
+Julia A. Mundy,Female,Harvard University,University,Ivy League,02139,Basic Energy Sciences,30
+Guangxin Ni,Unknown,Florida State University,University,Other,32306,Basic Energy Sciences,27
+Brian Nord,Male,Fermi National Accelerator Laboratory,National Lab,,60510,High Energy Physics,74
+Simone Pagan Griso,Female,Lawrence Berkeley National Laboratory,National Lab,,94720,High Energy Physics,24
+Diana Parno,Female,Carnegie Mellon University,University,Other,15213,High Energy Physics,38
+Maria Piarulli,Female,Washington University in St. Louis,University,Private,63130,Nuclear Physics,22
+Craig Plaisance,Male,Louisiana State University,University,Other,70803,Nuclear Physics,16
+Diana Y. Qiu,Female,Yale University,University,Ivy League,06520,Basic Energy Sciences,29
+Mohammad Javad Abdolhosseini Qomi,Male,University of California Irvine,University,Other,92697,Basic Energy Sciences,31
+Kiersten Ruisard,Female,Oak Ridge National Laboratory,National Lab,,37830,Biological and Environmental Research,6
+Robert Saye,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Advanced Scientific Computing Research,14
+Srimoyee Sen,Unknown,Iowa State University,University,Other,50011,Nuclear Physics,16
+Christo S. Sevov,Unknown,The Ohio State University,University,State/Public,43210,Nuclear Physics,N/A
+Chun Shen,Unknown,Wayne State University,University,Other,48201,Basic Energy Sciences,54
+Daisuke Shiraki,Male,Oak Ridge National Laboratory,National Lab,,37831,Nuclear Physics,31
+Indara Suarez,Unknown,Boston University,University,Other,02215,Fusion Energy Sciences,4
+Nathan Tallent,Male,Pacific Northwest National Laboratory,National Lab,,99352,Advanced Scientific Computing Research,22
+Aditya V. Thakur,Male,"University of California, Davis",University,Other,95616,Advanced Scientific Computing Research,20
+V. Sara Thoi,Unknown,Johns Hopkins University,University,Private,21218,Basic Energy Sciences,24
+Marcos Turqueti,Male,Lawrence Berkeley National Laboratory,National Lab,,94720,Basic Energy Sciences,14
+Petros Tzeferacos,Male,University of Rochester,University,Other,14627,Basic Energy Sciences,26
+Caterina Vernieri,Female,SLAC National Accelerator Laboratory,National Lab,,94025,Fusion Energy Sciences,N/A
+Hao-Yi Wu,Unknown,Boise State University,University,Other,83725,Basic Energy Sciences,31
+Dianne Xiao,Female,University of Washington,University,State/Public,98195,Basic Energy Sciences,22
+Jie Xu,Unknown,"University of Texas, El Paso",University,Other,79968,Basic Energy Sciences,63
+Xue Zheng,Unknown,Lawrence Livermore National Laboratory,National Lab,,94551,Basic Energy Sciences,70
+Qiang Zhu,Unknown,University of Nevada Las Vegas,University,Other,89154,Biological and Environmental Research,42
