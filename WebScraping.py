@@ -44,9 +44,17 @@ def get_pdf_links(base_url):
         raise Exception(f"Failed to load page {base_url}")
 
     soup = BeautifulSoup(response.content, 'html.parser')
-    pdf_links = [urljoin(base_url, link['href']) for link in soup.find_all('a', href=True) if link['href'].lower().endswith('.pdf')]
-    logging.info(f"Found {len(pdf_links)} PDF files.")
-    return pdf_links
+
+    pdf_links_with_years = []
+    for link in soup.find_all('a', href=True):
+        if link['href'].lower().endswith('.pdf'):
+            pdf_url = urljoin(base_url, link['href'])
+            year_match = re.search(r'Fiscal Year (\d{4})', link.text)
+            if year_match:
+                year = int(year_match.group(1))
+                pdf_links_with_years.append((pdf_url, year))
+    logging.info(f"Found {len(pdf_links_with_years)} PDF files.")
+    return pdf_links_with_years
 
 
 def download_pdf(url, save_path):
@@ -73,7 +81,7 @@ def download_pdfs(pdf_links, pdf_dir):
     """
     Downloads all PDFs from the list of PDF links.
     """
-    for pdf_url in tqdm(pdf_links, desc='Downloading PDFs'):
+    for pdf_url, year in tqdm(pdf_links, desc='Downloading PDFs'):
         pdf_name = pdf_url.split('/')[-1]
         save_path = os.path.join(pdf_dir, pdf_name)
         if not os.path.exists(save_path):
@@ -325,12 +333,13 @@ def extract_entries_from_text(text):
     return entries
 
 
-def extract_and_classify_data(txt_dir):
+def extract_and_classify_data(txt_dir, pdf_links):
     """
     Extracts names, institutions, zipcodes, and program areas from all text files and classifies them.
     """
     all_entries = []
     txt_files = [os.path.join(txt_dir, f) for f in os.listdir(txt_dir) if f.lower().endswith('.txt')]
+    year_map = {pdf_url.split('/')[-1]: year for pdf_url, year in pdf_links}
 
     for txt_file in tqdm(txt_files, desc='Extracting Data from Texts'):
         try:
@@ -338,6 +347,8 @@ def extract_and_classify_data(txt_dir):
                 text = file.read()
             
             entries = extract_entries_from_text(text)
+            pdf_name = os.path.basename(txt_file).replace('.txt', '.pdf')
+            year = year_map.get(pdf_name)
             
             if not entries:
                 logging.warning(f"No entries found in {os.path.basename(txt_file)}")
@@ -366,12 +377,13 @@ def extract_and_classify_data(txt_dir):
                 all_entries.append({
                     'Name': name,
                     'Gender': gender_class,
+                    'h-index': h_index,  # Add h-index to the entry
                     'Institution': institution,
                     'Category': category,
                     'Subcategory': subcategory,
                     'Zipcode' : zipcode,
                     'Program Area' : program_area,
-                    'h-index': h_index  # Add h-index to the entry
+                    'Year': year
                 })
                 time.sleep(5)  # Sleep to avoid too many requests too quickly
         
@@ -471,7 +483,7 @@ def main():
 
     # Step 3: Extract Names and Institutions, and retrieve h-index
     # df = extract_and_classify_data_with_h_index(txt_dir)
-    df = extract_and_classify_data(txt_dir)
+    df = extract_and_classify_data(txt_dir, pdf_links)
     
     if df.empty:
         logging.warning("No data extracted. Exiting.")
